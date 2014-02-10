@@ -1,6 +1,7 @@
 ---
 title: index
 ---
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -11,3 +12,16 @@ title: index
   ga('send', 'pageview');
 
 </script>
+
+<ul class="posts">
+{% for post in site.posts limit: 5 %}
+  <div class="post_info">
+    <li>
+	    <a href="{{ post.url }}">{{ post.title }}</a>
+	    <span>({{ post.date | date:"%Y-%m-%d" }})</span>
+    </li>
+    </br> <em>{{ post.excerpt }} </em>
+    </div>
+  {% endfor %}
+</ul>
+
