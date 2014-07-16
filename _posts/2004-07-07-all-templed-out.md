@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: all templed out
 created: 1089184482
 ---

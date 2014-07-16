@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: i blame Intel
 created: 1081217589
 ---

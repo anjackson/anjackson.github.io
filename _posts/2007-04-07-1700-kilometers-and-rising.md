@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 1,700 kilometers and rising...
 created: 1175938007
 ---

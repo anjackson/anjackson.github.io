@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 'Stephen Colbert: Harsh, but Fair.'
 created: 1148987787
 ---

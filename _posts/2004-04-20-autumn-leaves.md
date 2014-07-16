@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: autumn leaves
 created: 1082500944
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: illustrating oil consumption
 created: 1250086352
 ---

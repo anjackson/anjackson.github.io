@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Greetings from Drupal...
 created: 1079653619
 ---

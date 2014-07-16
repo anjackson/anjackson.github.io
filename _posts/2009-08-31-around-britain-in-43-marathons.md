@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: around britain in 43 marathons...
 created: 1251747565
 ---

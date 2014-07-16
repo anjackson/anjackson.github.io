@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: gratuitous maximus
 created: 1104228793
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Experimenting with Hadoop
 created: 1292357861
 ---

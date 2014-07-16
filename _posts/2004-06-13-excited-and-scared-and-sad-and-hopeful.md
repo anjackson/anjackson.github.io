@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: excited & scared & sad & hopeful
 created: 1087110108
 ---

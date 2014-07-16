@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: don't panic
 created: 1111456157
 ---

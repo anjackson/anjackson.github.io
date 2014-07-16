@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: the science of digital preservation
 created: 1214591133
 ---

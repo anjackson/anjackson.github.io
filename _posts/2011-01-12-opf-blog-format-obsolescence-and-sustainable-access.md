@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 'OPF Blog: Format Obsolescence and Sustainable Access'
 created: 1294863462
 ---

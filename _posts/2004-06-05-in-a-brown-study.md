@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: in a brown study
 created: 1086398745
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: blah blah blah
 created: 1084243658
 ---

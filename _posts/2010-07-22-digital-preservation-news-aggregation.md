@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: digital preservation news aggregation
 created: 1279823564
 ---

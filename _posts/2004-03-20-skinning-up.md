@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Skinning up.
 created: 1079759798
 ---

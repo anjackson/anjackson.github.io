@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: reassuringly expensive
 created: 1096465605
 ---

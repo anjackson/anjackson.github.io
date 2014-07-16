@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: back to reality, part one
 created: 1082888385
 ---

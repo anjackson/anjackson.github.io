@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: convergent evolution of curation services
 created: 1280256710
 ---

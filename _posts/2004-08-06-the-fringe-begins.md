@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: the fringe begins
 created: 1091810307
 ---

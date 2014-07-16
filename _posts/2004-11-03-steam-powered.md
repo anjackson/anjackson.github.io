@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: steam powered
 created: 1099477203
 ---

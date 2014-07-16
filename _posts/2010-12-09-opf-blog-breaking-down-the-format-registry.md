@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 'OPF Blog: Breaking Down The Format Registry'
 created: 1291924474
 ---

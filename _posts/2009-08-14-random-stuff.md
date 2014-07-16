@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: random stuff
 created: 1250290799
 ---

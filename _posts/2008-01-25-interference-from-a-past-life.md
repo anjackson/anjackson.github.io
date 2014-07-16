@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: interference from a past life
 created: 1201296337
 ---

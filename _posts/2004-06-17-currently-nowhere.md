@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: currently nowhere
 created: 1087440531
 ---

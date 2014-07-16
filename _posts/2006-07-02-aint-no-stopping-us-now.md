@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: ain't no stopping us now...
 created: 1151854406
 ---

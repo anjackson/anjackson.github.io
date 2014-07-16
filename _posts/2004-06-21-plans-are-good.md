@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: plans are good
 created: 1087816118
 ---

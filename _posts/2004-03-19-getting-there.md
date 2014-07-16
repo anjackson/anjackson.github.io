@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Getting there...
 created: 1079659585
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: tuk-tuk-tastic
 created: 1087482069
 ---

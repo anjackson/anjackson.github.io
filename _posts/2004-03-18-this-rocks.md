@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: This rocks.
 created: 1079600961
 ---

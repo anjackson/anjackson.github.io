@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 'festival: tim minchin '
 created: 1154993859
 ---

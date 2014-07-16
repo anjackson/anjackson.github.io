@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: more jam than man
 created: 1082620931
 ---

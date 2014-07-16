@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: three strikes and you're offline
 created: 1215373514
 ---

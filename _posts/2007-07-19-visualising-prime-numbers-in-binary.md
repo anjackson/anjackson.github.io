@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: visualising prime numbers in binary
 created: 1184845139
 ---

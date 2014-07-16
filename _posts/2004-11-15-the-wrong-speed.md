@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: the wrong speed
 created: 1100478270
 ---

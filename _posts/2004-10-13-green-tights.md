@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: green tights
 created: 1097626745
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: a whole new experience...
 created: 1154639250
 ---

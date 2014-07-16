@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: winging it
 created: 1103450857
 ---

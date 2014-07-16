@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 'OPF Blog: Is obsolescence overrated?'
 created: 1293051185
 ---

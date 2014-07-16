@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: in a nutshell
 created: 1085037663
 ---

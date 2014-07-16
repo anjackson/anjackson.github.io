@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: six months of weblogs missing in tragic data loss
 created: 1200954126
 ---

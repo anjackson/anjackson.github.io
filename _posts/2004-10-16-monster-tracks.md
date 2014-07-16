@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: monster tracks
 created: 1097961192
 ---

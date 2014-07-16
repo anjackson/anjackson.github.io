@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: almost too familiar
 created: 1090315462
 ---

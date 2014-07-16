@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: half-way there
 created: 1098377156
 ---

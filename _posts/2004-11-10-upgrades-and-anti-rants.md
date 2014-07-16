@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: upgrades and anti-rants
 created: 1100051477
 ---

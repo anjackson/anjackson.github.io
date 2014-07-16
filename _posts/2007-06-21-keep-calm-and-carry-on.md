@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Keep Calm and Carry On
 created: 1182429493
 ---

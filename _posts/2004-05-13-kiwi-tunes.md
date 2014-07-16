@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: kiwi tunes
 created: 1084408748
 ---

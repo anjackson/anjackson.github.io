@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: christmas in los angeles
 created: 1169256246
 ---

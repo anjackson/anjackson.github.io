@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: hacks & plans
 created: 1137765071
 ---

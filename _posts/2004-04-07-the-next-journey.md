@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: the next journey
 created: 1081335246
 ---

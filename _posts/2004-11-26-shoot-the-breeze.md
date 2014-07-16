@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: shoot the breeze
 created: 1101429517
 ---

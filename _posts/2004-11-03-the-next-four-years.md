@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: the next four years
 created: 1099452425
 ---

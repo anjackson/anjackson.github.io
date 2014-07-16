@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: at least there's hills now
 created: 1087962053
 ---

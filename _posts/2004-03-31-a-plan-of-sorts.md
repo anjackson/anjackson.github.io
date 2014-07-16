@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: A plan of sorts.
 created: 1080701548
 ---

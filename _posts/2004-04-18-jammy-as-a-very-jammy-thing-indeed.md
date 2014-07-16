@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: jammy as a very jammy thing indeed
 created: 1082270388
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Testing Posterous...
 created: 1263139201
 ---

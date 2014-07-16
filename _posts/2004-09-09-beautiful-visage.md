@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: beautiful visage
 created: 1094741382
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: changing planes
 created: 1089545233
 ---

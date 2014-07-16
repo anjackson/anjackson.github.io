@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: cambodia rocks
 created: 1088947098
 ---

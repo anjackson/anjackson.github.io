@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: very long running averages
 created: 1217498669
 ---

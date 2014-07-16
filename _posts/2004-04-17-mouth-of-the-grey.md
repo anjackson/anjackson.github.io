@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: mouth of the grey
 created: 1082182131
 ---

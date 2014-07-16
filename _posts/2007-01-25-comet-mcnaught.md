@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: comet mcnaught
 created: 1169720953
 ---

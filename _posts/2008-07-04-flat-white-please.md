@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: flat white please
 created: 1215199022
 ---

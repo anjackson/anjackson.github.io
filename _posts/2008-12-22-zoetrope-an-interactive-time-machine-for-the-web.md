@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Zoetrope, an interactive time machine for the web
 created: 1229981930
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: steady progress
 created: 1091199971
 ---

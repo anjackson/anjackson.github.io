@@ -1,27 +1,28 @@
-title:            anjackson.net
-description:      fighting entropy since 1993
-logo:             site-logo.png
+title:            Site Title
+description:      Describe your website.
+# Your site's domain goes here. Leave localhost server or blank when working locally.
+url:              http://localhost:4000
 disqus_shortname:
-search:           true
-# Change url to your domain. Leave localhost server or blank when working locally.
-# You don't need to specify the protocol if you want it available on http and https. Example: //localhost:4000
-#url:              http://localhost:4000
-url:
 
 # Owner/author information
 owner:
-  name:           Andrew N Jackson
+  name:           Your Name
   avatar:         bio-photo.jpg
-  email:          anj@anjackson.net
-  # Social networking links used in footer. Update and remove as you like.
-  twitter:        anjacks0n
+  bio:            "Describe your self."
+  email:          your@email.com
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  twitter:
   facebook:
-  github:         anjackson
-  stackexchange:
+  github:
+  stackoverflow:
   linkedin:
   instagram:
-  flickr:
+  lastfm:
   tumblr:
+  pinterest:
+  foursquare:
+  steam:
+  dribbble:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:
 
@@ -36,18 +37,19 @@ bing_verify:
 links:
   - title: About
     url: /about/
-  - title: Articles
-    url: /articles/
+  - title: Posts
+    url: /posts/
   - title: Theme Setup
     url: /theme-setup/
-  - title: UKWA
-    url: http://www.webarchive.org.uk
+  - title: Made Mistakes
+    url: http://mademistakes.com
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
 future:      true
-highlighter: pygments
+pygments:    true
+#highlighter: pygments
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
@@ -68,4 +70,4 @@ kramdown:
     coderay_css: class
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Gemfile", "Capfile", "README.md", "LICENSE", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

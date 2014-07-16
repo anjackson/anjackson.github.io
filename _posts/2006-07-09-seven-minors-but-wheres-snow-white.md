@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: seven minors (but where's Snow White?)
 created: 1152441167
 ---

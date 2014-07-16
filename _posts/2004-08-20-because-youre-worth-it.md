@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: because you're worth it
 created: 1093017038
 ---

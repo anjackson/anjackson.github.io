@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: running out of time...
 created: 1085730957
 ---

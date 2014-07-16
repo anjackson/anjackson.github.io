@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 'OPF Blog: Normalisation Strategies & Trimming The Access Stack'
 created: 1299274633
 ---

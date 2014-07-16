@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: happy new year
 created: 1104670915
 ---

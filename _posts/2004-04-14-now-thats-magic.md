@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: now that's magic!
 created: 1081981602
 ---

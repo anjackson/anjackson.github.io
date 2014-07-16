@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: otari-wilton's bush
 created: 1169720513
 ---

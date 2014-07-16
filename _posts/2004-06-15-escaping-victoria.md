@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: escaping Victoria...
 created: 1087267005
 ---

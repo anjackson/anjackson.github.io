@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Year of Firsts
 created: 1087747786
 ---

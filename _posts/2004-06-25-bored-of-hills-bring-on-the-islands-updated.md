@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: bored of hills, bring on the islands [updated]
 created: 1088163587
 ---

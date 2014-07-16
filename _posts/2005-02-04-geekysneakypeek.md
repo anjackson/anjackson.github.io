@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: geekysneakypeek
 created: 1107481412
 ---

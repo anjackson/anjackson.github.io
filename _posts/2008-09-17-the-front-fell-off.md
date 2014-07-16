@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: the front fell off
 created: 1221654211
 ---

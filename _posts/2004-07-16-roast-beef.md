@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: roast beef
 created: 1089979027
 ---

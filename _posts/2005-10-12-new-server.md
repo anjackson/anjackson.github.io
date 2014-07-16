@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: new server
 created: 1129111545
 ---

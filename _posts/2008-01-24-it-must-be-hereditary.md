@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: it must be hereditary
 created: 1201211996
 ---

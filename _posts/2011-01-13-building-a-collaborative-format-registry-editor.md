@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Building A Collaborative Format Registry Editor
 created: 1294915974
 ---

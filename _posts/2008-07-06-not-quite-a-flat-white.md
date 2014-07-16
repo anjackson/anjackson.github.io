@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: not quite a flat white
 created: 1215377842
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: a simple website is a happy website
 created: 1250002634
 ---

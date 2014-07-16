@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: close to the border
 created: 1088768242
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Quotification
 created: 1080883074
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: mining titan
 created: 1217510507
 ---

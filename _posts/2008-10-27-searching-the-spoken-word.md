@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: searching the spoken word
 created: 1225141931
 ---

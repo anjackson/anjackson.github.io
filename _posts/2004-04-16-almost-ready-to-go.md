@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: almost ready to go
 created: 1082080653
 ---

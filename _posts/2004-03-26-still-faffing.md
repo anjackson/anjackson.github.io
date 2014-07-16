@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Still faffing....
 created: 1080273762
 ---

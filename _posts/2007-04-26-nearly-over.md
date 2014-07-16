@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: nearly over...
 created: 1177620330
 ---

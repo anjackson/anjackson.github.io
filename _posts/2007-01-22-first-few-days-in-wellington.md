@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: first few days in wellington
 created: 1169459785
 ---

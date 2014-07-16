@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: fringe notes
 created: 1251593987
 ---

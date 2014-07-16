@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: yes, you can hate me now
 created: 1088590065
 ---

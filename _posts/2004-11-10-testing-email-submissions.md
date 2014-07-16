@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Testing Email Submissions
 created: 1100059315
 ---

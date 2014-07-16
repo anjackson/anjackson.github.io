@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: dancing, intercontinentally
 created: 1214939781
 ---

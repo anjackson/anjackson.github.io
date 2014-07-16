@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: it's certainly been eventful of late
 created: 1083902659
 ---

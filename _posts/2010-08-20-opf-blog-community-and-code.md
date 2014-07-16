@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 'OPF Blog: Community and code'
 created: 1282290840
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: well played, sir
 created: 1225891517
 ---

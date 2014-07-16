@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: science commons, the video
 created: 1229982043
 ---

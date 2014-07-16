@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: landed gently
 created: 1098761609
 ---

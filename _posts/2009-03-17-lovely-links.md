@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: lovely links
 created: 1237329383
 ---
