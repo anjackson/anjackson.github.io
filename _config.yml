@@ -1,19 +1,19 @@
-title:            Site Title
-description:      Describe your website.
+title:            anjackson.net
+description:      Fighting entropy since 1993
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              
 disqus_shortname:
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          your@email.com
+  name:           Andy Jackson
+  avatar:         https://avatars3.githubusercontent.com/u/87843?s=460
+  bio:            "geek"
+  email:          anj@anjackson.net
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:
+  twitter:        anjacks0n
   facebook:
-  github:
+  github:         anjackson
   stackoverflow:
   linkedin:
   instagram:
@@ -24,7 +24,7 @@ owner:
   steam:
   dribbble:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:
+  google_plus: AndyJacksonPlusPlus
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
@@ -39,6 +39,8 @@ links:
     url: /about/
   - title: Posts
     url: /posts/
+  - title: Tags
+    url: /tags/
   - title: Theme Setup
     url: /theme-setup/
   - title: Made Mistakes
@@ -46,14 +48,14 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/London
 future:      true
-pygments:    true
-#highlighter: pygments
+highlighter: pygments
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
+#permalink:   /:categories/:title/
+permalink:   /:year/:month/:day/:title
 
 kramdown:
   auto_ids: true
