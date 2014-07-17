@@ -15,12 +15,13 @@
 # - Menus? Needed for book structure I think. Uses menu_links although book module ties menu link IDs to book and node ids.
 # - Retain image files for Image nodes?
 # image.nid & image_size = _original gets the fid
+# PLUS [image:728,left,10,5] in (wiki?) posts?
 # - Files and attachments more generally. (36,562 total! a lot of thumbnails and previews)
 # file_usage links nodes to file_managed
 # - Retain additional fields from weblink.url, event.start?, quote.author, projects (no data)?
 # - Check pages and stories for additional fields?
 # comments?
-# 
+#
 
 require 'jekyll-import'
 require 'pp'
@@ -49,7 +50,7 @@ def phpwikiToMarkdown(data)
   # convert double prime emphasis (e.g. '''emphasis''') to Markdown format (e.g. '_emphasis_')
   data = data.gsub(/(?<!')''(.+)''(?!')/, '_\1_')
   # PHP Wiki blockquotes:
-  data = data.gsub(/^\s*;:(.+)$/,  '> \1')
+  data = data.gsub(/^\s*;:(.+)$/,  "\n> \\1")
   # convert headings (e.g. '!!Heading') to Markdown atk-style format (e.g. '## Heading')
   data = data.gsub(/^!{1}([^!]+)$/, '# \1')
   data = data.gsub(/^!{2}([^!]+)$/, '## \1')
