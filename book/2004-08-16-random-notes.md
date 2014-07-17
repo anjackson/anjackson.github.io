@@ -12,41 +12,41 @@ Well, I'm in Wellington at the moment and settling down a bit.   I'm working on 
 
 ## Planning & General Info
 All sorts of information that may be of use to me while planning and while on the big trip.
-*TbtItinerary
-*TbtRoundTheWorldTickets
-*TbtNewZealandTips
-**TbtWorkingInNewZealand
-**TbtNewZealandAccomodation
-*TbtThingsToTake
-*TbtCostings
-*TheChristchurchPlan
-*__The start of the end__
-**NZ Southern Alps... Helihike?
-**[Thailand Facts - lp](http://www.lonelyplanet.com/destinations/south_east_asia/thailand/facts.htm)
-**[Cambodia Facts - lp](http://www.lonelyplanet.com/destinations/south_east_asia/cambodia/facts.htm)
-**Malaria
-***http://www.traveldoctor.co.uk/asia.htm
-****__Cambodia__ - malaria risk in all areas regimen 1 or 3, western provinces & border with Thailand, regimen 1 but mefloquine resistance present, no risk in Phnom Penh, regimen 5
-****__China__ - malaria risk in Yunnan Province and Hainan Island, regimen 1 or 3, all other rural areas, regimen 4, main tourist areas - very little risk, avoid mosquito bites, regimen 5
-****__Thailand__ - malaria risk in border areas with Cambodia, Laos & Myanmar and Koh Chang Island - regimen 1 but mefloquine resistance present. All other areas including Bangkok, Pattaya, Phuket, Chiang Mai & River Kwai Bridge, regimen 5
-****__Vietnam__ - malaria risk in the whole country except major cities, the Red River delta area and the coastal plain north of Nha Trang
-****__Laos__ - malaria risk in the whole country (regimen 1), except Vientiane (regimen 5)
-***http://www.traveldoctor.info/diseases/1.html
+* TbtItinerary
+* TbtRoundTheWorldTickets
+* TbtNewZealandTips
+    * TbtWorkingInNewZealand
+    * TbtNewZealandAccomodation
+* TbtThingsToTake
+* TbtCostings
+* TheChristchurchPlan
+* __The start of the end__
+    * NZ Southern Alps... Helihike?
+    * [Thailand Facts - lp](http://www.lonelyplanet.com/destinations/south_east_asia/thailand/facts.htm)
+    * [Cambodia Facts - lp](http://www.lonelyplanet.com/destinations/south_east_asia/cambodia/facts.htm)
+    * Malaria
+        * <http://www.traveldoctor.co.uk/asia.htm>
+            * __Cambodia__ - malaria risk in all areas regimen 1 or 3, western provinces & border with Thailand, regimen 1 but mefloquine resistance present, no risk in Phnom Penh, regimen 5
+            * __China__ - malaria risk in Yunnan Province and Hainan Island, regimen 1 or 3, all other rural areas, regimen 4, main tourist areas - very little risk, avoid mosquito bites, regimen 5
+            * __Thailand__ - malaria risk in border areas with Cambodia, Laos & Myanmar and Koh Chang Island - regimen 1 but mefloquine resistance present. All other areas including Bangkok, Pattaya, Phuket, Chiang Mai & River Kwai Bridge, regimen 5
+            * __Vietnam__ - malaria risk in the whole country except major cities, the Red River delta area and the coastal plain north of Nha Trang
+            * __Laos__ - malaria risk in the whole country (regimen 1), except Vientiane (regimen 5)
+        * <http://www.traveldoctor.info/diseases/1.html>
 
 
 ## Random Related Links
-*Chums Info
-**[George 'n' Rhona's Australia Photos Mit Map](http://www.g.beckett.ukgateway.net/australia/)
-*RND
-**[Fit for travel!?](http://www.fitfortravel.scot.nhs.uk/)
-**Probably wise to join http://www.backpackers.com.au/.
-**I now have a http://www.kiwibank.co.nz/ bank account.
-**Franz Josef Glacier information Etc http://www.glaciercountry.co.nz/
-*Backpacker Buses
-**May become a [Stray](http://www.straytravel.com/) traveller.
-**http://www.intercitycoach.co.nz/passes.html
-**http://www.magicbus.co.nz/
-**http://www.kiwiexperience.co.nz/
+* Chums Info
+    * [George 'n' Rhona's Australia Photos Mit Map](http://www.g.beckett.ukgateway.net/australia/)
+* RND
+    * [Fit for travel!?](http://www.fitfortravel.scot.nhs.uk/)
+    * Probably wise to join <http://www.backpackers.com.au/.>
+    * I now have a <http://www.kiwibank.co.nz/> bank account.
+    * Franz Josef Glacier information Etc <http://www.glaciercountry.co.nz/>
+* Backpacker Buses
+    * May become a [Stray](http://www.straytravel.com/) traveller.
+    * <http://www.intercitycoach.co.nz/passes.html>
+    * <http://www.magicbus.co.nz/>
+    * <http://www.kiwiexperience.co.nz/>
 
 ## Phone
 ||__Services_'	||'''Gold Network*'''	||'''Silver Network**'''	||'_Bronze Network***__||

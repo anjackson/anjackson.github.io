@@ -11,9 +11,9 @@ Eilidh's test (only five minor faults) was last Saturday.  There were effectivel
 Flushed with success (at last!), we caught the train to Arbroath that evening and drove our chariot of steel down on Sunday.  It's only been one week, but having a car has completely changed our lives already.  The biggest single change is being able to pop down to work quickly (e.g. checking on experiments), which has gone from over an hour's round trip to about 15 minutes.  This makes it an awful lot easier to plan our days.
 
 We're now building a list of excursions around Edinburgh. So far, we've been to Ikea, Holyrood park (lots), and the monolithic Asda warehouse!  The top three on our list are:
-* [Gullane Bents](http://www.eastlothian.gov.uk/content/0,1094,933,00.html)
-* [Rosslyn Chapel](http://www.rosslynchapel.org.uk/)
-* [Glentress Mountain Bike Park](http://www.thehubintheforest.co.uk/)
+*  [Gullane Bents](http://www.eastlothian.gov.uk/content/0,1094,933,00.html)
+*  [Rosslyn Chapel](http://www.rosslynchapel.org.uk/)
+*  [Glentress Mountain Bike Park](http://www.thehubintheforest.co.uk/)
 
 If you've got any recommendations for places to visit around Edinburgh, please add a comment below.
 

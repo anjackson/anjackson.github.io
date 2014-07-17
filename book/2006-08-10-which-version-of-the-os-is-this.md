@@ -14,10 +14,10 @@ I have access to a number of machine through work, and it's sometimes hard to fi
  $ rpm -q redhat-release
  redhat-release-3WS-13.8.3
 So, we are running [Red Hat Enterprise](http://www.redhat.com/rhel/) 3, with the AS/ES/WS/D suffix indicating the flavour as follows:
-*Red Hat Enterprise Linux AS â€” for high-end and mission-critical systems
-*Red Hat Enterprise Linux ES â€” for small/mid-range servers
-*Red Hat Enterprise Linux WS â€” for technical/design workstation clients
-*Red Hat Desktop â€” for secure, managed clients
+* Red Hat Enterprise Linux AS â€” for high-end and mission-critical systems
+* Red Hat Enterprise Linux ES â€” for small/mid-range servers
+* Red Hat Enterprise Linux WS â€” for technical/design workstation clients
+* Red Hat Desktop â€” for secure, managed clients
 
 It's not clear if you can work out which RHEL Update is installed, at least without explicitly comparing version numbers of installed packages.  The <tt>13.8.3</tt> bit should tell us, but I don't know where to look it up.
 

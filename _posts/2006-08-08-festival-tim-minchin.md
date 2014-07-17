@@ -13,9 +13,9 @@ A cynic could argue that this was just a merchandising opportunity wrapped in a 
 ---- 
 
 The Fringe is huge - the largest arts festival in the world.  Navigating the programme is not easy.  Here's how we work out what to see:
-*Look for new shows involving people we've seen and enjoyed before, and book them for early on in the festival.  We booked Tim Minchin on the first weekend, and got to see a great act for half price.
-*During the first week or two, keep and eye on the reviews. [Chortle](http://www.chortle.co.uk/edfest2006/edshows.html) is a good site for online reviews, as it [Edinburgh Festivals](http://www.edinburgh-festivals.com/reviews.cfm).
-*Filter out the poor reviews and the ones that don't sound like your cup of tea.
-*Book the promising ones during the last week or so.
+* Look for new shows involving people we've seen and enjoyed before, and book them for early on in the festival.  We booked Tim Minchin on the first weekend, and got to see a great act for half price.
+* During the first week or two, keep and eye on the reviews. [Chortle](http://www.chortle.co.uk/edfest2006/edshows.html) is a good site for online reviews, as it [Edinburgh Festivals](http://www.edinburgh-festivals.com/reviews.cfm).
+* Filter out the poor reviews and the ones that don't sound like your cup of tea.
+* Book the promising ones during the last week or so.
 
 Anj

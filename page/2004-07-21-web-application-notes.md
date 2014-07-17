@@ -38,10 +38,10 @@ Older versions of Tomcat automatically took classes in the default package of a 
 This page outlines my experiences of getting Apache and Tomcat to work together smoothly, starting from a 'blank slate' RH8 Linux machine (hosted by one&one).
 
 ## Software Packages
-*Java 1.4.0 (preinstalled).
-*Tomcat 4.0 (preinstalled).
-*Apache 1 (preinstalled).
-**Including mod_jk (preinstalled).
+* Java 1.4.0 (preinstalled).
+* Tomcat 4.0 (preinstalled).
+* Apache 1 (preinstalled).
+    * Including mod_jk (preinstalled).
 
 ## Configuration
 Enable the AJP-1.3 Connector on Tomcat.  Leave an 8080 HTTP port open at first and test that everything works - then shut the 8080 port down leaving only the AJP open.
@@ -147,7 +147,7 @@ Add these lines to httpd.conf - see the production one for more details.
   AddType application/x-httpd-php-source .phps
 
 ##  The Java Server Connector (JK2) Module
-This will allow us to connect a Tomcat server to Apache.  http://jakarta.apache.org/ for more info.
+This will allow us to connect a Tomcat server to Apache.  <http://jakarta.apache.org/> for more info.
 
   cd ~/apache2/
   gtar xvfz jakarta-tomcat-connectors-jk2-current-src.tar.gz
@@ -181,7 +181,7 @@ I unpacked the latest 4.1.x distribution of Tomcat into {{/opt/local/packages/ja
 This is mainly a case of chugging through the old httpd.conf for the external website and adding all the info into the relavent places in a copy of the http.conf in the newer version of Apache.  And then doing the same thing all over again for the internal website.
 
 ##  SSL
-I set up a self-signed certificate so that we can run the SAF for ACF over SSL.  I took the commands from here: http://www.tldp.org/HOWTO/SSL-RedHat-HOWTO-3.html and then hacked ssl.conf as required.  The short version is:
+I set up a self-signed certificate so that we can run the SAF for ACF over SSL.  I took the commands from here: <http://www.tldp.org/HOWTO/SSL-RedHat-HOWTO-3.html> and then hacked ssl.conf as required.  The short version is:
 
   mkdir conf/ssl.key
   cd conf/ssl.key
@@ -236,24 +236,24 @@ When in testing we can kick things off with a:
 I changed the default port to 1180 for this as I only root can access low ports.  This should be changed back to 80 for production.  
 
 ## References
-*[Jakarta Tomcat JK1.2 AP HowTo](http://jakarta.apache.org/builds/jakarta-tomcat-connectors/jk/release/v1.2.0/doc/jk/aphowto.html)
-*[Web Server & Servlet Container](Jetty://)(http://jetty.mortbay.org/jetty/index.html)
-*[JSOAP](http://soap.fmui.de/index.php)
+* [Jakarta Tomcat JK1.2 AP HowTo](http://jakarta.apache.org/builds/jakarta-tomcat-connectors/jk/release/v1.2.0/doc/jk/aphowto.html)
+* [Web Server & Servlet Container](Jetty://)(http://jetty.mortbay.org/jetty/index.html)
+* [JSOAP](http://soap.fmui.de/index.php)
 
 ### Web Services
 Are kinda groovy.
 
 ## Links
-*__Directories__
-**[xmethods.net](http://www.xmethods.net/)
-**[bindingpoint.net](http://www.bindingpoint.com/)
-*__Providers__
-**Commerce: [Amazon](http://www.amazon.com/webservices)
-**Geolocation: [MapPoint](http://www.microsoft.com/mappoint/net/)
-**Geolocation: Giffle:MapQuest (currently more global than MapPoint, but do they actually provide web services?)
-**Translation: [Lingua](http://contest.eraserver.net/Lingua/service/Translator.asmx) unitary key
-**Search: [Google](http://www.google.com) has a Web Service API, and a translator?
-**SMS: e.g. [Lucin](http://www.soapengine.com/lucin/soapenginex/smsx.asmx).
+* __Directories__
+    * [xmethods.net](http://www.xmethods.net/)
+    * [bindingpoint.net](http://www.bindingpoint.com/)
+* __Providers__
+    * Commerce: [Amazon](http://www.amazon.com/webservices)
+    * Geolocation: [MapPoint](http://www.microsoft.com/mappoint/net/)
+    * Geolocation: Giffle:MapQuest (currently more global than MapPoint, but do they actually provide web services?)
+    * Translation: [Lingua](http://contest.eraserver.net/Lingua/service/Translator.asmx) unitary key
+    * Search: [Google](http://www.google.com) has a Web Service API, and a translator?
+    * SMS: e.g. [Lucin](http://www.soapengine.com/lucin/soapenginex/smsx.asmx).
 
 ## Costs
 A half-penny per query seems to be the going rate for a cost-per-transaction web service.

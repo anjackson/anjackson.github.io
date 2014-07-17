@@ -171,30 +171,30 @@ Nut Milk varieties of Aero.
 1999 Major relaunch of Aero
 
 # Packs and varients
-*Aero Milk Chunky
-*Aero Milk Medium
-*Aero Peppermint Medium
-*Aero Orange Medium
-*Aero Milk Giant
-*Aero Peppermint Giant
-*Aero Mini Hanging Bags
+* Aero Milk Chunky
+* Aero Milk Medium
+* Aero Peppermint Medium
+* Aero Orange Medium
+* Aero Milk Giant
+* Aero Peppermint Giant
+* Aero Mini Hanging Bags
 
 # Limited Editions
-*Aero White (launched 1999)
-*Aero Cappuccino
-*Aero Mint Egg (Easter; debut in 1996)
-*Nut Aero
-*Fruit & Nut Aero
-*Strawberry Aero
-*Lime Aero
+* Aero White (launched 1999)
+* Aero Cappuccino
+* Aero Mint Egg (Easter; debut in 1996)
+* Nut Aero
+* Fruit & Nut Aero
+* Strawberry Aero
+* Lime Aero
 
 # Special Editions
-*Peppermint Aero (launched 1973)
-*Orange Aero (launched 1974)
+* Peppermint Aero (launched 1973)
+* Orange Aero (launched 1974)
 
 # Extensions of Brand
-*Aero Milk Drinks
-*Aero Mousse
-*Aero Ice Cream (Peppermint Aero Ice Cream Chocolate Bar launched in 1996)
+* Aero Milk Drinks
+* Aero Mousse
+* Aero Ice Cream (Peppermint Aero Ice Cream Chocolate Bar launched in 1996)
 
 

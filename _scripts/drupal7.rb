@@ -45,6 +45,8 @@ def phpwikiToMarkdown(data)
   data = data.gsub(/\[([A-Za-z]+:[^ \]]+) ([^\]]+)\]/, '[\2](\1)')
   # convert URI-only links in square brackets (e.g. '[http://tools.unna.org/glossary/]') to angle bracket format (e.g. '<http://tools.unna.org/glossary/>')
   #data = data.gsub(/(?<!\[)\[([A-Za-z]+:(\/\/)?.+)\](?!\])/, '<\1>')
+  # also convert 'naked' http or https links:
+  data = data.gsub(/(?<![\[\("])(https?:\/\/[\S]+)/, '<\1>')
   # convert triple prime bold (e.g. ''''bold'''') to Markdown format (e.g. '__bold__')
   data = data.gsub(/(?<!')'''(.+)'''(?!')/, '__\1__')
   # convert double prime emphasis (e.g. '''emphasis''') to Markdown format (e.g. '_emphasis_')
@@ -58,6 +60,11 @@ def phpwikiToMarkdown(data)
   data = data.gsub(/^!{4}([^!]+)$/, '#### \1')
   data = data.gsub(/^!{5}([^!]+)$/, '##### \1')
   data = data.gsub(/^!{6}([^!]+)$/, '###### \1')
+  # convert lists:
+  data = data.gsub(/^\*{1}([^\*]+)$/, '* \1')
+  data = data.gsub(/^\*{2}([^\*]+)$/, '    * \1')
+  data = data.gsub(/^\*{3}([^\*]+)$/, '        * \1')
+  data = data.gsub(/^\*{4}([^\*]+)$/, '            * \1')
 end
 
 module JekyllImport

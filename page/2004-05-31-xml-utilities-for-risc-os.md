@@ -16,11 +16,11 @@ Justin Fletcher's port of xslproc from the Linux libxml project is a faster XSLT
 </p>
 
 Includes my ports of:
-*The _sabcmd_ Sablotron XSLT processor. 
-*The examples from the expat library:
-**_outline_ - Produces text outlines of XML documents.
-**_elements_ - Returns textual information on the elements in an XML document.
-**_xmlwf_ - Checks that an XML document is well-formed.
+* The _sabcmd_ Sablotron XSLT processor. 
+* The examples from the expat library:
+    * _outline_ - Produces text outlines of XML documents.
+    * _elements_ - Returns textual information on the elements in an XML document.
+    * _xmlwf_ - Checks that an XML document is well-formed.
 
 The download link is at the bottom of the page.
 

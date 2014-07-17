@@ -305,20 +305,20 @@ depressing.  I think it's time to move on.
 
 
 Short version, in case I ever feel up to re-writing it.
-*Early start, weather etc
-*Boat on river
-*Skytrain
-*Market
-*Sisters, mothers and offers
-*Shirts and tie
-*Lunch
-*Golden Mount
-*Tuk-tuk to station, 'near station', backstreets, dead body of a young man, leap out
-*Lost
-*Eventually find wrong side of station, almost as far away as was before.  Could have been cause of rush hour.
-*5B tuk to the corner
-*Station
-*Scared of tuk-tuks, esp cheap ones.
-*Eventually pay expensive one.
-*Back to _Khao San_ for beer and a very fine red curry.
-*But really rather shaken by the whole thing.
+* Early start, weather etc
+* Boat on river
+* Skytrain
+* Market
+* Sisters, mothers and offers
+* Shirts and tie
+* Lunch
+* Golden Mount
+* Tuk-tuk to station, 'near station', backstreets, dead body of a young man, leap out
+* Lost
+* Eventually find wrong side of station, almost as far away as was before.  Could have been cause of rush hour.
+* 5B tuk to the corner
+* Station
+* Scared of tuk-tuks, esp cheap ones.
+* Eventually pay expensive one.
+* Back to _Khao San_ for beer and a very fine red curry.
+* But really rather shaken by the whole thing.

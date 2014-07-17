@@ -13,8 +13,8 @@ I was always under the impression that most Americans (Republican or Democrat) w
 Hmmm... I can be terribly slow sometimes.  I've just remembered how the abortion issue is dealt with.  So, we don't want government intruding into peoples lives, unless they are doing something I believe is wrong, so therefore you can live just how you want as long as you live like me.  Please collect your complimentary firearm on your way past the pulpit.  By the way, bullets are on special offer at K-Mart this week, and come with a free bottle of Coke.
 
 Well, that's enough pointless, snide, stereotype-driven ranting.  It's just that most folks I know consider these things to be unarguable facts:
-*America's economy is in trouble, and getting worse.
-*The Iraq war has made the world less safe, and the situation is getting worse.
+* America's economy is in trouble, and getting worse.
+* The Iraq war has made the world less safe, and the situation is getting worse.
 And believe that these two things alone are enough to conclude that the current president has failed, and a change is justified.  Admittedly, many Americans I know feel that there is very little to choose between the parties, and I would tend to agree.  But then why not change?!  Maybe things won't get much better, but surely they can't get much worse?
 
 We shall see.

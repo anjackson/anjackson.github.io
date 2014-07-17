@@ -6,12 +6,12 @@ created: 1086138123
 ### Optimization
 
 ## Profiling
-*pixie
+* pixie
 
 ## Parallel
-*MPI
-**LamMPI
-**MPICH
+* MPI
+    * LamMPI
+    * MPICH
 
 ### Parallel profiling
 

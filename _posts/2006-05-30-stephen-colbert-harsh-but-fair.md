@@ -16,9 +16,9 @@ Maybe it's simply the fact that it's 24 minutes long, and difficult to chop down
 
 Anyhow, also thanks to Google Video, you can [watch the whole thing online](http://video.google.com/videoplay?docid=-869183917758574879) and make up your own mind.  I think it's utterly brilliant.  It went down well with some folks in the US too, and they set up [thankyoustephencolbert.org](http://thankyoustephencolbert.org/), where you should be able to find a video of the speech if my links stop working.
 
-*Google Video: [DoubleTalk](http://video.google.com/videoplay?docid=-1921276117304287501)
-*Google Video: [Stephen Colbert](http://video.google.com/videoplay?docid=-869183917758574879)
-*And also via iTunes: [Stephen Colbert At the White House Correspondents' Dinner (Original Staging)](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=152614621&s=143441&v0=NMT)
+* Google Video: [DoubleTalk](http://video.google.com/videoplay?docid=-1921276117304287501)
+* Google Video: [Stephen Colbert](http://video.google.com/videoplay?docid=-869183917758574879)
+* And also via iTunes: [Stephen Colbert At the White House Correspondents' Dinner (Original Staging)](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=152614621&s=143441&v0=NMT)
 
 Anj
 
