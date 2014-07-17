@@ -4,7 +4,7 @@ title: The Nuclear Reactor
 created: 1084353275
 permalink: "/ix2v/comphys/docs/ug/y2-mc-reactor.pdf/"
 ---
-!!!The Nuclear Reactor
+### The Nuclear Reactor
 An application of Monte Carlo simulation methods
 This experiment concerned the accurate simulation,
 via Monte Carlo methods, of an infinite and finite

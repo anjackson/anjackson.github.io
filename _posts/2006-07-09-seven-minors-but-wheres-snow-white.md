@@ -10,7 +10,7 @@ Oddly enough, I ended up getting the same examiner as Eilidh.  With about 5 minu
 
 Anyway, the old lady survived, and I passed.  : )
 
-As a passing present, Eilidh let me drive her to the cinema where we saw the new [http://disney.go.com/disneypictures/pirates/ Pirates of the Caribbean] movie. We liked the movie, it was rockin'.  A good popcorn munching Hollywood Extravaganza; action from start to finish with plenty of funny bits.  And a lot of Orlando Bloom shouting in a manly way, if you like that sort of thing (Eilidh).
+As a passing present, Eilidh let me drive her to the cinema where we saw the new [Pirates of the Caribbean](http://disney.go.com/disneypictures/pirates/) movie. We liked the movie, it was rockin'.  A good popcorn munching Hollywood Extravaganza; action from start to finish with plenty of funny bits.  And a lot of Orlando Bloom shouting in a manly way, if you like that sort of thing (Eilidh).
 
 Drive safely. : )
 

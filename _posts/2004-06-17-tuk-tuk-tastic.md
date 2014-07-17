@@ -4,7 +4,7 @@ title: tuk-tuk-tastic
 created: 1087482069
 permalink: "/2004/06/17/tuktuktastic/"
 ---
-[image:719,left,10,5]Made it! Mildly hectic afternoon but I'm really starting to enjoy this travelling game.  Ended up in a place called the [New Siam Guesthouse|http://www.newsiam.net/], in a room which has a fan, is clean, is reasonably secure, and is in a great location.  I decided air-con would be overdoing it, as it's not so hot here (just nicely hot - high twenties, and the rain has not appeared thus far). Paying something ridiculous like 2.50 GBP per night, and beer is around, ooh, 60 pence... :) I loiks it...
+[image:719,left,10,5]Made it! Mildly hectic afternoon but I'm really starting to enjoy this travelling game.  Ended up in a place called the [New Siam Guesthouse](http://www.newsiam.net/), in a room which has a fan, is clean, is reasonably secure, and is in a great location.  I decided air-con would be overdoing it, as it's not so hot here (just nicely hot - high twenties, and the rain has not appeared thus far). Paying something ridiculous like 2.50 GBP per night, and beer is around, ooh, 60 pence... :) I loiks it...
 
 Crossing roads is a bit more exciting than at home, more because of the general driving style than the tuk-tuks.  In case you're not familar with these beasties, I've stuck someone's picture of a tuk-tuk over on the top-left there.  If you remember the Jaws-chasing-007-in-a-high-powered-milkfloat scene from whichever Bond movie it was, then you now what a tuk-tuk is.  However, the ones I've seen have no heat-seeking missiles (or whatever) built in.  Some do seem to be fitted with explosive exhaust pipes though.
 

@@ -4,8 +4,58 @@
 # $ sudo gem install sequel
 # $ sudo gem install mysql -- --with-mysql-config=/usr/local/mysql/bin/mysql_config
 
+#
+# TODO
+# - use filter_format flag, fdb.body_format, to pre-process HTML and maybe Wiki to Markdown
+# - Pull in tags from the various taxonomies.
+# Look through field_data_taxonomy* for terms applied to nodes.
+# For those terms, load them in from taxonomy_term_data.
+# If we wish to retain the hierarchy (somehow), pull the parent relationships in from taxonomy_term_heirarchy.
+# - Retain Book structure and additional fields?
+# - Menus? Needed for book structure I think. Uses menu_links although book module ties menu link IDs to book and node ids.
+# - Retain image files for Image nodes?
+# image.nid & image_size = _original gets the fid
+# - Files and attachments more generally. (36,562 total! a lot of thumbnails and previews)
+# file_usage links nodes to file_managed
+# - Retain additional fields from weblink.url, event.start?, quote.author, projects (no data)?
+# - Check pages and stories for additional fields?
+# comments?
+# 
+
 require 'jekyll-import'
 require 'pp'
+
+def htmlToMarkdown(data)
+
+end
+
+# based on : https://gist.github.com/morgant/924688
+def phpwikiToMarkdown(data)
+  # convert CamelCase (starting w/capital; e.g. 'NewtonNewbieGuide') to wiki links (e.g. '[[NewtonNewbieGuide]]')
+  #data = data.gsub(/(^|\b|_)((?<![\[|])[A-Z][a-z]+[A-Z][A-Za-z]+(?![\]|]))($|\b|_)/, '\1\[\[\2\]\]\3')
+  # convert non-URI links in square brackets (e.g. '[NewtonConnectivityCD]') to wiki links (e.g. '[[NewtonConnectivityCD]]'
+  ##data=$(echo -n '$data' | sed -E 's/([^[])\[([^\s]+)\]([^]])/\1\[\[\2\]\]\3')
+  #data = data.gsub(/((?<!\[)\[[A-Za-z0-9]+\](?!\]))/, '\[\1\]')
+  # convert non-URI, named links in square brackets (e.g. '[BluetoothConnection|UsingBluetoothIndex]') to Markdown link format (e.g. '[BluetoothConnection](/UsingBluetoothIndex)')
+  #data = data.gsub(/(?<!\[)\[(.+)\s?\|\s?([A-Za-z0-9]+)\](?!\])/, '[\1](\2)')
+  # convert URI, named links in square brackets (e.g. '[Newtontalk.net|http://www.newtontalk.net/]') to Markdown link format (e.g. '[Newtontalk.net](http://www.newtontalk.net/)')
+  data = data.gsub(/(?<!\[)\[([^\|\]\()]+)\s?\|\s?([A-Za-z]+:(\/\/)?[^ \]]+)\](?!\])/, '[\1](\2)')
+  # convert non-URI, named links in square brackets (e.g. '[http://this UsingBluetoothIndex]') to Markdown link format (e.g. '[BluetoothConnection](/UsingBluetoothIndex)')
+  data = data.gsub(/\[([A-Za-z]+:[^ \]]+) ([^\]]+)\]/, '[\2](\1)')
+  # convert URI-only links in square brackets (e.g. '[http://tools.unna.org/glossary/]') to angle bracket format (e.g. '<http://tools.unna.org/glossary/>')
+  #data = data.gsub(/(?<!\[)\[([A-Za-z]+:(\/\/)?.+)\](?!\])/, '<\1>')
+  # convert triple prime bold (e.g. ''''bold'''') to Markdown format (e.g. '__bold__')
+  data = data.gsub(/(?<!')'''(.+)'''(?!')/, '__\1__')
+  # convert double prime emphasis (e.g. '''emphasis''') to Markdown format (e.g. '_emphasis_')
+  data = data.gsub(/(?<!')''(.+)''(?!')/, '_\1_')
+  # convert headings (e.g. '!!Heading') to Markdown atk-style format (e.g. '## Heading')
+  data = data.gsub(/^!{1}([^!]+)$/, '# \1')
+  data = data.gsub(/^!{2}([^!]+)$/, '## \1')
+  data = data.gsub(/^!{3}([^!]+)$/, '### \1')
+  data = data.gsub(/^!{4}([^!]+)$/, '#### \1')
+  data = data.gsub(/^!{5}([^!]+)$/, '##### \1')
+  data = data.gsub(/^!{6}([^!]+)$/, '###### \1')
+end
 
 module JekyllImport
   module Importers
@@ -15,6 +65,7 @@ module JekyllImport
       QUERY = "SELECT n.nid, \
                       n.title, \
                       fdb.body_value, \
+                      fdb.body_format, \
                       n.created, \
                       n.changed, \
                       n.status, \
@@ -72,7 +123,7 @@ module JekyllImport
         FileUtils.mkdir_p "_layouts"
 
         db[QUERY].each do |post|
-          pp(post)
+          #pp(post)
           # Get required fields and construct Jekyll compatible name
           node_id = post[:nid]
           title = post[:title]
@@ -103,7 +154,16 @@ module JekyllImport
              'title' => title.to_s,
              'created' => created,
              'permalink' => node_alias,
-           }.delete_if { |k,v| v.nil? || v == ''}.to_yaml
+          }.delete_if { |k,v| v.nil? || v == ''}.to_yaml
+
+          # Convert the content if appropriate:
+          if post[:body_format] == "1"
+            print("\n---------\n")
+            print(content)
+            content = phpwikiToMarkdown(content)
+            print("\n")
+            print(content)
+          end
 
           # Write out the data and content to file
           File.open("#{dir}/#{name}", "w") do |f|

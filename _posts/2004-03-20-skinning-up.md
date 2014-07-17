@@ -6,7 +6,7 @@ permalink: "/2004/03/20/skinning/"
 ---
 Well, I've more or less finished munging the old website style into a skin for [Drupal], and it's looking pretty good.  Still need to check its valid XHTML, but it should not be far off.
 
-As well as recreating the old style, I've made a number of new editions - perhaps the funkiest of which is the integration of the [ASCIIMathML|http://www1.chapman.edu/~jipsen/mathml/asciimath.xml] JavaScript library, which allows me to type in LaTeX-style maths such as this:
+As well as recreating the old style, I've made a number of new editions - perhaps the funkiest of which is the integration of the [ASCIIMathML](http://www1.chapman.edu/~jipsen/mathml/asciimath.xml) JavaScript library, which allows me to type in LaTeX-style maths such as this:
 
 'sum_(i=1)^n i=(n(n+1))/2'
 

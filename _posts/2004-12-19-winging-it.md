@@ -4,7 +4,7 @@ title: winging it
 created: 1103450857
 permalink: "/2004/12/19/winging_it/"
 ---
-Well, I finally went over to [http://www.irl.cri.nz/ Industrial Research Limited] and gave them a mildy re-written version of the talk I gave to the group here a wee while ago.  It seemed to go well, and I only got myself confused once, which is pretty good seeing as I now insist on ''not'' working out what I'm going to say ahead of time.  I always used to try to script things, but that just seemed to end up with me rushing through the material far too fast...
+Well, I finally went over to [Industrial Research Limited](http://www.irl.cri.nz/) and gave them a mildy re-written version of the talk I gave to the group here a wee while ago.  It seemed to go well, and I only got myself confused once, which is pretty good seeing as I now insist on _not_ working out what I'm going to say ahead of time.  I always used to try to script things, but that just seemed to end up with me rushing through the material far too fast...
 <!--break-->
 Although it's taken me a long time to get to this stage, I can now wing it quite happily when giving a talk.  The audience was about 20 people this time, and there were some good, interesting questions and a fair few people who spoke to me afterwards to say they thought it was good.  I still have no real idea of how good my talks are, because when I'm winging it I'm only just running above the stream-of-consciousness level, which means I don't have the time to listen to myself.  Having said that, I'm certainly a lot more comfortable giving talks, and a relaxed attitude tends to rub off well on an audience.
 

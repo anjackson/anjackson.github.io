@@ -4,12 +4,12 @@ title: What OS and compiler is this?
 created: 1155313692
 permalink: "/2006/08/11/what_os_and_compiler_is_this/"
 ---
-I was trying to find out how to tell, from within a C program under GCC, what OS the code was being compiled under.  I was porting [http://b-em.bbcmicro.com/arculator/ RPCemu] to MacOSX, and wanted to switch between [http://en.wikipedia.org/wiki/Endianness big and little endian] code without doing something clunky in [http://www.gnu.org/software/autoconf/ autoconf].  
+I was trying to find out how to tell, from within a C program under GCC, what OS the code was being compiled under.  I was porting [RPCemu](http://b-em.bbcmicro.com/arculator/) to MacOSX, and wanted to switch between [big and little endian](http://en.wikipedia.org/wiki/Endianness) code without doing something clunky in [autoconf](http://www.gnu.org/software/autoconf/).  
 <!--break-->
-I [http://www.google.co.uk Googled] for lists of pre-defined C pre-processor macros, but found didn't find any.  Eventually, I discovered that you can get a list of the macros under GCC on a particular platform by creating an empty c file (<tt>empty.c</tt>) and running this command:
+I [Googled](http://www.google.co.uk) for lists of pre-defined C pre-processor macros, but found didn't find any.  Eventually, I discovered that you can get a list of the macros under GCC on a particular platform by creating an empty c file (<tt>empty.c</tt>) and running this command:
  gcc -std=c99 -E -dM empty.c
 
-! Linux - gcc (GCC) 3.2.3 20030502 (Red Hat Linux 3.2.3-56)
+#  Linux - gcc (GCC) 3.2.3 20030502 (Red Hat Linux 3.2.3-56)
  #define __HAVE_BUILTIN_SETJMP__ 1
  #define __unix__ 1
  #define __i386__ 1
@@ -38,7 +38,7 @@ I [http://www.google.co.uk Googled] for lists of pre-defined C pre-processor mac
  #define __i386 1
  #define __VERSION__ "3.2.3 20030502 (Red Hat Linux 3.2.3-56)"
 
-! Mac - powerpc-apple-darwin8-gcc-4.0.1 (GCC) 4.0.1 (Apple Computer, Inc. build 5341)
+#  Mac - powerpc-apple-darwin8-gcc-4.0.1 (GCC) 4.0.1 (Apple Computer, Inc. build 5341)
  #define __DBL_MIN_EXP__ (-1021)
  #define __FLT_MIN__ 1.17549435e-38F
  #define __CHAR_BIT__ 8

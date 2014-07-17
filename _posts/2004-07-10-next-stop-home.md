@@ -12,7 +12,7 @@ Today is somewhat quieter, as I'm down to my last few dollars, and am busy enoug
 
 And there's the beer and the whiskey to consider.
 
-So, I fly outta here tomorrow afternoon, and hit London early on Monday morning.  After washing some clothes and having the longest bath ''ever'', I'm hoping to pop into the village and have a quiet beer or two, catching up with those quaint London folks.  Then on Tuesday, Dad is going to pick me up from London from where we'll head over to Penzance to catch up with my cousin Denise and family for a night.  Then back to Derbyshire for a few days of currently unspecified familial activity (and hopefully a visit to '''The Boo'''), before heading up to Edinburgh on the Sunday the 18th, 'ready' for work on the Monday.
+So, I fly outta here tomorrow afternoon, and hit London early on Monday morning.  After washing some clothes and having the longest bath _ever_, I'm hoping to pop into the village and have a quiet beer or two, catching up with those quaint London folks.  Then on Tuesday, Dad is going to pick me up from London from where we'll head over to Penzance to catch up with my cousin Denise and family for a night.  Then back to Derbyshire for a few days of currently unspecified familial activity (and hopefully a visit to __The Boo__), before heading up to Edinburgh on the Sunday the 18th, 'ready' for work on the Monday.
 
 So, hopefully, I'll see many of you very soon. 
 

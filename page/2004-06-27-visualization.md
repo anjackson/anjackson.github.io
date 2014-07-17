@@ -3,9 +3,9 @@ layout: post
 title: Visualization
 created: 1088317289
 ---
-!!!Visualization
+### Visualization
 
-!Java3D etc
+# Java3D etc
 *https://java3d.dev.java.net/
 *Alternatives
 **http://xith.org/

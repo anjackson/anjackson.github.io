@@ -5,6 +5,6 @@ created: 1084408711
 ---
 Salmonella Dub - One Drop East<!--break-->
 
-[Salmonella Dub @ www.salmonelladub.com|http://www.salmonelladub.com/]
+[Salmonella Dub @ www.salmonelladub.com](http://www.salmonelladub.com/)
 
-Snippets available [here|http://www.smokecds.com/cd/32917]
+Snippets available [here](http://www.smokecds.com/cd/32917)

@@ -5,7 +5,7 @@ created: 1106625740
 permalink: "/2005/01/25/boot-floppy-madness/"
 ---
 ----
-From [http://www.knoppix.net/forum/viewtopic.php?t=279 here]
+From [here](http://www.knoppix.net/forum/viewtopic.php?t=279)
 ----
 My solution to boot using a floppy disk might help. I boot of the floppy and am able to run from my USB CD-ROM. You will need to boot from the Knoppix CD first to get to the modules you need.
 

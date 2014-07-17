@@ -4,8 +4,8 @@ title: Incompressible Irrotational Flow around a Cylinder in a Duct
 created: 1084353094
 permalink: "/ix2v/comphys/docs/ug/y2-fe-flow.pdf/"
 ---
-!!!Incompressible Irrotational Flow around a Cylinder in a Duct
-!!An application of finite element methods
+### Incompressible Irrotational Flow around a Cylinder in a Duct
+## An application of finite element methods
 This experiment concerned the accurate simulation,
 via the finite element method, of the behaviour of an
 incompressible irrotational fluid flow around a cylinder

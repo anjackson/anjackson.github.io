@@ -4,7 +4,7 @@ title: A Brief History Of Aero
 created: 1089977433
 permalink: "/2004/07/16/a-brief-history-of-aero/"
 ---
-[image:713,left,10,5]To settle [an argument I was embroiled in|http://anjackson.net/node/714], I wrote to Nestle to ask them about the history of Aero chocolate.  They decided to send me a letter rather than an email (how quaint!), so while I was home and scanned and OCR'd it (so there may be a few character recognition errors).  Here's what they said....
+[image:713,left,10,5]To settle [an argument I was embroiled in](http://anjackson.net/node/714), I wrote to Nestle to ask them about the history of Aero chocolate.  They decided to send me a letter rather than an email (how quaint!), so while I was home and scanned and OCR'd it (so there may be a few character recognition errors).  Here's what they said....
 <!--break-->
 
 ----
@@ -36,7 +36,7 @@ Consumer Services
 <img src="http://anjackson.net/system/files/images/aerobar-736.jpg" border="0"/>
 </div>
 
-!History
+# History
 Aero was launched as 'the new chocolate' by Rowntree in October
 1935, at a cost of 2d.(old pennies).  Initially it was available only in
 the North of England, distribution expanding throughout the UK
@@ -68,7 +68,7 @@ also the new strap line for Aero.  It is reflected in improved pack
 graphics which feature an enlarged 'O' with a stream of chocolate
 bubbles issuing from it.
 
-!Production
+# Production
 Aero bars, eggs and Christmas pies are all produced at the Nestle'
 Rowntree factory in York.  There are ten members and one shift
 leader in each production team and three shifts per day.  Each shift
@@ -137,7 +137,7 @@ blows of the hammer due to its extra strength!  The bars are now
 released and the moulds return to the very beginning of the
 production process.
 
-!Wrapping and packing
+# Wrapping and packing
 
 Approximately three hundred and thirty Aero bars are wrapped per
 minute.  The wrappers are then gummed and coded.  The bars are
@@ -156,7 +156,7 @@ have, entered the Aero products at any stage of the production
 process.  The coding machine must be checked every fifteen minutes.
 If the labels have not been printed correctly, they cannot be sold!
 
-!Chronology
+# Chronology
 1935 Launch of Aero in the North of England in October 1935.
 
 1936 Aero launched across the UK and exported to New York.
@@ -170,7 +170,7 @@ Nut Milk varieties of Aero.
 
 1999 Major relaunch of Aero
 
-!Packs and varients
+# Packs and varients
 *Aero Milk Chunky
 *Aero Milk Medium
 *Aero Peppermint Medium
@@ -179,7 +179,7 @@ Nut Milk varieties of Aero.
 *Aero Peppermint Giant
 *Aero Mini Hanging Bags
 
-!Limited Editions
+# Limited Editions
 *Aero White (launched 1999)
 *Aero Cappuccino
 *Aero Mint Egg (Easter; debut in 1996)
@@ -188,11 +188,11 @@ Nut Milk varieties of Aero.
 *Strawberry Aero
 *Lime Aero
 
-!Special Editions
+# Special Editions
 *Peppermint Aero (launched 1973)
 *Orange Aero (launched 1974)
 
-!Extensions of Brand
+# Extensions of Brand
 *Aero Milk Drinks
 *Aero Mousse
 *Aero Ice Cream (Peppermint Aero Ice Cream Chocolate Bar launched in 1996)

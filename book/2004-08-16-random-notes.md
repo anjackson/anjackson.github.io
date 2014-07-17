@@ -3,14 +3,14 @@ layout: post
 title: Random Notes
 created: 1092655652
 ---
-!!!The Big Trip 2003-2004
-!!22nd Dec 2003
+### The Big Trip 2003-2004
+## 22nd Dec 2003
 In Kaikoura on the way to Christchurch.  
 
-!!5th Dec 2003
+## 5th Dec 2003
 Well, I'm in Wellington at the moment and settling down a bit.   I'm working on getting my journal and photos together and onto the web, but it's all rather slow without a proper computer of my very own.   Links and news will appear here whenever I get things sorted!
 
-!!Planning & General Info
+## Planning & General Info
 All sorts of information that may be of use to me while planning and while on the big trip.
 *TbtItinerary
 *TbtRoundTheWorldTickets
@@ -20,36 +20,36 @@ All sorts of information that may be of use to me while planning and while on th
 *TbtThingsToTake
 *TbtCostings
 *TheChristchurchPlan
-*'''The start of the end'''
+*__The start of the end__
 **NZ Southern Alps... Helihike?
-**[Thailand Facts - lp|http://www.lonelyplanet.com/destinations/south_east_asia/thailand/facts.htm]
-**[Cambodia Facts - lp|http://www.lonelyplanet.com/destinations/south_east_asia/cambodia/facts.htm]
+**[Thailand Facts - lp](http://www.lonelyplanet.com/destinations/south_east_asia/thailand/facts.htm)
+**[Cambodia Facts - lp](http://www.lonelyplanet.com/destinations/south_east_asia/cambodia/facts.htm)
 **Malaria
 ***http://www.traveldoctor.co.uk/asia.htm
-****'''Cambodia''' - malaria risk in all areas regimen 1 or 3, western provinces & border with Thailand, regimen 1 but mefloquine resistance present, no risk in Phnom Penh, regimen 5
-****'''China''' - malaria risk in Yunnan Province and Hainan Island, regimen 1 or 3, all other rural areas, regimen 4, main tourist areas - very little risk, avoid mosquito bites, regimen 5
-****'''Thailand''' - malaria risk in border areas with Cambodia, Laos & Myanmar and Koh Chang Island - regimen 1 but mefloquine resistance present. All other areas including Bangkok, Pattaya, Phuket, Chiang Mai & River Kwai Bridge, regimen 5
-****'''Vietnam''' - malaria risk in the whole country except major cities, the Red River delta area and the coastal plain north of Nha Trang
-****'''Laos''' - malaria risk in the whole country (regimen 1), except Vientiane (regimen 5)
+****__Cambodia__ - malaria risk in all areas regimen 1 or 3, western provinces & border with Thailand, regimen 1 but mefloquine resistance present, no risk in Phnom Penh, regimen 5
+****__China__ - malaria risk in Yunnan Province and Hainan Island, regimen 1 or 3, all other rural areas, regimen 4, main tourist areas - very little risk, avoid mosquito bites, regimen 5
+****__Thailand__ - malaria risk in border areas with Cambodia, Laos & Myanmar and Koh Chang Island - regimen 1 but mefloquine resistance present. All other areas including Bangkok, Pattaya, Phuket, Chiang Mai & River Kwai Bridge, regimen 5
+****__Vietnam__ - malaria risk in the whole country except major cities, the Red River delta area and the coastal plain north of Nha Trang
+****__Laos__ - malaria risk in the whole country (regimen 1), except Vientiane (regimen 5)
 ***http://www.traveldoctor.info/diseases/1.html
 
 
-!!Random Related Links
+## Random Related Links
 *Chums Info
-**[George 'n' Rhona's Australia Photos Mit Map|http://www.g.beckett.ukgateway.net/australia/]
+**[George 'n' Rhona's Australia Photos Mit Map](http://www.g.beckett.ukgateway.net/australia/)
 *RND
-**[Fit for travel!?|http://www.fitfortravel.scot.nhs.uk/]
+**[Fit for travel!?](http://www.fitfortravel.scot.nhs.uk/)
 **Probably wise to join http://www.backpackers.com.au/.
 **I now have a http://www.kiwibank.co.nz/ bank account.
 **Franz Josef Glacier information Etc http://www.glaciercountry.co.nz/
 *Backpacker Buses
-**May become a [Stray|http://www.straytravel.com/] traveller.
+**May become a [Stray](http://www.straytravel.com/) traveller.
 **http://www.intercitycoach.co.nz/passes.html
 **http://www.magicbus.co.nz/
 **http://www.kiwiexperience.co.nz/
 
-!!Phone
-||'''Services'''	||'''Gold Network*'''	||'''Silver Network**'''	||'''Bronze Network***'''||
+## Phone
+||__Services_'	||'''Gold Network*'''	||'''Silver Network**'''	||'_Bronze Network***__||
 ||Calls to the UK	||75p	||99p	||Ã‚Â£1.99||
 ||Calls within the country	||75p	||99p	||Ã‚Â£1.99||
 ||Calls to any other Gold and Silver European country	||Ã‚Â£1.99	||Ã‚Â£1.99	||Ã‚Â£1.99||
@@ -68,4 +68,4 @@ Bronze networks* are all networks in countries not covered in Silver networks.
 
 Price shown is per minute with a minimum call charge of one minute and billing in 30 second intervals thereafter. All costs are pence per minute inclusive of VAT. Tariff applicable to VF mobiles / other operator mobiles and PSTNs. These prices apply to pay as you talk only. Please note, you will be charged for the international leg of the incoming call whilst you are abroad.
 
-''# price per text message''
+_# price per text message_

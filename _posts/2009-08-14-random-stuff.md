@@ -6,7 +6,7 @@ permalink: "/2009/08/14/random_stuff/"
 ---
 Clearing my back-log of random things on the internet I wanted to share...
 <!--break-->
-[http://xkcd.com/c123.html Centrifugal Force]
+[Centrifugal Force](http://xkcd.com/c123.html)
 
 Keep your tuna dolphin-friendly: <a href="http://www.stuff.co.nz/4436390a10.html">Stuff.co.nz</a>, <a href="http://news.bbc.co.uk/1/hi/world/asia-pacific/7291501.stm">BBC</a>, via <a href="http://www.boingboing.net/2008/03/12/heroic-dolphin-rescu.html">via boingboing</a>.
 

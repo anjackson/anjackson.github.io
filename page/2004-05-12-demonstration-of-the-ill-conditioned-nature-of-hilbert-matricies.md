@@ -4,8 +4,8 @@ title: Demonstration Of The Ill-Conditioned Nature Of Hilbert Matricies
 created: 1084352440
 permalink: "/ix2v/comphys/docs/ug/y3-na-hilbert.pdf/"
 ---
-!!!Demonstration Of The Ill-Conditioned Nature Of Hilbert Matricies
-!!An application of numerical analysis techniques
+### Demonstration Of The Ill-Conditioned Nature Of Hilbert Matricies
+## An application of numerical analysis techniques
 In this assignment I used LU decomposition to solve
 the matrix equation `H . X = B` where `H` corresponds to
 a Hilbert matrix of order `n`, and all elements of `B` are

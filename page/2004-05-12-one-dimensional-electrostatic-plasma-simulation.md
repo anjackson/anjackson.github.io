@@ -4,8 +4,8 @@ title: One-Dimensional Electrostatic Plasma Simulation
 created: 1084352637
 permalink: "/ix2v/comphys/docs/ug/y3-pic-plasma.pdf/"
 ---
-!!!One Dimensional Electrostatic Plasma Simulation
-!!An application of the particle-in-cell technique
+### One Dimensional Electrostatic Plasma Simulation
+## An application of the particle-in-cell technique
 This experiment concerned the use of two closely
 related particle-in-cell simulation techniques, and their
 comparison with eachother and with the theoretical

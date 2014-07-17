@@ -4,8 +4,8 @@ title: Analysis of molecular dynamics trajectories
 created: 1084352972
 permalink: "/ix2v/comphys/docs/ug/y3-pm2-md-lj.pdf/"
 ---
-!!!Particle Simulation I: Assignment II
-!!Analysis of molecular dynamics trajectories
+### Particle Simulation I: Assignment II
+## Analysis of molecular dynamics trajectories
 In this assignment the ouput of a one-dimensional
 Lennard-Jones particle simulation was analysed to
 determine the behaviour of the system as a function of

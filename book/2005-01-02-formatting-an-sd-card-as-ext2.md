@@ -4,10 +4,10 @@ title: Formatting an SD card as ext2
 created: 1104669542
 permalink: "/2005/01/02/formatting-an-sd-card-as-ext2/"
 ---
-!!!FAT ain't good enough
-The FAT32 filing system that most SD/CF cards come formatted as if rather handy in that it can be read 'most anywhere.  However, it does not support things like symbolic links, and so cannot be used reliably when trying to install ipks onto them.  I keep a 128MB SD card in my Zaurus, formatted as ext2 so that I can use it to hold the big stuff like Apache, PHP and MySQL (see [http://anjackson.net/2004/09/06/pocket-lamp Pocket LAMP]).
+### FAT ain't good enough
+The FAT32 filing system that most SD/CF cards come formatted as if rather handy in that it can be read 'most anywhere.  However, it does not support things like symbolic links, and so cannot be used reliably when trying to install ipks onto them.  I keep a 128MB SD card in my Zaurus, formatted as ext2 so that I can use it to hold the big stuff like Apache, PHP and MySQL (see [Pocket LAMP](http://anjackson.net/2004/09/06/pocket-lamp)).
 
-!!Formatting the SD Card
+## Formatting the SD Card
 To install software on an SD card, it needs to be ext2 formatted. You need Fdisk to do this.
 If you haven't already, insert the SD/MMC card into Zaurus and type the following commands within Terminal program.
   umount /dev/mmcda1

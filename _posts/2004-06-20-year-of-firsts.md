@@ -4,7 +4,7 @@ title: Year of Firsts
 created: 1087747786
 permalink: "/2004/06/20/year_firsts/"
 ---
-__''Note:  I've not finished editing and proofing this story yet, but feel free to have a read anyways.''__
+___Note:  I've not finished editing and proofing this story yet, but feel free to have a read anyways.___
 ----
 I've done many things for the first time this year.  It's been my first big trip by
 myself. My first time around the world. My first time in
@@ -320,5 +320,5 @@ Short version, in case I ever feel up to re-writing it.
 *Station
 *Scared of tuk-tuks, esp cheap ones.
 *Eventually pay expensive one.
-*Back to ''Khao San'' for beer and a very fine red curry.
+*Back to _Khao San_ for beer and a very fine red curry.
 *But really rather shaken by the whole thing.
