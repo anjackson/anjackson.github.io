@@ -41,10 +41,12 @@ links:
     url: /posts/
   - title: Tags
     url: /tags/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
+  - title: ZOMBSE
+    url: /zombse/
+  - title: Keeping Codes
+    url: /keeping-codes/
+  - title: anjackson.net
+    url: http://anjackson.net
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
