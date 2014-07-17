@@ -168,6 +168,9 @@ module JekyllImport
             print(content)
           end
 
+          # Replace windows newlines:
+          content = content.gsub(/\r/,"")
+
           # Write out the data and content to file
           File.open("#{dir}/#{name}", "w") do |f|
             f.puts data
