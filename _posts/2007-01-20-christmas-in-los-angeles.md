@@ -2,6 +2,7 @@
 layout: post
 title: christmas in los angeles
 created: 1169256246
+permalink: "/2007/01/20/christmas_los_angeles/"
 ---
 There haven't been many updates to the site lately, and that's because we've been very busy.  Now it's time to catch up and to let you all know what we've been up to.  Read on for the first instalment...
 <!--break-->

@@ -4,21 +4,29 @@
 # $ sudo gem install sequel
 # $ sudo gem install mysql -- --with-mysql-config=/usr/local/mysql/bin/mysql_config
 
+require 'jekyll-import'
+require 'pp'
+
 module JekyllImport
   module Importers
-    class Drupal7 < Importer
+    class Drupal7Custom < Importer
       # Reads a MySQL database via Sequel and creates a post file for each story
       # and blog node.
       QUERY = "SELECT n.nid, \
                       n.title, \
                       fdb.body_value, \
                       n.created, \
-                      n.status \
+                      n.changed, \
+                      n.status, \
+                      n.type, \
+                      n.promote, \
+                      n.* \
                FROM node AS n, \
                     field_data_body AS fdb \
-               WHERE (n.type = 'blog' OR n.type = 'story' OR n.type = 'article') \
-               AND n.nid = fdb.entity_id \
+               WHERE n.nid = fdb.entity_id \
                AND n.vid = fdb.revision_id"
+
+#               WHERE (n.type = 'blog' OR n.type = 'story' OR n.type = 'article') \
 
       def self.validate(options)
         %w[dbname user].each do |option|
@@ -64,6 +72,7 @@ module JekyllImport
         FileUtils.mkdir_p "_layouts"
 
         db[QUERY].each do |post|
+          pp(post)
           # Get required fields and construct Jekyll compatible name
           node_id = post[:nid]
           title = post[:title]
@@ -71,9 +80,21 @@ module JekyllImport
           created = post[:created]
           time = Time.at(created)
           is_published = post[:status] == 1
-          dir = is_published ? "_posts" : "_drafts"
+          if post[:type] == "blog"
+            dir = is_published ? "_posts" : "_drafts"
+          else
+            dir = post[:type]
+            FileUtils.mkdir_p dir
+          end
           slug = title.strip.downcase.gsub(/(&|&amp;)/, ' and ').gsub(/[\s\.\/\\]/, '-').gsub(/[^\w-]/, '').gsub(/[-_]{2,}/, '-').gsub(/^[-_]/, '').gsub(/[-_]$/, '')
           name = time.strftime("%Y-%m-%d-") + slug + '.md'
+
+          # Look for permalinks from the aliases:
+          alias_query = "SELECT alias FROM url_alias WHERE source = 'node/#{node_id}'";
+          node_alias = db[alias_query].first
+          if node_alias != nil
+            node_alias = "/" + node_alias[:alias] + "/"
+          end
 
           # Get the relevant fields as a hash, delete empty fields and convert
           # to YAML for the header
@@ -81,6 +102,7 @@ module JekyllImport
              'layout' => 'post',
              'title' => title.to_s,
              'created' => created,
+             'permalink' => node_alias,
            }.delete_if { |k,v| v.nil? || v == ''}.to_yaml
 
           # Write out the data and content to file
@@ -100,3 +122,11 @@ module JekyllImport
     end
   end
 end
+
+    JekyllImport::Importers::Drupal7Custom.run({
+      "dbname"   => "anjackson7",
+      "user"     => "anj",
+      "password" => "sql-4anj",
+      "host"     => "localhost",
+      "prefix"   => ""
+    })

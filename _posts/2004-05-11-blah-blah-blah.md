@@ -2,6 +2,7 @@
 layout: post
 title: blah blah blah
 created: 1084243658
+permalink: "/2004/05/11/blah_blah_blah/"
 ---
 Well, crikey, gave a first-year lecture today.  My boss couldn't be there, so he asked me to cover for him.  It was all a bit scary, and I fluffed it at the end, but I think it went reasonably okay.  It was good talk practice at any rate.  Bit of a mumbly bumbler though.
 

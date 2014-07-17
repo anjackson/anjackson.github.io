@@ -2,6 +2,7 @@
 layout: post
 title: otari-wilton's bush
 created: 1169720513
+permalink: "/2007/01/25/otariwiltons_bush/"
 ---
 While staying in Ngaio, we visited [http://www.otariwiltonsbush.org.nz/ Otari-Wilton's Bush]...
 

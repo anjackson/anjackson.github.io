@@ -2,6 +2,7 @@
 layout: post
 title: Keep Calm and Carry On
 created: 1182429493
+permalink: "/2007/06/21/keep_calm_and_carry_on/"
 ---
 <a href="http://www.flickr.com/photos/ilike/90613276/" title="photo sharing"><img src="http://farm1.static.flickr.com/38/90613276_672465ce23_m.jpg" alt="" style="border: solid 2px #000000;" /></a>
 <br />

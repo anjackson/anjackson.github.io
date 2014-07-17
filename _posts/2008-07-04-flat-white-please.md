@@ -2,6 +2,7 @@
 layout: post
 title: flat white please
 created: 1215199022
+permalink: "/2008/07/04/flat_white_please/"
 ---
 One of the minor pleasures of New Zealand was the [Flat White](http://en.wikipedia.org/wiki/Flat_white).  It's essentially a cappuccino, but with a finer, creamer [foam](http://en.wikipedia.org/wiki/Microfoam) and a stronger mix than you get in Britain. I've missed them, but I may have found an alternative source...
 <!--break-->

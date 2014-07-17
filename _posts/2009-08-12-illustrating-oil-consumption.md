@@ -2,6 +2,7 @@
 layout: post
 title: illustrating oil consumption
 created: 1250086352
+permalink: "/2009/08/12/illustrating_oil_consumption/"
 ---
 Occasionally, in comments on environmental stories and such, you see the old "we're so small and the Earth is so big, we can't possibly be to blame" line of argument. Of course, everything on the Earth affects the Earth, and vice versa, because everything interacts with everything else. Therefore, the question is really whether or not we have a *significant* effect on the whole planet. As a really basic way of assessing this, I've been trying to explore the potential consequences of the oil we use by illustrating the volume of oil that is consumed.
 <!--break-->

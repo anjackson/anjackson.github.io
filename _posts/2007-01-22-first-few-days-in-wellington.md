@@ -2,6 +2,7 @@
 layout: post
 title: first few days in wellington
 created: 1169459785
+permalink: "/2007/01/22/first_few_days_wellington/"
 ---
 After landing in Auckland and being [http://www.customs.govt.nz/travellers/Arriving+in+New+Zealand/Import+Restrictions/Agricultural+Items.htm compelled to declare our chocolate] at Customs, we caught our Wellington flight without any problems.  The actual flight itself was not such easy going...
 <!--break-->

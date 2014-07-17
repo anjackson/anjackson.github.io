@@ -2,6 +2,7 @@
 layout: post
 title: the fringe begins
 created: 1091810307
+permalink: "/2004/08/06/fringe_begins/"
 ---
 Well, after a slightly wobbly week (these malaria tabs are not without their wierd side effects), I'm looking forward to a fine weekend.  Sir Lord Richardo of Blythe is visiting, and some hanging about in [The Pleasance|http://www.pleasance.co.uk/edin/] and seeing of [random shows|http://edfringe.com] may occur.  Read on for my list of 'probably-sees'...
 <!--break-->

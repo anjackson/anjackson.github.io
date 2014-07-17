@@ -2,6 +2,7 @@
 layout: post
 title: 'OPF Blog: Normalisation Strategies & Trimming The Access Stack'
 created: 1299274633
+permalink: "/2011/03/04/opf_blog_normalisation_strategies_trimming_access_stack/"
 ---
 <p>
 A new OPF blog: <a href="http://www.openplanetsfoundation.org/node/647">Normalisation & Trimming The Access Stack</a>. Reproduced below...

@@ -2,6 +2,7 @@
 layout: post
 title: 'OPF Blog: Breaking Down The Format Registry'
 created: 1291924474
+permalink: "/2010/12/09/opf_blog_breaking_down_format_registry/"
 ---
 A new OPF blog entry: <a href="http://www.openplanetsfoundation.org/node/588">Breaking Down The Format Registry</a>. Reproduced below the fold.
 <!--break-->

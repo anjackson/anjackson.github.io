@@ -2,6 +2,7 @@
 layout: post
 title: it's certainly been eventful of late
 created: 1083902659
+permalink: "/2004/05/07/its_certainly_been_eventful_late/"
 ---
 Well, crikey.  Things were pottering along quite nicely and then all sorts of ups and downs appear from nowhere.  I went out to meet the other Andrew Jackson for coffee yesterday (which was good), after which we walked over to a cafe called [Lido|http://www.wellingtonnz.com/RestaurantsAndShopping/Restaurants/The+Lido+Cafe/The+Lido+Cafe.htm] (which was also good).  On the way there, however, some idiot threw an almost-full can of Speights out of a fourth floor window and it hit me on the head (which was not good - but at least it was a glancing blow.  If it had hit me straight on I think it would have knocked me out).  
 

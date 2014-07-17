@@ -2,6 +2,7 @@
 layout: post
 title: fringe notes
 created: 1251593987
+permalink: "/2009/08/30/fringe_notes/"
 ---
 Edinburgh. Used to live there, you know. Nice place. Been a while. Until last weekend. Visited the [Blythes](http://www.theblythes.org/). 
 

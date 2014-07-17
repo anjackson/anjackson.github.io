@@ -2,6 +2,7 @@
 layout: post
 title: 'festival: tim minchin '
 created: 1154993859
+permalink: "/2006/08/08/festival_tim_minchin/"
 ---
 [image:1678 align=right width=150] Last weekend the [http://www.edfringe.com/ Edinburgh Festival Fringe] kicked off, and we went to see our first show - [http://www.timminchin.com/ Tim Minchin].  We saw his show last year (for which he won the Perrier Newcomer Award), and thought it was fantastic, so we booked tickets to see him again as soon as this year's program came out.
 

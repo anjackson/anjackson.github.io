@@ -2,6 +2,7 @@
 layout: post
 title: random stuff
 created: 1250290799
+permalink: "/2009/08/14/random_stuff/"
 ---
 Clearing my back-log of random things on the internet I wanted to share...
 <!--break-->

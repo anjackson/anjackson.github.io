@@ -2,6 +2,7 @@
 layout: post
 title: buying pies with rainman
 created: 1081910225
+permalink: "/2004/04/14/buying_pies_rainman/"
 ---
 Great quotes during this trip...
 *''"I'm hungry like the wolf."''

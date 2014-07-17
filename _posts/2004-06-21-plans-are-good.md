@@ -2,6 +2,7 @@
 layout: post
 title: plans are good
 created: 1087816118
+permalink: "/2004/06/21/plans_are_good/"
 ---
 Well, feeling a little better today, and generally had a more successful Bangkok experience.  Booked a train to Chang Mai and managed to wander round Chinatown and go to a few temples without getting much hassle.  Maybe it's the ethnic shirt I bought at the market!  
 <!--break-->

@@ -2,6 +2,7 @@
 layout: post
 title: 'OPF Blog: Format Obsolescence and Sustainable Access'
 created: 1294863462
+permalink: "/2011/01/12/opf_blog_format_obsolescence_and_sustainable_access/"
 ---
 A new OPF blog entry: <a href="http://www.openplanetsfoundation.org/node/592">Format Obsolescence and Sustainable Access</a>. Reproduced below...
 <!--break-->

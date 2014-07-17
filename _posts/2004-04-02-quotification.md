@@ -2,6 +2,7 @@
 layout: post
 title: Quotification
 created: 1080883074
+permalink: "/2004/04/02/quotification/"
 ---
 Came across this quote, which I rather like.
 

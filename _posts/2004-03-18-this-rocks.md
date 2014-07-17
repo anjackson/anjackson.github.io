@@ -2,6 +2,7 @@
 layout: post
 title: This rocks.
 created: 1079600961
+permalink: "/2004/03/18/rocks/"
 ---
 I mean, this really is rather fine...
 

@@ -2,6 +2,7 @@
 layout: post
 title: because you're worth it
 created: 1093017038
+permalink: "/2004/08/20/because_youre_worth_it/"
 ---
 I've not written for a while, and a few different things have got backed up, so I'll bunch them all together into one blog entry.  Clicky linky to read more.
 <!--break-->

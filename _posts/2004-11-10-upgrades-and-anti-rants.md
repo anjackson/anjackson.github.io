@@ -2,6 +2,7 @@
 layout: post
 title: upgrades and anti-rants
 created: 1100051477
+permalink: "/2004/11/10/upgrades_and_antirants/"
 ---
 So, firstly, I feel like I should apologise for the previous political ranting.  Yes, I know it's more complicated than all that, and making out that the ''Republicans Are Evil'' doesn't really help.  It all seems weird to outsiders like me, but lots of normal people must have voted for GWB, so there must be some logic to it.  There may be a strong religious conservative community, but I can hardly believe they make up 50% of the population...
 

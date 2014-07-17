@@ -2,6 +2,7 @@
 layout: post
 title: Skinning up.
 created: 1079759798
+permalink: "/2004/03/20/skinning/"
 ---
 Well, I've more or less finished munging the old website style into a skin for [Drupal], and it's looking pretty good.  Still need to check its valid XHTML, but it should not be far off.
 

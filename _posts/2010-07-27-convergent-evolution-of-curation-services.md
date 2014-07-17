@@ -2,6 +2,7 @@
 layout: post
 title: convergent evolution of curation services
 created: 1280256710
+permalink: "/2010/07/27/convergent_evolution_curation_services/"
 ---
 I don't know if it was coincidence, or by design, but [the latest issue](http://www.ijdc.net/index.php/ijdc/issue/view/11) of the [International Journal of Digital Curation](http://www.ijdc.net/index.php/ijdc) contains two very similar articles. One is from the [Planets Project](http://www.planets-project.eu), is co-authored by me, and is called [A Framework for Distributed Preservation Workflows](http://www.ijdc.net/index.php/ijdc/article/view/157). The other is called [An Emergent Micro-Services Approach to Digital Curation Infrastructure](http://www.ijdc.net/index.php/ijdc/article/view/154), and is by Stephen Abrams et al from [CDL](http://www.cdlib.org/services/uc3/curation/). These two separate papers describe two approaches to building preservation systems, which despite having been developed independently appear to be converging towards a single, consistent design.
 <!--break-->

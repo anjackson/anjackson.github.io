@@ -2,6 +2,7 @@
 layout: post
 title: happy new year
 created: 1104670915
+permalink: "/2005/01/02/happy_new_year/"
 ---
 [image:1583 right hspace=5 vspace=5]Just a quick entry to say ''Happy New Year'' to you all, and wish you all a grand 2005. I've not made any resolutions, at least none that I can speak of here, and any of the usual resolution suspects are, I suspect, only made in order to get that guilty thrill when they are vigorously cast aside within the first week or so.  
 

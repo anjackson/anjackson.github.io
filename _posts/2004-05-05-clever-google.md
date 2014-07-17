@@ -2,6 +2,7 @@
 layout: post
 title: clever google
 created: 1083724219
+permalink: "/2004/05/05/clever_google/"
 ---
 Just to balance up after yesterday's entry, I thought I'd tell you about a rather nifty new feature of [Google|http://www.google.com/].  The search engine now has the ability to act as a [calculator|http://www.google.co.nz/help/calculator.html], so you can do stuff like this: [1+1 is...|http://www.google.co.nz/search?hl=en&amp;ie=UTF-8&amp;oe=UTF-8&amp;q=1%2B1&amp;btnG=Search&amp;meta=].
 

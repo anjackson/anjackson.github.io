@@ -2,6 +2,7 @@
 layout: post
 title: Building A Collaborative Format Registry Editor
 created: 1294915974
+permalink: "/2011/01/13/building_collaborative_format_registry_editor/"
 ---
 <p>
 New OPF Blog: <a href="">Building A Collaborative Format Registry Editor</a>. Reproduced below...

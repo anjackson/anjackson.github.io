@@ -41,13 +41,17 @@ links:
     url: /posts/
   - title: Tags
     url: /tags/
+#  - title: anjackson.net
+#    url: http://anjackson.net
+#    external: true
+
+# Links to include in 'sub-site' navigation
+subsites:
   - title: ZOMBSE
     url: /zombse/
   - title: Keeping Codes
     url: /keeping-codes/
-  - title: anjackson.net
-    url: http://anjackson.net
-    external: true
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London

@@ -2,6 +2,7 @@
 layout: post
 title: monster tracks
 created: 1097961192
+permalink: "/2004/10/16/monster_tracks/"
 ---
 [image:1434 right margin=5]'''Monster''' track has to be ''Wow'' from ''Final Straw'' by ''[http://www.snowpatrol.net/ Snow Patrol]''.  It really rather hits the mark.  In fact the [http://www.amazon.co.uk/exec/obidos/ASIN/B0001BH15K/202-6537669-9498213 whole album] is pretty darned good.  Go get it.  ''Spitting Games'' is also a favourite, if only for the lines:
 :''My heart is bursting in your perfect eyes''

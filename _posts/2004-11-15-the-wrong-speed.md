@@ -2,6 +2,7 @@
 layout: post
 title: the wrong speed
 created: 1100478270
+permalink: "/2004/11/15/wrong_speed/"
 ---
 Jarvis says it better than me.
 

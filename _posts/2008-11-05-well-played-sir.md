@@ -2,6 +2,7 @@
 layout: post
 title: well played, sir
 created: 1225891517
+permalink: "/2008/11/05/well_played_sir/"
 ---
 Well, we all got the American president that they deserve.  It's good to [hear about all the goodwill and hope in the air](http://www.boingboing.net/2008/11/05/the-us-presidential.html).  
 

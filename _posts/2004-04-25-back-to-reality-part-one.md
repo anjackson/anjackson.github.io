@@ -2,6 +2,7 @@
 layout: post
 title: back to reality, part one
 created: 1082888385
+permalink: "/2004/04/25/back_reality_part_one/"
 ---
 Well, I'm back in Wellington.  And after a fairly long day of travel I'm just ''itching'' to get back to work tomorrow.  Actually, I'm feeling fairly refreshed so work should go down okay.  And I'd run out of money anyway!
 

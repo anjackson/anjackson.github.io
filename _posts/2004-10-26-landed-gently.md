@@ -2,6 +2,7 @@
 layout: post
 title: landed gently
 created: 1098761609
+permalink: "/2004/10/26/landed_gently/"
 ---
 Well, I've made it to Wellington, and have even turned up at work full of vim and vigour, or possibly full of something else.  Flew in this morning, and although Auckland was worryingly cloudy and damp, there were blue skies over Wellington.  This made for some wonderful views as I came in over the Cook Strait.  Snow capped mountains on the south island on one side, and the bays of hill-locked Wellington on the other...
 <!--break-->

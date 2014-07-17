@@ -2,6 +2,7 @@
 layout: post
 title: reassuringly expensive
 created: 1096465605
+permalink: "/2004/09/29/reassuringly_expensive/"
 ---
 Well, I can't get out of it now.  I've just picked up my ticket to New Zealand, with a free stopover in LA to see Catherine & Graham.  I leave work next Tuesday, head back to Derbyshire on Thursday, and then fly off on the 20th.  Time to panic methinks...
 <!--break-->
