@@ -48,6 +48,8 @@ def phpwikiToMarkdown(data)
   data = data.gsub(/(?<!')'''(.+)'''(?!')/, '__\1__')
   # convert double prime emphasis (e.g. '''emphasis''') to Markdown format (e.g. '_emphasis_')
   data = data.gsub(/(?<!')''(.+)''(?!')/, '_\1_')
+  # PHP Wiki blockquotes:
+  data = data.gsub(/^\s*;:(.+)$/,  '> \1')
   # convert headings (e.g. '!!Heading') to Markdown atk-style format (e.g. '## Heading')
   data = data.gsub(/^!{1}([^!]+)$/, '# \1')
   data = data.gsub(/^!{2}([^!]+)$/, '## \1')
