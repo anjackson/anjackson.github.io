@@ -3,6 +3,7 @@ layout: post
 title: Demonstration Of The Ill-Conditioned Nature Of Hilbert Matricies
 created: 1084352440
 permalink: "/ix2v/comphys/docs/ug/y3-na-hilbert.pdf/"
+tags: []
 ---
 ### Demonstration Of The Ill-Conditioned Nature Of Hilbert Matricies
 ## An application of numerical analysis techniques
@@ -21,3 +22,6 @@ as opposed to utilising numerical methods when
 accuracy is of primary importance.
 
 An application of LU-decomposition. (3rd Year)
+
+
+Download: <a href="/page/files/y3-na-hilbert.pdf">y3-na-hilbert.pdf</a>

@@ -3,6 +3,7 @@ layout: post
 title: Digital Object Storage
 created: 1249917072
 permalink: "/digital_preservation_notebook/digital_object_storage/"
+tags: []
 ---
 Here, we will not worry about the system that [keeps the bits safe](/digital_preservation_notebook/bit_preservation), but start with the assumption that we have some reliable digital object repository that supports one or more protocols, allowing items to be read and written.
  

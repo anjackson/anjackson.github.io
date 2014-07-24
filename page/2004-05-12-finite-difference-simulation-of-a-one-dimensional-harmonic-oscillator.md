@@ -3,6 +3,7 @@ layout: post
 title: Finite Difference Simulation of a One Dimensional Harmonic Oscillator
 created: 1084352793
 permalink: "/ix2v/comphys/docs/ug/y3-pm1-fd-ho.pdf/"
+tags: []
 ---
 ### Finite Difference Simulation of a One Dimensional Harmonic Oscillator
 ## A comparison of three finite difference techniques
@@ -20,3 +21,6 @@ the inherent stability of the Verlet system (irrespective
 of time step) makes it more suitable for general use.
 
 Particle Methods I: A comparison of three finite-difference time-integration techniques. (3rd Year)
+
+
+Download: <a href="/page/files/y3-pm1-fd-ho.pdf">y3-pm1-fd-ho.pdf</a>

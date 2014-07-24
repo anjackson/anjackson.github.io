@@ -3,6 +3,8 @@ layout: post
 title: dancing, intercontinentally
 created: 1214939781
 permalink: "/2008/07/01/dancing_intercontinentally/"
+tags:
+- Procrastination
 ---
 <p>
 <a href="/2008/07/01/dancing_intercontinentally">Read on</a> for the most amusing video I've seen all year...

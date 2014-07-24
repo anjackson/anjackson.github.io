@@ -3,6 +3,8 @@ layout: post
 title: 'Stephen Colbert: Harsh, but Fair.'
 created: 1148987787
 permalink: "/2006/05/30/stephen_colbert_harsh_fair/"
+tags:
+- Rants
 ---
 This weblog tends to go a bit political once in a while.  This time, however, I'm going for politainment and rehashing some old news.  You might have heard about the White House Correspondents Dinner, where the press and the pres cosy up for a bit of nosh and some gentle ribbing (followed by brandy and cigars I expect).  There are always a few comedy routines sprinkled through the event, and traditionally this involves the White House being all good-natured and self-deprecating...
 <!--break-->

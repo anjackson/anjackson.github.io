@@ -3,6 +3,8 @@ layout: post
 title: gratuitous maximus
 created: 1104228793
 permalink: "/2004/12/28/gratuitous_maximus/"
+tags:
+- Geek
 ---
 Well, you might have noticed by now that I've been fiddling with the design of this site.  The main problem was the blocks in the side bars, which I've been meaning to sort out since I moved over to ((Drupal)) blinking ages ago.  Having time off over Christmas has given me a chance to come up with something suitably __excessive__ and finish off the implementation.  Read on for the gory details if you're into this kind of thing...
 <!--break-->

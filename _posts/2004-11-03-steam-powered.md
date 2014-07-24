@@ -3,6 +3,8 @@ layout: post
 title: steam powered
 created: 1099477203
 permalink: "/2004/11/03/steam_powered/"
+tags:
+- Geek
 ---
 If we ignore, for the moment, the disturbing sight of democracy being vigorously throttled by the self-righteous propaganda of a dogmatic nation and it's blinkered masses, we can turn our minds to news of an altogether happier, or at least geeker nature.  While in L.A. on the way over here, that kind gent [Sir Graham of Davies](http://www.grahamdavies.org/) was foolish enough to give me a fine piece of geek-kit in exchange for some Talisker...
 

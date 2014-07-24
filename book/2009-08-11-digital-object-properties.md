@@ -3,6 +3,7 @@ layout: post
 title: Digital Object Properties
 created: 1249995677
 permalink: "/digital_preservation_notebook/digital_object_properties/"
+tags: []
 ---
 Significant Properties
 ----------------------

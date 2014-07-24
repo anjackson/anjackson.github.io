@@ -3,6 +3,8 @@ layout: post
 title: currently nowhere
 created: 1087440531
 permalink: "/2004/06/17/currently_nowhere/"
+tags:
+- Travels
 ---
 Well, technically speaking, given that I've just passed through Singapore immigration (and am pottering around on some fine free internet access in the huge departure lounge), I think I'm nowhere.  Is that how it works?  Or am I on Singaporian soil still?
 

@@ -3,6 +3,8 @@ layout: post
 title: excited & scared & sad & hopeful
 created: 1087110108
 permalink: "/2004/06/13/excited_scared_sad_hopeful/"
+tags:
+- Travels
 ---
 Well, crikey, my last night in Wellington.  Tomorrow morning I fly to Singapore for a few days, then most of a month in Thailand, Cambodia and, hopefully, Vietnam.  Rather mixed feelings at present, but I'm looking forward to being back home and catching up with everyone again.
 

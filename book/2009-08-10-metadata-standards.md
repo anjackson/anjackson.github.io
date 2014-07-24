@@ -3,6 +3,7 @@ layout: post
 title: Metadata Standards
 created: 1249916999
 permalink: "/digital_preservation_notebook/metadata_standards/"
+tags: []
 ---
 - [Dublin Core](http://dublincore.org/)
   - Note finding that [dc.identifier is not an unambiguous identifier for that which should be preserved, as it may point to a derived representation](http://libtechissues.blogspot.com/2006/12/digital-preservation-using-oai-pmh-as.html).

@@ -3,6 +3,7 @@ layout: post
 title: Preservation Strategies
 created: 1249916936
 permalink: "/digital_preservation_notebook/preservation_strategies/"
+tags: []
 ---
 In many cases, a mixture.
 

@@ -3,6 +3,8 @@ layout: post
 title: The State Of The Hard-Sphere Solid
 created: 1084350127
 permalink: "/ix2v/comphys/docs/phd/hs-refrev.pdf/"
+tags:
+- Science
 ---
 ### The State Of The Hard-Sphere Solid
 
@@ -19,3 +21,5 @@ _Can stacking faults in hard-sphere crystals anneal out spontaneously?_
 With a bit of the stuff I'm doing as well.
 ----
 Download the PDF from the link below.
+
+Download: <a href="/page/files/hs-refrev.pdf">hs-refrev.pdf</a>

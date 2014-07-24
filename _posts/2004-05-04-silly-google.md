@@ -3,6 +3,8 @@ layout: post
 title: silly google
 created: 1083634690
 permalink: "/2004/05/04/silly_google/"
+tags:
+- Procrastination
 ---
 [image:547,left,10,5]I rather like this image, taken from [Google News](http://news.google.com/).  Their news pages are generated automagically, which is bound to cause mismatches between images and text sometimes...  I guess I'm just not difficult to amuse.
 

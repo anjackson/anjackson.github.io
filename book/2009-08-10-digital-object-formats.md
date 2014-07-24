@@ -3,6 +3,7 @@ layout: post
 title: Digital Object Formats
 created: 1249916397
 permalink: "/digital_preservation_notebook/digital_object_formats/"
+tags: []
 ---
 See also this related effort:
 [Wikibook: Choosing The Right File Format](http://en.wikibooks.org/wiki/Choosing_The_Right_File_Format).

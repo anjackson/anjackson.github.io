@@ -3,6 +3,7 @@ layout: post
 title: Tell me about my hardware.
 created: 1159560221
 permalink: "/2004/08/10/shell_tricks/tell_me_about_my_hardware/"
+tags: []
 ---
 This section covers ways of finding out about your hardware without opening the box.  It's mostly UNIX stuff to be used from the command line.  If you want to write programs that determine this stuff, you might find this [Rosetta Stone API](http://xaxxon.slackworks.com/rsapi/) page useful.
 <!--break-->

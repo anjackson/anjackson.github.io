@@ -3,6 +3,8 @@ layout: post
 title: close to the border
 created: 1088768242
 permalink: "/2004/07/02/close_border/"
+tags:
+- Travels
 ---
 Well, I had a pleasant enough time on Ko Chang.  The odd beer, a quiet little full-moon party, meeting the occasional local and the more frequent Brit.  But only 9 days remain, and I still have much to see...
 <!--break-->

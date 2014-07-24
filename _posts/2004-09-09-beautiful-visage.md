@@ -3,6 +3,9 @@ layout: post
 title: beautiful visage
 created: 1094741382
 permalink: "/2004/09/09/beautiful_visage/"
+tags:
+- General
+- Travels
 ---
 Well, my work visa for New Zealand has come through, and I should be able to buy my ticket at the weekend.  It all looks like it might actually happen!  Rather excited about going back, although there's some folk I'll be very sad to leave behind...
 <!--break-->

@@ -3,6 +3,7 @@ layout: post
 title: Boot floppy madness
 created: 1106625740
 permalink: "/2005/01/25/boot-floppy-madness/"
+tags: []
 ---
 ----
 From [here](http://www.knoppix.net/forum/viewtopic.php?t=279)

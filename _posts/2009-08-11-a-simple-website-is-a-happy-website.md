@@ -3,6 +3,8 @@ layout: post
 title: a simple website is a happy website
 created: 1250002634
 permalink: "/2009/08/11/simple_website_happy_website/"
+tags:
+- General
 ---
 As you might have noticed, I'm in the process of re-jigging this website.  The new look has been chosen largely just to keep things simple, as I don't really have the time to maintain my own modules and theme code any more! So, expect a new, improved, yet stripped-down service from now on!
 <!--break-->

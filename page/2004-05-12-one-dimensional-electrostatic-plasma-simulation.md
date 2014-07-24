@@ -3,6 +3,7 @@ layout: post
 title: One-Dimensional Electrostatic Plasma Simulation
 created: 1084352637
 permalink: "/ix2v/comphys/docs/ug/y3-pic-plasma.pdf/"
+tags: []
 ---
 ### One Dimensional Electrostatic Plasma Simulation
 ## An application of the particle-in-cell technique
@@ -21,3 +22,6 @@ behaviour was compared with that predicted by
 theory, with mixed results.
 
 An application of the particle-in-cell technique. (3rd Year)
+
+
+Download: <a href="/page/files/y3-pic-plasma.pdf">y3-pic-plasma.pdf</a>

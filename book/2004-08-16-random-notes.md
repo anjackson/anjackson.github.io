@@ -2,6 +2,7 @@
 layout: post
 title: Random Notes
 created: 1092655652
+tags: []
 ---
 ### The Big Trip 2003-2004
 ## 22nd Dec 2003

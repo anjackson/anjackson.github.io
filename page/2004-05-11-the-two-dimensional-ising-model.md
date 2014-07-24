@@ -3,6 +3,8 @@ layout: post
 title: The Two-Dimensional Ising Model
 created: 1084238305
 permalink: "/ix2v/comphys/docs/phd/IsingMCMC.pdf/"
+tags:
+- Science
 ---
 ### An Introduction To Monte Carlo Statistical Mechanics ###
 A report written in the 1st year of my Ph.D. (November 1997).
@@ -35,3 +37,6 @@ Results will be presented for the canonical and multi-canonical approaches. This
 discussion on the performance of the simulations, including notes on how the techniques might
 be improved. Finally, the wider applicability of this work will be examined, with reference to the
 recently developed lattice-switch MCMC technique.
+
+
+Download: <a href="/page/files/IsingMCMC.pdf">IsingMCMC.pdf</a>

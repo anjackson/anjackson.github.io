@@ -3,6 +3,8 @@ layout: post
 title: Which version of the OS is this?
 created: 1155210488
 permalink: "/2006/08/10/which_version_of_the_os_is_this/"
+tags:
+- Geek
 ---
 I have access to a number of machine through work, and it's sometimes hard to find adequate information about the operating systems that are installed on them.  The first problem is finding out what version of what operating system they are using.  Usually, the <tt>uname -a</tt> command is enough to work out what's running on a UNIX machine, but sometimes (particularly with Linuxes) it does not provide quite enough info.  This page contains a list examples for determining exactly what your working on.
 <!--break-->

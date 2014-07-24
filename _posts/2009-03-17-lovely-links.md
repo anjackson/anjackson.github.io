@@ -3,6 +3,7 @@ layout: post
 title: lovely links
 created: 1237329383
 permalink: "/2009/03/17/lovely_links/"
+tags: []
 ---
 Well, there's too many channels and too much noise.  
 

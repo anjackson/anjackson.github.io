@@ -3,6 +3,7 @@ layout: post
 title: The Digital Preservation Community
 created: 1249916031
 permalink: "/digital_preservation_notebook/digital_preservation_community/"
+tags: []
 ---
  * Organisations
    * [DPC](http://www.dpconline.org/), etc etc...

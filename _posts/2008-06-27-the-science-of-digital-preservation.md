@@ -3,6 +3,8 @@ layout: post
 title: the science of digital preservation
 created: 1214591133
 permalink: "/2008/06/27/science_digital_preservation/"
+tags:
+- Digital Preservation
 ---
 > 
 > *UPDATE*: I've reconsided my position on this, and I think I've underestimated the issues involved in keeping the bytes safe.  I'll write up some notes [here](/digital_preservation_notebook/bit_preservation).

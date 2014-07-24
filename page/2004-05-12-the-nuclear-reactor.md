@@ -3,6 +3,7 @@ layout: post
 title: The Nuclear Reactor
 created: 1084353275
 permalink: "/ix2v/comphys/docs/ug/y2-mc-reactor.pdf/"
+tags: []
 ---
 ### The Nuclear Reactor
 An application of Monte Carlo simulation methods
@@ -20,3 +21,6 @@ and that the size of the reactor has a significant effect
 on the reactor performance at macroscopic levels.
 
 An application of Monte Carlo simulation methods. (2nd Year)
+
+
+Download: <a href="/page/files/y2-mc-reactor.pdf">y2-mc-reactor.pdf</a>

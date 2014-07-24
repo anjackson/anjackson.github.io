@@ -3,6 +3,7 @@ layout: post
 title: Quality Assurance
 created: 1249996935
 permalink: "/digital_preservation_notebook/quality_assurance/"
+tags: []
 ---
 This is the hard part.
 

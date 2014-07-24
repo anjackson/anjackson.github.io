@@ -3,6 +3,7 @@ layout: post
 title: Getting there...
 created: 1079659585
 permalink: "/2004/03/19/getting_there/"
+tags: []
 ---
 Well, this [Drupal] thing looks like it might just do the trick.  Currently trying to move my preferred web page style over to it - looking good so far but some tweaking required yet.
 

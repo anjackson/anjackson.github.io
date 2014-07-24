@@ -3,6 +3,8 @@ layout: post
 title: don't panic
 created: 1111456157
 permalink: "/2005/03/22/dont_panic/"
+tags:
+- Travels
 ---
 Well, thanks for the feedback.  After a number of people explained I was being insane, and probably guaranteeing that I'd herniate something, I decided not to bring the bike home.  At first the kind folks here offered to sell it for me via that finest of NZ institutions, [trademe.co.nz](http://www.trademe.co.nz/)...
 <!--break-->

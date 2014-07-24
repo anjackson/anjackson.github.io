@@ -3,6 +3,7 @@ layout: post
 title: Shell Tricks
 created: 1092135347
 permalink: "/2004/08/10/shell_tricks/"
+tags: []
 ---
 A repository for useful bits and bobs I've found good at the shell prompt.  Mostly in bash (Giffle:bash-shell).
 <!--break-->

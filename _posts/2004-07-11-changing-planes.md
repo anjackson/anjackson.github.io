@@ -3,6 +3,8 @@ layout: post
 title: changing planes
 created: 1089545233
 permalink: "/2004/07/11/changing_planes/"
+tags:
+- Travels
 ---
 Well, I've managed to sneak onto the Singapore Airport wireless internet service for free, which is helping while away the hours until my plane for London leaves.  This PDA has turned out to be rather useful, along with the Wireless Internet card that EPCC kindly bought me for my leaving present.  But I'm going to work at EPCC again in a weeks time - does that mean I have to give it back?
 <!--break-->

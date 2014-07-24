@@ -3,6 +3,7 @@ layout: post
 title: Content Access Protocols
 created: 1249997239
 permalink: "/digital_preservation_notebook/digital_object_storage/content_access_protocols/"
+tags: []
 ---
 ## Content Access Prototols
 

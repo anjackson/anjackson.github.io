@@ -2,6 +2,7 @@
 layout: post
 title: grand parade
 created: 1103757946
+tags: []
 ---
 :I love the way 
 :I feel so calm

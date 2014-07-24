@@ -3,6 +3,10 @@ layout: post
 title: 'OPF Blog: Is obsolescence overrated?'
 created: 1293051185
 permalink: "/2010/12/22/opf_blog_obsolescence_overrated/"
+tags:
+- Digital Preservation
+- Format Obsolescence
+- Preservation Risks
 ---
 <p>
 A new OPF blog entry: <a href="http://www.openplanetsfoundation.org/node/590">Is obsolescence overrated?</a>. Reproduced below...

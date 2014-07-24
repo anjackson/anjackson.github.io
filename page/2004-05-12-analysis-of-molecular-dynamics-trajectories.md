@@ -3,6 +3,7 @@ layout: post
 title: Analysis of molecular dynamics trajectories
 created: 1084352972
 permalink: "/ix2v/comphys/docs/ug/y3-pm2-md-lj.pdf/"
+tags: []
 ---
 ### Particle Simulation I: Assignment II
 ## Analysis of molecular dynamics trajectories
@@ -21,3 +22,6 @@ explanations and improvements for this approach are
 given in the conclusion.
 
 Analysis of molecular dynamics trajectories.  Particle Methods I: Simulating the Lennard-Jones fluid. (3rd Year)
+
+
+Download: <a href="/page/files/y3-pm2-md-lj.pdf">y3-pm2-md-lj.pdf</a>

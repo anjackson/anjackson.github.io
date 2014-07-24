@@ -3,6 +3,7 @@ layout: post
 title: publications
 created: 1084166719
 permalink: "/work/publications/"
+tags: []
 ---
 <table width="80%" border="0" cellpadding="5" align="center">
 <tr>

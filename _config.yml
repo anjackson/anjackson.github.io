@@ -59,6 +59,9 @@ future:      true
 highlighter: pygments
 markdown:    kramdown
 
+# Enable pagination
+paginate:    5
+
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 #permalink:   /:categories/:title/
 permalink:   /:year/:month/:day/:title

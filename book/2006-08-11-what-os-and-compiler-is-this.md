@@ -3,6 +3,8 @@ layout: post
 title: What OS and compiler is this?
 created: 1155313692
 permalink: "/2006/08/11/what_os_and_compiler_is_this/"
+tags:
+- Geek
 ---
 I was trying to find out how to tell, from within a C program under GCC, what OS the code was being compiled under.  I was porting [RPCemu](http://b-em.bbcmicro.com/arculator/) to MacOSX, and wanted to switch between [big and little endian](http://en.wikipedia.org/wiki/Endianness) code without doing something clunky in [autoconf](http://www.gnu.org/software/autoconf/).  
 <!--break-->

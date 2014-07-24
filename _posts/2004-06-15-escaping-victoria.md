@@ -3,6 +3,8 @@ layout: post
 title: escaping Victoria...
 created: 1087267005
 permalink: "/2004/06/15/escaping_victoria/"
+tags:
+- Travels
 ---
 Queen Victoria I mean, which appears to be impossible.  I dunno, you travel a quarter of the way around the world, to the 'Gateway to South East Asia', just to find it's yet another ex-colonial outpost where everyone speaks (some) English.  Hmmm...  Quite handy that...  I bet there's a statue of herself down by the mouth of the river - I can add a photo of it to my collection! 
 

@@ -3,6 +3,7 @@ layout: post
 title: Interaction-Free Measurements
 created: 1084351372
 permalink: "/ix2v/comphys/docs/phd/ifm.pdf/"
+tags: []
 ---
 ### Interaction-Free Measurements
 ## Learning To See In The Dark
@@ -17,3 +18,5 @@ presence of an object with essentially
 no photons having touched it.
 ----
 Download the PDF from the link below.
+
+Download: <a href="/page/files/ifm.pdf">ifm.pdf</a>

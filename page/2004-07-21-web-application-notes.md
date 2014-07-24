@@ -3,6 +3,7 @@ layout: post
 title: Web Application Notes
 created: 1090420320
 permalink: "/2004/07/21/web_application_notes/"
+tags: []
 ---
 A place for various notes discovered while making web applications.
 <!--break-->

@@ -3,6 +3,7 @@ layout: post
 title: curriculum vitae
 created: 1092240709
 permalink: "/ix2v/cv/"
+tags: []
 ---
 <p>
 Use the checkboxes to switch the different sections of my CV on and off.  When you are happy with the items you have chosen, hit the print button.

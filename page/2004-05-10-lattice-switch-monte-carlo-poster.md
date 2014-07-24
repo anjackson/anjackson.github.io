@@ -3,6 +3,7 @@ layout: post
 title: Lattice Switch Monte Carlo Poster
 created: 1084185740
 permalink: "/ix2v/comphys/docs/phd/poster/"
+tags: []
 ---
 [image:563,left,10,5]
 _Structural Phase Behaviour via Monte Carlo Techniques_
@@ -11,3 +12,6 @@ A poster based on my Ph.D. work.  Created on [RISC OS](http://www.riscos.com/) u
 
 Click the thumbnail to get a bigger image, or hit the download link below for the PDF version.
 
+
+
+Download: <a href="/page/files/poster.pdf">poster.pdf</a>

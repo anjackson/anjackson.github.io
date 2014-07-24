@@ -3,6 +3,7 @@ layout: post
 title: Repository Systems
 created: 1249997181
 permalink: "/digital_preservation_notebook/digital_object_storage/repository_systems/"
+tags: []
 ---
 ## Digital Object Storage Systems
 

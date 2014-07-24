@@ -3,6 +3,8 @@ layout: post
 title: running out of time...
 created: 1085730957
 permalink: "/2004/05/28/running_out_time/"
+tags:
+- Travels
 ---
 Well, it's all going a bit crazy at the moment.  I've booked my flights home (see dates on the right-hand side under _Upcoming events'') and I'm thoroughly scared by the whole idea!  ''And_ I have loads to do before I leave.  Although there is a fair chance I'll be coming back to finish the work, I need to leave it in a reasonably decent state in case that does not happen, so that the folks here know what I've done and so some other geek can take over.  As well as work, there's lots of leaving-the-country faffing to be done, and I have to make time to see Dave and Jenny while they're here (that's the fun bit though!).
 

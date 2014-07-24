@@ -3,6 +3,7 @@ layout: post
 title: Property Extraction Methods
 created: 1249998476
 permalink: "/digital_preservation_notebook/digital_object_properties/property_extraction_methods/"
+tags: []
 ---
 ### Magic numbers ###
 Magic numbers is the name for the standard UNIX mechanism used to identify file types. This approach is not limited to UNIX, but is usually considered a UNIX related practice that has since spread to many other platforms. The mechanism is based on a database that maps byte strings and positions to file types. Common examples are GIF, JPEG and TIFF, that all contain reliable markers, at least for identifying the general file format. Minor version identification (i.e., format characterization rather than format identification) often requires a more sophisticated approach, e.g. parsing of header structures. On a UNIX system, the magic number mechanism can be accessed using the file command, e.g.:

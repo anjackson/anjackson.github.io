@@ -6,21 +6,13 @@
 
 #
 # TODO
-# - use filter_format flag, fdb.body_format, to pre-process HTML and maybe Wiki to Markdown
-# - Pull in tags from the various taxonomies.
-# Look through field_data_taxonomy* for terms applied to nodes.
-# For those terms, load them in from taxonomy_term_data.
 # If we wish to retain the hierarchy (somehow), pull the parent relationships in from taxonomy_term_heirarchy.
-# - Retain Book structure and additional fields?
-# - Menus? Needed for book structure I think. Uses menu_links although book module ties menu link IDs to book and node ids.
-# - Retain image files for Image nodes?
-# image.nid & image_size = _original gets the fid
-# PLUS [image:728,left,10,5] in (wiki?) posts?
-# - Files and attachments more generally. (36,562 total! a lot of thumbnails and previews)
-# file_usage links nodes to file_managed
+# - PLUS [image:728,left,10,5] in (wiki?) posts?
 # - Retain additional fields from weblink.url, event.start?, quote.author, projects (no data)?
 # - Check pages and stories for additional fields?
-# comments?
+# - comments?
+# - Retain Book structure and additional fields?
+# - Menus? Needed for book structure I think. Uses menu_links although book module ties menu link IDs to book and node ids.
 #
 
 require 'jekyll-import'
@@ -46,7 +38,7 @@ def phpwikiToMarkdown(data)
   # convert URI-only links in square brackets (e.g. '[http://tools.unna.org/glossary/]') to angle bracket format (e.g. '<http://tools.unna.org/glossary/>')
   #data = data.gsub(/(?<!\[)\[([A-Za-z]+:(\/\/)?.+)\](?!\])/, '<\1>')
   # also convert 'naked' http or https links:
-  data = data.gsub(/(?<![\[\("])(https?:\/\/[\S]+)/, '<\1>')
+  data = data.gsub(/(?<![\[\("<])(https?:\/\/[\S]+)/, '<\1>')
   # convert triple prime bold (e.g. ''''bold'''') to Markdown format (e.g. '__bold__')
   data = data.gsub(/(?<!')'''(.+)'''(?!')/, '__\1__')
   # convert double prime emphasis (e.g. '''emphasis''') to Markdown format (e.g. '_emphasis_')
@@ -114,12 +106,27 @@ module JekyllImport
         ])
       end
 
+      def self.get_taxonomy_terms(db, table, node_id)
+          tax_query = "SELECT tt.* \
+               FROM field_data_#{table} AS td, \
+                    taxonomy_term_data AS tt \
+               WHERE tt.tid = td.#{table}_tid \
+                 AND td.entity_type = 'node' AND td.entity_id = '#{node_id}'"
+          # Copy files found for this node into the folder structure:
+          terms = Set.new
+          db[tax_query].each do |t|
+            terms.add(t[:name])
+          end
+          return terms
+      end
+
       def self.process(options)
         dbname = options.fetch('dbname')
         user   = options.fetch('user')
         pass   = options.fetch('password', "")
         host   = options.fetch('host', "localhost")
         prefix = options.fetch('prefix', "")
+        filebase = options.fetch('filebase',".")
 
         db = Sequel.mysql(dbname, :user => user, :password => pass, :host => host, :encoding => 'utf8')
 
@@ -157,6 +164,44 @@ module JekyllImport
             node_alias = "/" + node_alias[:alias] + "/"
           end
 
+          # Look for relevant taxonomy entries:
+          terms = self.get_taxonomy_terms(db, "taxonomyextra", node_id)
+          terms.merge(self.get_taxonomy_terms(db, "taxonomy_vocabulary_2", node_id))
+          terms.merge(self.get_taxonomy_terms(db, "taxonomy_vocabulary_3", node_id))
+          terms.merge(self.get_taxonomy_terms(db, "taxonomy_vocabulary_7", node_id))
+          terms.merge(self.get_taxonomy_terms(db, "taxonomy_vocabulary_9", node_id))
+          terms.merge(self.get_taxonomy_terms(db, "taxonomy_vocabulary_10", node_id))
+
+          # Look for related files:
+          file_query = "SELECT fm.* \
+               FROM file_usage AS fu, \
+                    file_managed AS fm \
+               WHERE fu.fid = fm.fid \
+                 AND fu.type = 'node' AND fu.id = '#{node_id}'"
+          # Copy files found for this node into the folder structure:
+          db[file_query].each do |f|
+            src = f[:uri].gsub(/public:\/\//, filebase)
+            if post[:type] == "image"
+              dst = f[:uri].gsub(/public:\/\//, "#{dir}/")
+            else
+              dst = f[:uri].gsub(/public:\/\//, "#{dir}/files/")
+            end
+            dst = dst.gsub(/\/\//,"/")
+            dst_file = File.basename(dst)
+            if File.file?(src)
+              FileUtils.mkdir_p(File.dirname(dst))
+              FileUtils.cp(src, dst)
+              if post[:type] == "image"
+                content = "\n" + "<img src=\"/#{dst}\"/>" + "\n" + "\n" + content
+              else
+                content = "#{content}\n\n" + "Download: <a href=\"/#{dst}\">#{dst_file}</a>" + "\n"
+                #print("cp #{src} to #{dst}\n")
+              end
+            else
+              print("MISSING FILE #{src}\n")
+            end
+          end
+
           # Get the relevant fields as a hash, delete empty fields and convert
           # to YAML for the header
           data = {
@@ -164,15 +209,12 @@ module JekyllImport
              'title' => title.to_s,
              'created' => created,
              'permalink' => node_alias,
+             'tags' => terms.to_a,
           }.delete_if { |k,v| v.nil? || v == ''}.to_yaml
 
           # Convert the content if appropriate:
           if post[:body_format] == "1"
-            print("\n---------\n")
-            print(content)
             content = phpwikiToMarkdown(content)
-            print("\n")
-            print(content)
           end
 
           # Replace windows newlines:
@@ -201,5 +243,6 @@ end
       "user"     => "anj",
       "password" => "sql-4anj",
       "host"     => "localhost",
-      "prefix"   => ""
+      "prefix"   => "",
+      "filebase" => "/Users/andy/Sites/drupal-7-anj/sites/anjackson.net/files/"
     })

@@ -3,6 +3,7 @@ layout: post
 title: Property Extraction Tools
 created: 1249998515
 permalink: "/digital_preservation_notebook/digital_object_properties/property_extraction_tools/"
+tags: []
 ---
 ### [DROID](http://droid.sourceforge.net) ###
 DROID identifies files using the magic numbers approach.

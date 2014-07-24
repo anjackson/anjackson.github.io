@@ -3,6 +3,8 @@ layout: post
 title: Digital Preservation
 created: 1229982339
 permalink: "/work/digitalpreservation/"
+tags:
+- Digital Preservation
 ---
 This notebook is a place to record useful tidbits of information about digital preservation.  The [Wikipedia page on Digital Preservation](http://en.wikipedia.org/wiki/Digital_preservation) provides quite a good overview of the field, but this notebook intends to dig a little deeper.
 

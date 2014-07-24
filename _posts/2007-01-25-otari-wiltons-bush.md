@@ -3,6 +3,8 @@ layout: post
 title: otari-wilton's bush
 created: 1169720513
 permalink: "/2007/01/25/otariwiltons_bush/"
+tags:
+- Travels
 ---
 While staying in Ngaio, we visited [Otari-Wilton's Bush](http://www.otariwiltonsbush.org.nz/)...
 

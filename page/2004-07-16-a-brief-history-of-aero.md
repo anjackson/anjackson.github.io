@@ -3,6 +3,8 @@ layout: post
 title: A Brief History Of Aero
 created: 1089977433
 permalink: "/2004/07/16/a-brief-history-of-aero/"
+tags:
+- General
 ---
 [image:713,left,10,5]To settle [an argument I was embroiled in](http://anjackson.net/node/714), I wrote to Nestle to ask them about the history of Aero chocolate.  They decided to send me a letter rather than an email (how quaint!), so while I was home and scanned and OCR'd it (so there may be a few character recognition errors).  Here's what they said....
 <!--break-->

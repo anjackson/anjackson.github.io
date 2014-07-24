@@ -3,6 +3,7 @@ layout: post
 title: 'computational physics: links'
 created: 1084239982
 permalink: "/ix2v/comphys/plinks/"
+tags: []
 ---
 <table width="100%" border="0" cellpadding="5" cellspacing="5">
 <tr><td valign="top" width="15%" class="section-cell">  <h2>

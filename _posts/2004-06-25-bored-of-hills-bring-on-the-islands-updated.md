@@ -3,6 +3,8 @@ layout: post
 title: bored of hills, bring on the islands [updated]
 created: 1088163587
 permalink: "/2004/06/25/bored_hills_bring_islands_updated/"
+tags:
+- Travels
 ---
 [image:725,left,10,5]I've enjoyed relaxing in Chiang Mai, and some of the temples are really very fine indeed.  Doi Suthep lived up to most of my expectations, even though it was not quite as isolated as I'd hoped.  Anyways, I've got just over two weeks left, and I'm still in the wrong country.  Here's the plan...
 <!--break-->

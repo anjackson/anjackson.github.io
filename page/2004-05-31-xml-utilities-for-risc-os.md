@@ -3,6 +3,7 @@ layout: post
 title: XML Utilities For RISC OS
 created: 1086041757
 permalink: "/poot/riscos/xmlutils/"
+tags: []
 ---
 <div class="node">
 <img src="/themes/anjackson.net/sw/xmlutils.png" border="0" align="left" style="margin: 5px;" />
@@ -40,3 +41,6 @@ A few days ago, Ginger Alliance released a new version of Sablotron, 0.70. There
 
 # 21st September 2001: Whoopsiedaisy...
 I finally get around to releasing this software and I mess it up! The current release (v1.0) does not include the correct XML and DTD filetype icons. Also, I posted my c.s.a.announce using the email address XXXXXX - this is rubbish as my actual news address is XXXXXX. This will probably bet even more confusing given that I suggest using XXXXXX in the package itself. Oh well, I wonder what else I've forgotten.
+
+
+Download: <a href="/page/files/xmlutils-1.1.zip">xmlutils-1.1.zip</a>

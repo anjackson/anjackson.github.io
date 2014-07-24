@@ -3,6 +3,7 @@ layout: post
 title: Web Development
 created: 1250291225
 permalink: "/geek_nuggets/web_development/"
+tags: []
 ---
 Nice URIs and Java Server Faces
 -------------------------------

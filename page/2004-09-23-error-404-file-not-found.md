@@ -3,6 +3,7 @@ layout: post
 title: 'Error 404: File Not Found'
 created: 1095945597
 permalink: "/error/404/"
+tags: []
 ---
 !!! Error 404: File Not Found!
 Just when things were going _so_ well...  Heigh ho.  

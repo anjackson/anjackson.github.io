@@ -3,6 +3,7 @@ layout: post
 title: Incompressible Irrotational Flow around a Cylinder in a Duct
 created: 1084353094
 permalink: "/ix2v/comphys/docs/ug/y2-fe-flow.pdf/"
+tags: []
 ---
 ### Incompressible Irrotational Flow around a Cylinder in a Duct
 ## An application of finite element methods
@@ -21,3 +22,6 @@ the overall performance of the simulation are
 discussed.
 
 An application of finite-element methods. (2nd Year)
+
+
+Download: <a href="/page/files/y2-fe-flow.pdf">y2-fe-flow.pdf</a>

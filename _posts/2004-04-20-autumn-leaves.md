@@ -3,6 +3,8 @@ layout: post
 title: autumn leaves
 created: 1082500944
 permalink: "/2004/04/20/autumn_leaves/"
+tags:
+- Travels
 ---
 [image:541,right,10,10]Well, after being duly impressed by the Haast Pass, and staying in Makarora for a night (very nice - middle of nowhere type of thing), I've finally made it to Queenstown.  The Southern Alps really are remarkable, and the fact that all the views are decorated with the oranges, reds, coppers and golds of the autumn leaves just makes everything ridiculously pretty.
 

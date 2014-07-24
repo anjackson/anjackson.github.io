@@ -3,6 +3,7 @@ layout: post
 title: 'Simulation: A Bluffer''s Guide'
 created: 1084351156
 permalink: "/ix2v/comphys/docs/phd/simguide.pdf/"
+tags: []
 ---
 ### Simulation: A Bluffer's Guide.
 
@@ -15,3 +16,5 @@ An attempt to place my work into context.
 Also, an excuse for using clip-art gratuitously.
 ----
 Download the PDF from the link below.
+
+Download: <a href="/page/files/simguide.pdf">simguide.pdf</a>
