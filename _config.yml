@@ -1,7 +1,7 @@
 title:            anjackson.net
 description:      Fighting entropy since 1993
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              
+baseurl:              
 disqus_shortname:
 
 # Owner/author information
@@ -61,6 +61,7 @@ markdown:    kramdown
 
 # Enable pagination
 paginate:    5
+paginate_path: "blog/page-:num"
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 #permalink:   /:categories/:title/
@@ -81,4 +82,4 @@ kramdown:
     coderay_css: class
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "_scripts", "minimal-mistakes-master", "so-simple-theme-master", "solid-theme"]

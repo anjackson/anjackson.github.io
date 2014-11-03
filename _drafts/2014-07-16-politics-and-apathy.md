@@ -36,5 +36,10 @@ Have those involved apologies? Have they been held accountable? No.
 The only real consequence seems to be that civilised protest is being [slowly squashed out of existence][2]. The problem was not the war. The problem was that we marched.
 
 
+<!--
+    http://www.theguardian.com/commentisfree/2014/aug/05/neoliberalism-mental-health-rich-poverty-economy
+    To follow up on neoliberalisim, measurement, etc. Trust as alternative.
+-->
+
 [1]: http://en.wikipedia.org/wiki/February_15,_2003_anti-war_protest#United_Kingdom
 [2]: http://www.theguardian.com/commentisfree/2012/may/01/right-to-protest-under-attack
