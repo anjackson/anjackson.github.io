@@ -458,3 +458,8 @@ csmall2 {
 	padding-right: 15px;
 	font-size: 18px;
 }
+
+article li {
+	margin-left: 2em;
+}
+

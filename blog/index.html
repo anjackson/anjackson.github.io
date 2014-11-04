@@ -1,8 +1,8 @@
 ---
 layout: blog
 title: Blog
-description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+description: ""
+tags: [blog]
 ---
 
 <!-- This loops through the paginated posts -->
@@ -24,18 +24,23 @@ tags: [Jekyll, theme, responsive, blog, template]
   </article>
 {% endfor %}
 
+<a href="contact.html" class="">Contact Us</a>
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="/page{{ paginator.previous_page }}" class="previous">Previous</a>
+    {% if paginator.previous_page == 1 %}
+      <a href="/blog/" class="previous btn btn-theme">Previous</a>
+    {% else %}
+      <a href="/blog/page-{{ paginator.previous_page }}" class="previous btn btn-theme">Previous</a>
+    {% endif %}
   {% else %}
-    <span class="previous">Previous</span>
+    <span class="previous btn btn-theme">Previous</span>
   {% endif %}
   <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
-    <a href="/page-{{ paginator.next_page }}" class="next">Next</a>
+    <a href="/blog/page-{{ paginator.next_page }}" class="nextbtn btn-theme">Next</a>
   {% else %}
-    <span class="next ">Next</span>
+    <span class="next btn btn-theme">Next</span>
   {% endif %}
 </div>
 
