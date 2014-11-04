@@ -1,0 +1,41 @@
+---
+layout: post
+title: Blog
+description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
+tags: [Jekyll, theme, responsive, blog, template]
+---
+
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+  <article>
+        <p><img class="img-responsive" src="{{ site.baseurl }}/assets/img/post01.jpg"></p>
+        <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><h3 class="ctitle">{{ post.title }}</h3></a>
+        <p><csmall>Posted: {{ post.date | date:"%Y-%m-%d" }}.</csmall> | <csmall2></csmall2></p>
+        <p>
+        {% if post.description %}{{ post.description }}{% else %}{{ post.content | split:"<!-- break -->" | first | strip_html | strip_newlines | truncate: 120 }}{% endif %}
+        </p>
+        <p><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">[Read More]</a></p>
+        <div class="hline"></div>
+        
+        {% if forloop.last != true %}
+        <div class="spacing"></div>
+        {% endif %}
+
+  </article>
+{% endfor %}
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="/page{{ paginator.previous_page }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="/page-{{ paginator.next_page }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
+
