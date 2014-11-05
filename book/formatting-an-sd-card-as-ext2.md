@@ -20,13 +20,13 @@ The FAT32 filing system that most SD/CF cards come formatted as if rather handy 
 ## Formatting the SD Card
 To install software on an SD card, it needs to be ext2 formatted. You need Fdisk to do this.
 If you haven't already, insert the SD/MMC card into Zaurus and type the following commands within Terminal program.
-  umount /dev/mmcda1
-  fdisk /dev/mmcda
-  o [[ENTER]
-  n [[ENTER] p [[ENTER] 1 [[ENTER] [[ENTER] [[ENTER]
-  t [[ENTER] 1 [[ENTER] 83 [[ENTER]
-  w [[ENTER]
+    umount /dev/mmcda1
+    fdisk /dev/mmcda
+    o [[ENTER]
+    n [[ENTER] p [[ENTER] 1 [[ENTER] [[ENTER] [[ENTER]
+    t [[ENTER] 1 [[ENTER] 83 [[ENTER]
+    w [[ENTER]
 In a few moments fdisk will finish and you will be back to console. Next type in following:
-  mkfs.ext2 /dev/mmcda1
+    mkfs.ext2 /dev/mmcda1
 above command will convert the SD card to ext2 file format. Once the formatting finishes type in the command below to mount the SD card.
-  mount /dev/mmcda1 /mnt/card
+    mount /dev/mmcda1 /mnt/card

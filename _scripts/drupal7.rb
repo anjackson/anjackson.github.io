@@ -39,10 +39,10 @@ def phpwikiToMarkdown(data)
   #data = data.gsub(/(?<!\[)\[([A-Za-z]+:(\/\/)?.+)\](?!\])/, '<\1>')
   # also convert 'naked' http or https links:
   data = data.gsub(/(?<![\[\("<])(https?:\/\/[\S]+)/, '<\1>')
-  # convert triple prime bold (e.g. ''''bold'''') to Markdown format (e.g. '__bold__')
-  data = data.gsub(/(?<!')'''(.+)'''(?!')/, '__\1__')
-  # convert double prime emphasis (e.g. '''emphasis''') to Markdown format (e.g. '_emphasis_')
-  data = data.gsub(/(?<!')''(.+)''(?!')/, '_\1_')
+  # convert triple prime bold (e.g. '''bold''') to Markdown format (e.g. __bold__)
+  data = data.gsub(/(?<!')'''(.+?)'''(?!')/, '__\1__')
+  # convert double prime emphasis (e.g. ''emphasis'') to Markdown format (e.g. _emphasis_)
+  data = data.gsub(/(?<!')''(.+?)''(?!')/, '_\1_')
   # PHP Wiki blockquotes:
   data = data.gsub(/^\s*;:(.+)$/,  "\n> \\1")
   # convert headings (e.g. '!!Heading') to Markdown atk-style format (e.g. '## Heading')
@@ -52,6 +52,8 @@ def phpwikiToMarkdown(data)
   data = data.gsub(/^!{4}([^!]+)$/, '#### \1')
   data = data.gsub(/^!{5}([^!]+)$/, '##### \1')
   data = data.gsub(/^!{6}([^!]+)$/, '###### \1')
+  # Convert preformatted sections (before lists to avoid problems):
+  data = data.gsub(/^ {1,2}(.+)$/, '    \1')
   # convert lists:
   data = data.gsub(/^\*{1}([^\*]+)$/, '* \1')
   data = data.gsub(/^\*{2}([^\*]+)$/, '    * \1')

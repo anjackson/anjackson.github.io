@@ -23,7 +23,7 @@ Particularly looking forward to doing the Milford track in mid-February, for whi
 
 And, I have to sort out what on earth I'm going to do next...
 
- *splutter*
+    *splutter*
 
- ---SIGNAL CARRIER LOST---
+    ---SIGNAL CARRIER LOST---
 

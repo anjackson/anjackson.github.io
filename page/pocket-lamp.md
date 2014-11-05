@@ -51,7 +51,7 @@ Share and Enjoy.
 
 ## Notes on hacking debian packages
 I originally tried to pick the packages apart under Cygwin using dpkg version 1.10.4, but the relavent command for turning a Debian package (.deb) into a tar archive (.tar):
- dpkg-deb --fsys-tarfile package_name.deb > package_name.tar
+    dpkg-deb --fsys-tarfile package_name.deb > package_name.tar
 kept dying with wierd errors in 'subprocess paste', whatever that means.  Eventually tried version 1.6.14 on Solaris and it worked a treat.
 
 Once this was working, I got the mysql packages and their dependencies (ignoring libc6 as the Zaurus already has this) and turned them all into tar archives using the syntax above.  The required files can then be pulled from the tarchives and blatted together to create a suitable distribution.  The only tricks were finding a machine I could use where I could set the UID and GID to be 0 (root:root on the Z), and getting the file permissions right so that the package deployed cleanly.

@@ -24,7 +24,7 @@ Keep your tuna dolphin-friendly: <a href="http://www.stuff.co.nz/4436390a10.html
 Sword versus Bullet:
 
 <embed style="width:400px; height:326px;" id="VideoPlayback" type="application/x-shockwave-flash" src="http://video.google.com/googleplayer.swf?docId=-3818187790122256202"> </embed>
-        
+          
 <div style="float: right;">
 <iframe src="http://rcm-uk.amazon.co.uk/e/cm?t=anjacksonnet-21&o=2&p=8&l=as1&asins=1594482918&fc1=000000&IS2=1&lt1=_top&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr&npa=1" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 <a href="http://www.amazon.co.uk/gp/product/1594482918?ie=UTF8&tag=anjacksonnet-21&linkCode=as2&camp=1634&creative=6738&creativeASIN=1594482918"><img border="0" src="51F2hJr-geL._SL160_.jpg"></a><img src="http://www.assoc-amazon.co.uk/e/ir?t=anjacksonnet-21&l=as2&o=2&a=1594482918" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

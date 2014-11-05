@@ -21,24 +21,24 @@ Various tips when using the secure shell [ssh](http://www.openssh.com/).
 ## sshd[[_xxx'']: Failed none for ''user'' from ''xxx.xxx.xxx.xxx'' port ''xxxx_ ssh2 
 I was having some serious problems with this error cropping up in the server logs just as a particular user logged in, just like this ([taken from here](http://www.derkeiler.com/Mailing-Lists/securityfocus/Secure_Shell/2004-12/0001.html)):
 
- Dec 1 03:27:28 mx sshd[743]: Failed none for mxadmin from 192.168.3.3 port 4321 ssh2
- Dec 1 03:27:37 mx sshd[743]: Accepted password for mxadmin from 192.168.3.3 port 4321 ssh2 
+    Dec 1 03:27:28 mx sshd[743]: Failed none for mxadmin from 192.168.3.3 port 4321 ssh2
+    Dec 1 03:27:37 mx sshd[743]: Accepted password for mxadmin from 192.168.3.3 port 4321 ssh2 
 
 This was in turn causing [denyhosts](http://denyhosts.sourceforge.net/) to kick in and block the user's IP address.  I eventually discovered that the reason the client software was attempting a login without any authentication method was because the users _~/.ssh_ directory and the files within it were world readable.  A quick 
- chmod -R 700 ~/.ssh
+    chmod -R 700 ~/.ssh
 on the user's machine fixed the problem.  Quite why OpenSSH behaves this way escapes me.
 
 ## Key-pair generation
-  _andyj@garnet$ ssh-keygen -t dsa_
-  Enter file in which to save the key(/home/andyj/.ssh/id_dsa): 
-  Generating public/private dsa key pair.
-  Enter passphrase(empty for no passphrase): 
-  Enter same passphrase again: 
-  Your identification has been saved in /home/andyj/.ssh/id_dsa.
-  Your public key has been saved in /home/andyj/.ssh/id_dsa.pub.
-  The key fingerprint is:
-  md5 1024 43:71:68:a2:9d:a1:9a:62:16:53:3e:f3:4b:6d:90:57 andyj@garnet
-  _andyj@garnet$_
+    _andyj@garnet$ ssh-keygen -t dsa_
+    Enter file in which to save the key(/home/andyj/.ssh/id_dsa): 
+    Generating public/private dsa key pair.
+    Enter passphrase(empty for no passphrase): 
+    Enter same passphrase again: 
+    Your identification has been saved in /home/andyj/.ssh/id_dsa.
+    Your public key has been saved in /home/andyj/.ssh/id_dsa.pub.
+    The key fingerprint is:
+    md5 1024 43:71:68:a2:9d:a1:9a:62:16:53:3e:f3:4b:6d:90:57 andyj@garnet
+    _andyj@garnet$_
 
 ## Filetypes
 
@@ -76,7 +76,7 @@ A RSA key can be used both for encryption and for signing.
 Generating an RSA private-key certificate is quite easy, all you have to
 do is the following:
 
-  openssl genrsa -des3 -out privkey.pem 2048
+    openssl genrsa -des3 -out privkey.pem 2048
 
 With this variant, you will be prompted for a protecting password.  If
 you don't want your key to be protected by a password, remove the flag
@@ -93,21 +93,21 @@ If you have used your certificate with Globus, the conversion is most easily don
 That machine must have openssl installed for the following procedure to work. If you are using Redhat Linux 7.x then you have probably got openssl installed already. Typing openssl version will verify it is installed and tell you what version. (For Redhat 6.x, you can download a suitable OpenSSL RPM from <http://datagrid.in2p3.fr/distribution/external/)>
 
 Once you have a working installation of openssl, you need to check that the certificate you have is valid for use in a web browser, by issuing the command: 
-  openssl x509 -in usercert.pem -text
+    openssl x509 -in usercert.pem -text
 
 The output should include these lines (possibly with the SSL Server and S/MIME references absent):
 
-  Netscape Cert Type: 
-  SSL Client, SSL Server, S/MIME
+    Netscape Cert Type: 
+    SSL Client, SSL Server, S/MIME
 
 If SSL Client is missing, you will need to have your certificate reissued by your certificate authority, with the additional Cert Type "SSL Client"
 
 Once you have an SSL-Client valid certificate, generate a pkcs12 version of your certificate and key by issuing the following command (NB the .p12 file includes a copy of your private key from userkey.pem, protected by the passphrase you are prompted for. You should treat the .p12 file with the same care as your userkey.pem private key.)
 
- openssl pkcs12 \
- -export -in ~/.globus/usercert.pem \
-         -inkey ~/.globus/userkey.pem \
-         -out ~/.globus/uskycert.p12
+    openssl pkcs12 \
+    -export -in ~/.globus/usercert.pem \
+           -inkey ~/.globus/userkey.pem \
+           -out ~/.globus/uskycert.p12
 
 The resulting file uskycert.p12 can then be loaded into Netscape or Internet Explorer, either on the Unix machine with your .globus directory or by copying the file to a Windows machine and loading it there.
 

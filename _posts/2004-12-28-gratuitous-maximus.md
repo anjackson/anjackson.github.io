@@ -23,12 +23,12 @@ The reason why the design should be considered gratuitous is because of the tran
 
 The problem with Internet Explorer is that although [PNG images](http://www.libpng.org/pub/png/) with their lovely 8-bit alpha (a.k.a. mask or transparency) channel have been around for ages, Microsoft never bothered finishing off the rendering engine for them on the PC (it works fine on the Mac version of IE!).  To get IE 5.5 or later to render transparent PNG images correctly, I used the clever little _behavior_ from [this site (WebFX)](http://webfx.eae.net/dhtml/pngbehavior/pngbehavior.html) along with the following bit of CSS hand-waving magical invokage (all chant after me):
 <code>
-  background-image: url('transparent.png') !important;
-  background-repeat: no-repeat;
-  background-position: top left;
-  _background-image: none;
-  _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="transparent.png",sizingMethod="crop");
-  _height: 1px;
+    background-image: url('transparent.png') !important;
+    background-repeat: no-repeat;
+    background-position: top left;
+    _background-image: none;
+    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="transparent.png",sizingMethod="crop");
+    _height: 1px;
 </code>
 Note the filthy use of the underscore as a prefix to the style commands - browsers like [Mozilla Firefox](http://www.spreadfirefox.com/?q=affiliates&id=0&t=86) rightly ignore this nonsense, whereas IE assumes the underscore was some kind of mistake and ignores it.  I've no idea what Opera or Safari etc do with this, so I've wilfully broken the intended sematics the CSS and added a '!important' to the line that should take precedence in any other browser.
 

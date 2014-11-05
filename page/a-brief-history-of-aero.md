@@ -20,7 +20,7 @@ tags:
 
 ----
 
- Covering Letter
+    Covering Letter
 
 1315171A                     9 June 2004
 
@@ -41,7 +41,7 @@ Consumer Services
 
 ----
 
- Enclosed Literature
+    Enclosed Literature
 
 <div align="center">
 <img src="http://anjackson.net/system/files/images/aerobar-736.jpg" border="0"/>
