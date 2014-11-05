@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1175938007
+changed_ts: 1279903365
+node_id: 1793
 title: 1,700 kilometers and rising...
-created: 1175938007
+created: '2007-04-07'
+changed: '2010-07-23'
+aliases:
+- "/2007/04/07/1700_kilometers_and_rising/"
 permalink: "/2007/04/07/1700_kilometers_and_rising/"
 tags:
 - Travels

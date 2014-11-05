@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1101429517
+changed_ts: 1279903439
+node_id: 1540
 title: shoot the breeze
-created: 1101429517
+created: '2004-11-26'
+changed: '2010-07-23'
+aliases:
+- "/2004/11/26/shoot_breeze/"
 permalink: "/2004/11/26/shoot_breeze/"
 tags:
 - Science

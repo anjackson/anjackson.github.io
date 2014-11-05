@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1100478270
+changed_ts: 1279903439
+node_id: 1510
 title: the wrong speed
-created: 1100478270
+created: '2004-11-15'
+changed: '2010-07-23'
+aliases:
+- "/2004/11/15/wrong_speed/"
 permalink: "/2004/11/15/wrong_speed/"
 tags: []
 ---

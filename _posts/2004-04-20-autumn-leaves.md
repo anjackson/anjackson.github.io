@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1082500944
+changed_ts: 1279903480
+node_id: 542
 title: autumn leaves
-created: 1082500944
+created: '2004-04-20'
+changed: '2010-07-23'
+aliases:
+- "/2004/04/20/autumn_leaves/"
 permalink: "/2004/04/20/autumn_leaves/"
 tags:
 - Travels

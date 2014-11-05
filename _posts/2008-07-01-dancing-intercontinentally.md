@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1214939781
+changed_ts: 1279903365
+node_id: 1816
 title: dancing, intercontinentally
-created: 1214939781
+created: '2008-07-01'
+changed: '2010-07-23'
+aliases:
+- "/2008/07/01/dancing_intercontinentally/"
 permalink: "/2008/07/01/dancing_intercontinentally/"
 tags:
 - Procrastination

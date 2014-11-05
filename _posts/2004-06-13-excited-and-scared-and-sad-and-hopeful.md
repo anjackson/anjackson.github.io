@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1087110108
+changed_ts: 1279903479
+node_id: 716
 title: excited & scared & sad & hopeful
-created: 1087110108
+created: '2004-06-13'
+changed: '2010-07-23'
+aliases:
+- "/2004/06/13/excited_scared_sad_hopeful/"
 permalink: "/2004/06/13/excited_scared_sad_hopeful/"
 tags:
 - Travels

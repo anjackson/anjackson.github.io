@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1087962053
+changed_ts: 1279903445
+node_id: 723
 title: at least there's hills now
-created: 1087962053
+created: '2004-06-23'
+changed: '2010-07-23'
+aliases:
+- "/2004/06/23/least_theres_hills_now/"
 permalink: "/2004/06/23/least_theres_hills_now/"
 tags:
 - Travels

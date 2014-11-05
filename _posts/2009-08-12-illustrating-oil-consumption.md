@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1250086352
+changed_ts: 1279903361
+node_id: 1864
 title: illustrating oil consumption
-created: 1250086352
+created: '2009-08-12'
+changed: '2010-07-23'
+aliases:
+- "/2009/08/12/illustrating_oil_consumption/"
 permalink: "/2009/08/12/illustrating_oil_consumption/"
 tags:
 - Science

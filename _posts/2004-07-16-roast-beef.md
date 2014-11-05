@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1089979027
+changed_ts: 1279903444
+node_id: 737
 title: roast beef
-created: 1089979027
+created: '2004-07-16'
+changed: '2010-07-23'
+aliases:
+- "/2004/07/16/roast_beef/"
 permalink: "/2004/07/16/roast_beef/"
 tags:
 - Travels

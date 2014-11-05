@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1087267005
+changed_ts: 1279903445
+node_id: 717
 title: escaping Victoria...
-created: 1087267005
+created: '2004-06-15'
+changed: '2010-07-23'
+aliases:
+- "/2004/06/15/escaping_victoria/"
 permalink: "/2004/06/15/escaping_victoria/"
 tags:
 - Travels

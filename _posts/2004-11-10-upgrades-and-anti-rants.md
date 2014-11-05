@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1100051477
+changed_ts: 1279903439
+node_id: 1443
 title: upgrades and anti-rants
-created: 1100051477
+created: '2004-11-10'
+changed: '2010-07-23'
+aliases:
+- "/2004/11/10/upgrades_and_antirants/"
 permalink: "/2004/11/10/upgrades_and_antirants/"
 tags:
 - General

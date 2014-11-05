@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1104670915
+changed_ts: 1279903438
+node_id: 1585
 title: happy new year
-created: 1104670915
+created: '2005-01-02'
+changed: '2010-07-23'
+aliases:
+- "/2005/01/02/happy_new_year/"
 permalink: "/2005/01/02/happy_new_year/"
 tags:
 - General

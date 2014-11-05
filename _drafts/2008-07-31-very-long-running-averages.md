@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 0
+created_ts: 1217498669
+changed_ts: 1279903479
+node_id: 1827
 title: very long running averages
-created: 1217498669
+created: '2008-07-31'
+changed: '2010-07-23'
+aliases:
+- "/2008/07/31/very_long_running_averages/"
 permalink: "/2008/07/31/very_long_running_averages/"
 tags:
 - Geek

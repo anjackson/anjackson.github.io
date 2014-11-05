@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 0
+created_ts: 1263139201
+changed_ts: 1279903360
+node_id: 1870
 title: Testing Posterous...
-created: 1263139201
+created: '2010-01-10'
+changed: '2010-07-23'
+aliases:
+- "/2010/01/10/testing_posterous/"
 permalink: "/2010/01/10/testing_posterous/"
 tags: []
 ---

@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1085037663
+changed_ts: 1279903479
+node_id: 697
 title: in a nutshell
-created: 1085037663
+created: '2004-05-20'
+changed: '2010-07-23'
+aliases:
+- "/2004/05/20/nutshell/"
 permalink: "/2004/05/20/nutshell/"
 tags:
 - Geek

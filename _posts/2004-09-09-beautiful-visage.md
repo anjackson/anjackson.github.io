@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1094741382
+changed_ts: 1279903440
+node_id: 1422
 title: beautiful visage
-created: 1094741382
+created: '2004-09-09'
+changed: '2010-07-23'
+aliases:
+- "/2004/09/09/beautiful_visage/"
 permalink: "/2004/09/09/beautiful_visage/"
 tags:
 - General

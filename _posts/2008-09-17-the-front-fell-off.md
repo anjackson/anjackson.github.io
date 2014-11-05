@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1221654211
+changed_ts: 1279903363
+node_id: 1830
 title: the front fell off
-created: 1221654211
+created: '2008-09-17'
+changed: '2010-07-23'
+aliases:
+- "/2008/09/17/front_fell/"
 permalink: "/2008/09/17/front_fell/"
 tags:
 - Procrastination

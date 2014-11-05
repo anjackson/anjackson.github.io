@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 1
+status: 1
+created_ts: 1279823564
+changed_ts: 1279908994
+node_id: 1871
 title: digital preservation news aggregation
-created: 1279823564
+created: '2010-07-22'
+changed: '2010-07-23'
+aliases:
+- "/2010/07/22/digital_preservation_news_aggregation/"
 permalink: "/2010/07/22/digital_preservation_news_aggregation/"
 tags:
 - Digital Preservation

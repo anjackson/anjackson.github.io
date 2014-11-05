@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1083634690
+changed_ts: 1279903479
+node_id: 549
 title: silly google
-created: 1083634690
+created: '2004-05-04'
+changed: '2010-07-23'
+aliases:
+- "/2004/05/04/silly_google/"
 permalink: "/2004/05/04/silly_google/"
 tags:
 - Procrastination

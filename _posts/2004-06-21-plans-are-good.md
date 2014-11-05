@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1087816118
+changed_ts: 1279903445
+node_id: 722
 title: plans are good
-created: 1087816118
+created: '2004-06-21'
+changed: '2010-07-23'
+aliases:
+- "/2004/06/21/plans_are_good/"
 permalink: "/2004/06/21/plans_are_good/"
 tags:
 - Travels

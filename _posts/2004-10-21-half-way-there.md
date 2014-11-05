@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1098377156
+changed_ts: 1279903440
+node_id: 1436
 title: half-way there
-created: 1098377156
+created: '2004-10-21'
+changed: '2010-07-23'
+aliases:
+- "/2004/10/21/halfway_there/"
 permalink: "/2004/10/21/halfway_there/"
 tags:
 - Travels

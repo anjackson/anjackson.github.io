@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 1
+status: 1
+created_ts: 1280256710
+changed_ts: 1280263305
+node_id: 1872
 title: convergent evolution of curation services
-created: 1280256710
+created: '2010-07-27'
+changed: '2010-07-27'
+aliases:
+- "/2010/07/27/convergent_evolution_curation_services/"
 permalink: "/2010/07/27/convergent_evolution_curation_services/"
 tags:
 - Digital Preservation

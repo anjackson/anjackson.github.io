@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1152441167
+changed_ts: 1279903368
+node_id: 1631
 title: seven minors (but where's Snow White?)
-created: 1152441167
+created: '2006-07-09'
+changed: '2010-07-23'
+aliases:
+- "/2006/07/09/seven_minors_wheres_snow_white/"
 permalink: "/2006/07/09/seven_minors_wheres_snow_white/"
 tags:
 - General

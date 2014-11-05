@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 1
+status: 1
+created_ts: 1291924474
+changed_ts: 1291924474
+node_id: 1883
 title: 'OPF Blog: Breaking Down The Format Registry'
-created: 1291924474
+created: '2010-12-09'
+changed: '2010-12-09'
+aliases:
+- "/2010/12/09/opf_blog_breaking_down_format_registry/"
 permalink: "/2010/12/09/opf_blog_breaking_down_format_registry/"
 tags:
 - Digital Preservation

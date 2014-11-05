@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1087747786
+changed_ts: 1279903440
+node_id: 721
 title: Year of Firsts
-created: 1087747786
+created: '2004-06-20'
+changed: '2010-07-23'
+aliases:
+- "/2004/06/20/year_firsts/"
 permalink: "/2004/06/20/year_firsts/"
 tags:
 - Travels

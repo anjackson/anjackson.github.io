@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1091199971
+changed_ts: 1279903443
+node_id: 981
 title: steady progress
-created: 1091199971
+created: '2004-07-30'
+changed: '2010-07-23'
+aliases:
+- "/2004/07/30/steady_progress/"
 permalink: "/2004/07/30/steady_progress/"
 tags:
 - General

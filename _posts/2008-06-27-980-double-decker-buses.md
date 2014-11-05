@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1214600875
+changed_ts: 1279903365
+node_id: 1815
 title: "~980 double decker buses"
-created: 1214600875
+created: '2008-06-27'
+changed: '2010-07-23'
+aliases:
+- "/2008/06/27/980_double_decker_buses/"
 permalink: "/2008/06/27/980_double_decker_buses/"
 tags:
 - General

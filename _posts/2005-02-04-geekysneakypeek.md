@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1107481412
+changed_ts: 1315426178
+node_id: 1594
 title: geekysneakypeek
-created: 1107481412
+created: '2005-02-04'
+changed: '2011-09-07'
+aliases:
+- "/2005/02/04/geekysneakypeek/"
 permalink: "/2005/02/04/geekysneakypeek/"
 tags:
 - Science

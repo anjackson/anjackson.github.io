@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1082888385
+changed_ts: 1279903479
+node_id: 545
 title: back to reality, part one
-created: 1082888385
+created: '2004-04-25'
+changed: '2010-07-23'
+aliases:
+- "/2004/04/25/back_reality_part_one/"
 permalink: "/2004/04/25/back_reality_part_one/"
 tags:
 - Travels

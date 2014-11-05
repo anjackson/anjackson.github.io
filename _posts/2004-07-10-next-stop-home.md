@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1089446470
+changed_ts: 1279903445
+node_id: 732
 title: 'next stop: home'
-created: 1089446470
+created: '2004-07-10'
+changed: '2010-07-23'
+aliases:
+- "/2004/07/10/next_stop_home/"
 permalink: "/2004/07/10/next_stop_home/"
 tags:
 - Travels

@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 1
+status: 1
+created_ts: 1294863462
+changed_ts: 1294912675
+node_id: 1886
 title: 'OPF Blog: Format Obsolescence and Sustainable Access'
-created: 1294863462
+created: '2011-01-12'
+changed: '2011-01-13'
+aliases:
+- "/2011/01/12/opf_blog_format_obsolescence_and_sustainable_access/"
 permalink: "/2011/01/12/opf_blog_format_obsolescence_and_sustainable_access/"
 tags:
 - Digital Preservation

@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1201211996
+changed_ts: 1279903365
+node_id: 1790
 title: it must be hereditary
-created: 1201211996
+created: '2008-01-24'
+changed: '2010-07-23'
+aliases:
+- "/2008/01/24/it_must_be_hereditary/"
 permalink: "/2008/01/24/it_must_be_hereditary/"
 tags:
 - Geek

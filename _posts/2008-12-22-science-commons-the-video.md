@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 1
+status: 1
+created_ts: 1229982043
+changed_ts: 1279996823
+node_id: 1835
 title: science commons, the video
-created: 1229982043
+created: '2008-12-22'
+changed: '2010-07-24'
+aliases:
+- "/2008/12/22/science_commons_video/"
 permalink: "/2008/12/22/science_commons_video/"
 tags:
 - Digital Preservation

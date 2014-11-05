@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 0
+created_ts: 1217510507
+changed_ts: 1279903364
+node_id: 1828
 title: mining titan
-created: 1217510507
+created: '2008-07-31'
+changed: '2010-07-23'
+aliases:
+- "/2008/07/31/mining_titan/"
 permalink: "/2008/07/31/mining_titan/"
 tags:
 - Science

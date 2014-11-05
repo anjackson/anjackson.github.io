@@ -1,0 +1,20 @@
+---
+layout: image
+type: image
+promote: 0
+status: 1
+created_ts: 1100345284
+changed_ts: 1372159478
+node_id: 1497
+title: 11296 Waterfront School
+created: '2004-11-13'
+changed: '2013-06-25'
+aliases: []
+tags:
+- Wellington
+- 2004/11 November 2004
+images:
+- - src: image/images/11296_waterfront_school-1497.jpg
+    name: 11296_waterfront_school-1497.jpg
+---
+

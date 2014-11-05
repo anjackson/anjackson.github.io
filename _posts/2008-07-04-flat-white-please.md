@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1215199022
+changed_ts: 1279903364
+node_id: 1801
 title: flat white please
-created: 1215199022
+created: '2008-07-04'
+changed: '2010-07-23'
+aliases:
+- "/2008/07/04/flat_white_please/"
 permalink: "/2008/07/04/flat_white_please/"
 tags:
 - Travels

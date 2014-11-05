@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1085730957
+changed_ts: 1279903479
+node_id: 703
 title: running out of time...
-created: 1085730957
+created: '2004-05-28'
+changed: '2010-07-23'
+aliases:
+- "/2004/05/28/running_out_time/"
 permalink: "/2004/05/28/running_out_time/"
 tags:
 - Travels

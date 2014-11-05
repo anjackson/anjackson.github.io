@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1250290799
+changed_ts: 1279903360
+node_id: 1637
 title: random stuff
-created: 1250290799
+created: '2009-08-14'
+changed: '2010-07-23'
+aliases:
+- "/2009/08/14/random_stuff/"
 permalink: "/2009/08/14/random_stuff/"
 tags:
 - Top Links

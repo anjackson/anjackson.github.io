@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1251593987
+changed_ts: 1279903360
+node_id: 1866
 title: fringe notes
-created: 1251593987
+created: '2009-08-30'
+changed: '2010-07-23'
+aliases:
+- "/2009/08/30/fringe_notes/"
 permalink: "/2009/08/30/fringe_notes/"
 tags:
 - Reviews

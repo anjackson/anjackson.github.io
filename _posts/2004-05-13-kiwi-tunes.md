@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1084408748
+changed_ts: 1279903479
+node_id: 690
 title: kiwi tunes
-created: 1084408748
+created: '2004-05-13'
+changed: '2010-07-23'
+aliases:
+- "/2004/05/13/kiwi_tunes/"
 permalink: "/2004/05/13/kiwi_tunes/"
 tags:
 - General

@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1080273762
+changed_ts: 1279903481
+node_id: 317
 title: Still faffing....
-created: 1080273762
+created: '2004-03-26'
+changed: '2010-07-23'
+aliases:
+- "/2004/03/26/still_faffing/"
 permalink: "/2004/03/26/still_faffing/"
 tags:
 - Procrastination

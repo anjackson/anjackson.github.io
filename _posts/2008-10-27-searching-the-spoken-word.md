@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 1
+status: 1
+created_ts: 1225141931
+changed_ts: 1228417739
+node_id: 1831
 title: searching the spoken word
-created: 1225141931
+created: '2008-10-27'
+changed: '2008-12-04'
+aliases:
+- "/2008/10/27/searching_spoken_word/"
 permalink: "/2008/10/27/searching_spoken_word/"
 tags:
 - Digital Preservation

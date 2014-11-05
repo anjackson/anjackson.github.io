@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1250002634
+changed_ts: 1279903361
+node_id: 1863
 title: a simple website is a happy website
-created: 1250002634
+created: '2009-08-11'
+changed: '2010-07-23'
+aliases:
+- "/2009/08/11/simple_website_happy_website/"
 permalink: "/2009/08/11/simple_website_happy_website/"
 tags:
 - General

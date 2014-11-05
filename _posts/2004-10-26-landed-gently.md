@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1098761609
+changed_ts: 1279903440
+node_id: 1437
 title: landed gently
-created: 1098761609
+created: '2004-10-26'
+changed: '2010-07-23'
+aliases:
+- "/2004/10/26/landed_gently/"
 permalink: "/2004/10/26/landed_gently/"
 tags:
 - Travels

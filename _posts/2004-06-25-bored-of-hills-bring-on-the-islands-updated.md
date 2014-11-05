@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1088163587
+changed_ts: 1279903445
+node_id: 724
 title: bored of hills, bring on the islands [updated]
-created: 1088163587
+created: '2004-06-25'
+changed: '2010-07-23'
+aliases:
+- "/2004/06/25/bored_hills_bring_islands_updated/"
 permalink: "/2004/06/25/bored_hills_bring_islands_updated/"
 tags:
 - Travels

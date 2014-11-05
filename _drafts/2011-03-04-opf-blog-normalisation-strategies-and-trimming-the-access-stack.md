@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 0
+created_ts: 1299274633
+changed_ts: 1301501212
+node_id: 1888
 title: 'OPF Blog: Normalisation Strategies & Trimming The Access Stack'
-created: 1299274633
+created: '2011-03-04'
+changed: '2011-03-30'
+aliases:
+- "/2011/03/04/opf_blog_normalisation_strategies_trimming_access_stack/"
 permalink: "/2011/03/04/opf_blog_normalisation_strategies_trimming_access_stack/"
 tags:
 - Digital Preservation

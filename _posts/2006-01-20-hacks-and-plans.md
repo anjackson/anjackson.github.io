@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1137765071
+changed_ts: 1279903369
+node_id: 1611
 title: hacks & plans
-created: 1137765071
+created: '2006-01-20'
+changed: '2010-07-23'
+aliases:
+- "/2006/01/20/hacks_plans/"
 permalink: "/2006/01/20/hacks_plans/"
 tags:
 - Procrastination

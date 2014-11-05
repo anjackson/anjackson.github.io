@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 1
+status: 1
+created_ts: 1282290840
+changed_ts: 1291924539
+node_id: 1882
 title: 'OPF Blog: Community and code'
-created: 1282290840
+created: '2010-08-20'
+changed: '2010-12-09'
+aliases:
+- "/2010/08/20/opf_blog_community_and_code/"
 permalink: "/2010/08/20/opf_blog_community_and_code/"
 tags:
 - Digital Preservation

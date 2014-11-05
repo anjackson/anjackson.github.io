@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1215373514
+changed_ts: 1228416820
+node_id: 1817
 title: three strikes and you're offline
-created: 1215373514
+created: '2008-07-06'
+changed: '2008-12-04'
+aliases:
+- "/2008/07/06/three_strikes_and_youre_offline/"
 permalink: "/2008/07/06/three_strikes_and_youre_offline/"
 tags:
 - Rants

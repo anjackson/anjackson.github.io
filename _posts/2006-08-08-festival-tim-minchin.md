@@ -1,7 +1,17 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1154993859
+changed_ts: 1279903365
+node_id: 1679
 title: 'festival: tim minchin '
-created: 1154993859
+created: '2006-08-08'
+changed: '2010-07-23'
+aliases:
+- "/2006/08/08/festival_tim_minchin/"
+- "/2006/08/07/festival_tim_minchin/"
 permalink: "/2006/08/08/festival_tim_minchin/"
 tags:
 - Reviews

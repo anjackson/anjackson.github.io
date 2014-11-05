@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1097961192
+changed_ts: 1279903439
+node_id: 1435
 title: monster tracks
-created: 1097961192
+created: '2004-10-16'
+changed: '2010-07-23'
+aliases:
+- "/2004/10/16/monster_tracks/"
 permalink: "/2004/10/16/monster_tracks/"
 tags:
 - General

@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1148987787
+changed_ts: 1228416820
+node_id: 1626
 title: 'Stephen Colbert: Harsh, but Fair.'
-created: 1148987787
+created: '2006-05-30'
+changed: '2008-12-04'
+aliases:
+- "/2006/05/30/stephen_colbert_harsh_fair/"
 permalink: "/2006/05/30/stephen_colbert_harsh_fair/"
 tags:
 - Rants

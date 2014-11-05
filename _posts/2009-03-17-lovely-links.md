@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1237329383
+changed_ts: 1279903361
+node_id: 1845
 title: lovely links
-created: 1237329383
+created: '2009-03-17'
+changed: '2010-07-23'
+aliases:
+- "/2009/03/17/lovely_links/"
 permalink: "/2009/03/17/lovely_links/"
 tags: []
 ---

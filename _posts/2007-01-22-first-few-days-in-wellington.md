@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1169459785
+changed_ts: 1279903365
+node_id: 1766
 title: first few days in wellington
-created: 1169459785
+created: '2007-01-22'
+changed: '2010-07-23'
+aliases:
+- "/2007/01/22/first_few_days_wellington/"
 permalink: "/2007/01/22/first_few_days_wellington/"
 tags:
 - Travels

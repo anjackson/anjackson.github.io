@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1096465605
+changed_ts: 1279903440
+node_id: 1427
 title: reassuringly expensive
-created: 1096465605
+created: '2004-09-29'
+changed: '2010-07-23'
+aliases:
+- "/2004/09/29/reassuringly_expensive/"
 permalink: "/2004/09/29/reassuringly_expensive/"
 tags:
 - Travels

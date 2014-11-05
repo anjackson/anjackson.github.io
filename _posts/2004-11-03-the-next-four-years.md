@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1099452425
+changed_ts: 1228416820
+node_id: 1438
 title: the next four years
-created: 1099452425
+created: '2004-11-03'
+changed: '2008-12-04'
+aliases:
+- "/2004/11/02/next_four_years/"
 permalink: "/2004/11/02/next_four_years/"
 tags:
 - Rants

@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 1
+status: 1
+created_ts: 1292357861
+changed_ts: 1292613062
+node_id: 1884
 title: Experimenting with Hadoop
-created: 1292357861
+created: '2010-12-14'
+changed: '2010-12-17'
+aliases:
+- "/2010/12/14/experimenting_hadoop/"
 permalink: "/2010/12/14/experimenting_hadoop/"
 tags:
 - Digital Preservation

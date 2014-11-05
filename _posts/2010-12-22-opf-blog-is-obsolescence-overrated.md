@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 1
+status: 1
+created_ts: 1293051185
+changed_ts: 1293051185
+node_id: 1885
 title: 'OPF Blog: Is obsolescence overrated?'
-created: 1293051185
+created: '2010-12-22'
+changed: '2010-12-22'
+aliases:
+- "/2010/12/22/opf_blog_obsolescence_overrated/"
 permalink: "/2010/12/22/opf_blog_obsolescence_overrated/"
 tags:
 - Digital Preservation

@@ -1,0 +1,19 @@
+---
+layout: image
+type: image
+promote: 0
+status: 1
+created_ts: 1083634691
+changed_ts: 1372159380
+node_id: 547
+title: Google News - Kerry's Teeth
+created: '2004-05-04'
+changed: '2013-06-25'
+aliases: []
+tags:
+- From the internet
+images:
+- - src: image/images/teeth-547.jpg
+    name: teeth-547.jpg
+---
+Google News is not quite perfect.  Sometimes it's more than perfect.

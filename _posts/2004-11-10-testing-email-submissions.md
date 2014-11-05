@@ -1,7 +1,15 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1100059315
+changed_ts: 1100059315
+node_id: 1446
 title: Testing Email Submissions
-created: 1100059315
+created: '2004-11-10'
+changed: '2004-11-10'
+aliases: []
 tags:
 - General
 ---

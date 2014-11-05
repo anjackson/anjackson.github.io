@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1083724219
+changed_ts: 1279903479
+node_id: 550
 title: clever google
-created: 1083724219
+created: '2004-05-05'
+changed: '2010-07-23'
+aliases:
+- "/2004/05/05/clever_google/"
 permalink: "/2004/05/05/clever_google/"
 tags:
 - Top Tips

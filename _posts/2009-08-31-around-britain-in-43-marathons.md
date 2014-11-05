@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1251747565
+changed_ts: 1279903360
+node_id: 1867
 title: around britain in 43 marathons...
-created: 1251747565
+created: '2009-08-31'
+changed: '2010-07-23'
+aliases:
+- "/2009/08/31/around_britain_43_marathons/"
 permalink: "/2009/08/31/around_britain_43_marathons/"
 tags: []
 ---

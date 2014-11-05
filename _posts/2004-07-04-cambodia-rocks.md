@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1088947098
+changed_ts: 1279903445
+node_id: 730
 title: cambodia rocks
-created: 1088947098
+created: '2004-07-04'
+changed: '2010-07-23'
+aliases:
+- "/2004/07/04/cambodia_rocks/"
 permalink: "/2004/07/04/cambodia_rocks/"
 tags:
 - Travels

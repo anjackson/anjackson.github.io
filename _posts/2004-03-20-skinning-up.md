@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1079759798
+changed_ts: 1279903369
+node_id: 7
 title: Skinning up.
-created: 1079759798
+created: '2004-03-20'
+changed: '2010-07-23'
+aliases:
+- "/2004/03/20/skinning/"
 permalink: "/2004/03/20/skinning/"
 tags:
 - Geek

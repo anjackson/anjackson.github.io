@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1111456157
+changed_ts: 1279903369
+node_id: 1602
 title: don't panic
-created: 1111456157
+created: '2005-03-22'
+changed: '2010-07-23'
+aliases:
+- "/2005/03/22/dont_panic/"
 permalink: "/2005/03/22/dont_panic/"
 tags:
 - Travels

@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1080701548
+changed_ts: 1279903481
+node_id: 488
 title: A plan of sorts.
-created: 1080701548
+created: '2004-03-31'
+changed: '2010-07-23'
+aliases:
+- "/2004/03/31/plan_sorts/"
 permalink: "/2004/03/31/plan_sorts/"
 tags:
 - Travels

@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1088590065
+changed_ts: 1279903445
+node_id: 727
 title: yes, you can hate me now
-created: 1088590065
+created: '2004-06-30'
+changed: '2010-07-23'
+aliases:
+- "/2004/06/30/yes_you_can_hate_me_now/"
 permalink: "/2004/06/30/yes_you_can_hate_me_now/"
 tags:
 - Travels

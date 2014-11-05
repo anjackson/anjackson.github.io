@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1089545233
+changed_ts: 1279903444
+node_id: 733
 title: changing planes
-created: 1089545233
+created: '2004-07-11'
+changed: '2010-07-23'
+aliases:
+- "/2004/07/11/changing_planes/"
 permalink: "/2004/07/11/changing_planes/"
 tags:
 - Travels

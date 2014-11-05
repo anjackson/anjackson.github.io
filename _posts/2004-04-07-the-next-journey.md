@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1081335246
+changed_ts: 1279903480
+node_id: 532
 title: the next journey
-created: 1081335246
+created: '2004-04-07'
+changed: '2010-07-23'
+aliases:
+- "/2004/04/07/next_journey/"
 permalink: "/2004/04/07/next_journey/"
 tags:
 - Travels

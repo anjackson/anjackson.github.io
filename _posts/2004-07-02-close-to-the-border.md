@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1088768242
+changed_ts: 1279903445
+node_id: 729
 title: close to the border
-created: 1088768242
+created: '2004-07-02'
+changed: '2010-07-23'
+aliases:
+- "/2004/07/02/close_border/"
 permalink: "/2004/07/02/close_border/"
 tags:
 - Travels

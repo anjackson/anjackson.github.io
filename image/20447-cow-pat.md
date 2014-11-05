@@ -1,0 +1,21 @@
+---
+layout: image
+type: image
+promote: 0
+status: 1
+created_ts: 1154210895
+changed_ts: 1372159485
+node_id: 1648
+title: 20447 Cow Pat
+created: '2006-07-29'
+changed: '2013-06-25'
+aliases:
+- "/2006/07/29/20447_cow_pat/"
+permalink: "/2006/07/29/20447_cow_pat/"
+tags:
+- Eilidh
+images:
+- - src: image/images/IMG_0447.JPG
+    name: IMG_0447.JPG
+---
+

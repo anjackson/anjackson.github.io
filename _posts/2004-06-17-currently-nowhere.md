@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1087440531
+changed_ts: 1279903445
+node_id: 718
 title: currently nowhere
-created: 1087440531
+created: '2004-06-17'
+changed: '2010-07-23'
+aliases:
+- "/2004/06/17/currently_nowhere/"
 permalink: "/2004/06/17/currently_nowhere/"
 tags:
 - Travels

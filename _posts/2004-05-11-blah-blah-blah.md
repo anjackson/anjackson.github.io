@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1084243658
+changed_ts: 1279903479
+node_id: 569
 title: blah blah blah
-created: 1084243658
+created: '2004-05-11'
+changed: '2010-07-23'
+aliases:
+- "/2004/05/11/blah_blah_blah/"
 permalink: "/2004/05/11/blah_blah_blah/"
 tags:
 - Science

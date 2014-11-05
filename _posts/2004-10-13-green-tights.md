@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1097626745
+changed_ts: 1279903440
+node_id: 1429
 title: green tights
-created: 1097626745
+created: '2004-10-13'
+changed: '2010-07-23'
+aliases:
+- "/2004/10/13/green_tights/"
 permalink: "/2004/10/13/green_tights/"
 tags:
 - Travels

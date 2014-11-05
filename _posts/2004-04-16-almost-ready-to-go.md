@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1082080653
+changed_ts: 1279903480
+node_id: 537
 title: almost ready to go
-created: 1082080653
+created: '2004-04-16'
+changed: '2010-07-23'
+aliases:
+- "/2004/04/16/almost_ready_go/"
 permalink: "/2004/04/16/almost_ready_go/"
 tags:
 - Travels

@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1225891517
+changed_ts: 1279903361
+node_id: 1833
 title: well played, sir
-created: 1225891517
+created: '2008-11-05'
+changed: '2010-07-23'
+aliases:
+- "/2008/11/05/well_played_sir/"
 permalink: "/2008/11/05/well_played_sir/"
 tags:
 - General

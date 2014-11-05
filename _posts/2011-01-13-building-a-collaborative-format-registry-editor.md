@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 1
+status: 1
+created_ts: 1294915974
+changed_ts: 1295001803
+node_id: 1887
 title: Building A Collaborative Format Registry Editor
-created: 1294915974
+created: '2011-01-13'
+changed: '2011-01-14'
+aliases:
+- "/2011/01/13/building_collaborative_format_registry_editor/"
 permalink: "/2011/01/13/building_collaborative_format_registry_editor/"
 tags:
 - Digital Preservation

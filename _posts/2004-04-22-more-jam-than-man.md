@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1082620931
+changed_ts: 1279903479
+node_id: 544
 title: more jam than man
-created: 1082620931
+created: '2004-04-22'
+changed: '2010-07-23'
+aliases:
+- "/2004/04/22/more_jam_man/"
 permalink: "/2004/04/22/more_jam_man/"
 tags:
 - Travels

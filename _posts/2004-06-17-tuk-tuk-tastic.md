@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1087482069
+changed_ts: 1279903445
+node_id: 720
 title: tuk-tuk-tastic
-created: 1087482069
+created: '2004-06-17'
+changed: '2010-07-23'
+aliases:
+- "/2004/06/17/tuktuktastic/"
 permalink: "/2004/06/17/tuktuktastic/"
 tags:
 - Travels

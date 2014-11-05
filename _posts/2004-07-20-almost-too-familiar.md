@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1090315462
+changed_ts: 1279903444
+node_id: 738
 title: almost too familiar
-created: 1090315462
+created: '2004-07-20'
+changed: '2010-07-23'
+aliases:
+- "/2004/07/20/almost_too_familiar/"
 permalink: "/2004/07/20/almost_too_familiar/"
 tags:
 - Travels

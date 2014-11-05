@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1177620330
+changed_ts: 1279903365
+node_id: 1794
 title: nearly over...
-created: 1177620330
+created: '2007-04-26'
+changed: '2010-07-23'
+aliases:
+- "/2007/04/26/nearly_over/"
 permalink: "/2007/04/26/nearly_over/"
 tags:
 - Travels

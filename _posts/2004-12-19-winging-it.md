@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1103450857
+changed_ts: 1279903438
+node_id: 1564
 title: winging it
-created: 1103450857
+created: '2004-12-19'
+changed: '2010-07-23'
+aliases:
+- "/2004/12/19/winging_it/"
 permalink: "/2004/12/19/winging_it/"
 tags:
 - General

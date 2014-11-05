@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1169720513
+changed_ts: 1279903365
+node_id: 1767
 title: otari-wilton's bush
-created: 1169720513
+created: '2007-01-25'
+changed: '2010-07-23'
+aliases:
+- "/2007/01/25/otariwiltons_bush/"
 permalink: "/2007/01/25/otariwiltons_bush/"
 tags:
 - Travels

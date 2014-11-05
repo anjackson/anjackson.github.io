@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1089184482
+changed_ts: 1279903445
+node_id: 731
 title: all templed out
-created: 1089184482
+created: '2004-07-07'
+changed: '2010-07-23'
+aliases:
+- "/2004/07/07/all_templed_out/"
 permalink: "/2004/07/07/all_templed_out/"
 tags:
 - Travels

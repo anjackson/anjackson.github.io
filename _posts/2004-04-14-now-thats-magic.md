@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1081981602
+changed_ts: 1279903480
+node_id: 534
 title: now that's magic!
-created: 1081981602
+created: '2004-04-14'
+changed: '2010-07-23'
+aliases:
+- "/2004/04/14/now_thats_magic/"
 permalink: "/2004/04/14/now_thats_magic/"
 tags:
 - Travels

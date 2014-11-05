@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1099477203
+changed_ts: 1279903440
+node_id: 1439
 title: steam powered
-created: 1099477203
+created: '2004-11-03'
+changed: '2010-07-23'
+aliases:
+- "/2004/11/03/steam_powered/"
 permalink: "/2004/11/03/steam_powered/"
 tags:
 - Geek

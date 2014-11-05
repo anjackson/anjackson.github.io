@@ -1,7 +1,16 @@
 ---
 layout: post
+type: blog
+promote: 0
+status: 1
+created_ts: 1093017038
+changed_ts: 1279903365
+node_id: 1416
 title: because you're worth it
-created: 1093017038
+created: '2004-08-20'
+changed: '2010-07-23'
+aliases:
+- "/2004/08/20/because_youre_worth_it/"
 permalink: "/2004/08/20/because_youre_worth_it/"
 tags:
 - General
