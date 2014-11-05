@@ -139,29 +139,55 @@ module JekyllImport
         FileUtils.mkdir_p "_drafts"
         FileUtils.mkdir_p "_layouts"
 
+        all_urls = []
+
         db[QUERY].each do |post|
           #pp(post)
           # Get required fields and construct Jekyll compatible name
+          postdata = {
+            'layout' => 'default',
+            'type' => post[:type],
+            'promote' => post[:promote],
+            'status' => post[:status],
+            'created_ts' => post[:created],
+            'changed_ts' => post[:changed],
+            'node_id' => post[:nid],
+            'title' => post[:title]
+          }
+
+          # Grab the node ID:
           node_id = post[:nid]
-          title = post[:title]
-          content = post[:body_value]
-          created = post[:created]
-          time = Time.at(created)
+
+          # Decide the filename etc.:
+          time = Time.at(post[:created])
+          postdata['created'] = time.strftime("%Y-%m-%d")
+          mtime = Time.at(post[:changed])
+          postdata['changed'] = mtime.strftime("%Y-%m-%d")
           is_published = post[:status] == 1
+          title = post[:title]          
+          slug = title.strip.downcase.gsub(/(&|&amp;)/, ' and ').gsub(/[\s\.\/\\]/, '-').gsub(/[^\w-]/, '').gsub(/[-_]{2,}/, '-').gsub(/^[-_]/, '').gsub(/[-_]$/, '')
           if post[:type] == "blog"
+            postdata['layout'] = "post"
             dir = is_published ? "_posts" : "_drafts"
+            name = time.strftime("%Y-%m-%d-") + slug + '.md'
           else
             dir = post[:type]
             FileUtils.mkdir_p dir
-          end
-          slug = title.strip.downcase.gsub(/(&|&amp;)/, ' and ').gsub(/[\s\.\/\\]/, '-').gsub(/[^\w-]/, '').gsub(/[-_]{2,}/, '-').gsub(/^[-_]/, '').gsub(/[-_]$/, '')
-          name = time.strftime("%Y-%m-%d-") + slug + '.md'
+            name = slug + '.md'
+          end          
 
           # Look for permalinks from the aliases:
+          postdata['aliases'] ||= []
           alias_query = "SELECT alias FROM url_alias WHERE source = 'node/#{node_id}'";
-          node_alias = db[alias_query].first
-          if node_alias != nil
-            node_alias = "/" + node_alias[:alias] + "/"
+          for node_alias in db[alias_query]
+            if node_alias != nil
+              url_alias = "/" + node_alias[:alias] + "/"
+            else
+              url_alias = node_alias = "/node/" + node_id.to_s + "/"
+            end
+            postdata['permalink'] ||= url_alias
+            postdata['aliases'] <<  url_alias
+            all_urls << { 'href' => url_alias, 'title' => title }
           end
 
           # Look for relevant taxonomy entries:
@@ -171,6 +197,7 @@ module JekyllImport
           terms.merge(self.get_taxonomy_terms(db, "taxonomy_vocabulary_7", node_id))
           terms.merge(self.get_taxonomy_terms(db, "taxonomy_vocabulary_9", node_id))
           terms.merge(self.get_taxonomy_terms(db, "taxonomy_vocabulary_10", node_id))
+          postdata['tags'] = terms.to_a
 
           # Look for related files:
           file_query = "SELECT fm.* \
@@ -192,9 +219,13 @@ module JekyllImport
               FileUtils.mkdir_p(File.dirname(dst))
               FileUtils.cp(src, dst)
               if post[:type] == "image"
-                content = "\n" + "<img src=\"/#{dst}\"/>" + "\n" + "\n" + content
+                postdata['images'] ||= []
+                postdata['images'] << [{ 'src' => dst, 'name' => dst_file }]
+                # Also override the layout in this case:
+                postdata['layout'] = "image"
               else
-                content = "#{content}\n\n" + "Download: <a href=\"/#{dst}\">#{dst_file}</a>" + "\n"
+                postdata['attachments'] ||= []
+                postdata['attachments'] << [{ 'src' => dst, 'name' => dst_file }]
                 #print("cp #{src} to #{dst}\n")
               end
             else
@@ -204,15 +235,10 @@ module JekyllImport
 
           # Get the relevant fields as a hash, delete empty fields and convert
           # to YAML for the header
-          data = {
-             'layout' => 'post',
-             'title' => title.to_s,
-             'created' => created,
-             'permalink' => node_alias,
-             'tags' => terms.to_a,
-          }.delete_if { |k,v| v.nil? || v == ''}.to_yaml
+          data = postdata.delete_if { |k,v| v.nil? || v == ''}.to_yaml
 
           # Convert the content if appropriate:
+          content = post[:body_value]
           if post[:body_format] == "1"
             content = phpwikiToMarkdown(content)
           end
@@ -227,6 +253,15 @@ module JekyllImport
             f.puts content
           end
 
+        end
+        
+        File.open("import_sitemap.md", "w") do |f|
+          f.puts "---"
+          f.puts "title: Site Map"
+          f.puts "---"
+          for entry in all_urls.sort_by { |hsh| hsh['href'] }
+            f.puts "* [#{entry['title']}](#{entry['href']})"
+          end
         end
 
         # TODO: Make dirs & files for nodes of type 'page'
