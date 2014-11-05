@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/wellington_panorama/"
+- "/node/1099/"
 permalink: "/2004/08/10/wellington_panorama/"
 tags:
 - Wellington
 images:
-- - src: image/images/130_3084-87-pan-1099.jpg
-    name: 130_3084-87-pan-1099.jpg
+- src: image/images/130_3084-87-pan-1099.jpg
+  name: 130_3084-87-pan-1099.jpg
 ---
 Composite of shots taken from one of the viewpoints near the cable car.

@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/museum_entrance/"
+- "/node/1007/"
 permalink: "/2004/08/10/museum_entrance/"
 tags:
 - Auckland
 images:
-- - src: image/images/img_2163-1007.jpg
-    name: img_2163-1007.jpg
+- src: image/images/img_2163-1007.jpg
+  name: img_2163-1007.jpg
 ---
 [Auckland Museum](http://www.aucklandmuseum.com/)

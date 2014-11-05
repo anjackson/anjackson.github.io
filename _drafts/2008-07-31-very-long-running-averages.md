@@ -11,6 +11,7 @@ created: '2008-07-31'
 changed: '2010-07-23'
 aliases:
 - "/2008/07/31/very_long_running_averages/"
+- "/node/1827/"
 permalink: "/2008/07/31/very_long_running_averages/"
 tags:
 - Geek

@@ -9,7 +9,9 @@ node_id: 698
 title: Patent Unpended
 created: '2004-05-20'
 changed: '2004-05-20'
-aliases: []
+aliases:
+- "/node/698/"
+permalink: "/node/698/"
 tags: []
 ---
 ### Summary

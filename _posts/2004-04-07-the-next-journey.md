@@ -11,6 +11,7 @@ created: '2004-04-07'
 changed: '2010-07-23'
 aliases:
 - "/2004/04/07/next_journey/"
+- "/node/532/"
 permalink: "/2004/04/07/next_journey/"
 tags:
 - Travels

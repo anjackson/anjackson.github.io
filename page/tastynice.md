@@ -11,6 +11,7 @@ created: '2004-08-11'
 changed: '2004-08-11'
 aliases:
 - "/about/ilike/tastynice/"
+- "/node/1292/"
 permalink: "/about/ilike/tastynice/"
 tags: []
 ---

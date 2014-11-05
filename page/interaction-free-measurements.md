@@ -11,11 +11,12 @@ created: '2004-05-12'
 changed: '2007-02-08'
 aliases:
 - "/ix2v/comphys/docs/phd/ifm.pdf/"
+- "/node/577/"
 permalink: "/ix2v/comphys/docs/phd/ifm.pdf/"
 tags: []
 attachments:
-- - src: page/files/ifm.pdf
-    name: ifm.pdf
+- src: page/files/ifm.pdf
+  name: ifm.pdf
 ---
 ### Interaction-Free Measurements
 ## Learning To See In The Dark

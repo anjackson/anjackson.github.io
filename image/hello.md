@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/hello/"
+- "/node/1095/"
 permalink: "/2004/08/10/hello/"
 tags:
 - Wellington
 images:
-- - src: image/images/130_3078-1095.jpg
-    name: 130_3078-1095.jpg
+- src: image/images/130_3078-1095.jpg
+  name: 130_3078-1095.jpg
 ---
 The Cat Empire on the telly.

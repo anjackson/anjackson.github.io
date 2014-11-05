@@ -9,7 +9,9 @@ node_id: 719
 title: tuk tuk
 created: '2004-06-17'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/719/"
+permalink: "/node/719/"
 tags:
 - From the internet
 ---

@@ -9,12 +9,14 @@ node_id: 1081
 title: 03026 Elijah Wood and Andy Serkis
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1081/"
+permalink: "/node/1081/"
 tags:
 - The Return Of The King
 - 2003/12 - December 2003
 images:
-- - src: image/images/130_3026-1081.jpg
-    name: 130_3026-1081.jpg
+- src: image/images/130_3026-1081.jpg
+  name: 130_3026-1081.jpg
 ---
 

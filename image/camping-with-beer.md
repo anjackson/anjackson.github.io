@@ -11,13 +11,14 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/camping_with_beer/"
+- "/node/1036/"
 permalink: "/2004/08/10/camping_with_beer/"
 tags:
 - Coromandel
 - Aaron P
 - Claire G
 images:
-- - src: image/images/img_2237-1036.jpg
-    name: img_2237-1036.jpg
+- src: image/images/img_2237-1036.jpg
+  name: img_2237-1036.jpg
 ---
 

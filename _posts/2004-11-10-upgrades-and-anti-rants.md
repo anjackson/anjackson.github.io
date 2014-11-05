@@ -11,6 +11,7 @@ created: '2004-11-10'
 changed: '2010-07-23'
 aliases:
 - "/2004/11/10/upgrades_and_antirants/"
+- "/node/1443/"
 permalink: "/2004/11/10/upgrades_and_antirants/"
 tags:
 - General

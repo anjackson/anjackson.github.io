@@ -9,12 +9,14 @@ node_id: 1073
 title: 03015 Peter Jackson
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1073/"
+permalink: "/node/1073/"
 tags:
 - The Return Of The King
 - 2003/12 - December 2003
 images:
-- - src: image/images/130_3015-1073.jpg
-    name: 130_3015-1073.jpg
+- src: image/images/130_3015-1073.jpg
+  name: 130_3015-1073.jpg
 ---
 

@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/carvings/"
+- "/node/1011/"
 permalink: "/2004/08/10/carvings/"
 tags:
 - Auckland
 images:
-- - src: image/images/img_2177-1011.jpg
-    name: img_2177-1011.jpg
+- src: image/images/img_2177-1011.jpg
+  name: img_2177-1011.jpg
 ---
 [Auckland Museum](http://www.aucklandmuseum.com/)

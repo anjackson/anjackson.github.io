@@ -11,11 +11,12 @@ created: '2004-05-12'
 changed: '2007-02-08'
 aliases:
 - "/ix2v/comphys/docs/ug/y3-pm1-fd-ho.pdf/"
+- "/node/584/"
 permalink: "/ix2v/comphys/docs/ug/y3-pm1-fd-ho.pdf/"
 tags: []
 attachments:
-- - src: page/files/y3-pm1-fd-ho.pdf
-    name: y3-pm1-fd-ho.pdf
+- src: page/files/y3-pm1-fd-ho.pdf
+  name: y3-pm1-fd-ho.pdf
 ---
 ### Finite Difference Simulation of a One Dimensional Harmonic Oscillator
 ## A comparison of three finite difference techniques

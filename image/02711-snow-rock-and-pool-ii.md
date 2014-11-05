@@ -9,12 +9,14 @@ node_id: 921
 title: 02711 Snow, rock and pool II
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/921/"
+permalink: "/node/921/"
 tags:
 - 2003/11 - November 2003
 - Tongariro Crossing
 images:
-- - src: image/images/127_2711-921.jpg
-    name: 127_2711-921.jpg
+- src: image/images/127_2711-921.jpg
+  name: 127_2711-921.jpg
 ---
 

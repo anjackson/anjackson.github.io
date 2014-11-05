@@ -11,11 +11,12 @@ created: '2004-07-26'
 changed: '2013-06-25'
 aliases:
 - "/2004/07/26/early_lakeside/"
+- "/node/822/"
 permalink: "/2004/07/26/early_lakeside/"
 tags:
 - Rotorua
 images:
-- - src: image/images/img_2448-822.jpg
-    name: img_2448-822.jpg
+- src: image/images/img_2448-822.jpg
+  name: img_2448-822.jpg
 ---
 

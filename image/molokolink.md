@@ -9,11 +9,13 @@ node_id: 606
 title: molokolink
 created: '2004-05-12'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/606/"
+permalink: "/node/606/"
 tags:
 - imgn
 images:
-- - src: image/images/molokolink-606.jpg
-    name: molokolink-606.jpg
+- src: image/images/molokolink-606.jpg
+  name: molokolink-606.jpg
 ---
 

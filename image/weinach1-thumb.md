@@ -9,11 +9,13 @@ node_id: 631
 title: weinach1.thumb
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/631/"
+permalink: "/node/631/"
 tags:
 - Older
 images:
-- - src: image/images/weinach1.thumb-631.jpg
-    name: weinach1.thumb-631.jpg
+- src: image/images/weinach1.thumb-631.jpg
+  name: weinach1.thumb-631.jpg
 ---
 

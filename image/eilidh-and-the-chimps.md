@@ -11,11 +11,12 @@ created: '2007-01-31'
 changed: '2013-06-25'
 aliases:
 - "/2007/01/31/eilidh_and_the_chimps/"
+- "/node/1774/"
 permalink: "/2007/01/31/eilidh_and_the_chimps/"
 tags:
 - Wellington Zoo
 images:
-- - src: image/images/IMG_3288.JPG
-    name: IMG_3288.JPG
+- src: image/images/IMG_3288.JPG
+  name: IMG_3288.JPG
 ---
 

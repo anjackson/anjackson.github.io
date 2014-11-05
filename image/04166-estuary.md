@@ -9,12 +9,14 @@ node_id: 1471
 title: 04166 Estuary
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1471/"
+permalink: "/node/1471/"
 tags:
 - 2004/01 - January 2004
 - Abel Tasman
 images:
-- - src: image/images/04166_estuary-1471.jpg
-    name: 04166_estuary-1471.jpg
+- src: image/images/04166_estuary-1471.jpg
+  name: 04166_estuary-1471.jpg
 ---
 

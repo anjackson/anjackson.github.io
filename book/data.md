@@ -9,7 +9,9 @@ node_id: 711
 title: Data
 created: '2004-06-02'
 changed: '2004-06-02'
-aliases: []
+aliases:
+- "/node/711/"
+permalink: "/node/711/"
 tags: []
 ---
 Issues concerning input, storage, output and sharing of scientific data.  Machine-dependancy, endian-ness IEEE and so on.

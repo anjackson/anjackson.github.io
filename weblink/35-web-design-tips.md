@@ -11,6 +11,7 @@ created: '2004-12-30'
 changed: '2004-12-30'
 aliases:
 - "/2004/12/30/35-web-design-tips/"
+- "/node/1580/"
 permalink: "/2004/12/30/35-web-design-tips/"
 tags:
 - Web Design

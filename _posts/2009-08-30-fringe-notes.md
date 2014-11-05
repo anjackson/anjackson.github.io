@@ -11,6 +11,7 @@ created: '2009-08-30'
 changed: '2010-07-23'
 aliases:
 - "/2009/08/30/fringe_notes/"
+- "/node/1866/"
 permalink: "/2009/08/30/fringe_notes/"
 tags:
 - Reviews

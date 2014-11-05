@@ -9,7 +9,9 @@ node_id: 1557
 title: World Sunlight Map
 created: '2004-12-03'
 changed: '2004-12-03'
-aliases: []
+aliases:
+- "/node/1557/"
+permalink: "/node/1557/"
 tags:
 - Geeking
 ---

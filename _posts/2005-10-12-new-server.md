@@ -11,6 +11,7 @@ created: '2005-10-12'
 changed: '2010-07-23'
 aliases:
 - "/2005/10/12/new_server/"
+- "/node/1607/"
 permalink: "/2005/10/12/new_server/"
 tags:
 - Geek

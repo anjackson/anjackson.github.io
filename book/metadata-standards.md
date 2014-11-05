@@ -11,6 +11,7 @@ created: '2009-08-10'
 changed: '2009-08-11'
 aliases:
 - "/digital_preservation_notebook/metadata_standards/"
+- "/node/1851/"
 permalink: "/digital_preservation_notebook/metadata_standards/"
 tags: []
 ---

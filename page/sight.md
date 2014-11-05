@@ -11,6 +11,7 @@ created: '2004-08-13'
 changed: '2004-11-30'
 aliases:
 - "/poot/java/sight/"
+- "/node/1297/"
 permalink: "/poot/java/sight/"
 tags: []
 ---

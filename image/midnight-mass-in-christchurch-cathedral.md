@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/midnight_mass_in_christchurch_cathedral/"
+- "/node/1193/"
 permalink: "/2004/08/10/midnight_mass_in_christchurch_cathedral/"
 tags:
 - Christchurch
 images:
-- - src: image/images/134_3438-1193.jpg
-    name: 134_3438-1193.jpg
+- src: image/images/134_3438-1193.jpg
+  name: 134_3438-1193.jpg
 ---
 

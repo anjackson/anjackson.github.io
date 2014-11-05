@@ -9,11 +9,13 @@ node_id: 667
 title: aj-logo-sml
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/667/"
+permalink: "/node/667/"
 tags:
 - Older
 images:
-- - src: image/images/aj-logo-sml-667.png
-    name: aj-logo-sml-667.png
+- src: image/images/aj-logo-sml-667.png
+  name: aj-logo-sml-667.png
 ---
 

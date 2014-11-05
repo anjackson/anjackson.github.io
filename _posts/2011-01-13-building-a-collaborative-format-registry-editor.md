@@ -11,6 +11,7 @@ created: '2011-01-13'
 changed: '2011-01-14'
 aliases:
 - "/2011/01/13/building_collaborative_format_registry_editor/"
+- "/node/1887/"
 permalink: "/2011/01/13/building_collaborative_format_registry_editor/"
 tags:
 - Digital Preservation

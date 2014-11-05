@@ -9,12 +9,14 @@ node_id: 437
 title: 01081 Wheelbarrow
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/437/"
+permalink: "/node/437/"
 tags:
 - Fiji
 - 2003/09 - September 2003
 images:
-- - src: image/images/img_1081-b-437.jpg
-    name: img_1081-b-437.jpg
+- src: image/images/img_1081-b-437.jpg
+  name: img_1081-b-437.jpg
 ---
 Beautiful waters at Mala Mala island, Fiji.

@@ -11,11 +11,12 @@ created: '2006-06-05'
 changed: '2013-06-25'
 aliases:
 - "/2006/06/05/bravia_detritus/"
+- "/node/1629/"
 permalink: "/2006/06/05/bravia_detritus/"
 tags:
 - From the internet
 images:
-- - src: image/images/bravia_gallery_07.jpg
-    name: bravia_gallery_07.jpg
+- src: image/images/bravia_gallery_07.jpg
+  name: bravia_gallery_07.jpg
 ---
 An image from [www.bravia-advert.com](http://www.bravia-advert.com/).

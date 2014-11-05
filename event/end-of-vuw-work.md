@@ -9,7 +9,9 @@ node_id: 490
 title: End of VUW work.
 created: '2004-03-31'
 changed: '2004-05-27'
-aliases: []
+aliases:
+- "/node/490/"
+permalink: "/node/490/"
 tags: []
 ---
 End of time working for Paul Callaghan at Victoria University Wellington.

@@ -11,11 +11,12 @@ created: '2007-01-19'
 changed: '2013-06-25'
 aliases:
 - "/2007/01/19/filming_on_mount_victoria/"
+- "/node/1761/"
 permalink: "/2007/01/19/filming_on_mount_victoria/"
 tags:
 - Comet McNaught
 images:
-- - src: image/images/IMG_3195.JPG
-    name: IMG_3195.JPG
+- src: image/images/IMG_3195.JPG
+  name: IMG_3195.JPG
 ---
 

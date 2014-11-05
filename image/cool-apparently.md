@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/cool_apparently/"
+- "/node/1033/"
 permalink: "/2004/08/10/cool_apparently/"
 tags:
 - Coromandel
 images:
-- - src: image/images/img_2230-1033.jpg
-    name: img_2230-1033.jpg
+- src: image/images/img_2230-1033.jpg
+  name: img_2230-1033.jpg
 ---
 

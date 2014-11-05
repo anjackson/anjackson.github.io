@@ -9,7 +9,9 @@ node_id: 1532
 title: DHTML Lemmings
 created: '2004-11-18'
 changed: '2004-11-18'
-aliases: []
+aliases:
+- "/node/1532/"
+permalink: "/node/1532/"
 tags:
 - DHTML
 ---

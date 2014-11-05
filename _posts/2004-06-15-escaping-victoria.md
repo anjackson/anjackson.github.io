@@ -11,6 +11,7 @@ created: '2004-06-15'
 changed: '2010-07-23'
 aliases:
 - "/2004/06/15/escaping_victoria/"
+- "/node/717/"
 permalink: "/2004/06/15/escaping_victoria/"
 tags:
 - Travels

@@ -11,6 +11,7 @@ created: '2005-03-22'
 changed: '2010-07-23'
 aliases:
 - "/2005/03/22/dont_panic/"
+- "/node/1602/"
 permalink: "/2005/03/22/dont_panic/"
 tags:
 - Travels

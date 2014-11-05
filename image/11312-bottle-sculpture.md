@@ -9,12 +9,14 @@ node_id: 1501
 title: 11312 Bottle Sculpture
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1501/"
+permalink: "/node/1501/"
 tags:
 - Wellington
 - 2004/11 November 2004
 images:
-- - src: image/images/11312_bottle_sculpture-1501.jpg
-    name: 11312_bottle_sculpture-1501.jpg
+- src: image/images/11312_bottle_sculpture-1501.jpg
+  name: 11312_bottle_sculpture-1501.jpg
 ---
 

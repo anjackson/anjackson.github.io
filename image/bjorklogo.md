@@ -9,7 +9,9 @@ node_id: 599
 title: bjorklogo
 created: '2004-05-12'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/599/"
+permalink: "/node/599/"
 tags:
 - imgn
 ---

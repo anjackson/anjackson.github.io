@@ -9,7 +9,9 @@ node_id: 1454
 title: Nutshells
 created: '2004-11-12'
 changed: '2004-11-12'
-aliases: []
+aliases:
+- "/node/1454/"
+permalink: "/node/1454/"
 tags:
 - Geeking
 ---

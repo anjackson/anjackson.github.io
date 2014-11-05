@@ -9,12 +9,14 @@ node_id: 334
 title: 00797 - Hairy Trees
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/334/"
+permalink: "/node/334/"
 tags:
 - California
 - 2003/09 - September 2003
 images:
-- - src: image/images/107_0797-334.jpg
-    name: 107_0797-334.jpg
+- src: image/images/107_0797-334.jpg
+  name: 107_0797-334.jpg
 ---
 

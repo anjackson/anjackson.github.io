@@ -9,12 +9,14 @@ node_id: 1397
 title: 04000 Bluee Tractor, working
 created: '2004-08-20'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1397/"
+permalink: "/node/1397/"
 tags:
 - 2004/01 - January 2004
 - Abel Tasman
 images:
-- - src: image/images/04000_bluee_tractor_working-1397.jpg
-    name: 04000_bluee_tractor_working-1397.jpg
+- src: image/images/04000_bluee_tractor_working-1397.jpg
+  name: 04000_bluee_tractor_working-1397.jpg
 ---
 

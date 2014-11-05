@@ -11,6 +11,7 @@ created: '2008-01-21'
 changed: '2010-07-23'
 aliases:
 - "/2008/01/21/six_months_weblogs_missing_tragic_data_loss/"
+- "/node/1809/"
 permalink: "/2008/01/21/six_months_weblogs_missing_tragic_data_loss/"
 tags:
 - General

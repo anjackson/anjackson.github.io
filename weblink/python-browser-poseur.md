@@ -11,6 +11,7 @@ created: '2005-01-11'
 changed: '2005-01-11'
 aliases:
 - "/2005/01/11/python-browser-poseur/"
+- "/node/1588/"
 permalink: "/2005/01/11/python-browser-poseur/"
 tags:
 - Coding

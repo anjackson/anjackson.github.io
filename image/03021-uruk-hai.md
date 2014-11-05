@@ -9,12 +9,14 @@ node_id: 1077
 title: 03021 Uruk-hai
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1077/"
+permalink: "/node/1077/"
 tags:
 - The Return Of The King
 - 2003/12 - December 2003
 images:
-- - src: image/images/130_3021-1077.jpg
-    name: 130_3021-1077.jpg
+- src: image/images/130_3021-1077.jpg
+  name: 130_3021-1077.jpg
 ---
 

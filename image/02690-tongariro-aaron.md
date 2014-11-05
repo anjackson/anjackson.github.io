@@ -9,13 +9,15 @@ node_id: 907
 title: 02690 Tongariro Aaron
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/907/"
+permalink: "/node/907/"
 tags:
 - 2003/11 - November 2003
 - Tongariro Crossing
 - Aaron P
 images:
-- - src: image/images/126_2690-907.jpg
-    name: 126_2690-907.jpg
+- src: image/images/126_2690-907.jpg
+  name: 126_2690-907.jpg
 ---
 

@@ -9,12 +9,14 @@ node_id: 1584
 title: 11560 Lambton Quay
 created: '2005-01-02'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1584/"
+permalink: "/node/1584/"
 tags:
 - Wellington
 - 2004/12 December 2004
 images:
-- - src: image/images/11560_lambton_quay-1584.jpg
-    name: 11560_lambton_quay-1584.jpg
+- src: image/images/11560_lambton_quay-1584.jpg
+  name: 11560_lambton_quay-1584.jpg
 ---
 

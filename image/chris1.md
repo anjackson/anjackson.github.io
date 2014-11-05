@@ -9,11 +9,13 @@ node_id: 616
 title: chris1
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/616/"
+permalink: "/node/616/"
 tags:
 - Older
 images:
-- - src: image/images/chris1-616.jpg
-    name: chris1-616.jpg
+- src: image/images/chris1-616.jpg
+  name: chris1-616.jpg
 ---
 

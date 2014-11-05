@@ -11,11 +11,12 @@ created: '2007-01-31'
 changed: '2013-06-25'
 aliases:
 - "/2007/01/31/how_old/"
+- "/node/1770/"
 permalink: "/2007/01/31/how_old/"
 tags:
 - Wellington Zoo
 images:
-- - src: image/images/IMG_3256.JPG
-    name: IMG_3256.JPG
+- src: image/images/IMG_3256.JPG
+  name: IMG_3256.JPG
 ---
 

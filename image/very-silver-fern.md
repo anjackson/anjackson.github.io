@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/very_silver_fern/"
+- "/node/997/"
 permalink: "/2004/08/10/very_silver_fern/"
 tags:
 - Bay of Islands
 images:
-- - src: image/images/img_2113-997.jpg
-    name: img_2113-997.jpg
+- src: image/images/img_2113-997.jpg
+  name: img_2113-997.jpg
 ---
 

@@ -11,11 +11,12 @@ created: '2004-07-26'
 changed: '2013-06-25'
 aliases:
 - "/2004/07/26/near_cathedral_cove/"
+- "/node/795/"
 permalink: "/2004/07/26/near_cathedral_cove/"
 tags:
 - Coromandel
 images:
-- - src: image/images/img_2369-795.jpg
-    name: img_2369-795.jpg
+- src: image/images/img_2369-795.jpg
+  name: img_2369-795.jpg
 ---
 

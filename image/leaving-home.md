@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/leaving_home/"
+- "/node/1039/"
 permalink: "/2004/08/10/leaving_home/"
 tags:
 - Wellington
 images:
-- - src: image/images/129_2944-1039.jpg
-    name: 129_2944-1039.jpg
+- src: image/images/129_2944-1039.jpg
+  name: 129_2944-1039.jpg
 ---
 Te Papa

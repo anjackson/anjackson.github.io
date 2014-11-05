@@ -11,11 +11,12 @@ created: '2007-01-31'
 changed: '2013-06-25'
 aliases:
 - "/2007/01/31/sun_conure/"
+- "/node/1784/"
 permalink: "/2007/01/31/sun_conure/"
 tags:
 - Wellington Zoo
 images:
-- - src: image/images/IMG_3392.JPG
-    name: IMG_3392.JPG
+- src: image/images/IMG_3392.JPG
+  name: IMG_3392.JPG
 ---
 

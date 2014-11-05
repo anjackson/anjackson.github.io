@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/me_and_a_waterfall/"
+- "/node/1002/"
 permalink: "/2004/08/10/me_and_a_waterfall/"
 tags:
 - Bay of Islands
 images:
-- - src: image/images/img_2131-1002.jpg
-    name: img_2131-1002.jpg
+- src: image/images/img_2131-1002.jpg
+  name: img_2131-1002.jpg
 ---
 

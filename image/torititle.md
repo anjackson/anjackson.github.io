@@ -9,11 +9,13 @@ node_id: 612
 title: torititle
 created: '2004-05-12'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/612/"
+permalink: "/node/612/"
 tags:
 - imgn
 images:
-- - src: image/images/torititle-612.jpg
-    name: torititle-612.jpg
+- src: image/images/torititle-612.jpg
+  name: torititle-612.jpg
 ---
 

@@ -9,12 +9,14 @@ node_id: 1412
 title: 04062 Blue Moon II
 created: '2004-08-20'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1412/"
+permalink: "/node/1412/"
 tags:
 - 2004/01 - January 2004
 - Abel Tasman
 images:
-- - src: image/images/04062_blue_moon_ii-1412.jpg
-    name: 04062_blue_moon_ii-1412.jpg
+- src: image/images/04062_blue_moon_ii-1412.jpg
+  name: 04062_blue_moon_ii-1412.jpg
 ---
 

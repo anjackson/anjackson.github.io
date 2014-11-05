@@ -9,7 +9,9 @@ node_id: 1548
 title: Stock Vault
 created: '2004-12-02'
 changed: '2004-12-02'
-aliases: []
+aliases:
+- "/node/1548/"
+permalink: "/node/1548/"
 tags:
 - Stock
 ---

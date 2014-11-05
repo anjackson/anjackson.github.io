@@ -11,11 +11,12 @@ created: '2007-01-19'
 changed: '2013-06-25'
 aliases:
 - "/2007/01/19/waiting_for_the_train/"
+- "/node/1724/"
 permalink: "/2007/01/19/waiting_for_the_train/"
 tags:
 - The first few days
 images:
-- - src: image/images/IMG_2727.JPG
-    name: IMG_2727.JPG
+- src: image/images/IMG_2727.JPG
+  name: IMG_2727.JPG
 ---
 

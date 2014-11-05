@@ -9,11 +9,13 @@ node_id: 621
 title: imgn-logo-sml
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/621/"
+permalink: "/node/621/"
 tags:
 - Older
 images:
-- - src: image/images/imgn-logo-sml-621.jpg
-    name: imgn-logo-sml-621.jpg
+- src: image/images/imgn-logo-sml-621.jpg
+  name: imgn-logo-sml-621.jpg
 ---
 

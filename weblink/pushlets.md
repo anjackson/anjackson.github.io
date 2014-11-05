@@ -9,7 +9,9 @@ node_id: 1534
 title: Pushlets
 created: '2004-11-18'
 changed: '2004-11-18'
-aliases: []
+aliases:
+- "/node/1534/"
+permalink: "/node/1534/"
 tags:
 - DHTML
 ---

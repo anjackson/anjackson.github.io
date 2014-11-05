@@ -11,11 +11,12 @@ created: '2004-05-13'
 changed: '2013-06-25'
 aliases:
 - "/2004/05/13/classphoto1996_edit/"
+- "/node/637/"
 permalink: "/2004/05/13/classphoto1996_edit/"
 tags:
 - University of York
 images:
-- - src: image/images/classphoto1996-edit-637.jpg
-    name: classphoto1996-edit-637.jpg
+- src: image/images/classphoto1996-edit-637.jpg
+  name: classphoto1996-edit-637.jpg
 ---
 Class of 1996.

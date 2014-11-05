@@ -11,11 +11,12 @@ created: '2007-01-19'
 changed: '2013-06-25'
 aliases:
 - "/2007/01/19/further_along_the_waterfront/"
+- "/node/1732/"
 permalink: "/2007/01/19/further_along_the_waterfront/"
 tags:
 - The first few days
 images:
-- - src: image/images/IMG_2707.JPG
-    name: IMG_2707.JPG
+- src: image/images/IMG_2707.JPG
+  name: IMG_2707.JPG
 ---
 

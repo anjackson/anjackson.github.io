@@ -11,11 +11,12 @@ created: '2007-01-31'
 changed: '2013-06-25'
 aliases:
 - "/2007/01/31/australian_pelicans/"
+- "/node/1782/"
 permalink: "/2007/01/31/australian_pelicans/"
 tags:
 - Wellington Zoo
 images:
-- - src: image/images/IMG_3384.JPG
-    name: IMG_3384.JPG
+- src: image/images/IMG_3384.JPG
+  name: IMG_3384.JPG
 ---
 

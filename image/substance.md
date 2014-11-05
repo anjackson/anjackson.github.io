@@ -9,11 +9,13 @@ node_id: 607
 title: substance
 created: '2004-05-12'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/607/"
+permalink: "/node/607/"
 tags:
 - imgn
 images:
-- - src: image/images/substance-607.jpg
-    name: substance-607.jpg
+- src: image/images/substance-607.jpg
+  name: substance-607.jpg
 ---
 

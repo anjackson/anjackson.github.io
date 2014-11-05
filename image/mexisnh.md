@@ -9,11 +9,13 @@ node_id: 619
 title: mexiSnH
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/619/"
+permalink: "/node/619/"
 tags:
 - Older
 images:
-- - src: image/images/mexisnh-619.jpg
-    name: mexisnh-619.jpg
+- src: image/images/mexisnh-619.jpg
+  name: mexisnh-619.jpg
 ---
 

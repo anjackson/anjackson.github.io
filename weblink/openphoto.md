@@ -9,7 +9,9 @@ node_id: 1546
 title: OpenPhoto
 created: '2004-12-02'
 changed: '2004-12-02'
-aliases: []
+aliases:
+- "/node/1546/"
+permalink: "/node/1546/"
 tags:
 - Stock
 ---

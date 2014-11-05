@@ -11,6 +11,7 @@ created: '2010-12-14'
 changed: '2010-12-17'
 aliases:
 - "/2010/12/14/experimenting_hadoop/"
+- "/node/1884/"
 permalink: "/2010/12/14/experimenting_hadoop/"
 tags:
 - Digital Preservation

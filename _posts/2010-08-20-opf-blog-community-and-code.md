@@ -11,6 +11,7 @@ created: '2010-08-20'
 changed: '2010-12-09'
 aliases:
 - "/2010/08/20/opf_blog_community_and_code/"
+- "/node/1882/"
 permalink: "/2010/08/20/opf_blog_community_and_code/"
 tags:
 - Digital Preservation

@@ -9,12 +9,14 @@ node_id: 1300
 title: 'TBT: World Map'
 created: '2004-08-16'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1300/"
+permalink: "/node/1300/"
 tags:
 - The Big Trip
 - From the internet
 images:
-- - src: image/images/worldmap_s-1300.png
-    name: worldmap_s-1300.png
+- src: image/images/worldmap_s-1300.png
+  name: worldmap_s-1300.png
 ---
 Overview of my flight route for The Big Trip, September 2003 to July 2004.  The map itself was taken from the excellent set of freely-usable Blue Marble images created by NASA.

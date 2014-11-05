@@ -9,7 +9,9 @@ node_id: 572
 title: David &amp; Jenny leave.
 created: '2004-05-12'
 changed: '2004-05-24'
-aliases: []
+aliases:
+- "/node/572/"
+permalink: "/node/572/"
 tags:
 - General
 ---

@@ -11,11 +11,12 @@ created: '2007-01-31'
 changed: '2013-06-25'
 aliases:
 - "/2007/01/31/asian_small_clawed_otters/"
+- "/node/1771/"
 permalink: "/2007/01/31/asian_small_clawed_otters/"
 tags:
 - Wellington Zoo
 images:
-- - src: image/images/IMG_3267.JPG
-    name: IMG_3267.JPG
+- src: image/images/IMG_3267.JPG
+  name: IMG_3267.JPG
 ---
 

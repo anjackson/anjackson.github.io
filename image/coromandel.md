@@ -11,11 +11,12 @@ created: '2004-07-26'
 changed: '2013-06-25'
 aliases:
 - "/2004/07/26/coromandel/"
+- "/node/784/"
 permalink: "/2004/07/26/coromandel/"
 tags:
 - Coromandel
 images:
-- - src: image/images/img_2338-784.jpg
-    name: img_2338-784.jpg
+- src: image/images/img_2338-784.jpg
+  name: img_2338-784.jpg
 ---
 

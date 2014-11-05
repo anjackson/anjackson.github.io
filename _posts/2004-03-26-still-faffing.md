@@ -11,6 +11,7 @@ created: '2004-03-26'
 changed: '2010-07-23'
 aliases:
 - "/2004/03/26/still_faffing/"
+- "/node/317/"
 permalink: "/2004/03/26/still_faffing/"
 tags:
 - Procrastination

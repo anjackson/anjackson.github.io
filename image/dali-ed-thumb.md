@@ -9,11 +9,13 @@ node_id: 629
 title: dali-ed.thumb
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/629/"
+permalink: "/node/629/"
 tags:
 - Older
 images:
-- - src: image/images/dali-ed.thumb-629.jpg
-    name: dali-ed.thumb-629.jpg
+- src: image/images/dali-ed.thumb-629.jpg
+  name: dali-ed.thumb-629.jpg
 ---
 

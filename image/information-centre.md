@@ -11,11 +11,12 @@ created: '2007-01-19'
 changed: '2013-06-25'
 aliases:
 - "/2007/01/19/information_centre/"
+- "/node/1743/"
 permalink: "/2007/01/19/information_centre/"
 tags:
 - Otari-Wilton's Bush
 images:
-- - src: image/images/IMG_2928.JPG
-    name: IMG_2928.JPG
+- src: image/images/IMG_2928.JPG
+  name: IMG_2928.JPG
 ---
 

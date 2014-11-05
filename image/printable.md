@@ -9,11 +9,13 @@ node_id: 666
 title: printable
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/666/"
+permalink: "/node/666/"
 tags:
 - Older
 images:
-- - src: image/images/printable-666.png
-    name: printable-666.png
+- src: image/images/printable-666.png
+  name: printable-666.png
 ---
 

@@ -11,6 +11,7 @@ created: '2004-04-22'
 changed: '2010-07-23'
 aliases:
 - "/2004/04/22/more_jam_man/"
+- "/node/544/"
 permalink: "/2004/04/22/more_jam_man/"
 tags:
 - Travels

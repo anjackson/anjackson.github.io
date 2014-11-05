@@ -9,12 +9,14 @@ node_id: 1486
 title: 11103 Firework Helicopter
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1486/"
+permalink: "/node/1486/"
 tags:
 - Wellington
 - 2004/11 November 2004
 images:
-- - src: image/images/11103_firework_helicopter-1486.jpg
-    name: 11103_firework_helicopter-1486.jpg
+- src: image/images/11103_firework_helicopter-1486.jpg
+  name: 11103_firework_helicopter-1486.jpg
 ---
 

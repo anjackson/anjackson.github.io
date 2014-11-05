@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/thames_police_station/"
+- "/node/1022/"
 permalink: "/2004/08/10/thames_police_station/"
 tags:
 - Coromandel
 images:
-- - src: image/images/img_2205-1022.jpg
-    name: img_2205-1022.jpg
+- src: image/images/img_2205-1022.jpg
+  name: img_2205-1022.jpg
 ---
 

@@ -11,6 +11,7 @@ created: '2004-05-11'
 changed: '2009-08-10'
 aliases:
 - "/work/physics/"
+- "/node/565/"
 permalink: "/work/physics/"
 tags:
 - Science

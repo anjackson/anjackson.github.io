@@ -11,6 +11,7 @@ created: '2010-07-22'
 changed: '2010-07-23'
 aliases:
 - "/2010/07/22/digital_preservation_news_aggregation/"
+- "/node/1871/"
 permalink: "/2010/07/22/digital_preservation_news_aggregation/"
 tags:
 - Digital Preservation

@@ -9,13 +9,15 @@ node_id: 389
 title: 01647 Pillar
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/389/"
+permalink: "/node/389/"
 tags:
 - Highlights
 - The Red Centre
 - 2003/10 - October 2003
 images:
-- - src: image/images/img_1647-389.jpg
-    name: img_1647-389.jpg
+- src: image/images/img_1647-389.jpg
+  name: img_1647-389.jpg
 ---
 A rather nice rock pillar atop of King's Canyon.

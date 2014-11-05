@@ -9,13 +9,15 @@ node_id: 382
 title: 01575 Uluru Ants
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/382/"
+permalink: "/node/382/"
 tags:
 - Highlights
 - The Red Centre
 - 2003/10 - October 2003
 images:
-- - src: image/images/img_1575-382.jpg
-    name: img_1575-382.jpg
+- src: image/images/img_1575-382.jpg
+  name: img_1575-382.jpg
 ---
 Folks climbing down Ayres Rock.

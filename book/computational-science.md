@@ -11,6 +11,7 @@ created: '2004-04-06'
 changed: '2006-08-12'
 aliases:
 - "/book/geeknuggets/compsci/"
+- "/node/530/"
 permalink: "/book/geeknuggets/compsci/"
 tags: []
 ---

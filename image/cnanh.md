@@ -9,11 +9,13 @@ node_id: 615
 title: CnAnH
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/615/"
+permalink: "/node/615/"
 tags:
 - Older
 images:
-- - src: image/images/cnanh-615.jpg
-    name: cnanh-615.jpg
+- src: image/images/cnanh-615.jpg
+  name: cnanh-615.jpg
 ---
 

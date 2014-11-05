@@ -9,12 +9,14 @@ node_id: 658
 title: york-fount.sml
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/658/"
+permalink: "/node/658/"
 tags:
 - York
 - Older
 images:
-- - src: image/images/york-fount.sml-658.jpg
-    name: york-fount.sml-658.jpg
+- src: image/images/york-fount.sml-658.jpg
+  name: york-fount.sml-658.jpg
 ---
 

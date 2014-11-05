@@ -9,12 +9,14 @@ node_id: 336
 title: 00809 - Funky tree
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/336/"
+permalink: "/node/336/"
 tags:
 - California
 - 2003/09 - September 2003
 images:
-- - src: image/images/108_0809-336.jpg
-    name: 108_0809-336.jpg
+- src: image/images/108_0809-336.jpg
+  name: 108_0809-336.jpg
 ---
 On 17 Mile Drive.

@@ -9,12 +9,14 @@ node_id: 689
 title: One Drop East
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/689/"
+permalink: "/node/689/"
 tags:
 - From the internet
 images:
-- - src: image/images/onedropeast5924712-689.jpg
-    name: onedropeast5924712-689.jpg
+- src: image/images/onedropeast5924712-689.jpg
+  name: onedropeast5924712-689.jpg
 ---
 Salmonella Dub - One Drop East<!--break-->
 

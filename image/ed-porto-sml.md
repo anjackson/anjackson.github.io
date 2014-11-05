@@ -9,12 +9,14 @@ node_id: 656
 title: ed-porto.sml
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/656/"
+permalink: "/node/656/"
 tags:
 - Edinburgh
 - Older
 images:
-- - src: image/images/ed-porto.sml-656.jpg
-    name: ed-porto.sml-656.jpg
+- src: image/images/ed-porto.sml-656.jpg
+  name: ed-porto.sml-656.jpg
 ---
 

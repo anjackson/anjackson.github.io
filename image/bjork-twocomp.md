@@ -9,11 +9,13 @@ node_id: 600
 title: bjork-twocomp
 created: '2004-05-12'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/600/"
+permalink: "/node/600/"
 tags:
 - imgn
 images:
-- - src: image/images/bjork-twocomp-600.jpg
-    name: bjork-twocomp-600.jpg
+- src: image/images/bjork-twocomp-600.jpg
+  name: bjork-twocomp-600.jpg
 ---
 

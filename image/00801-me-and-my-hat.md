@@ -9,13 +9,15 @@ node_id: 335
 title: 00801 - Me & my hat
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/335/"
+permalink: "/node/335/"
 tags:
 - Andy
 - California
 - 2003/09 - September 2003
 images:
-- - src: image/images/108_0801-335.jpg
-    name: 108_0801-335.jpg
+- src: image/images/108_0801-335.jpg
+  name: 108_0801-335.jpg
 ---
 Cheesy grin on Carmel beach.

@@ -11,6 +11,7 @@ created: '2009-08-10'
 changed: '2010-02-04'
 aliases:
 - "/digital_preservation_notebook/digital_object_formats/"
+- "/node/1848/"
 permalink: "/digital_preservation_notebook/digital_object_formats/"
 tags: []
 ---

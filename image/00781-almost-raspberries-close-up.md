@@ -9,12 +9,14 @@ node_id: 331
 title: 00781 - Almost-raspberries close-up
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/331/"
+permalink: "/node/331/"
 tags:
 - California
 - 2003/09 - September 2003
 images:
-- - src: image/images/107_0781-331.jpg
-    name: 107_0781-331.jpg
+- src: image/images/107_0781-331.jpg
+  name: 107_0781-331.jpg
 ---
 Close-up of the almost-like-raspberries plant.

@@ -11,6 +11,7 @@ created: '2004-07-16'
 changed: '2010-07-23'
 aliases:
 - "/2004/07/16/roast_beef/"
+- "/node/737/"
 permalink: "/2004/07/16/roast_beef/"
 tags:
 - Travels

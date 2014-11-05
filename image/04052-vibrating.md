@@ -9,12 +9,14 @@ node_id: 1410
 title: 04052 Vibrating
 created: '2004-08-20'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1410/"
+permalink: "/node/1410/"
 tags:
 - 2004/01 - January 2004
 - Abel Tasman
 images:
-- - src: image/images/04052_vibrating-1410.jpg
-    name: 04052_vibrating-1410.jpg
+- src: image/images/04052_vibrating-1410.jpg
+  name: 04052_vibrating-1410.jpg
 ---
 

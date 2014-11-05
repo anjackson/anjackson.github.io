@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/christchurch_gardens/"
+- "/node/1194/"
 permalink: "/2004/08/10/christchurch_gardens/"
 tags:
 - Christchurch
 images:
-- - src: image/images/134_3440-1194.jpg
-    name: 134_3440-1194.jpg
+- src: image/images/134_3440-1194.jpg
+  name: 134_3440-1194.jpg
 ---
 

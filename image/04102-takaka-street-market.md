@@ -9,12 +9,14 @@ node_id: 1459
 title: 04102 Takaka Street Market
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1459/"
+permalink: "/node/1459/"
 tags:
 - 2004/01 - January 2004
 - Abel Tasman
 images:
-- - src: image/images/04102_takaka_street_market-1459.jpg
-    name: 04102_takaka_street_market-1459.jpg
+- src: image/images/04102_takaka_street_market-1459.jpg
+  name: 04102_takaka_street_market-1459.jpg
 ---
 

@@ -9,14 +9,16 @@ node_id: 326
 title: 00711 - Santa Barbara
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/326/"
+permalink: "/node/326/"
 tags:
 - California
 - 2003/09 - September 2003
 - Graham D
 - Catherine M
 images:
-- - src: image/images/107_0711-326.jpg
-    name: 107_0711-326.jpg
+- src: image/images/107_0711-326.jpg
+  name: 107_0711-326.jpg
 ---
 Palms and blue sky in Santa Barbara.

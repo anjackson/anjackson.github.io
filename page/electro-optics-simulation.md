@@ -11,11 +11,12 @@ created: '2004-05-12'
 changed: '2007-02-08'
 aliases:
 - "/ix2v/comphys/docs/ug/y4-project.pdf/"
+- "/node/578/"
 permalink: "/ix2v/comphys/docs/ug/y4-project.pdf/"
 tags: []
 attachments:
-- - src: page/files/y4-project.pdf
-    name: y4-project.pdf
+- src: page/files/y4-project.pdf
+  name: y4-project.pdf
 ---
 ### Development of software for the computation of the properties of electrostatic electro-optical devices via both the direct ray tracing and paraxial approximation techniques.
 ## MPhys Final Year Project Dissertation by Andrew Jackson

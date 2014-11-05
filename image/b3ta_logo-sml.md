@@ -9,11 +9,13 @@ node_id: 674
 title: b3ta_logo-sml
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/674/"
+permalink: "/node/674/"
 tags:
 - b3ta
 images:
-- - src: image/images/b3ta_logo-sml-674.png
-    name: b3ta_logo-sml-674.png
+- src: image/images/b3ta_logo-sml-674.png
+  name: b3ta_logo-sml-674.png
 ---
 

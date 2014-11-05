@@ -11,6 +11,7 @@ created: '2004-05-10'
 changed: '2009-08-10'
 aliases:
 - "/work/publications/"
+- "/node/552/"
 permalink: "/work/publications/"
 tags: []
 ---

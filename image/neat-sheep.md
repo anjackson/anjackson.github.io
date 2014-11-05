@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/neat_sheep/"
+- "/node/1028/"
 permalink: "/2004/08/10/neat_sheep/"
 tags:
 - Coromandel
 images:
-- - src: image/images/img_2217-1028.jpg
-    name: img_2217-1028.jpg
+- src: image/images/img_2217-1028.jpg
+  name: img_2217-1028.jpg
 ---
 

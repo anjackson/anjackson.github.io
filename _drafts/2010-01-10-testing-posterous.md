@@ -11,6 +11,7 @@ created: '2010-01-10'
 changed: '2010-07-23'
 aliases:
 - "/2010/01/10/testing_posterous/"
+- "/node/1870/"
 permalink: "/2010/01/10/testing_posterous/"
 tags: []
 ---

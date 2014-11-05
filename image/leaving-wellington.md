@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/leaving_wellington/"
+- "/node/1101/"
 permalink: "/2004/08/10/leaving_wellington/"
 tags:
 - Wellington
 images:
-- - src: image/images/130_3090-1101.jpg
-    name: 130_3090-1101.jpg
+- src: image/images/130_3090-1101.jpg
+  name: 130_3090-1101.jpg
 ---
 

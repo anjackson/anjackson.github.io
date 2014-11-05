@@ -11,11 +11,12 @@ created: '2004-07-26'
 changed: '2013-06-25'
 aliases:
 - "/2004/07/26/disturbing_green_lake/"
+- "/node/840/"
 permalink: "/2004/07/26/disturbing_green_lake/"
 tags:
 - Rotorua
 images:
-- - src: image/images/img_2508-840.jpg
-    name: img_2508-840.jpg
+- src: image/images/img_2508-840.jpg
+  name: img_2508-840.jpg
 ---
 

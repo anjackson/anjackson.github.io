@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/islands_and_trees_0/"
+- "/node/1030/"
 permalink: "/2004/08/10/islands_and_trees_0/"
 tags:
 - Coromandel
 images:
-- - src: image/images/img_2222-1030.jpg
-    name: img_2222-1030.jpg
+- src: image/images/img_2222-1030.jpg
+  name: img_2222-1030.jpg
 ---
 

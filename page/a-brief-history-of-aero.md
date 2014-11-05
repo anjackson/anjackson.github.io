@@ -11,6 +11,7 @@ created: '2004-07-16'
 changed: '2006-07-27'
 aliases:
 - "/2004/07/16/a-brief-history-of-aero/"
+- "/node/735/"
 permalink: "/2004/07/16/a-brief-history-of-aero/"
 tags:
 - General

@@ -11,6 +11,7 @@ created: '2004-05-20'
 changed: '2010-07-23'
 aliases:
 - "/2004/05/20/nutshell/"
+- "/node/697/"
 permalink: "/2004/05/20/nutshell/"
 tags:
 - Geek

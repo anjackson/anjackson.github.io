@@ -9,11 +9,13 @@ node_id: 670
 title: hpcx-logo-sml
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/670/"
+permalink: "/node/670/"
 tags:
 - Older
 images:
-- - src: image/images/hpcx-logo-sml-670.png
-    name: hpcx-logo-sml-670.png
+- src: image/images/hpcx-logo-sml-670.png
+  name: hpcx-logo-sml-670.png
 ---
 

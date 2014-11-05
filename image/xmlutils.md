@@ -9,11 +9,13 @@ node_id: 673
 title: xmlutils
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/673/"
+permalink: "/node/673/"
 tags:
 - Older
 images:
-- - src: image/images/xmlutils-673.png
-    name: xmlutils-673.png
+- src: image/images/xmlutils-673.png
+  name: xmlutils-673.png
 ---
 

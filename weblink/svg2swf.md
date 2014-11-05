@@ -9,7 +9,9 @@ node_id: 1567
 title: svg2swf
 created: '2004-12-21'
 changed: '2004-12-21'
-aliases: []
+aliases:
+- "/node/1567/"
+permalink: "/node/1567/"
 tags:
 - Flash
 ---

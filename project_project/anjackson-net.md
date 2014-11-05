@@ -11,6 +11,7 @@ created: '2004-05-17'
 changed: '2004-05-17'
 aliases:
 - "/project/anjnet/"
+- "/node/695/"
 permalink: "/project/anjnet/"
 tags: []
 ---

@@ -9,7 +9,9 @@ node_id: 1565
 title: Ming
 created: '2004-12-21'
 changed: '2004-12-21'
-aliases: []
+aliases:
+- "/node/1565/"
+permalink: "/node/1565/"
 tags:
 - Flash
 ---

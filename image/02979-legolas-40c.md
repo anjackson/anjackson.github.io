@@ -9,12 +9,14 @@ node_id: 1060
 title: 02979 Legolas @ 40c
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1060/"
+permalink: "/node/1060/"
 tags:
 - The Return Of The King
 - 2003/11 - November 2003
 images:
-- - src: image/images/129_2979-1060.jpg
-    name: 129_2979-1060.jpg
+- src: image/images/129_2979-1060.jpg
+  name: 129_2979-1060.jpg
 ---
 

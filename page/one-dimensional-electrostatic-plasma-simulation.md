@@ -11,11 +11,12 @@ created: '2004-05-12'
 changed: '2007-02-08'
 aliases:
 - "/ix2v/comphys/docs/ug/y3-pic-plasma.pdf/"
+- "/node/583/"
 permalink: "/ix2v/comphys/docs/ug/y3-pic-plasma.pdf/"
 tags: []
 attachments:
-- - src: page/files/y3-pic-plasma.pdf
-    name: y3-pic-plasma.pdf
+- src: page/files/y3-pic-plasma.pdf
+  name: y3-pic-plasma.pdf
 ---
 ### One Dimensional Electrostatic Plasma Simulation
 ## An application of the particle-in-cell technique

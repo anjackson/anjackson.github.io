@@ -9,11 +9,13 @@ node_id: 604
 title: lambtitle
 created: '2004-05-12'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/604/"
+permalink: "/node/604/"
 tags:
 - imgn
 images:
-- - src: image/images/lambtitle-604.jpg
-    name: lambtitle-604.jpg
+- src: image/images/lambtitle-604.jpg
+  name: lambtitle-604.jpg
 ---
 

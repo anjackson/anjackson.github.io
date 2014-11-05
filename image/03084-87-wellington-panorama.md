@@ -9,12 +9,14 @@ node_id: 1456
 title: 03084-87 Wellington Panorama
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1456/"
+permalink: "/node/1456/"
 tags:
 - 2003/12 - December 2003
 - Abel Tasman
 images:
-- - src: image/images/03084-87_wellington_panorama-1456.jpg
-    name: 03084-87_wellington_panorama-1456.jpg
+- src: image/images/03084-87_wellington_panorama-1456.jpg
+  name: 03084-87_wellington_panorama-1456.jpg
 ---
 

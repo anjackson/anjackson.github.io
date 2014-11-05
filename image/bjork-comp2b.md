@@ -9,7 +9,9 @@ node_id: 597
 title: bjork-comp2b
 created: '2004-05-12'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/597/"
+permalink: "/node/597/"
 tags:
 - imgn
 ---

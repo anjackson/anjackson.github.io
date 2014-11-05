@@ -11,11 +11,12 @@ created: '2006-05-30'
 changed: '2013-06-25'
 aliases:
 - "/2006/05/30/the_bushes/"
+- "/node/1624/"
 permalink: "/2006/05/30/the_bushes/"
 tags:
 - From the internet
 images:
-- - src: image/images/TheBushes.png
-    name: TheBushes.png
+- src: image/images/TheBushes.png
+  name: TheBushes.png
 ---
 The Two Bushes routine from the White House Correspondents Dinner.

@@ -11,6 +11,7 @@ created: '2004-06-13'
 changed: '2010-07-23'
 aliases:
 - "/2004/06/13/excited_scared_sad_hopeful/"
+- "/node/716/"
 permalink: "/2004/06/13/excited_scared_sad_hopeful/"
 tags:
 - Travels

@@ -9,12 +9,14 @@ node_id: 688
 title: The 88
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/688/"
+permalink: "/node/688/"
 tags:
 - From the internet
 images:
-- - src: image/images/minuit99682-688.jpg
-    name: minuit99682-688.jpg
+- src: image/images/minuit99682-688.jpg
+  name: minuit99682-688.jpg
 ---
 Minuit - The 88<!--break-->
 

@@ -9,12 +9,14 @@ node_id: 1467
 title: 04151 Stream
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1467/"
+permalink: "/node/1467/"
 tags:
 - 2004/01 - January 2004
 - Abel Tasman
 images:
-- - src: image/images/04151_stream-1467.jpg
-    name: 04151_stream-1467.jpg
+- src: image/images/04151_stream-1467.jpg
+  name: 04151_stream-1467.jpg
 ---
 

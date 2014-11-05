@@ -9,7 +9,9 @@ node_id: 660
 title: york-shadow.sml
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/660/"
+permalink: "/node/660/"
 tags:
 - York
 - Older

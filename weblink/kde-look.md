@@ -9,7 +9,9 @@ node_id: 1516
 title: KDE-Look
 created: '2004-11-16'
 changed: '2004-11-16'
-aliases: []
+aliases:
+- "/node/1516/"
+permalink: "/node/1516/"
 tags:
 - Art & Design
 ---

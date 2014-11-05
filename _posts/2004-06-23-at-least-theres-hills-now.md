@@ -11,6 +11,7 @@ created: '2004-06-23'
 changed: '2010-07-23'
 aliases:
 - "/2004/06/23/least_theres_hills_now/"
+- "/node/723/"
 permalink: "/2004/06/23/least_theres_hills_now/"
 tags:
 - Travels

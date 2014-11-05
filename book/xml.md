@@ -9,7 +9,9 @@ node_id: 987
 title: XML
 created: '2004-08-10'
 changed: '2004-08-10'
-aliases: []
+aliases:
+- "/node/987/"
+permalink: "/node/987/"
 tags: []
 ---
 ### xml

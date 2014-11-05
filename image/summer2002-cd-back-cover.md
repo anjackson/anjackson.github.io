@@ -9,11 +9,13 @@ node_id: 1544
 title: Summer2002 CD Back Cover
 created: '2004-11-30'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1544/"
+permalink: "/node/1544/"
 tags:
 - imgn
 images:
-- - src: image/images/summer2002-cd-wallet-back-1544.png
-    name: summer2002-cd-wallet-back-1544.png
+- src: image/images/summer2002-cd-wallet-back-1544.png
+  name: summer2002-cd-wallet-back-1544.png
 ---
 Back cover of my Summer2002 compilation.

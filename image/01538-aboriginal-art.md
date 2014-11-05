@@ -9,12 +9,14 @@ node_id: 381
 title: 01538 Aboriginal Art
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/381/"
+permalink: "/node/381/"
 tags:
 - The Red Centre
 - 2003/10 - October 2003
 images:
-- - src: image/images/img_1538-381.jpg
-    name: img_1538-381.jpg
+- src: image/images/img_1538-381.jpg
+  name: img_1538-381.jpg
 ---
 Really rather old Aboriginal art from one of the Uluru caves.

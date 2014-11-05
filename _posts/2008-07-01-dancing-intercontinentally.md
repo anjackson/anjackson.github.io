@@ -11,6 +11,7 @@ created: '2008-07-01'
 changed: '2010-07-23'
 aliases:
 - "/2008/07/01/dancing_intercontinentally/"
+- "/node/1816/"
 permalink: "/2008/07/01/dancing_intercontinentally/"
 tags:
 - Procrastination

@@ -9,7 +9,9 @@ node_id: 702
 title: Fly Phenom Penh to London
 created: '2004-05-27'
 changed: '2004-05-27'
-aliases: []
+aliases:
+- "/node/702/"
+permalink: "/node/702/"
 tags:
 - Travels
 ---

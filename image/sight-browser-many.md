@@ -9,11 +9,13 @@ node_id: 1295
 title: 'Sight: browser, many'
 created: '2004-08-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1295/"
+permalink: "/node/1295/"
 tags:
 - screenshots
 images:
-- - src: image/images/browser-many-1295.png
-    name: browser-many-1295.png
+- src: image/images/browser-many-1295.png
+  name: browser-many-1295.png
 ---
 

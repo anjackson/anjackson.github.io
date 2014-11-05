@@ -11,6 +11,7 @@ created: '2009-09-02'
 changed: '2009-09-02'
 aliases:
 - "/digital_preservation_notebook/physical_media/disk_image_tools/"
+- "/node/1869/"
 permalink: "/digital_preservation_notebook/physical_media/disk_image_tools/"
 tags: []
 ---

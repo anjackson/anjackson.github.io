@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/cable_car_still_missing/"
+- "/node/1093/"
 permalink: "/2004/08/10/cable_car_still_missing/"
 tags:
 - Wellington
 images:
-- - src: image/images/130_3054-1093.jpg
-    name: 130_3054-1093.jpg
+- src: image/images/130_3054-1093.jpg
+  name: 130_3054-1093.jpg
 ---
 

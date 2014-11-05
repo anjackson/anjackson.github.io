@@ -11,6 +11,7 @@ created: '2004-06-30'
 changed: '2010-07-23'
 aliases:
 - "/2004/06/30/yes_you_can_hate_me_now/"
+- "/node/727/"
 permalink: "/2004/06/30/yes_you_can_hate_me_now/"
 tags:
 - Travels

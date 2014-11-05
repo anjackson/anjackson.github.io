@@ -11,6 +11,7 @@ created: '2004-06-17'
 changed: '2010-07-23'
 aliases:
 - "/2004/06/17/currently_nowhere/"
+- "/node/718/"
 permalink: "/2004/06/17/currently_nowhere/"
 tags:
 - Travels

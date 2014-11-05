@@ -11,11 +11,12 @@ created: '2006-07-29'
 changed: '2013-06-25'
 aliases:
 - "/2006/07/29/29438_is_it_a_bird/"
+- "/node/1659/"
 permalink: "/2006/07/29/29438_is_it_a_bird/"
 tags:
 - Eilidh
 images:
-- - src: image/images/IMG_9438.JPG
-    name: IMG_9438.JPG
+- src: image/images/IMG_9438.JPG
+  name: IMG_9438.JPG
 ---
 

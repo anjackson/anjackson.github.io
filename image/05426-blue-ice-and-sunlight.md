@@ -9,11 +9,13 @@ node_id: 539
 title: 05426 Blue Ice & Sunlight
 created: '2004-04-18'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/539/"
+permalink: "/node/539/"
 tags:
 - Highlights
 images:
-- - src: image/images/img_5426b-539.jpg
-    name: img_5426b-539.jpg
+- src: image/images/img_5426b-539.jpg
+  name: img_5426b-539.jpg
 ---
 Just very nice.  Franz Josef Glacier.

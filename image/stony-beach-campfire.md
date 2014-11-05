@@ -11,11 +11,12 @@ created: '2004-07-26'
 changed: '2013-06-25'
 aliases:
 - "/2004/07/26/stony_beach_campfire_0/"
+- "/node/783/"
 permalink: "/2004/07/26/stony_beach_campfire_0/"
 tags:
 - Coromandel
 images:
-- - src: image/images/img_2337-783.jpg
-    name: img_2337-783.jpg
+- src: image/images/img_2337-783.jpg
+  name: img_2337-783.jpg
 ---
 

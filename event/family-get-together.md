@@ -9,7 +9,9 @@ node_id: 1309
 title: Family get-together
 created: '2004-08-16'
 changed: '2004-08-16'
-aliases: []
+aliases:
+- "/node/1309/"
+permalink: "/node/1309/"
 tags: []
 ---
 All weekend.

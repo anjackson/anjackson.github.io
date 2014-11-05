@@ -9,12 +9,14 @@ node_id: 1484
 title: 11066 Bike on Victoria
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1484/"
+permalink: "/node/1484/"
 tags:
 - Wellington
 - 2004/11 November 2004
 images:
-- - src: image/images/11066_bike_on_victoria-1484.jpg
-    name: 11066_bike_on_victoria-1484.jpg
+- src: image/images/11066_bike_on_victoria-1484.jpg
+  name: 11066_bike_on_victoria-1484.jpg
 ---
 

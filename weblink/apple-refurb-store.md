@@ -11,6 +11,7 @@ created: '2004-12-30'
 changed: '2004-12-30'
 aliases:
 - "/2004/12/30/apple-refurb-store/"
+- "/node/1578/"
 permalink: "/2004/12/30/apple-refurb-store/"
 tags:
 - Gadgets

@@ -9,7 +9,9 @@ node_id: 1530
 title: Echo Framework
 created: '2004-11-18'
 changed: '2004-11-18'
-aliases: []
+aliases:
+- "/node/1530/"
+permalink: "/node/1530/"
 tags:
 - DHTML
 ---

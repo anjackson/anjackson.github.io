@@ -9,11 +9,13 @@ node_id: 682
 title: jeffC1sml
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/682/"
+permalink: "/node/682/"
 tags:
 - Older
 images:
-- - src: image/images/jeffc1sml-682.jpg
-    name: jeffc1sml-682.jpg
+- src: image/images/jeffc1sml-682.jpg
+  name: jeffc1sml-682.jpg
 ---
 

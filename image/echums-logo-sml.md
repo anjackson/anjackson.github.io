@@ -9,11 +9,13 @@ node_id: 668
 title: echums-logo-sml
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/668/"
+permalink: "/node/668/"
 tags:
 - Older
 images:
-- - src: image/images/echums-logo-sml-668.png
-    name: echums-logo-sml-668.png
+- src: image/images/echums-logo-sml-668.png
+  name: echums-logo-sml-668.png
 ---
 

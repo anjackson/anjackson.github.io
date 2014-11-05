@@ -9,7 +9,9 @@ node_id: 1547
 title: iStockPhoto
 created: '2004-12-02'
 changed: '2004-12-02'
-aliases: []
+aliases:
+- "/node/1547/"
+permalink: "/node/1547/"
 tags:
 - Stock
 ---

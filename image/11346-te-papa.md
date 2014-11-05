@@ -9,12 +9,14 @@ node_id: 1506
 title: 11346 Te Papa
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1506/"
+permalink: "/node/1506/"
 tags:
 - Wellington
 - 2004/11 November 2004
 images:
-- - src: image/images/11346_te_papa-1506.jpg
-    name: 11346_te_papa-1506.jpg
+- src: image/images/11346_te_papa-1506.jpg
+  name: 11346_te_papa-1506.jpg
 ---
 

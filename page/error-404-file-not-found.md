@@ -11,6 +11,7 @@ created: '2004-09-23'
 changed: '2004-09-23'
 aliases:
 - "/error/404/"
+- "/node/1423/"
 permalink: "/error/404/"
 tags: []
 ---

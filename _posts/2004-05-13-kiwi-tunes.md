@@ -11,6 +11,7 @@ created: '2004-05-13'
 changed: '2010-07-23'
 aliases:
 - "/2004/05/13/kiwi_tunes/"
+- "/node/690/"
 permalink: "/2004/05/13/kiwi_tunes/"
 tags:
 - General

@@ -9,12 +9,14 @@ node_id: 916
 title: 02703 Emerald Lake View
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/916/"
+permalink: "/node/916/"
 tags:
 - 2003/11 - November 2003
 - Tongariro Crossing
 images:
-- - src: image/images/127_2703-916.jpg
-    name: 127_2703-916.jpg
+- src: image/images/127_2703-916.jpg
+  name: 127_2703-916.jpg
 ---
 

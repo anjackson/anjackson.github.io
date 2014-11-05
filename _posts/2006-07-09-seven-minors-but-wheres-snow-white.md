@@ -11,6 +11,7 @@ created: '2006-07-09'
 changed: '2010-07-23'
 aliases:
 - "/2006/07/09/seven_minors_wheres_snow_white/"
+- "/node/1631/"
 permalink: "/2006/07/09/seven_minors_wheres_snow_white/"
 tags:
 - General

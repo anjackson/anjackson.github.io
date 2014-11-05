@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/waterfall_freeze_frame/"
+- "/node/1003/"
 permalink: "/2004/08/10/waterfall_freeze_frame/"
 tags:
 - Bay of Islands
 images:
-- - src: image/images/img_2133-1003.jpg
-    name: img_2133-1003.jpg
+- src: image/images/img_2133-1003.jpg
+  name: img_2133-1003.jpg
 ---
 

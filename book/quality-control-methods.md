@@ -11,6 +11,7 @@ created: '2009-08-11'
 changed: '2009-08-11'
 aliases:
 - "/digital_preservation_notebook/preservation_strategies/quality_control_methods/"
+- "/node/1862/"
 permalink: "/digital_preservation_notebook/preservation_strategies/quality_control_methods/"
 tags: []
 ---

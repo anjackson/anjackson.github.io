@@ -9,12 +9,14 @@ node_id: 1508
 title: 11362 Boat Shed Harbour
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1508/"
+permalink: "/node/1508/"
 tags:
 - Wellington
 - 2004/11 November 2004
 images:
-- - src: image/images/11362_boat_shed_harbour-1508.jpg
-    name: 11362_boat_shed_harbour-1508.jpg
+- src: image/images/11362_boat_shed_harbour-1508.jpg
+  name: 11362_boat_shed_harbour-1508.jpg
 ---
 

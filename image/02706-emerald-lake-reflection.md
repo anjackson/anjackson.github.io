@@ -9,13 +9,15 @@ node_id: 917
 title: 02706 Emerald Lake Reflection
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/917/"
+permalink: "/node/917/"
 tags:
 - Highlights
 - 2003/11 - November 2003
 - Tongariro Crossing
 images:
-- - src: image/images/127_2706-917.jpg
-    name: 127_2706-917.jpg
+- src: image/images/127_2706-917.jpg
+  name: 127_2706-917.jpg
 ---
 

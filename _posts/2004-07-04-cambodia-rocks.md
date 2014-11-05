@@ -11,6 +11,7 @@ created: '2004-07-04'
 changed: '2010-07-23'
 aliases:
 - "/2004/07/04/cambodia_rocks/"
+- "/node/730/"
 permalink: "/2004/07/04/cambodia_rocks/"
 tags:
 - Travels

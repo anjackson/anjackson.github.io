@@ -11,11 +11,12 @@ created: '2006-07-29'
 changed: '2013-06-25'
 aliases:
 - "/2006/07/29/20407_handstand/"
+- "/node/1663/"
 permalink: "/2006/07/29/20407_handstand/"
 tags:
 - Eilidh
 images:
-- - src: image/images/IMG_0407.JPG
-    name: IMG_0407.JPG
+- src: image/images/IMG_0407.JPG
+  name: IMG_0407.JPG
 ---
 

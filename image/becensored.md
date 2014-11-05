@@ -9,11 +9,13 @@ node_id: 632
 title: becensored
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/632/"
+permalink: "/node/632/"
 tags:
 - Older
 images:
-- - src: image/images/becensored-632.jpg
-    name: becensored-632.jpg
+- src: image/images/becensored-632.jpg
+  name: becensored-632.jpg
 ---
 

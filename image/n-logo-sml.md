@@ -9,11 +9,13 @@ node_id: 672
 title: n-logo-sml
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/672/"
+permalink: "/node/672/"
 tags:
 - Older
 images:
-- - src: image/images/n-logo-sml-672.png
-    name: n-logo-sml-672.png
+- src: image/images/n-logo-sml-672.png
+  name: n-logo-sml-672.png
 ---
 

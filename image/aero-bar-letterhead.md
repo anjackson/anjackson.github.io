@@ -9,7 +9,9 @@ node_id: 736
 title: Aero Bar Letterhead
 created: '2004-07-16'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/736/"
+permalink: "/node/736/"
 tags:
 - From the internet
 ---

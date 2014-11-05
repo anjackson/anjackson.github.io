@@ -11,11 +11,12 @@ created: '2006-07-29'
 changed: '2013-06-25'
 aliases:
 - "/2006/07/29/21548_eilidh_in_the_sun/"
+- "/node/1643/"
 permalink: "/2006/07/29/21548_eilidh_in_the_sun/"
 tags:
 - Eilidh
 images:
-- - src: image/images/IMG_1548.JPG
-    name: IMG_1548.JPG
+- src: image/images/IMG_1548.JPG
+  name: IMG_1548.JPG
 ---
 

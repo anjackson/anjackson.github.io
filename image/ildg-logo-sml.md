@@ -9,11 +9,13 @@ node_id: 671
 title: ildg-logo-sml
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/671/"
+permalink: "/node/671/"
 tags:
 - Older
 images:
-- - src: image/images/ildg-logo-sml-671.png
-    name: ildg-logo-sml-671.png
+- src: image/images/ildg-logo-sml-671.png
+  name: ildg-logo-sml-671.png
 ---
 

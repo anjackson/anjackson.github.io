@@ -11,6 +11,7 @@ created: '2004-08-20'
 changed: '2010-07-23'
 aliases:
 - "/2004/08/20/because_youre_worth_it/"
+- "/node/1416/"
 permalink: "/2004/08/20/because_youre_worth_it/"
 tags:
 - General

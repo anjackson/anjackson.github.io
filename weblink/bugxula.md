@@ -9,7 +9,9 @@ node_id: 1450
 title: Bugxula
 created: '2004-11-12'
 changed: '2004-11-12'
-aliases: []
+aliases:
+- "/node/1450/"
+permalink: "/node/1450/"
 tags:
 - Coding
 - Mozilla

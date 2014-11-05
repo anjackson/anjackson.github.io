@@ -11,6 +11,7 @@ created: '2004-03-26'
 changed: '2009-08-15'
 aliases:
 - "/geek/"
+- "/node/314/"
 permalink: "/geek/"
 tags:
 - Geek

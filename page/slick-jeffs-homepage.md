@@ -11,6 +11,7 @@ created: '2004-08-11'
 changed: '2004-08-11'
 aliases:
 - "/url/sj/"
+- "/node/1288/"
 permalink: "/url/sj/"
 tags: []
 ---

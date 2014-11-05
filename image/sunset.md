@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/sunset/"
+- "/node/1070/"
 permalink: "/2004/08/10/sunset/"
 tags:
 - Wellington
 images:
-- - src: image/images/129_2998-1070.jpg
-    name: 129_2998-1070.jpg
+- src: image/images/129_2998-1070.jpg
+  name: 129_2998-1070.jpg
 ---
 

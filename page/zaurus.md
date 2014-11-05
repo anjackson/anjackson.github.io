@@ -11,6 +11,7 @@ created: '2004-05-13'
 changed: '2009-08-10'
 aliases:
 - "/geek_nuggets/zaurus/"
+- "/node/693/"
 permalink: "/geek_nuggets/zaurus/"
 tags: []
 ---

@@ -9,7 +9,9 @@ node_id: 571
 title: David &amp; Jenny arrive.
 created: '2004-05-12'
 changed: '2004-05-24'
-aliases: []
+aliases:
+- "/node/571/"
+permalink: "/node/571/"
 tags:
 - General
 ---

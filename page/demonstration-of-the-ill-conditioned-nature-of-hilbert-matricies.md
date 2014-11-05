@@ -11,11 +11,12 @@ created: '2004-05-12'
 changed: '2007-02-08'
 aliases:
 - "/ix2v/comphys/docs/ug/y3-na-hilbert.pdf/"
+- "/node/582/"
 permalink: "/ix2v/comphys/docs/ug/y3-na-hilbert.pdf/"
 tags: []
 attachments:
-- - src: page/files/y3-na-hilbert.pdf
-    name: y3-na-hilbert.pdf
+- src: page/files/y3-na-hilbert.pdf
+  name: y3-na-hilbert.pdf
 ---
 ### Demonstration Of The Ill-Conditioned Nature Of Hilbert Matricies
 ## An application of numerical analysis techniques

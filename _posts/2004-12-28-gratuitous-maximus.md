@@ -11,6 +11,7 @@ created: '2004-12-28'
 changed: '2010-07-23'
 aliases:
 - "/2004/12/28/gratuitous_maximus/"
+- "/node/1573/"
 permalink: "/2004/12/28/gratuitous_maximus/"
 tags:
 - Geek

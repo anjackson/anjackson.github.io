@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/mangrove_walkway/"
+- "/node/992/"
 permalink: "/2004/08/10/mangrove_walkway/"
 tags:
 - Bay of Islands
 images:
-- - src: image/images/img_2095-992.jpg
-    name: img_2095-992.jpg
+- src: image/images/img_2095-992.jpg
+  name: img_2095-992.jpg
 ---
 

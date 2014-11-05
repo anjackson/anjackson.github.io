@@ -11,6 +11,7 @@ created: '2004-05-11'
 changed: '2004-05-11'
 aliases:
 - "/ix2v/comphys/plinks/"
+- "/node/566/"
 permalink: "/ix2v/comphys/plinks/"
 tags: []
 ---

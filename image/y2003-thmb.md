@@ -9,11 +9,13 @@ node_id: 651
 title: y2003-thmb
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/651/"
+permalink: "/node/651/"
 tags:
 - Older
 images:
-- - src: image/images/y2003-thmb-651.jpg
-    name: y2003-thmb-651.jpg
+- src: image/images/y2003-thmb-651.jpg
+  name: y2003-thmb-651.jpg
 ---
 

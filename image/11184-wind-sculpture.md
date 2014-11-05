@@ -9,13 +9,15 @@ node_id: 1488
 title: 11184 Wind Sculpture
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1488/"
+permalink: "/node/1488/"
 tags:
 - Wellington
 - Highlights
 - 2004/11 November 2004
 images:
-- - src: image/images/11184_wind_sculpture-1488.jpg
-    name: 11184_wind_sculpture-1488.jpg
+- src: image/images/11184_wind_sculpture-1488.jpg
+  name: 11184_wind_sculpture-1488.jpg
 ---
 

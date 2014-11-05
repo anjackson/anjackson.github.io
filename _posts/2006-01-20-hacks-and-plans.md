@@ -11,6 +11,7 @@ created: '2006-01-20'
 changed: '2010-07-23'
 aliases:
 - "/2006/01/20/hacks_plans/"
+- "/node/1611/"
 permalink: "/2006/01/20/hacks_plans/"
 tags:
 - Procrastination

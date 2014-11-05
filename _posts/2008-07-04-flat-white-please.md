@@ -11,6 +11,7 @@ created: '2008-07-04'
 changed: '2010-07-23'
 aliases:
 - "/2008/07/04/flat_white_please/"
+- "/node/1801/"
 permalink: "/2008/07/04/flat_white_please/"
 tags:
 - Travels

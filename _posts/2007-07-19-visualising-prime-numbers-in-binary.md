@@ -11,6 +11,7 @@ created: '2007-07-19'
 changed: '2007-07-19'
 aliases:
 - "/2007/07/19/visualising_prime_numbers_in_binary/"
+- "/node/1806/"
 permalink: "/2007/07/19/visualising_prime_numbers_in_binary/"
 tags:
 - Geek

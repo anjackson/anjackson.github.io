@@ -11,11 +11,12 @@ created: '2007-01-31'
 changed: '2013-06-25'
 aliases:
 - "/2007/01/31/spider_monkey/"
+- "/node/1786/"
 permalink: "/2007/01/31/spider_monkey/"
 tags:
 - Wellington Zoo
 images:
-- - src: image/images/IMG_3406.JPG
-    name: IMG_3406.JPG
+- src: image/images/IMG_3406.JPG
+  name: IMG_3406.JPG
 ---
 

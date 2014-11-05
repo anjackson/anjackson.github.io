@@ -12,6 +12,7 @@ changed: '2008-01-22'
 aliases:
 - "/ix2v/cv/"
 - "/ix2v/cv/index.php/"
+- "/node/1286/"
 permalink: "/ix2v/cv/"
 tags: []
 ---

@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/trees_and_islands/"
+- "/node/1005/"
 permalink: "/2004/08/10/trees_and_islands/"
 tags:
 - Bay of Islands
 images:
-- - src: image/images/img_2142-1005.jpg
-    name: img_2142-1005.jpg
+- src: image/images/img_2142-1005.jpg
+  name: img_2142-1005.jpg
 ---
 

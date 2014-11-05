@@ -12,6 +12,7 @@ changed: '2010-07-24'
 aliases:
 - "/geek/merchstore/"
 - "/2007/07/20/merchandise/"
+- "/node/1807/"
 permalink: "/geek/merchstore/"
 tags:
 - Geek

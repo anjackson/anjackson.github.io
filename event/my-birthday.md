@@ -9,7 +9,9 @@ node_id: 5
 title: My Birthday
 created: '2004-03-19'
 changed: '2004-03-19'
-aliases: []
+aliases:
+- "/node/5/"
+permalink: "/node/5/"
 tags: []
 ---
 Happy Birthday To Meeeee! etc etc etc

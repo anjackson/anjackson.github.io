@@ -11,11 +11,12 @@ created: '2007-01-19'
 changed: '2013-06-25'
 aliases:
 - "/2007/01/19/a_whole_new_frond/"
+- "/node/1757/"
 permalink: "/2007/01/19/a_whole_new_frond/"
 tags:
 - Otari-Wilton's Bush
 images:
-- - src: image/images/IMG_1559.JPG
-    name: IMG_1559.JPG
+- src: image/images/IMG_1559.JPG
+  name: IMG_1559.JPG
 ---
 

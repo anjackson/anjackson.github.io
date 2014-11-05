@@ -9,7 +9,9 @@ node_id: 1545
 title: undo
 created: '2004-12-02'
 changed: '2004-12-10'
-aliases: []
+aliases:
+- "/node/1545/"
+permalink: "/node/1545/"
 tags: []
 ---
 :you're trying too hard

@@ -11,6 +11,7 @@ created: '2004-12-19'
 changed: '2010-07-23'
 aliases:
 - "/2004/12/19/winging_it/"
+- "/node/1564/"
 permalink: "/2004/12/19/winging_it/"
 tags:
 - General

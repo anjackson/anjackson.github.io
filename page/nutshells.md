@@ -11,6 +11,7 @@ created: '2005-11-16'
 changed: '2007-07-27'
 aliases:
 - "/nutshells/"
+- "/node/1610/"
 permalink: "/nutshells/"
 tags: []
 ---

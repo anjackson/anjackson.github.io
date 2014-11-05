@@ -11,11 +11,12 @@ created: '2007-01-19'
 changed: '2013-06-25'
 aliases:
 - "/2007/01/19/things_to_do_in_wellington/"
+- "/node/1741/"
 permalink: "/2007/01/19/things_to_do_in_wellington/"
 tags:
 - The first few days
 images:
-- - src: image/images/IMG_1485.jpg
-    name: IMG_1485.jpg
+- src: image/images/IMG_1485.jpg
+  name: IMG_1485.jpg
 ---
 

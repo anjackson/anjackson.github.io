@@ -11,6 +11,7 @@ created: '2006-08-03'
 changed: '2010-07-23'
 aliases:
 - "/2006/08/03/whole_new_experience/"
+- "/node/1676/"
 permalink: "/2006/08/03/whole_new_experience/"
 tags:
 - General

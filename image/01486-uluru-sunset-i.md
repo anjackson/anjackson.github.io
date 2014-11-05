@@ -9,12 +9,14 @@ node_id: 376
 title: 01486 Uluru Sunset I
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/376/"
+permalink: "/node/376/"
 tags:
 - The Red Centre
 - 2003/10 - October 2003
 images:
-- - src: image/images/img_1486-376.jpg
-    name: img_1486-376.jpg
+- src: image/images/img_1486-376.jpg
+  name: img_1486-376.jpg
 ---
 Ayres Rock.  It really does change colour as the sun sets.

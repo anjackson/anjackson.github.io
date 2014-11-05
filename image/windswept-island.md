@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/windswept_island/"
+- "/node/998/"
 permalink: "/2004/08/10/windswept_island/"
 tags:
 - Bay of Islands
 images:
-- - src: image/images/img_2122-998.jpg
-    name: img_2122-998.jpg
+- src: image/images/img_2122-998.jpg
+  name: img_2122-998.jpg
 ---
 

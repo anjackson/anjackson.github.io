@@ -11,6 +11,7 @@ created: '2004-03-20'
 changed: '2009-08-10'
 aliases:
 - "/work/websites/"
+- "/node/8/"
 permalink: "/work/websites/"
 tags: []
 ---

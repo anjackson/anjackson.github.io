@@ -11,6 +11,7 @@ created: '2004-04-16'
 changed: '2010-07-23'
 aliases:
 - "/2004/04/16/almost_ready_go/"
+- "/node/537/"
 permalink: "/2004/04/16/almost_ready_go/"
 tags:
 - Travels

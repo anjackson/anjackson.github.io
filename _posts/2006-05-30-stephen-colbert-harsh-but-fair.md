@@ -11,6 +11,7 @@ created: '2006-05-30'
 changed: '2008-12-04'
 aliases:
 - "/2006/05/30/stephen_colbert_harsh_fair/"
+- "/node/1626/"
 permalink: "/2006/05/30/stephen_colbert_harsh_fair/"
 tags:
 - Rants

@@ -9,12 +9,14 @@ node_id: 1499
 title: 11307 Corned Beef
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1499/"
+permalink: "/node/1499/"
 tags:
 - Wellington
 - 2004/11 November 2004
 images:
-- - src: image/images/11307_corned_beef-1499.jpg
-    name: 11307_corned_beef-1499.jpg
+- src: image/images/11307_corned_beef-1499.jpg
+  name: 11307_corned_beef-1499.jpg
 ---
 

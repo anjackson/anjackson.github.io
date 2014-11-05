@@ -9,12 +9,14 @@ node_id: 319
 title: 00653 - St. Mary's Church
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/319/"
+permalink: "/node/319/"
 tags:
 - Wirksworth
 - 2003/09 - September 2003
 images:
-- - src: image/images/106_0653-319.jpg
-    name: 106_0653-319.jpg
+- src: image/images/106_0653-319.jpg
+  name: 106_0653-319.jpg
 ---
 St. Mary's Church, Wirskworth.

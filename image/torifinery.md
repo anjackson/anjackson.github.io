@@ -9,11 +9,13 @@ node_id: 609
 title: torifinery
 created: '2004-05-12'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/609/"
+permalink: "/node/609/"
 tags:
 - imgn
 images:
-- - src: image/images/torifinery-609.jpg
-    name: torifinery-609.jpg
+- src: image/images/torifinery-609.jpg
+  name: torifinery-609.jpg
 ---
 

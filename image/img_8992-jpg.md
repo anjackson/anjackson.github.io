@@ -11,11 +11,12 @@ created: '2004-07-26'
 changed: '2013-06-25'
 aliases:
 - "/2004/07/26/img_8992_jpg/"
+- "/node/896/"
 permalink: "/2004/07/26/img_8992_jpg/"
 tags:
 - Taupo
 images:
-- - src: image/images/img_8992.jpg-896.jpg
-    name: img_8992.jpg-896.jpg
+- src: image/images/img_8992.jpg-896.jpg
+  name: img_8992.jpg-896.jpg
 ---
 

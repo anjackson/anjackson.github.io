@@ -9,13 +9,15 @@ node_id: 349
 title: 01126 Sunrise
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/349/"
+permalink: "/node/349/"
 tags:
 - Australia
 - Highlights
 - 2003/10 - October 2003
 images:
-- - src: image/images/img_1126-349.jpg
-    name: img_1126-349.jpg
+- src: image/images/img_1126-349.jpg
+  name: img_1126-349.jpg
 ---
 Sunrise at 25,000ft - on the plane to Sydney.

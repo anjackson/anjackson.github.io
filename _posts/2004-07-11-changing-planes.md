@@ -11,6 +11,7 @@ created: '2004-07-11'
 changed: '2010-07-23'
 aliases:
 - "/2004/07/11/changing_planes/"
+- "/node/733/"
 permalink: "/2004/07/11/changing_planes/"
 tags:
 - Travels

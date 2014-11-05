@@ -9,7 +9,9 @@ node_id: 1554
 title: Gimp-Savvy Photo Archive
 created: '2004-12-03'
 changed: '2004-12-03'
-aliases: []
+aliases:
+- "/node/1554/"
+permalink: "/node/1554/"
 tags:
 - Stock
 ---

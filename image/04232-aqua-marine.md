@@ -9,12 +9,14 @@ node_id: 1479
 title: 04232 Aqua Marine
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1479/"
+permalink: "/node/1479/"
 tags:
 - 2004/01 - January 2004
 - Abel Tasman
 images:
-- - src: image/images/04232_aqua_marine-1479.jpg
-    name: 04232_aqua_marine-1479.jpg
+- src: image/images/04232_aqua_marine-1479.jpg
+  name: 04232_aqua_marine-1479.jpg
 ---
 

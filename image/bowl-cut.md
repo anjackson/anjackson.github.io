@@ -11,11 +11,12 @@ created: '2004-05-13'
 changed: '2013-06-25'
 aliases:
 - "/2004/05/13/bowl_cut/"
+- "/node/663/"
 permalink: "/2004/05/13/bowl_cut/"
 tags:
 - Andy
 images:
-- - src: image/images/me-0-sml-663.jpg
-    name: me-0-sml-663.jpg
+- src: image/images/me-0-sml-663.jpg
+  name: me-0-sml-663.jpg
 ---
 

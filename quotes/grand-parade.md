@@ -9,7 +9,9 @@ node_id: 1571
 title: grand parade
 created: '2004-12-22'
 changed: '2004-12-22'
-aliases: []
+aliases:
+- "/node/1571/"
+permalink: "/node/1571/"
 tags: []
 ---
 :I love the way 

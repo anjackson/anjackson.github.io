@@ -11,11 +11,12 @@ created: '2007-01-31'
 changed: '2013-06-25'
 aliases:
 - "/2007/01/31/eilidh_and_the_giant_kiwi/"
+- "/node/1781/"
 permalink: "/2007/01/31/eilidh_and_the_giant_kiwi/"
 tags:
 - Wellington Zoo
 images:
-- - src: image/images/IMG_3379.JPG
-    name: IMG_3379.JPG
+- src: image/images/IMG_3379.JPG
+  name: IMG_3379.JPG
 ---
 

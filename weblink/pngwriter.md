@@ -11,6 +11,7 @@ created: '2005-01-05'
 changed: '2005-01-05'
 aliases:
 - "/2005/01/05/pngwriter/"
+- "/node/1586/"
 permalink: "/2005/01/05/pngwriter/"
 tags:
 - Geeking

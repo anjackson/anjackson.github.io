@@ -11,6 +11,7 @@ created: '2010-08-12'
 changed: '2010-08-12'
 aliases:
 - "/Digital Preservation/Digital Object Storage/Repository Systems/adapt_ace/"
+- "/node/1876/"
 permalink: "/Digital Preservation/Digital Object Storage/Repository Systems/adapt_ace/"
 tags:
 - checksumming

@@ -48,6 +48,7 @@
           <ul class="nav navbar-nav">
             <li><a href="{{ site.baseurl }}/">HOME</a></li>
             <li{% if page.url contains "/about/"%} class="active"{% endif %}><a href="{{ site.baseurl }}/about/">ABOUT</a></li>
+            <li{% if page.url contains "/about/"%} class="active"{% endif %}><a href="{{ site.baseurl }}/work/">WORK</a></li>
             <li{% if page.url contains "/blog/" or page.active == "blog" %} class="active"{% endif %}><a href="{{ site.baseurl }}/blog/">BLOG</a></li>
             <li{% if page.url contains "/contact/"%} class="active"{% endif %}><a href="{{ site.baseurl }}/contact/">CONTACT</a></li>
             <li class="dropdown">
@@ -80,6 +81,14 @@
    <div class="container mtb">
    
 {{ content }}
+
+{% if page.attachments %}
+<ul>
+{% for att in page.attachments %}
+<li><a href="{{ site.baseurl }}/{{ im['src'] }}" title="{{ im['name'] }}">{{ im['name'] }}</a></li>
+{% endfor %}
+</ul>
+{% endif %}
 
    </div><! --/container -->
 

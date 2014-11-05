@@ -11,6 +11,7 @@ created: '2004-08-10'
 changed: '2006-09-23'
 aliases:
 - "/2004/08/10/ssh/"
+- "/node/984/"
 permalink: "/2004/08/10/ssh/"
 tags: []
 ---

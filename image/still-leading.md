@@ -11,11 +11,12 @@ created: '2007-01-19'
 changed: '2013-06-25'
 aliases:
 - "/2007/01/19/still_leading/"
+- "/node/1760/"
 permalink: "/2007/01/19/still_leading/"
 tags:
 - Otari-Wilton's Bush
 images:
-- - src: image/images/IMG_3116.JPG
-    name: IMG_3116.JPG
+- src: image/images/IMG_3116.JPG
+  name: IMG_3116.JPG
 ---
 

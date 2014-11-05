@@ -11,6 +11,7 @@ created: '2004-11-26'
 changed: '2010-07-23'
 aliases:
 - "/2004/11/26/shoot_breeze/"
+- "/node/1540/"
 permalink: "/2004/11/26/shoot_breeze/"
 tags:
 - Science

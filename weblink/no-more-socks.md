@@ -9,7 +9,9 @@ node_id: 1441
 title: No More Socks
 created: '2004-11-10'
 changed: '2004-11-10'
-aliases: []
+aliases:
+- "/node/1441/"
+permalink: "/node/1441/"
 tags:
 - Gadgets
 ---

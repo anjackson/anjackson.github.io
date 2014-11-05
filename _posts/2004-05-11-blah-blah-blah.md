@@ -11,6 +11,7 @@ created: '2004-05-11'
 changed: '2010-07-23'
 aliases:
 - "/2004/05/11/blah_blah_blah/"
+- "/node/569/"
 permalink: "/2004/05/11/blah_blah_blah/"
 tags:
 - Science

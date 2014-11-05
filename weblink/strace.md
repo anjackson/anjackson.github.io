@@ -11,6 +11,7 @@ created: '2004-12-30'
 changed: '2004-12-30'
 aliases:
 - "/2004/12/30/strace/"
+- "/node/1577/"
 permalink: "/2004/12/30/strace/"
 tags:
 - Coding

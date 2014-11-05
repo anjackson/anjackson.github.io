@@ -9,11 +9,13 @@ node_id: 611
 title: torisea4i2b
 created: '2004-05-12'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/611/"
+permalink: "/node/611/"
 tags:
 - imgn
 images:
-- - src: image/images/torisea4i2b-611.jpg
-    name: torisea4i2b-611.jpg
+- src: image/images/torisea4i2b-611.jpg
+  name: torisea4i2b-611.jpg
 ---
 

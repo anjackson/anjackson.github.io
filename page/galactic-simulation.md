@@ -11,11 +11,12 @@ created: '2004-05-12'
 changed: '2007-02-08'
 aliases:
 - "/ix2v/comphys/docs/ug/y4-pmii-galactic.pdf/"
+- "/node/579/"
 permalink: "/ix2v/comphys/docs/ug/y4-pmii-galactic.pdf/"
 tags: []
 attachments:
-- - src: page/files/y4-pmii-galactic.pdf
-    name: y4-pmii-galactic.pdf
+- src: page/files/y4-pmii-galactic.pdf
+  name: y4-pmii-galactic.pdf
 ---
 ### Particle Simulation II Course Assignment
 ## Andrew N Jackson 14th Feburary 1997

@@ -11,6 +11,7 @@ created: '2009-08-10'
 changed: '2009-08-11'
 aliases:
 - "/digital_preservation_notebook/preservation_strategies/"
+- "/node/1850/"
 permalink: "/digital_preservation_notebook/preservation_strategies/"
 tags: []
 ---

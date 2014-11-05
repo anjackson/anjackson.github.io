@@ -11,6 +11,7 @@ created: '2010-12-09'
 changed: '2010-12-09'
 aliases:
 - "/2010/12/09/opf_blog_breaking_down_format_registry/"
+- "/node/1883/"
 permalink: "/2010/12/09/opf_blog_breaking_down_format_registry/"
 tags:
 - Digital Preservation

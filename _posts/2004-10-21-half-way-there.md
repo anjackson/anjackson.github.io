@@ -11,6 +11,7 @@ created: '2004-10-21'
 changed: '2010-07-23'
 aliases:
 - "/2004/10/21/halfway_there/"
+- "/node/1436/"
 permalink: "/2004/10/21/halfway_there/"
 tags:
 - Travels

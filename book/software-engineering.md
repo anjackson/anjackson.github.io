@@ -9,7 +9,9 @@ node_id: 1428
 title: Software Engineering
 created: '2004-10-05'
 changed: '2004-10-05'
-aliases: []
+aliases:
+- "/node/1428/"
+permalink: "/node/1428/"
 tags: []
 ---
 CVS, projman, etc?

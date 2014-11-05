@@ -11,6 +11,7 @@ created: '2004-04-18'
 changed: '2010-07-23'
 aliases:
 - "/2004/04/18/jammy_very_jammy_thing_indeed/"
+- "/node/540/"
 permalink: "/2004/04/18/jammy_very_jammy_thing_indeed/"
 tags:
 - Travels

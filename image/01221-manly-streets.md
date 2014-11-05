@@ -9,12 +9,14 @@ node_id: 356
 title: 01221 Manly Streets
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/356/"
+permalink: "/node/356/"
 tags:
 - Sydney
 - 2003/10 - October 2003
 images:
-- - src: image/images/img_1221-356.jpg
-    name: img_1221-356.jpg
+- src: image/images/img_1221-356.jpg
+  name: img_1221-356.jpg
 ---
 The main street in Manly, Sydney.

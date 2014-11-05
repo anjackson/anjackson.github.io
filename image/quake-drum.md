@@ -11,11 +11,12 @@ created: '2005-03-19'
 changed: '2013-06-25'
 aliases:
 - "/2005/03/19/quake-drum/"
+- "/node/1599/"
 permalink: "/2005/03/19/quake-drum/"
 tags:
 - From the internet
 images:
-- - src: image/images/mrz-drum-2005-03-14-2015-1599.gif
-    name: mrz-drum-2005-03-14-2015-1599.gif
+- src: image/images/mrz-drum-2005-03-14-2015-1599.gif
+  name: mrz-drum-2005-03-14-2015-1599.gif
 ---
 http://www.geonet.org.nz/

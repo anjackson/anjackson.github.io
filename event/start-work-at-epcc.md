@@ -9,7 +9,9 @@ node_id: 715
 title: Start work at EPCC.
 created: '2004-06-05'
 changed: '2004-06-05'
-aliases: []
+aliases:
+- "/node/715/"
+permalink: "/node/715/"
 tags: []
 ---
 Crikey!  Back to EPCC for twelve weeks.

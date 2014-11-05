@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/disturbing_taxidermy/"
+- "/node/1006/"
 permalink: "/2004/08/10/disturbing_taxidermy/"
 tags:
 - Auckland
 images:
-- - src: image/images/img_2161-1006.jpg
-    name: img_2161-1006.jpg
+- src: image/images/img_2161-1006.jpg
+  name: img_2161-1006.jpg
 ---
 [Auckland Museum](http://www.aucklandmuseum.com/)

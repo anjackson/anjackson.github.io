@@ -9,12 +9,14 @@ node_id: 1075
 title: 03019 Hobbitses
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1075/"
+permalink: "/node/1075/"
 tags:
 - The Return Of The King
 - 2003/12 - December 2003
 images:
-- - src: image/images/130_3019-1075.jpg
-    name: 130_3019-1075.jpg
+- src: image/images/130_3019-1075.jpg
+  name: 130_3019-1075.jpg
 ---
 

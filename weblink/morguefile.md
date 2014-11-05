@@ -9,7 +9,9 @@ node_id: 1523
 title: morgueFile
 created: '2004-11-16'
 changed: '2004-12-02'
-aliases: []
+aliases:
+- "/node/1523/"
+permalink: "/node/1523/"
 tags:
 - Stock
 ---

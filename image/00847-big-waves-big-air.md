@@ -9,12 +9,14 @@ node_id: 428
 title: 00847 - Big waves, big air.
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/428/"
+permalink: "/node/428/"
 tags:
 - California
 - 2003/09 - September 2003
 images:
-- - src: image/images/108_0847-b-428.jpg
-    name: 108_0847-b-428.jpg
+- src: image/images/108_0847-b-428.jpg
+  name: 108_0847-b-428.jpg
 ---
 Kite surfer at Ano Nuevo Bay.

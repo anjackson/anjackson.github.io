@@ -9,13 +9,15 @@ node_id: 910
 title: 02693 Still Climbing
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/910/"
+permalink: "/node/910/"
 tags:
 - Highlights
 - 2003/11 - November 2003
 - Tongariro Crossing
 images:
-- - src: image/images/126_2693-910.jpg
-    name: 126_2693-910.jpg
+- src: image/images/126_2693-910.jpg
+  name: 126_2693-910.jpg
 ---
 

@@ -11,6 +11,7 @@ created: '2007-01-25'
 changed: '2010-07-23'
 aliases:
 - "/2007/01/25/otariwiltons_bush/"
+- "/node/1767/"
 permalink: "/2007/01/25/otariwiltons_bush/"
 tags:
 - Travels

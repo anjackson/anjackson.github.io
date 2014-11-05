@@ -9,7 +9,9 @@ node_id: 701
 title: Fly Singapore to Bangkok
 created: '2004-05-27'
 changed: '2004-05-27'
-aliases: []
+aliases:
+- "/node/701/"
+permalink: "/node/701/"
 tags:
 - Travels
 ---

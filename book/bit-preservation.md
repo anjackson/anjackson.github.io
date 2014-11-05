@@ -11,6 +11,7 @@ created: '2009-08-10'
 changed: '2009-08-11'
 aliases:
 - "/digital_preservation_notebook/bit_preservation/"
+- "/node/1853/"
 permalink: "/digital_preservation_notebook/bit_preservation/"
 tags: []
 ---

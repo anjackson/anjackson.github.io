@@ -11,11 +11,12 @@ created: '2007-01-19'
 changed: '2013-06-25'
 aliases:
 - "/2007/01/19/eilidhs_first_photo_of_wellington/"
+- "/node/1725/"
 permalink: "/2007/01/19/eilidhs_first_photo_of_wellington/"
 tags:
 - The first few days
 images:
-- - src: image/images/IMG_1479.jpg
-    name: IMG_1479.jpg
+- src: image/images/IMG_1479.jpg
+  name: IMG_1479.jpg
 ---
 

@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/wellington_cable_car/"
+- "/node/1100/"
 permalink: "/2004/08/10/wellington_cable_car/"
 tags:
 - Wellington
 images:
-- - src: image/images/130_3089-1100.jpg
-    name: 130_3089-1100.jpg
+- src: image/images/130_3089-1100.jpg
+  name: 130_3089-1100.jpg
 ---
 

@@ -11,6 +11,7 @@ created: '2004-05-12'
 changed: '2008-01-22'
 aliases:
 - "/about/ilike/"
+- "/node/593/"
 permalink: "/about/ilike/"
 tags: []
 ---

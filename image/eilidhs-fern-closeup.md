@@ -11,11 +11,12 @@ created: '2007-01-19'
 changed: '2013-06-25'
 aliases:
 - "/2007/01/19/eilidhs_fern_closeup/"
+- "/node/1756/"
 permalink: "/2007/01/19/eilidhs_fern_closeup/"
 tags:
 - Otari-Wilton's Bush
 images:
-- - src: image/images/IMG_1554.jpg
-    name: IMG_1554.jpg
+- src: image/images/IMG_1554.jpg
+  name: IMG_1554.jpg
 ---
 

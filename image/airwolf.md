@@ -11,11 +11,12 @@ created: '2007-01-19'
 changed: '2013-06-25'
 aliases:
 - "/2007/01/19/airwolf/"
+- "/node/1728/"
 permalink: "/2007/01/19/airwolf/"
 tags:
 - The first few days
 images:
-- - src: image/images/IMG_3144.JPG
-    name: IMG_3144.JPG
+- src: image/images/IMG_3144.JPG
+  name: IMG_3144.JPG
 ---
 

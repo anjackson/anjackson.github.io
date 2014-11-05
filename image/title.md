@@ -9,11 +9,13 @@ node_id: 687
 title: title
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/687/"
+permalink: "/node/687/"
 tags:
 - Older
 images:
-- - src: image/images/title-687.jpg
-    name: title-687.jpg
+- src: image/images/title-687.jpg
+  name: title-687.jpg
 ---
 

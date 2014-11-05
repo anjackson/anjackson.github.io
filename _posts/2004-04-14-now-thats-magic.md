@@ -11,6 +11,7 @@ created: '2004-04-14'
 changed: '2010-07-23'
 aliases:
 - "/2004/04/14/now_thats_magic/"
+- "/node/534/"
 permalink: "/2004/04/14/now_thats_magic/"
 tags:
 - Travels

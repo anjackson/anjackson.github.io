@@ -11,6 +11,7 @@ created: '2007-04-26'
 changed: '2010-07-23'
 aliases:
 - "/2007/04/26/nearly_over/"
+- "/node/1794/"
 permalink: "/2007/04/26/nearly_over/"
 tags:
 - Travels

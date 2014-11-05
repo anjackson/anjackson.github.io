@@ -9,7 +9,9 @@ node_id: 1538
 title: DHTML Central
 created: '2004-11-18'
 changed: '2004-11-18'
-aliases: []
+aliases:
+- "/node/1538/"
+permalink: "/node/1538/"
 tags:
 - DHTML
 ---

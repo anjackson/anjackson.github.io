@@ -9,7 +9,9 @@ node_id: 1533
 title: DomAPI
 created: '2004-11-18'
 changed: '2004-11-18'
-aliases: []
+aliases:
+- "/node/1533/"
+permalink: "/node/1533/"
 tags:
 - DHTML
 ---

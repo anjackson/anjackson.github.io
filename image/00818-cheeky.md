@@ -9,12 +9,14 @@ node_id: 337
 title: 00818 - Cheeky
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/337/"
+permalink: "/node/337/"
 tags:
 - California
 - 2003/09 - September 2003
 images:
-- - src: image/images/108_0818-337.jpg
-    name: 108_0818-337.jpg
+- src: image/images/108_0818-337.jpg
+  name: 108_0818-337.jpg
 ---
 Cheeky critter, on 17 Mile Drive.

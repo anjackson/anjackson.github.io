@@ -9,11 +9,13 @@ node_id: 623
 title: imgn-menu
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/623/"
+permalink: "/node/623/"
 tags:
 - Older
 images:
-- - src: image/images/imgn-menu-623.jpg
-    name: imgn-menu-623.jpg
+- src: image/images/imgn-menu-623.jpg
+  name: imgn-menu-623.jpg
 ---
 

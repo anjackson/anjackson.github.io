@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/fishing_boat/"
+- "/node/1032/"
 permalink: "/2004/08/10/fishing_boat/"
 tags:
 - Coromandel
 images:
-- - src: image/images/img_2226-1032.jpg
-    name: img_2226-1032.jpg
+- src: image/images/img_2226-1032.jpg
+  name: img_2226-1032.jpg
 ---
 

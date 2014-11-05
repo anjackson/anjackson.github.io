@@ -11,6 +11,7 @@ created: '2006-08-11'
 changed: '2006-09-23'
 aliases:
 - "/2006/08/11/what_os_and_compiler_is_this/"
+- "/node/1682/"
 permalink: "/2006/08/11/what_os_and_compiler_is_this/"
 tags:
 - Geek

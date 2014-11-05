@@ -11,11 +11,12 @@ created: '2004-05-13'
 changed: '2013-06-25'
 aliases:
 - "/2004/05/13/keen/"
+- "/node/664/"
 permalink: "/2004/05/13/keen/"
 tags:
 - Andy
 images:
-- - src: image/images/me-1-sml-664.jpg
-    name: me-1-sml-664.jpg
+- src: image/images/me-1-sml-664.jpg
+  name: me-1-sml-664.jpg
 ---
 

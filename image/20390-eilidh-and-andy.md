@@ -11,13 +11,14 @@ created: '2006-07-29'
 changed: '2013-06-25'
 aliases:
 - "/2006/07/29/20390_eilidh_andy/"
+- "/node/1644/"
 permalink: "/2006/07/29/20390_eilidh_andy/"
 tags:
 - Andy
 - Eilidh
 - Andy & Eilidh
 images:
-- - src: image/images/IMG_0390.JPG
-    name: IMG_0390.JPG
+- src: image/images/IMG_0390.JPG
+  name: IMG_0390.JPG
 ---
 

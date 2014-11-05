@@ -11,6 +11,7 @@ created: '2006-09-29'
 changed: '2008-07-30'
 aliases:
 - "/2004/08/10/shell_tricks/tell_me_about_my_hardware/"
+- "/node/1685/"
 permalink: "/2004/08/10/shell_tricks/tell_me_about_my_hardware/"
 tags: []
 ---

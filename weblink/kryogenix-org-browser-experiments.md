@@ -9,7 +9,9 @@ node_id: 1526
 title: kryogenix.org browser experiments
 created: '2004-11-17'
 changed: '2004-11-17'
-aliases: []
+aliases:
+- "/node/1526/"
+permalink: "/node/1526/"
 tags:
 - Web Design
 ---

@@ -9,13 +9,15 @@ node_id: 424
 title: 00743 - Big Sur
 created: '2003-09-18'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/424/"
+permalink: "/node/424/"
 tags:
 - California
 - Highlights
 - 2003/09 - September 2003
 images:
-- - src: image/images/107_0743-c-424.jpg
-    name: 107_0743-c-424.jpg
+- src: image/images/107_0743-c-424.jpg
+  name: 107_0743-c-424.jpg
 ---
 The Big Sur coastline, between L.A. and San Francisco.

@@ -9,11 +9,13 @@ node_id: 605
 title: ma.iwas
 created: '2004-05-12'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/605/"
+permalink: "/node/605/"
 tags:
 - imgn
 images:
-- - src: image/images/ma.iwas-605.jpg
-    name: ma.iwas-605.jpg
+- src: image/images/ma.iwas-605.jpg
+  name: ma.iwas-605.jpg
 ---
 

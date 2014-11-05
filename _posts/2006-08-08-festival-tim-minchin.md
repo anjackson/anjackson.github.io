@@ -12,6 +12,7 @@ changed: '2010-07-23'
 aliases:
 - "/2006/08/08/festival_tim_minchin/"
 - "/2006/08/07/festival_tim_minchin/"
+- "/node/1679/"
 permalink: "/2006/08/08/festival_tim_minchin/"
 tags:
 - Reviews

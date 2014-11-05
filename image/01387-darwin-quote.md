@@ -9,12 +9,14 @@ node_id: 366
 title: 01387 Darwin Quote
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/366/"
+permalink: "/node/366/"
 tags:
 - 2003/10 - October 2003
 - Blue Mountains
 images:
-- - src: image/images/img_1387-366.jpg
-    name: img_1387-366.jpg
+- src: image/images/img_1387-366.jpg
+  name: img_1387-366.jpg
 ---
 A quote from Charles Darwin, taken on the voyage of the Beagle.

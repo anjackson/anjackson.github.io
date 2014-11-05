@@ -11,11 +11,12 @@ created: '2006-08-01'
 changed: '2013-06-25'
 aliases:
 - "/2006/08/01/37329_having_fun_at_centre_parcs/"
+- "/node/1675/"
 permalink: "/2006/08/01/37329_having_fun_at_centre_parcs/"
 tags:
 - Eilidh
 images:
-- - src: image/images/IMG_7329.JPG
-    name: IMG_7329.JPG
+- src: image/images/IMG_7329.JPG
+  name: IMG_7329.JPG
 ---
 

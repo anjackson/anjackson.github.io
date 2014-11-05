@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/marae_0/"
+- "/node/1010/"
 permalink: "/2004/08/10/marae_0/"
 tags:
 - Auckland
 images:
-- - src: image/images/img_2176-1010.jpg
-    name: img_2176-1010.jpg
+- src: image/images/img_2176-1010.jpg
+  name: img_2176-1010.jpg
 ---
 [Auckland Museum](http://www.aucklandmuseum.com/)

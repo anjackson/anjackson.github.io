@@ -11,11 +11,12 @@ created: '2007-01-19'
 changed: '2013-06-25'
 aliases:
 - "/2007/01/19/view_through_the_trees/"
+- "/node/1751/"
 permalink: "/2007/01/19/view_through_the_trees/"
 tags:
 - Otari-Wilton's Bush
 images:
-- - src: image/images/IMG_1539.jpg
-    name: IMG_1539.jpg
+- src: image/images/IMG_1539.jpg
+  name: IMG_1539.jpg
 ---
 

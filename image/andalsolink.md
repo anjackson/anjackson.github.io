@@ -9,11 +9,13 @@ node_id: 595
 title: andalsolink
 created: '2004-05-12'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/595/"
+permalink: "/node/595/"
 tags:
 - imgn
 images:
-- - src: image/images/andalsolink-595.jpg
-    name: andalsolink-595.jpg
+- src: image/images/andalsolink-595.jpg
+  name: andalsolink-595.jpg
 ---
 

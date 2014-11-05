@@ -9,12 +9,14 @@ node_id: 1403
 title: 04026 Appproaching Beach
 created: '2004-08-20'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1403/"
+permalink: "/node/1403/"
 tags:
 - 2004/01 - January 2004
 - Abel Tasman
 images:
-- - src: image/images/04026_appproaching_beach-1403.jpg
-    name: 04026_appproaching_beach-1403.jpg
+- src: image/images/04026_appproaching_beach-1403.jpg
+  name: 04026_appproaching_beach-1403.jpg
 ---
 

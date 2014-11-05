@@ -9,12 +9,14 @@ node_id: 386
 title: 01596 Tour Bus
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/386/"
+permalink: "/node/386/"
 tags:
 - The Red Centre
 - 2003/10 - October 2003
 images:
-- - src: image/images/img_1596-386.jpg
-    name: img_1596-386.jpg
+- src: image/images/img_1596-386.jpg
+  name: img_1596-386.jpg
 ---
 Our Adventure Tours bus.

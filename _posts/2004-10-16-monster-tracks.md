@@ -11,6 +11,7 @@ created: '2004-10-16'
 changed: '2010-07-23'
 aliases:
 - "/2004/10/16/monster_tracks/"
+- "/node/1435/"
 permalink: "/2004/10/16/monster_tracks/"
 tags:
 - General

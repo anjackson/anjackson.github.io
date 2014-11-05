@@ -9,7 +9,9 @@ node_id: 1536
 title: Jude
 created: '2004-11-18'
 changed: '2004-11-18'
-aliases: []
+aliases:
+- "/node/1536/"
+permalink: "/node/1536/"
 tags:
 - DHTML
 ---

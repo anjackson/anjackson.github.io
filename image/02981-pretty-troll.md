@@ -9,12 +9,14 @@ node_id: 1062
 title: 02981 Pretty Troll
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1062/"
+permalink: "/node/1062/"
 tags:
 - The Return Of The King
 - 2003/11 - November 2003
 images:
-- - src: image/images/129_2981-1062.jpg
-    name: 129_2981-1062.jpg
+- src: image/images/129_2981-1062.jpg
+  name: 129_2981-1062.jpg
 ---
 

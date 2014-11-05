@@ -9,12 +9,14 @@ node_id: 320
 title: 00658 - Computer Club
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/320/"
+permalink: "/node/320/"
 tags:
 - Wirksworth
 - 2003/09 - September 2003
 images:
-- - src: image/images/106_0658-320.jpg
-    name: 106_0658-320.jpg
+- src: image/images/106_0658-320.jpg
+  name: 106_0658-320.jpg
 ---
 The place I queued to get into my school computer clube, where all this began. Anthony Gell School, Wirksworth.

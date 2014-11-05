@@ -11,6 +11,7 @@ created: '2008-06-27'
 changed: '2009-08-11'
 aliases:
 - "/2008/06/27/science_digital_preservation/"
+- "/node/1813/"
 permalink: "/2008/06/27/science_digital_preservation/"
 tags:
 - Digital Preservation

@@ -11,11 +11,12 @@ created: '2004-05-31'
 changed: '2007-02-08'
 aliases:
 - "/poot/riscos/xmlsite/"
+- "/node/706/"
 permalink: "/poot/riscos/xmlsite/"
 tags: []
 attachments:
-- - src: page/files/xmlsite.zip
-    name: xmlsite.zip
+- src: page/files/xmlsite.zip
+  name: xmlsite.zip
 ---
 <img src="/themes/anjackson.net/sw/xmlsite.gif" border="0" align="left" />A set of perl scripts for generating a html website from XML sources using XSLT stylesheets.  Not particularly good really - you have been warned!  Requires an XSLT processor, e.g. [XMLUtils](http://anjackson.net/poot/riscos/xmlutils).
 

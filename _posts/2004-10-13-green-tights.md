@@ -11,6 +11,7 @@ created: '2004-10-13'
 changed: '2010-07-23'
 aliases:
 - "/2004/10/13/green_tights/"
+- "/node/1429/"
 permalink: "/2004/10/13/green_tights/"
 tags:
 - Travels

@@ -9,7 +9,9 @@ node_id: 726
 title: Visualization
 created: '2004-06-27'
 changed: '2004-06-27'
-aliases: []
+aliases:
+- "/node/726/"
+permalink: "/node/726/"
 tags: []
 ---
 ### Visualization

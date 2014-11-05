@@ -11,12 +11,13 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/waterfall_1/"
+- "/node/1035/"
 permalink: "/2004/08/10/waterfall_1/"
 tags:
 - Coromandel
 - Aaron P
 images:
-- - src: image/images/img_2233-1035.jpg
-    name: img_2233-1035.jpg
+- src: image/images/img_2233-1035.jpg
+  name: img_2233-1035.jpg
 ---
 

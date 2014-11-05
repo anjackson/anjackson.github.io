@@ -11,6 +11,7 @@ created: '2004-04-20'
 changed: '2010-07-23'
 aliases:
 - "/2004/04/20/autumn_leaves/"
+- "/node/542/"
 permalink: "/2004/04/20/autumn_leaves/"
 tags:
 - Travels

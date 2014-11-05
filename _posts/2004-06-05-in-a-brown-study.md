@@ -11,6 +11,7 @@ created: '2004-06-05'
 changed: '2010-07-23'
 aliases:
 - "/2004/06/05/brown_study/"
+- "/node/714/"
 permalink: "/2004/06/05/brown_study/"
 tags: []
 ---

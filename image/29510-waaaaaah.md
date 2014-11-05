@@ -11,11 +11,12 @@ created: '2006-07-29'
 changed: '2013-06-25'
 aliases:
 - "/2006/07/29/29510_waaaaaah/"
+- "/node/1660/"
 permalink: "/2006/07/29/29510_waaaaaah/"
 tags:
 - Eilidh
 images:
-- - src: image/images/IMG_9510.JPG
-    name: IMG_9510.JPG
+- src: image/images/IMG_9510.JPG
+  name: IMG_9510.JPG
 ---
 

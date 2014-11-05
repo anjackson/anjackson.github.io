@@ -9,7 +9,9 @@ node_id: 1537
 title: Cross-Browser X Library
 created: '2004-11-18'
 changed: '2004-11-18'
-aliases: []
+aliases:
+- "/node/1537/"
+permalink: "/node/1537/"
 tags:
 - DHTML
 ---

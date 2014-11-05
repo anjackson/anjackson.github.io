@@ -11,11 +11,12 @@ created: '2004-05-12'
 changed: '2007-02-08'
 aliases:
 - "/ix2v/comphys/docs/ug/y2-fe-flow.pdf/"
+- "/node/586/"
 permalink: "/ix2v/comphys/docs/ug/y2-fe-flow.pdf/"
 tags: []
 attachments:
-- - src: page/files/y2-fe-flow.pdf
-    name: y2-fe-flow.pdf
+- src: page/files/y2-fe-flow.pdf
+  name: y2-fe-flow.pdf
 ---
 ### Incompressible Irrotational Flow around a Cylinder in a Duct
 ## An application of finite element methods

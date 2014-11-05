@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/long_road_home/"
+- "/node/1004/"
 permalink: "/2004/08/10/long_road_home/"
 tags:
 - Bay of Islands
 images:
-- - src: image/images/img_2141-1004.jpg
-    name: img_2141-1004.jpg
+- src: image/images/img_2141-1004.jpg
+  name: img_2141-1004.jpg
 ---
 

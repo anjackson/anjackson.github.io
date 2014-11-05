@@ -9,7 +9,9 @@ node_id: 1556
 title: Crash Course in LaTeX
 created: '2004-12-03'
 changed: '2004-12-03'
-aliases: []
+aliases:
+- "/node/1556/"
+permalink: "/node/1556/"
 tags:
 - Geeking
 ---

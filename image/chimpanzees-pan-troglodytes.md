@@ -11,11 +11,12 @@ created: '2007-01-31'
 changed: '2013-06-25'
 aliases:
 - "/2007/01/31/chimpanzees_pan_troglodytes/"
+- "/node/1773/"
 permalink: "/2007/01/31/chimpanzees_pan_troglodytes/"
 tags:
 - Wellington Zoo
 images:
-- - src: image/images/IMG_3286.JPG
-    name: IMG_3286.JPG
+- src: image/images/IMG_3286.JPG
+  name: IMG_3286.JPG
 ---
 

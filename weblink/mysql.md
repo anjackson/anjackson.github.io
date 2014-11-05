@@ -9,7 +9,9 @@ node_id: 1447
 title: MySQL
 created: '2004-11-10'
 changed: '2004-11-11'
-aliases: []
+aliases:
+- "/node/1447/"
+permalink: "/node/1447/"
 tags:
 - Geeking
 ---

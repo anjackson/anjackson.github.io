@@ -11,11 +11,12 @@ created: '2006-07-29'
 changed: '2013-06-25'
 aliases:
 - "/2006/07/29/31201_eilidh_belafonte/"
+- "/node/1666/"
 permalink: "/2006/07/29/31201_eilidh_belafonte/"
 tags:
 - Eilidh
 images:
-- - src: image/images/IMG_1201.JPG
-    name: IMG_1201.JPG
+- src: image/images/IMG_1201.JPG
+  name: IMG_1201.JPG
 ---
 

@@ -11,6 +11,7 @@ created: '2009-08-11'
 changed: '2009-08-11'
 aliases:
 - "/digital_preservation_notebook/digital_object_properties/property_extraction_tools/"
+- "/node/1860/"
 permalink: "/digital_preservation_notebook/digital_object_properties/property_extraction_tools/"
 tags: []
 ---

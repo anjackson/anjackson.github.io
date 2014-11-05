@@ -9,12 +9,14 @@ node_id: 351
 title: 01176 - Botanical Skyscrapers
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/351/"
+permalink: "/node/351/"
 tags:
 - Sydney
 - 2003/10 - October 2003
 images:
-- - src: image/images/img_1176-351.jpg
-    name: img_1176-351.jpg
+- src: image/images/img_1176-351.jpg
+  name: img_1176-351.jpg
 ---
 The botanical gardens are right in the heart of Sydney.  Nice place for lunch.

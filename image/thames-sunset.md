@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/thames_sunset_1/"
+- "/node/1025/"
 permalink: "/2004/08/10/thames_sunset_1/"
 tags:
 - Coromandel
 images:
-- - src: image/images/img_2213-1025.jpg
-    name: img_2213-1025.jpg
+- src: image/images/img_2213-1025.jpg
+  name: img_2213-1025.jpg
 ---
 

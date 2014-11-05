@@ -11,11 +11,12 @@ created: '2004-07-26'
 changed: '2013-06-25'
 aliases:
 - "/2004/07/26/green_lake/"
+- "/node/834/"
 permalink: "/2004/07/26/green_lake/"
 tags:
 - Rotorua
 images:
-- - src: image/images/img_2489-834.jpg
-    name: img_2489-834.jpg
+- src: image/images/img_2489-834.jpg
+  name: img_2489-834.jpg
 ---
 

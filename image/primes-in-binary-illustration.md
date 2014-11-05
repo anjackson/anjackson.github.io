@@ -11,11 +11,12 @@ created: '2007-07-19'
 changed: '2013-06-25'
 aliases:
 - "/2007/07/19/primes_in_binary_illustration/"
+- "/node/1803/"
 permalink: "/2007/07/19/primes_in_binary_illustration/"
 tags:
 - ix2v
 images:
-- - src: image/images/PrimePlotIllustration.png
-    name: PrimePlotIllustration.png
+- src: image/images/PrimePlotIllustration.png
+  name: PrimePlotIllustration.png
 ---
 

@@ -11,6 +11,7 @@ created: '2004-04-02'
 changed: '2010-07-23'
 aliases:
 - "/2004/04/02/quotification/"
+- "/node/525/"
 permalink: "/2004/04/02/quotification/"
 tags:
 - General

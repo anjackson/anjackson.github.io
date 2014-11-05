@@ -9,7 +9,9 @@ node_id: 1434
 title: snow patrol - final straw
 created: '2004-10-16'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1434/"
+permalink: "/node/1434/"
 tags:
 - From the internet
 ---

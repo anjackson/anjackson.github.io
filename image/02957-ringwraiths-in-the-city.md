@@ -9,12 +9,14 @@ node_id: 1048
 title: 02957 Ringwraiths in the City
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1048/"
+permalink: "/node/1048/"
 tags:
 - The Return Of The King
 - 2003/11 - November 2003
 images:
-- - src: image/images/129_2957-1048.jpg
-    name: 129_2957-1048.jpg
+- src: image/images/129_2957-1048.jpg
+  name: 129_2957-1048.jpg
 ---
 

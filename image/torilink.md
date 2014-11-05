@@ -9,7 +9,9 @@ node_id: 610
 title: torilink
 created: '2004-05-12'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/610/"
+permalink: "/node/610/"
 tags:
 - imgn
 ---

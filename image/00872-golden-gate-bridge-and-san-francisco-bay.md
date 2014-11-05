@@ -9,13 +9,15 @@ node_id: 434
 title: 00872 - Golden Gate Bridge & San Francisco Bay
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/434/"
+permalink: "/node/434/"
 tags:
 - California
 - Highlights
 - 2003/09 - September 2003
 images:
-- - src: image/images/2372-77-pan-b-434.jpg
-    name: 2372-77-pan-b-434.jpg
+- src: image/images/2372-77-pan-b-434.jpg
+  name: 2372-77-pan-b-434.jpg
 ---
 Widescreen of San Franscisco Bay, looking back towards the city.

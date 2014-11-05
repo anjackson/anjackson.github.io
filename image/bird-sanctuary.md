@@ -11,11 +11,12 @@ created: '2007-01-19'
 changed: '2013-06-25'
 aliases:
 - "/2007/01/19/bird_sanctuary/"
+- "/node/1737/"
 permalink: "/2007/01/19/bird_sanctuary/"
 tags:
 - The first few days
 images:
-- - src: image/images/IMG_2877.JPG
-    name: IMG_2877.JPG
+- src: image/images/IMG_2877.JPG
+  name: IMG_2877.JPG
 ---
 

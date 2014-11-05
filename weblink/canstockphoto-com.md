@@ -9,7 +9,9 @@ node_id: 1552
 title: canstockphoto.com
 created: '2004-12-03'
 changed: '2004-12-03'
-aliases: []
+aliases:
+- "/node/1552/"
+permalink: "/node/1552/"
 tags:
 - Stock
 ---

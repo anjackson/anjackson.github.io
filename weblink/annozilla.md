@@ -9,7 +9,9 @@ node_id: 1452
 title: Annozilla
 created: '2004-11-12'
 changed: '2004-11-12'
-aliases: []
+aliases:
+- "/node/1452/"
+permalink: "/node/1452/"
 tags:
 - www v2.0
 - Mozilla

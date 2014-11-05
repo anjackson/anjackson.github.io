@@ -11,6 +11,7 @@ created: '2004-04-14'
 changed: '2010-07-23'
 aliases:
 - "/2004/04/14/buying_pies_rainman/"
+- "/node/533/"
 permalink: "/2004/04/14/buying_pies_rainman/"
 tags:
 - Travels

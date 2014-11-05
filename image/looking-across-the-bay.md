@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/looking_across_the_bay/"
+- "/node/1097/"
 permalink: "/2004/08/10/looking_across_the_bay/"
 tags:
 - Wellington
 images:
-- - src: image/images/130_3082-1097.jpg
-    name: 130_3082-1097.jpg
+- src: image/images/130_3082-1097.jpg
+  name: 130_3082-1097.jpg
 ---
 

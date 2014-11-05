@@ -11,6 +11,7 @@ created: '2008-07-06'
 changed: '2008-12-04'
 aliases:
 - "/2008/07/06/three_strikes_and_youre_offline/"
+- "/node/1817/"
 permalink: "/2008/07/06/three_strikes_and_youre_offline/"
 tags:
 - Rants

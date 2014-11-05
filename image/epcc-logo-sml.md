@@ -9,7 +9,9 @@ node_id: 669
 title: epcc-logo-sml
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/669/"
+permalink: "/node/669/"
 tags:
 - Older
 ---

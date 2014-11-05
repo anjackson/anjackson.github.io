@@ -9,12 +9,14 @@ node_id: 1090
 title: 03042 Watching the big screen
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1090/"
+permalink: "/node/1090/"
 tags:
 - The Return Of The King
 - 2003/12 - December 2003
 images:
-- - src: image/images/130_3042-1090.jpg
-    name: 130_3042-1090.jpg
+- src: image/images/130_3042-1090.jpg
+  name: 130_3042-1090.jpg
 ---
 

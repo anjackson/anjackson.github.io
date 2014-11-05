@@ -9,12 +9,14 @@ node_id: 1394
 title: 03996 Beachside
 created: '2004-08-20'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1394/"
+permalink: "/node/1394/"
 tags:
 - 2004/01 - January 2004
 - Abel Tasman
 images:
-- - src: image/images/03996_beachside-1394.jpg
-    name: 03996_beachside-1394.jpg
+- src: image/images/03996_beachside-1394.jpg
+  name: 03996_beachside-1394.jpg
 ---
 

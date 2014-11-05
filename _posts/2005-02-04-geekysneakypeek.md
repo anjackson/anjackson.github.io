@@ -11,6 +11,7 @@ created: '2005-02-04'
 changed: '2011-09-07'
 aliases:
 - "/2005/02/04/geekysneakypeek/"
+- "/node/1594/"
 permalink: "/2005/02/04/geekysneakypeek/"
 tags:
 - Science

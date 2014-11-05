@@ -11,11 +11,12 @@ created: '2004-05-12'
 changed: '2013-06-25'
 aliases:
 - "/ix2v/comphys/docs/phd/mccm.pdf/"
+- "/node/575/"
 permalink: "/ix2v/comphys/docs/phd/mccm.pdf/"
 tags: []
 attachments:
-- - src: page/files/mccm.pdf
-    name: mccm.pdf
+- src: page/files/mccm.pdf
+  name: mccm.pdf
 ---
 #### Monte Carlo Condensed Matter
 A very brief guide to Monte Carlo simulation.

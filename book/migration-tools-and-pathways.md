@@ -11,6 +11,7 @@ created: '2009-08-11'
 changed: '2009-08-11'
 aliases:
 - "/digital_preservation_notebook/preservation_strategies/migration_tools_pathways/"
+- "/node/1861/"
 permalink: "/digital_preservation_notebook/preservation_strategies/migration_tools_pathways/"
 tags: []
 ---

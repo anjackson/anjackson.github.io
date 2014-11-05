@@ -9,11 +9,13 @@ node_id: 626
 title: curve.3
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/626/"
+permalink: "/node/626/"
 tags:
 - imgn
 images:
-- - src: image/images/curve.3-626.jpg
-    name: curve.3-626.jpg
+- src: image/images/curve.3-626.jpg
+  name: curve.3-626.jpg
 ---
 

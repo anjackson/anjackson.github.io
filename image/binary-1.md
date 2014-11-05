@@ -9,11 +9,13 @@ node_id: 624
 title: binary.1
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/624/"
+permalink: "/node/624/"
 tags:
 - imgn
 images:
-- - src: image/images/binary.1-624.jpg
-    name: binary.1-624.jpg
+- src: image/images/binary.1-624.jpg
+  name: binary.1-624.jpg
 ---
 

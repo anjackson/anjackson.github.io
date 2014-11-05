@@ -11,11 +11,12 @@ created: '2007-01-31'
 changed: '2013-06-25'
 aliases:
 - "/2007/01/31/looking_for_kiwis_0/"
+- "/node/1787/"
 permalink: "/2007/01/31/looking_for_kiwis_0/"
 tags:
 - Wellington Zoo
 images:
-- - src: image/images/IMG_3420_0.JPG
-    name: IMG_3420_0.JPG
+- src: image/images/IMG_3420_0.JPG
+  name: IMG_3420_0.JPG
 ---
 

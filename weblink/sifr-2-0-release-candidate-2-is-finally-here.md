@@ -11,6 +11,7 @@ created: '2004-12-30'
 changed: '2004-12-30'
 aliases:
 - "/2004/12/30/sifr-20-release-candidate-2-is-finally-here/"
+- "/node/1579/"
 permalink: "/2004/12/30/sifr-20-release-candidate-2-is-finally-here/"
 tags:
 - Web Design

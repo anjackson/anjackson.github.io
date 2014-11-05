@@ -11,6 +11,7 @@ created: '2007-01-25'
 changed: '2010-07-23'
 aliases:
 - "/2007/01/25/comet_mcnaught/"
+- "/node/1768/"
 permalink: "/2007/01/25/comet_mcnaught/"
 tags:
 - General

@@ -11,11 +11,12 @@ created: '2004-05-12'
 changed: '2007-02-08'
 aliases:
 - "/ix2v/comphys/docs/ug/y4-cfd.pdf/"
+- "/node/580/"
 permalink: "/ix2v/comphys/docs/ug/y4-cfd.pdf/"
 tags: []
 attachments:
-- - src: page/files/y4-cfd.pdf
-    name: y4-cfd.pdf
+- src: page/files/y4-cfd.pdf
+  name: y4-cfd.pdf
 ---
 ### Computational Fluid Dynamics
 ## Course Assignment

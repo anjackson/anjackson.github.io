@@ -11,6 +11,7 @@ created: '2004-03-18'
 changed: '2010-07-23'
 aliases:
 - "/greetings_drupal/"
+- "/node/2/"
 permalink: "/greetings_drupal/"
 tags: []
 ---

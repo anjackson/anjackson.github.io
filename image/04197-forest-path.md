@@ -9,12 +9,14 @@ node_id: 1475
 title: 04197 Forest Path
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1475/"
+permalink: "/node/1475/"
 tags:
 - 2004/01 - January 2004
 - Abel Tasman
 images:
-- - src: image/images/04197_forest_path-1475.jpg
-    name: 04197_forest_path-1475.jpg
+- src: image/images/04197_forest_path-1475.jpg
+  name: 04197_forest_path-1475.jpg
 ---
 

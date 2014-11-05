@@ -11,11 +11,12 @@ created: '2007-01-31'
 changed: '2013-06-25'
 aliases:
 - "/2007/01/31/lion/"
+- "/node/1780/"
 permalink: "/2007/01/31/lion/"
 tags:
 - Wellington Zoo
 images:
-- - src: image/images/IMG_3372.JPG
-    name: IMG_3372.JPG
+- src: image/images/IMG_3372.JPG
+  name: IMG_3372.JPG
 ---
 

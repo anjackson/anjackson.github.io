@@ -9,13 +9,15 @@ node_id: 935
 title: 02765 Abseiling In Waitomo
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/935/"
+permalink: "/node/935/"
 tags:
 - Andy
 - 2003/11 - November 2003
 - Waitomo
 images:
-- - src: image/images/127_2765-935.jpg
-    name: 127_2765-935.jpg
+- src: image/images/127_2765-935.jpg
+  name: 127_2765-935.jpg
 ---
 

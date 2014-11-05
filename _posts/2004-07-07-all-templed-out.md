@@ -11,6 +11,7 @@ created: '2004-07-07'
 changed: '2010-07-23'
 aliases:
 - "/2004/07/07/all_templed_out/"
+- "/node/731/"
 permalink: "/2004/07/07/all_templed_out/"
 tags:
 - Travels

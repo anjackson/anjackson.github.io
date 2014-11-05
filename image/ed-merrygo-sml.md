@@ -9,12 +9,14 @@ node_id: 655
 title: ed-merrygo.sml
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/655/"
+permalink: "/node/655/"
 tags:
 - Edinburgh
 - Older
 images:
-- - src: image/images/ed-merrygo.sml-655.jpg
-    name: ed-merrygo.sml-655.jpg
+- src: image/images/ed-merrygo.sml-655.jpg
+  name: ed-merrygo.sml-655.jpg
 ---
 

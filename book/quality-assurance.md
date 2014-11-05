@@ -11,6 +11,7 @@ created: '2009-08-11'
 changed: '2009-08-11'
 aliases:
 - "/digital_preservation_notebook/quality_assurance/"
+- "/node/1856/"
 permalink: "/digital_preservation_notebook/quality_assurance/"
 tags: []
 ---

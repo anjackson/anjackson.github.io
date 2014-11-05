@@ -11,6 +11,7 @@ created: '2004-06-17'
 changed: '2010-07-23'
 aliases:
 - "/2004/06/17/tuktuktastic/"
+- "/node/720/"
 permalink: "/2004/06/17/tuktuktastic/"
 tags:
 - Travels

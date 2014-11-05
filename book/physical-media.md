@@ -11,6 +11,7 @@ created: '2009-09-02'
 changed: '2009-09-02'
 aliases:
 - "/digital_preservation_notebook/physical_media/"
+- "/node/1868/"
 permalink: "/digital_preservation_notebook/physical_media/"
 tags: []
 ---

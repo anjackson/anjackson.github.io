@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/thames_greenpeace_hut/"
+- "/node/1026/"
 permalink: "/2004/08/10/thames_greenpeace_hut/"
 tags:
 - Coromandel
 images:
-- - src: image/images/img_2215-1026.jpg
-    name: img_2215-1026.jpg
+- src: image/images/img_2215-1026.jpg
+  name: img_2215-1026.jpg
 ---
 

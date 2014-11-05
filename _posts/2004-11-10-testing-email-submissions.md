@@ -9,7 +9,9 @@ node_id: 1446
 title: Testing Email Submissions
 created: '2004-11-10'
 changed: '2004-11-10'
-aliases: []
+aliases:
+- "/node/1446/"
+permalink: "/node/1446/"
 tags:
 - General
 ---

@@ -11,11 +11,12 @@ created: '2007-01-31'
 changed: '2013-06-25'
 aliases:
 - "/2007/01/31/hello_there/"
+- "/node/1779/"
 permalink: "/2007/01/31/hello_there/"
 tags:
 - Wellington Zoo
 images:
-- - src: image/images/IMG_3357.JPG
-    name: IMG_3357.JPG
+- src: image/images/IMG_3357.JPG
+  name: IMG_3357.JPG
 ---
 

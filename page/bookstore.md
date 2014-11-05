@@ -12,6 +12,7 @@ changed: '2010-07-24'
 aliases:
 - "/geek/bookstore/"
 - "/2007/07/13/bookstore/"
+- "/node/1802/"
 permalink: "/geek/bookstore/"
 tags:
 - Geek

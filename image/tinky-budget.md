@@ -9,7 +9,9 @@ node_id: 11
 title: Tinky Budget
 created: '2004-03-18'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/11/"
+permalink: "/node/11/"
 tags:
 - b3ta
 ---

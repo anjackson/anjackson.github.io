@@ -9,7 +9,9 @@ node_id: 1451
 title: 'Extension Room: Links'
 created: '2004-11-12'
 changed: '2004-11-12'
-aliases: []
+aliases:
+- "/node/1451/"
+permalink: "/node/1451/"
 tags:
 - Mozilla
 ---

@@ -9,11 +9,13 @@ node_id: 543
 title: 05949 Postcard Perfect
 created: '2004-04-22'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/543/"
+permalink: "/node/543/"
 tags:
 - Highlights
 images:
-- - src: image/images/159_5949b-543.jpg
-    name: 159_5949b-543.jpg
+- src: image/images/159_5949b-543.jpg
+  name: 159_5949b-543.jpg
 ---
 Milford Sound.

@@ -11,11 +11,12 @@ created: '2007-01-31'
 changed: '2013-06-25'
 aliases:
 - "/2007/01/31/looking_over_wellington/"
+- "/node/1776/"
 permalink: "/2007/01/31/looking_over_wellington/"
 tags:
 - Wellington Zoo
 images:
-- - src: image/images/IMG_3328.JPG
-    name: IMG_3328.JPG
+- src: image/images/IMG_3328.JPG
+  name: IMG_3328.JPG
 ---
 

@@ -11,6 +11,7 @@ created: '2004-07-20'
 changed: '2010-07-23'
 aliases:
 - "/2004/07/20/almost_too_familiar/"
+- "/node/738/"
 permalink: "/2004/07/20/almost_too_familiar/"
 tags:
 - Travels

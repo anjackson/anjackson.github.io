@@ -11,11 +11,12 @@ created: '2007-01-31'
 changed: '2013-06-25'
 aliases:
 - "/2007/01/31/golden_lion_tamarin/"
+- "/node/1785/"
 permalink: "/2007/01/31/golden_lion_tamarin/"
 tags:
 - Wellington Zoo
 images:
-- - src: image/images/IMG_3393.JPG
-    name: IMG_3393.JPG
+- src: image/images/IMG_3393.JPG
+  name: IMG_3393.JPG
 ---
 

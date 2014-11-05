@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+{% for im in page.images %}
+<img src="{{ site.baseurl }}/{{ im['src'] }}" alt="{{ im['name'] }}"/>
+{% endfor %}
+
+{{ content }}

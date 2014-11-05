@@ -11,6 +11,7 @@ created: '2011-01-12'
 changed: '2011-01-13'
 aliases:
 - "/2011/01/12/opf_blog_format_obsolescence_and_sustainable_access/"
+- "/node/1886/"
 permalink: "/2011/01/12/opf_blog_format_obsolescence_and_sustainable_access/"
 tags:
 - Digital Preservation

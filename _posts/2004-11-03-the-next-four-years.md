@@ -11,6 +11,7 @@ created: '2004-11-03'
 changed: '2008-12-04'
 aliases:
 - "/2004/11/02/next_four_years/"
+- "/node/1438/"
 permalink: "/2004/11/02/next_four_years/"
 tags:
 - Rants

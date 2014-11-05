@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/te_papa_marae/"
+- "/node/1038/"
 permalink: "/2004/08/10/te_papa_marae/"
 tags:
 - Wellington
 images:
-- - src: image/images/129_2943-1038.jpg
-    name: 129_2943-1038.jpg
+- src: image/images/129_2943-1038.jpg
+  name: 129_2943-1038.jpg
 ---
 

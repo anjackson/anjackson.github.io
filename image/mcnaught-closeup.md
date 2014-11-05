@@ -11,11 +11,12 @@ created: '2007-01-19'
 changed: '2013-06-25'
 aliases:
 - "/2007/01/19/mcnaught_closeup/"
+- "/node/1763/"
 permalink: "/2007/01/19/mcnaught_closeup/"
 tags:
 - Comet McNaught
 images:
-- - src: image/images/IMG_3223.JPG
-    name: IMG_3223.JPG
+- src: image/images/IMG_3223.JPG
+  name: IMG_3223.JPG
 ---
 

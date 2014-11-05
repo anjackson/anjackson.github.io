@@ -9,7 +9,9 @@ node_id: 1448
 title: octaviz
 created: '2004-11-10'
 changed: '2004-11-11'
-aliases: []
+aliases:
+- "/node/1448/"
+permalink: "/node/1448/"
 tags:
 - Geeking
 ---

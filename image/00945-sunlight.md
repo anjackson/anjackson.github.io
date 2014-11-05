@@ -9,13 +9,15 @@ node_id: 340
 title: 00945 Sunlight
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/340/"
+permalink: "/node/340/"
 tags:
 - California
 - Highlights
 - 2003/09 - September 2003
 images:
-- - src: image/images/109_0945-340.jpg
-    name: 109_0945-340.jpg
+- src: image/images/109_0945-340.jpg
+  name: 109_0945-340.jpg
 ---
 Taken near Yosemite village.

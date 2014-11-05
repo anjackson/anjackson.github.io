@@ -11,11 +11,12 @@ created: '2004-07-26'
 changed: '2013-06-25'
 aliases:
 - "/2004/07/26/mount_egmont_taranaki/"
+- "/node/945/"
 permalink: "/2004/07/26/mount_egmont_taranaki/"
 tags:
 - Taranaki
 images:
-- - src: image/images/127_2797-945.jpg
-    name: 127_2797-945.jpg
+- src: image/images/127_2797-945.jpg
+  name: 127_2797-945.jpg
 ---
 

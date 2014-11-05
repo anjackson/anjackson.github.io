@@ -11,11 +11,12 @@ created: '2007-01-19'
 changed: '2013-06-25'
 aliases:
 - "/2007/01/19/andys_fern_closeup/"
+- "/node/1755/"
 permalink: "/2007/01/19/andys_fern_closeup/"
 tags:
 - Otari-Wilton's Bush
 images:
-- - src: image/images/IMG_3070.JPG
-    name: IMG_3070.JPG
+- src: image/images/IMG_3070.JPG
+  name: IMG_3070.JPG
 ---
 

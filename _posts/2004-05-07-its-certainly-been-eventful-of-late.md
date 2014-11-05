@@ -11,6 +11,7 @@ created: '2004-05-07'
 changed: '2010-07-23'
 aliases:
 - "/2004/05/07/its_certainly_been_eventful_late/"
+- "/node/551/"
 permalink: "/2004/05/07/its_certainly_been_eventful_late/"
 tags:
 - General

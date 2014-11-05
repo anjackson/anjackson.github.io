@@ -11,6 +11,7 @@ created: '2004-11-15'
 changed: '2010-07-23'
 aliases:
 - "/2004/11/15/wrong_speed/"
+- "/node/1510/"
 permalink: "/2004/11/15/wrong_speed/"
 tags: []
 ---

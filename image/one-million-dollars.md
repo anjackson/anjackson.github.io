@@ -11,11 +11,12 @@ created: '2004-03-26'
 changed: '2013-06-25'
 aliases:
 - "/2004/03/26/img_1904_b/"
+- "/node/452/"
 permalink: "/2004/03/26/img_1904_b/"
 tags:
 - Melbourne
 images:
-- - src: image/images/img_1904-b-452.jpg
-    name: img_1904-b-452.jpg
+- src: image/images/img_1904-b-452.jpg
+  name: img_1904-b-452.jpg
 ---
 

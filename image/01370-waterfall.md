@@ -9,12 +9,14 @@ node_id: 363
 title: 01370 Waterfall
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/363/"
+permalink: "/node/363/"
 tags:
 - 2003/10 - October 2003
 - Blue Mountains
 images:
-- - src: image/images/img_1370-363.jpg
-    name: img_1370-363.jpg
+- src: image/images/img_1370-363.jpg
+  name: img_1370-363.jpg
 ---
 Near Echo Point.

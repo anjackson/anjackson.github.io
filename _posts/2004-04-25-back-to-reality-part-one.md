@@ -11,6 +11,7 @@ created: '2004-04-25'
 changed: '2010-07-23'
 aliases:
 - "/2004/04/25/back_reality_part_one/"
+- "/node/545/"
 permalink: "/2004/04/25/back_reality_part_one/"
 tags:
 - Travels

@@ -11,6 +11,7 @@ created: '2008-12-22'
 changed: '2008-12-22'
 aliases:
 - "/2008/12/22/zoetrope_interactive_time_machine_web/"
+- "/node/1834/"
 permalink: "/2008/12/22/zoetrope_interactive_time_machine_web/"
 tags:
 - Digital Preservation

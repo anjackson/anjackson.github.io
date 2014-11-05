@@ -9,11 +9,13 @@ node_id: 618
 title: dance2
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/618/"
+permalink: "/node/618/"
 tags:
 - Older
 images:
-- - src: image/images/dance2-618.jpg
-    name: dance2-618.jpg
+- src: image/images/dance2-618.jpg
+  name: dance2-618.jpg
 ---
 

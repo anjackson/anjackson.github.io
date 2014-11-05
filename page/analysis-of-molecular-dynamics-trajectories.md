@@ -11,11 +11,12 @@ created: '2004-05-12'
 changed: '2007-02-08'
 aliases:
 - "/ix2v/comphys/docs/ug/y3-pm2-md-lj.pdf/"
+- "/node/585/"
 permalink: "/ix2v/comphys/docs/ug/y3-pm2-md-lj.pdf/"
 tags: []
 attachments:
-- - src: page/files/y3-pm2-md-lj.pdf
-    name: y3-pm2-md-lj.pdf
+- src: page/files/y3-pm2-md-lj.pdf
+  name: y3-pm2-md-lj.pdf
 ---
 ### Particle Simulation I: Assignment II
 ## Analysis of molecular dynamics trajectories

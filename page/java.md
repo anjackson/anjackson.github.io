@@ -11,6 +11,7 @@ created: '2004-05-11'
 changed: '2009-08-10'
 aliases:
 - "/geek/java/"
+- "/node/568/"
 permalink: "/geek/java/"
 tags: []
 ---

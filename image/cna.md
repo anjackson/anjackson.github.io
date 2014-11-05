@@ -9,11 +9,13 @@ node_id: 614
 title: CnA
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/614/"
+permalink: "/node/614/"
 tags:
 - Older
 images:
-- - src: image/images/cna-614.jpg
-    name: cna-614.jpg
+- src: image/images/cna-614.jpg
+  name: cna-614.jpg
 ---
 

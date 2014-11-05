@@ -11,11 +11,12 @@ created: '2006-07-29'
 changed: '2013-06-25'
 aliases:
 - "/2006/07/29/21050_dublin/"
+- "/node/1656/"
 permalink: "/2006/07/29/21050_dublin/"
 tags:
 - Eilidh
 images:
-- - src: image/images/IMG_1050.JPG
-    name: IMG_1050.JPG
+- src: image/images/IMG_1050.JPG
+  name: IMG_1050.JPG
 ---
 

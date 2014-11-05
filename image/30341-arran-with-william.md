@@ -11,11 +11,12 @@ created: '2006-07-29'
 changed: '2013-06-25'
 aliases:
 - "/2006/07/29/30341_arran_with_william/"
+- "/node/1661/"
 permalink: "/2006/07/29/30341_arran_with_william/"
 tags:
 - Eilidh
 images:
-- - src: image/images/IMG_0341.JPG
-    name: IMG_0341.JPG
+- src: image/images/IMG_0341.JPG
+  name: IMG_0341.JPG
 ---
 

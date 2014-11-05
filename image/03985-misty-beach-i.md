@@ -9,13 +9,15 @@ node_id: 1390
 title: 03985 Misty Beach I
 created: '2004-08-20'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1390/"
+permalink: "/node/1390/"
 tags:
 - Highlights
 - 2004/01 - January 2004
 - Abel Tasman
 images:
-- - src: image/images/03985_misty_beach_i-1390.jpg
-    name: 03985_misty_beach_i-1390.jpg
+- src: image/images/03985_misty_beach_i-1390.jpg
+  name: 03985_misty_beach_i-1390.jpg
 ---
 

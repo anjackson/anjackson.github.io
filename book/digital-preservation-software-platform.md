@@ -11,6 +11,7 @@ created: '2010-08-12'
 changed: '2010-08-12'
 aliases:
 - "/digital_preservation_notebook/digital_object_storage/repository_systems/digital_preservation_software_platform/"
+- "/node/1874/"
 permalink: "/digital_preservation_notebook/digital_object_storage/repository_systems/digital_preservation_software_platform/"
 tags:
 - Normalise

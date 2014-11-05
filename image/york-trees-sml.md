@@ -9,12 +9,14 @@ node_id: 661
 title: york-trees.sml
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/661/"
+permalink: "/node/661/"
 tags:
 - York
 - Older
 images:
-- - src: image/images/york-trees.sml-661.jpg
-    name: york-trees.sml-661.jpg
+- src: image/images/york-trees.sml-661.jpg
+  name: york-trees.sml-661.jpg
 ---
 

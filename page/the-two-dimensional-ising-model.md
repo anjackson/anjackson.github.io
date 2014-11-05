@@ -11,12 +11,13 @@ created: '2004-05-11'
 changed: '2013-06-25'
 aliases:
 - "/ix2v/comphys/docs/phd/IsingMCMC.pdf/"
+- "/node/564/"
 permalink: "/ix2v/comphys/docs/phd/IsingMCMC.pdf/"
 tags:
 - Science
 attachments:
-- - src: page/files/IsingMCMC.pdf
-    name: IsingMCMC.pdf
+- src: page/files/IsingMCMC.pdf
+  name: IsingMCMC.pdf
 ---
 ### An Introduction To Monte Carlo Statistical Mechanics ###
 A report written in the 1st year of my Ph.D. (November 1997).

@@ -9,12 +9,14 @@ node_id: 1502
 title: 11329 Waterfront From Te Papa
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1502/"
+permalink: "/node/1502/"
 tags:
 - Wellington
 - 2004/11 November 2004
 images:
-- - src: image/images/11329_waterfront_from_te_papa-1502.jpg
-    name: 11329_waterfront_from_te_papa-1502.jpg
+- src: image/images/11329_waterfront_from_te_papa-1502.jpg
+  name: 11329_waterfront_from_te_papa-1502.jpg
 ---
 

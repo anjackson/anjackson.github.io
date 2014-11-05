@@ -11,12 +11,13 @@ created: '2004-05-13'
 changed: '2013-06-25'
 aliases:
 - "/img-n/places/images/york-hes-hall.sml.jpg/"
+- "/node/659/"
 permalink: "/img-n/places/images/york-hes-hall.sml.jpg/"
 tags:
 - York
 - Older
 images:
-- - src: image/images/york-hes-hall.sml-659.jpg
-    name: york-hes-hall.sml-659.jpg
+- src: image/images/york-hes-hall.sml-659.jpg
+  name: york-hes-hall.sml-659.jpg
 ---
 

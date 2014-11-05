@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/fill_your_bellies/"
+- "/node/1040/"
 permalink: "/2004/08/10/fill_your_bellies/"
 tags:
 - Wellington
 images:
-- - src: image/images/129_2945-1040.jpg
-    name: 129_2945-1040.jpg
+- src: image/images/129_2945-1040.jpg
+  name: 129_2945-1040.jpg
 ---
 

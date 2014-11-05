@@ -9,12 +9,14 @@ node_id: 657
 title: twin town
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/657/"
+permalink: "/node/657/"
 tags:
 - Wirksworth
 - Older
 images:
-- - src: image/images/w-die-657.jpg
-    name: w-die-657.jpg
+- src: image/images/w-die-657.jpg
+  name: w-die-657.jpg
 ---
 

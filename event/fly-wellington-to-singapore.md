@@ -9,7 +9,9 @@ node_id: 700
 title: Fly Wellington to Singapore
 created: '2004-05-27'
 changed: '2004-05-27'
-aliases: []
+aliases:
+- "/node/700/"
+permalink: "/node/700/"
 tags:
 - Travels
 ---

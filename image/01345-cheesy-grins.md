@@ -11,6 +11,7 @@ created: '2004-03-26'
 changed: '2013-06-25'
 aliases:
 - "/2004/03/26/01345_cheesy_grins/"
+- "/node/361/"
 permalink: "/2004/03/26/01345_cheesy_grins/"
 tags:
 - Andy
@@ -19,7 +20,7 @@ tags:
 - Christine L
 - Michelle K
 images:
-- - src: image/images/img_1345-361.jpg
-    name: img_1345-361.jpg
+- src: image/images/img_1345-361.jpg
+  name: img_1345-361.jpg
 ---
 Me with Chris and Michelle.

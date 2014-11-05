@@ -9,11 +9,13 @@ node_id: 1294
 title: 'Sight: browser, one'
 created: '2004-08-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1294/"
+permalink: "/node/1294/"
 tags:
 - screenshots
 images:
-- - src: image/images/browser-one-1294.png
-    name: browser-one-1294.png
+- src: image/images/browser-one-1294.png
+  name: browser-one-1294.png
 ---
 

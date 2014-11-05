@@ -11,11 +11,12 @@ created: '2004-05-13'
 changed: '2013-06-25'
 aliases:
 - "/2004/05/13-a-couple-with-their-heads-full-of-clouds/"
+- "/node/628/"
 permalink: "/2004/05/13-a-couple-with-their-heads-full-of-clouds/"
 tags:
 - Older
 images:
-- - src: image/images/dali-ed-628.jpg
-    name: dali-ed-628.jpg
+- src: image/images/dali-ed-628.jpg
+  name: dali-ed-628.jpg
 ---
 Salvador DalÃ­, 1936. [more info...](http://www.abcgallery.com/D/dali/dali169.html)

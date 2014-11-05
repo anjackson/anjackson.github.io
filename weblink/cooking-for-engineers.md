@@ -9,7 +9,9 @@ node_id: 1521
 title: Cooking for Engineers
 created: '2004-11-16'
 changed: '2004-11-16'
-aliases: []
+aliases:
+- "/node/1521/"
+permalink: "/node/1521/"
 tags:
 - Geeking
 ---

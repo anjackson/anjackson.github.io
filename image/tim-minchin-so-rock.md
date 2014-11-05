@@ -11,13 +11,14 @@ created: '2006-08-08'
 changed: '2013-06-25'
 aliases:
 - "/2006/08/08/tim_minchin_so_rock/"
+- "/node/1678/"
 permalink: "/2006/08/08/tim_minchin_so_rock/"
 tags:
 - From the internet
 images:
-- - src: image/images/GB046COMtimm.jpg
-    name: GB046COMtimm.jpg
-- - src: image/images/GB046COMtimm.thumbnail.jpg
-    name: GB046COMtimm.thumbnail.jpg
+- src: image/images/GB046COMtimm.jpg
+  name: GB046COMtimm.jpg
+- src: image/images/GB046COMtimm.thumbnail.jpg
+  name: GB046COMtimm.thumbnail.jpg
 ---
 

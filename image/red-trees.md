@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/red_trees/"
+- "/node/991/"
 permalink: "/2004/08/10/red_trees/"
 tags:
 - Bay of Islands
 images:
-- - src: image/images/img_2092-991.jpg
-    name: img_2092-991.jpg
+- src: image/images/img_2092-991.jpg
+  name: img_2092-991.jpg
 ---
 

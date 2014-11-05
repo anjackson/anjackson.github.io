@@ -11,6 +11,7 @@ created: '2009-08-14'
 changed: '2010-07-23'
 aliases:
 - "/2009/08/14/random_stuff/"
+- "/node/1637/"
 permalink: "/2009/08/14/random_stuff/"
 tags:
 - Top Links

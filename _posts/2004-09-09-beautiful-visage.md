@@ -11,6 +11,7 @@ created: '2004-09-09'
 changed: '2010-07-23'
 aliases:
 - "/2004/09/09/beautiful_visage/"
+- "/node/1422/"
 permalink: "/2004/09/09/beautiful_visage/"
 tags:
 - General

@@ -182,13 +182,16 @@ module JekyllImport
           for node_alias in db[alias_query]
             if node_alias != nil
               url_alias = "/" + node_alias[:alias] + "/"
-            else
-              url_alias = node_alias = "/node/" + node_id.to_s + "/"
             end
             postdata['permalink'] ||= url_alias
             postdata['aliases'] <<  url_alias
             all_urls << { 'href' => url_alias, 'title' => title }
           end
+          url_alias = node_alias = "/node/" + node_id.to_s + "/"
+          postdata['permalink'] ||= url_alias
+          postdata['aliases'] <<  url_alias
+          all_urls << { 'href' => url_alias, 'title' => title }
+
 
           # Look for relevant taxonomy entries:
           terms = self.get_taxonomy_terms(db, "taxonomyextra", node_id)
@@ -220,12 +223,12 @@ module JekyllImport
               FileUtils.cp(src, dst)
               if post[:type] == "image"
                 postdata['images'] ||= []
-                postdata['images'] << [{ 'src' => dst, 'name' => dst_file }]
+                postdata['images'] << { 'src' => dst, 'name' => dst_file }
                 # Also override the layout in this case:
                 postdata['layout'] = "image"
               else
                 postdata['attachments'] ||= []
-                postdata['attachments'] << [{ 'src' => dst, 'name' => dst_file }]
+                postdata['attachments'] << { 'src' => dst, 'name' => dst_file }
                 #print("cp #{src} to #{dst}\n")
               end
             else

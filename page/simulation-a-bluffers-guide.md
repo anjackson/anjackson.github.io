@@ -11,11 +11,12 @@ created: '2004-05-12'
 changed: '2007-02-08'
 aliases:
 - "/ix2v/comphys/docs/phd/simguide.pdf/"
+- "/node/576/"
 permalink: "/ix2v/comphys/docs/phd/simguide.pdf/"
 tags: []
 attachments:
-- - src: page/files/simguide.pdf
-    name: simguide.pdf
+- src: page/files/simguide.pdf
+  name: simguide.pdf
 ---
 ### Simulation: A Bluffer's Guide.
 

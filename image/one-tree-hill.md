@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/one_tree_hill/"
+- "/node/995/"
 permalink: "/2004/08/10/one_tree_hill/"
 tags:
 - Bay of Islands
 images:
-- - src: image/images/img_2105-995.jpg
-    name: img_2105-995.jpg
+- src: image/images/img_2105-995.jpg
+  name: img_2105-995.jpg
 ---
 

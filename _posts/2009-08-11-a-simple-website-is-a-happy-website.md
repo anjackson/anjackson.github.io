@@ -11,6 +11,7 @@ created: '2009-08-11'
 changed: '2010-07-23'
 aliases:
 - "/2009/08/11/simple_website_happy_website/"
+- "/node/1863/"
 permalink: "/2009/08/11/simple_website_happy_website/"
 tags:
 - General

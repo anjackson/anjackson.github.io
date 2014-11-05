@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/good_hair/"
+- "/node/1018/"
 permalink: "/2004/08/10/good_hair/"
 tags:
 - Auckland
 images:
-- - src: image/images/img_2194-1018.jpg
-    name: img_2194-1018.jpg
+- src: image/images/img_2194-1018.jpg
+  name: img_2194-1018.jpg
 ---
 

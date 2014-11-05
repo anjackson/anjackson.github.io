@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/carved_stern/"
+- "/node/1013/"
 permalink: "/2004/08/10/carved_stern/"
 tags:
 - Auckland
 images:
-- - src: image/images/img_2181-1013.jpg
-    name: img_2181-1013.jpg
+- src: image/images/img_2181-1013.jpg
+  name: img_2181-1013.jpg
 ---
 [Auckland Museum](http://www.aucklandmuseum.com/)

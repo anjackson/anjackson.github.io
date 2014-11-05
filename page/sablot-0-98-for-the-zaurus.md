@@ -11,10 +11,11 @@ created: '2004-05-25'
 changed: '2007-02-08'
 aliases:
 - "/2004/05/25/sablot-098-for-the-zaurus/"
+- "/node/699/"
 permalink: "/2004/05/25/sablot-098-for-the-zaurus/"
 tags: []
 attachments:
-- - src: page/files/Sablot-0.98.tar.bz2
-    name: Sablot-0.98.tar.bz2
+- src: page/files/Sablot-0.98.tar.bz2
+  name: Sablot-0.98.tar.bz2
 ---
 My port of sabcmd (the [Sablotron](http://www.gingerall.com/charlie/ga/xml/p_sab.xml) XSLT processor) for the Zaurus.  Tested on my SL-5500 under the Sharp ROMs.

@@ -11,11 +11,12 @@ created: '2007-01-19'
 changed: '2013-06-25'
 aliases:
 - "/2007/01/19/leading_macdougall/"
+- "/node/1750/"
 permalink: "/2007/01/19/leading_macdougall/"
 tags:
 - Otari-Wilton's Bush
 images:
-- - src: image/images/IMG_3047.JPG
-    name: IMG_3047.JPG
+- src: image/images/IMG_3047.JPG
+  name: IMG_3047.JPG
 ---
 

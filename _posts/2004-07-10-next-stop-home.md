@@ -11,6 +11,7 @@ created: '2004-07-10'
 changed: '2010-07-23'
 aliases:
 - "/2004/07/10/next_stop_home/"
+- "/node/732/"
 permalink: "/2004/07/10/next_stop_home/"
 tags:
 - Travels

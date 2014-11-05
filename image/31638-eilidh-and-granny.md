@@ -11,11 +11,12 @@ created: '2006-07-29'
 changed: '2013-06-25'
 aliases:
 - "/2006/07/29/31638_eilidh_granny/"
+- "/node/1668/"
 permalink: "/2006/07/29/31638_eilidh_granny/"
 tags:
 - Eilidh
 images:
-- - src: image/images/IMG_1638.JPG
-    name: IMG_1638.JPG
+- src: image/images/IMG_1638.JPG
+  name: IMG_1638.JPG
 ---
 

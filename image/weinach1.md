@@ -9,11 +9,13 @@ node_id: 630
 title: weinach1
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/630/"
+permalink: "/node/630/"
 tags:
 - Older
 images:
-- - src: image/images/weinach1-630.jpg
-    name: weinach1-630.jpg
+- src: image/images/weinach1-630.jpg
+  name: weinach1-630.jpg
 ---
 

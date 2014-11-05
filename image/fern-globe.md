@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/fern_globe_0/"
+- "/node/1066/"
 permalink: "/2004/08/10/fern_globe_0/"
 tags:
 - Wellington
 images:
-- - src: image/images/129_2990-1066.jpg
-    name: 129_2990-1066.jpg
+- src: image/images/129_2990-1066.jpg
+  name: 129_2990-1066.jpg
 ---
 

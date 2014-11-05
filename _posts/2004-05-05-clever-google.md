@@ -11,6 +11,7 @@ created: '2004-05-05'
 changed: '2010-07-23'
 aliases:
 - "/2004/05/05/clever_google/"
+- "/node/550/"
 permalink: "/2004/05/05/clever_google/"
 tags:
 - Top Tips

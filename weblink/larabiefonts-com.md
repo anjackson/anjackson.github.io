@@ -9,7 +9,9 @@ node_id: 1515
 title: larabiefonts.com
 created: '2004-11-16'
 changed: '2004-11-16'
-aliases: []
+aliases:
+- "/node/1515/"
+permalink: "/node/1515/"
 tags:
 - Art & Design
 ---

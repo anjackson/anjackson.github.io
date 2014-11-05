@@ -9,11 +9,13 @@ node_id: 1543
 title: Summer2002 CD Front Cover
 created: '2004-11-30'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1543/"
+permalink: "/node/1543/"
 tags:
 - imgn
 images:
-- - src: image/images/summer2002-cd-wallet-front-1543.png
-    name: summer2002-cd-wallet-front-1543.png
+- src: image/images/summer2002-cd-wallet-front-1543.png
+  name: summer2002-cd-wallet-front-1543.png
 ---
 Front cover of the Summer2002 CD sleeve.

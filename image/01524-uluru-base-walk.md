@@ -11,11 +11,12 @@ created: '2004-03-26'
 changed: '2013-06-25'
 aliases:
 - "/2004/03/26/01524_uluru_base_walk/"
+- "/node/380/"
 permalink: "/2004/03/26/01524_uluru_base_walk/"
 tags:
 - The Red Centre
 images:
-- - src: image/images/img_1524-380.jpg
-    name: img_1524-380.jpg
+- src: image/images/img_1524-380.jpg
+  name: img_1524-380.jpg
 ---
 One of the many outcrops of Ayres Rock.

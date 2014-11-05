@@ -9,12 +9,14 @@ node_id: 1089
 title: 03041 Arrow and Streamers
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1089/"
+permalink: "/node/1089/"
 tags:
 - The Return Of The King
 - 2003/12 - December 2003
 images:
-- - src: image/images/130_3041-1089.jpg
-    name: 130_3041-1089.jpg
+- src: image/images/130_3041-1089.jpg
+  name: 130_3041-1089.jpg
 ---
 

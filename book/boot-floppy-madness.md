@@ -11,6 +11,7 @@ created: '2005-01-25'
 changed: '2006-09-23'
 aliases:
 - "/2005/01/25/boot-floppy-madness/"
+- "/node/1592/"
 permalink: "/2005/01/25/boot-floppy-madness/"
 tags: []
 ---

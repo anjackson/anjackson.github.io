@@ -11,11 +11,12 @@ created: '2004-07-26'
 changed: '2013-06-25'
 aliases:
 - "/2004/07/26/hot_mud_pop/"
+- "/node/843/"
 permalink: "/2004/07/26/hot_mud_pop/"
 tags:
 - Rotorua
 images:
-- - src: image/images/img_2517-843.jpg
-    name: img_2517-843.jpg
+- src: image/images/img_2517-843.jpg
+  name: img_2517-843.jpg
 ---
 

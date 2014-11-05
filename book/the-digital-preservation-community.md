@@ -11,6 +11,7 @@ created: '2009-08-10'
 changed: '2009-08-10'
 aliases:
 - "/digital_preservation_notebook/digital_preservation_community/"
+- "/node/1847/"
 permalink: "/digital_preservation_notebook/digital_preservation_community/"
 tags: []
 ---

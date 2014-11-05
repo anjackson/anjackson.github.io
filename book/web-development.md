@@ -11,6 +11,7 @@ created: '2009-08-15'
 changed: '2009-08-15'
 aliases:
 - "/geek_nuggets/web_development/"
+- "/node/1865/"
 permalink: "/geek_nuggets/web_development/"
 tags: []
 ---

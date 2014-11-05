@@ -11,6 +11,7 @@ created: '2004-09-29'
 changed: '2010-07-23'
 aliases:
 - "/2004/09/29/reassuringly_expensive/"
+- "/node/1427/"
 permalink: "/2004/09/29/reassuringly_expensive/"
 tags:
 - Travels

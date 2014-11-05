@@ -9,14 +9,16 @@ node_id: 932
 title: 02756 Unsynchronized
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/932/"
+permalink: "/node/932/"
 tags:
 - Andy
 - 2003/11 - November 2003
 - Aaron P
 - Waitomo
 images:
-- - src: image/images/127_2756-932.jpg
-    name: 127_2756-932.jpg
+- src: image/images/127_2756-932.jpg
+  name: 127_2756-932.jpg
 ---
 

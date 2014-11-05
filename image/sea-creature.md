@@ -11,11 +11,12 @@ created: '2007-01-19'
 changed: '2013-06-25'
 aliases:
 - "/2007/01/19/sea_creature/"
+- "/node/1729/"
 permalink: "/2007/01/19/sea_creature/"
 tags:
 - The first few days
 images:
-- - src: image/images/IMG_1524.jpg
-    name: IMG_1524.jpg
+- src: image/images/IMG_1524.jpg
+  name: IMG_1524.jpg
 ---
 

@@ -9,11 +9,13 @@ node_id: 620
 title: mexitable2
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/620/"
+permalink: "/node/620/"
 tags:
 - Older
 images:
-- - src: image/images/mexitable2-620.jpg
-    name: mexitable2-620.jpg
+- src: image/images/mexitable2-620.jpg
+  name: mexitable2-620.jpg
 ---
 

@@ -9,12 +9,14 @@ node_id: 1473
 title: 04191 Fern Lined Path
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1473/"
+permalink: "/node/1473/"
 tags:
 - 2004/01 - January 2004
 - Abel Tasman
 images:
-- - src: image/images/04191_fern_lined_path-1473.jpg
-    name: 04191_fern_lined_path-1473.jpg
+- src: image/images/04191_fern_lined_path-1473.jpg
+  name: 04191_fern_lined_path-1473.jpg
 ---
 

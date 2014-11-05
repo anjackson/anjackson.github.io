@@ -11,6 +11,7 @@ created: '2004-07-02'
 changed: '2010-07-23'
 aliases:
 - "/2004/07/02/close_border/"
+- "/node/729/"
 permalink: "/2004/07/02/close_border/"
 tags:
 - Travels

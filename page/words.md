@@ -11,6 +11,7 @@ created: '2004-05-12'
 changed: '2004-05-12'
 aliases:
 - "/about/ilike/words/"
+- "/node/594/"
 permalink: "/about/ilike/words/"
 tags: []
 ---

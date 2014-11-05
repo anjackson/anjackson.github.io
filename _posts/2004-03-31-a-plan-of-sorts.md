@@ -11,6 +11,7 @@ created: '2004-03-31'
 changed: '2010-07-23'
 aliases:
 - "/2004/03/31/plan_sorts/"
+- "/node/488/"
 permalink: "/2004/03/31/plan_sorts/"
 tags:
 - Travels

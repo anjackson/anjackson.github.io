@@ -11,11 +11,12 @@ created: '2004-05-12'
 changed: '2007-02-08'
 aliases:
 - "/ix2v/comphys/docs/ug/y3-fd-caketheory.pdf/"
+- "/node/581/"
 permalink: "/ix2v/comphys/docs/ug/y3-fd-caketheory.pdf/"
 tags: []
 attachments:
-- - src: page/files/y3-fd-caketheory.pdf
-    name: y3-fd-caketheory.pdf
+- src: page/files/y3-fd-caketheory.pdf
+  name: y3-fd-caketheory.pdf
 ---
 ### Continuum Physics II Examination Assignment
 ## Finite difference simulation of the baking process

@@ -11,11 +11,12 @@ created: '2006-07-29'
 changed: '2013-06-25'
 aliases:
 - "/2006/07/29/29256_cheeky_chops/"
+- "/node/1658/"
 permalink: "/2006/07/29/29256_cheeky_chops/"
 tags:
 - Eilidh
 images:
-- - src: image/images/IMG_9256.JPG
-    name: IMG_9256.JPG
+- src: image/images/IMG_9256.JPG
+  name: IMG_9256.JPG
 ---
 

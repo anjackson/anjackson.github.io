@@ -11,11 +11,12 @@ created: '2007-01-19'
 changed: '2013-06-25'
 aliases:
 - "/2007/01/19/creepers/"
+- "/node/1752/"
 permalink: "/2007/01/19/creepers/"
 tags:
 - Otari-Wilton's Bush
 images:
-- - src: image/images/IMG_1545.JPG
-    name: IMG_1545.JPG
+- src: image/images/IMG_1545.JPG
+  name: IMG_1545.JPG
 ---
 

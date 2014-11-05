@@ -11,6 +11,7 @@ created: '2008-01-21'
 changed: '2010-07-23'
 aliases:
 - "/stats/"
+- "/node/1808/"
 permalink: "/stats/"
 tags: []
 ---

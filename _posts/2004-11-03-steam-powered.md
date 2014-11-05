@@ -11,6 +11,7 @@ created: '2004-11-03'
 changed: '2010-07-23'
 aliases:
 - "/2004/11/03/steam_powered/"
+- "/node/1439/"
 permalink: "/2004/11/03/steam_powered/"
 tags:
 - Geek

@@ -9,11 +9,13 @@ node_id: 681
 title: beeC1sml
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/681/"
+permalink: "/node/681/"
 tags:
 - Older
 images:
-- - src: image/images/beec1sml-681.jpg
-    name: beec1sml-681.jpg
+- src: image/images/beec1sml-681.jpg
+  name: beec1sml-681.jpg
 ---
 

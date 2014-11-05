@@ -10,12 +10,14 @@ title: !binary |-
   MDI5NzEgTmF6Z8ODxpLDgsK7bCBhdCB0aGUgRW1iYXNzeQ==
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1057/"
+permalink: "/node/1057/"
 tags:
 - The Return Of The King
 - 2003/11 - November 2003
 images:
-- - src: image/images/129_2971-1057.jpg
-    name: 129_2971-1057.jpg
+- src: image/images/129_2971-1057.jpg
+  name: 129_2971-1057.jpg
 ---
 

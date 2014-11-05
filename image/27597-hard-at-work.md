@@ -11,11 +11,12 @@ created: '2006-07-29'
 changed: '2013-06-25'
 aliases:
 - "/2006/07/29/27597_hard_at_work/"
+- "/node/1646/"
 permalink: "/2006/07/29/27597_hard_at_work/"
 tags:
 - Eilidh
 images:
-- - src: image/images/IMG_7597.JPG
-    name: IMG_7597.JPG
+- src: image/images/IMG_7597.JPG
+  name: IMG_7597.JPG
 ---
 

@@ -9,7 +9,9 @@ node_id: 622
 title: imgn-logo
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/622/"
+permalink: "/node/622/"
 tags:
 - Older
 ---

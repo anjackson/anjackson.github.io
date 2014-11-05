@@ -11,11 +11,12 @@ created: '2004-08-10'
 changed: '2013-06-25'
 aliases:
 - "/2004/08/10/vuw/"
+- "/node/1096/"
 permalink: "/2004/08/10/vuw/"
 tags:
 - Wellington
 images:
-- - src: image/images/130_3080-1096.jpg
-    name: 130_3080-1096.jpg
+- src: image/images/130_3080-1096.jpg
+  name: 130_3080-1096.jpg
 ---
 

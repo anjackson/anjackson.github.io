@@ -9,12 +9,14 @@ node_id: 1074
 title: 03017 Viggo Mortenson
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1074/"
+permalink: "/node/1074/"
 tags:
 - The Return Of The King
 - 2003/12 - December 2003
 images:
-- - src: image/images/130_3017-1074.jpg
-    name: 130_3017-1074.jpg
+- src: image/images/130_3017-1074.jpg
+  name: 130_3017-1074.jpg
 ---
 

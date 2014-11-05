@@ -11,11 +11,12 @@ created: '2007-07-19'
 changed: '2013-06-25'
 aliases:
 - "/2007/07/19/9593_primes_in_binary/"
+- "/node/1804/"
 permalink: "/2007/07/19/9593_primes_in_binary/"
 tags:
 - ix2v
 images:
-- - src: image/images/primes.png
-    name: primes.png
+- src: image/images/primes.png
+  name: primes.png
 ---
 

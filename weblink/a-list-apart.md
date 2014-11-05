@@ -9,7 +9,9 @@ node_id: 1525
 title: a list apart
 created: '2004-11-17'
 changed: '2004-11-17'
-aliases: []
+aliases:
+- "/node/1525/"
+permalink: "/node/1525/"
 tags:
 - Web Design
 ---

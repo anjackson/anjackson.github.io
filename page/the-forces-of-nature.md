@@ -11,11 +11,12 @@ created: '2004-05-12'
 changed: '2007-02-08'
 aliases:
 - "/ix2v/comphys/docs/ug/y1-forces.pdf/"
+- "/node/588/"
 permalink: "/ix2v/comphys/docs/ug/y1-forces.pdf/"
 tags: []
 attachments:
-- - src: page/files/y1-forces.pdf
-    name: y1-forces.pdf
+- src: page/files/y1-forces.pdf
+  name: y1-forces.pdf
 ---
 An overview of the fundamental forces of physics, aimed at the 'educated layperson'.
 

@@ -11,11 +11,12 @@ created: '2004-05-10'
 changed: '2007-02-08'
 aliases:
 - "/ix2v/comphys/docs/phd/poster/"
+- "/node/559/"
 permalink: "/ix2v/comphys/docs/phd/poster/"
 tags: []
 attachments:
-- - src: page/files/poster.pdf
-    name: poster.pdf
+- src: page/files/poster.pdf
+  name: poster.pdf
 ---
 [image:563,left,10,5]
 _Structural Phase Behaviour via Monte Carlo Techniques_

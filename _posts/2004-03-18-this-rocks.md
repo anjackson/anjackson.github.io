@@ -11,6 +11,7 @@ created: '2004-03-18'
 changed: '2010-07-23'
 aliases:
 - "/2004/03/18/rocks/"
+- "/node/12/"
 permalink: "/2004/03/18/rocks/"
 tags:
 - Procrastination

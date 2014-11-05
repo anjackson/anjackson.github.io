@@ -11,6 +11,7 @@ created: '2005-01-02'
 changed: '2010-07-23'
 aliases:
 - "/2005/01/02/happy_new_year/"
+- "/node/1585/"
 permalink: "/2005/01/02/happy_new_year/"
 tags:
 - General

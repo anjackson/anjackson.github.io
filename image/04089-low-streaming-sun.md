@@ -9,12 +9,14 @@ node_id: 1389
 title: 04089 Low Streaming Sun
 created: '2004-08-20'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1389/"
+permalink: "/node/1389/"
 tags:
 - 2004/01 - January 2004
 - Abel Tasman
 images:
-- - src: image/images/04089_low_streaming_sun-1389.jpg
-    name: 04089_low_streaming_sun-1389.jpg
+- src: image/images/04089_low_streaming_sun-1389.jpg
+  name: 04089_low_streaming_sun-1389.jpg
 ---
 

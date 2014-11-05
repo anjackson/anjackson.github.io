@@ -11,6 +11,7 @@ created: '2010-07-27'
 changed: '2010-07-27'
 aliases:
 - "/2010/07/27/convergent_evolution_curation_services/"
+- "/node/1872/"
 permalink: "/2010/07/27/convergent_evolution_curation_services/"
 tags:
 - Digital Preservation

@@ -9,7 +9,9 @@ node_id: 1455
 title: Google API Proximity Search
 created: '2004-11-12'
 changed: '2004-11-12'
-aliases: []
+aliases:
+- "/node/1455/"
+permalink: "/node/1455/"
 tags:
 - Geeking
 ---

@@ -11,6 +11,7 @@ created: '2010-08-12'
 changed: '2010-08-12'
 aliases:
 - "/Digital Preservation/Digital Object Storage/Repository Systems/roda/"
+- "/node/1873/"
 permalink: "/Digital Preservation/Digital Object Storage/Repository Systems/roda/"
 tags: []
 ---

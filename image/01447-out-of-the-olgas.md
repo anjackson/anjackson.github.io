@@ -9,12 +9,14 @@ node_id: 372
 title: 01447 Out of the Olgas
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/372/"
+permalink: "/node/372/"
 tags:
 - The Red Centre
 - 2003/10 - October 2003
 images:
-- - src: image/images/img_1447-372.jpg
-    name: img_1447-372.jpg
+- src: image/images/img_1447-372.jpg
+  name: img_1447-372.jpg
 ---
 The view looking back out of the Olgas.

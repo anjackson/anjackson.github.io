@@ -11,11 +11,12 @@ created: '2007-01-31'
 changed: '2013-06-25'
 aliases:
 - "/2007/01/31/flappy_pelican/"
+- "/node/1783/"
 permalink: "/2007/01/31/flappy_pelican/"
 tags:
 - Wellington Zoo
 images:
-- - src: image/images/IMG_3387.JPG
-    name: IMG_3387.JPG
+- src: image/images/IMG_3387.JPG
+  name: IMG_3387.JPG
 ---
 

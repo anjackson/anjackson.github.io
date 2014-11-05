@@ -9,7 +9,9 @@ node_id: 1528
 title: Dynamic Drive
 created: '2004-11-18'
 changed: '2004-11-18'
-aliases: []
+aliases:
+- "/node/1528/"
+permalink: "/node/1528/"
 tags:
 - DHTML
 ---

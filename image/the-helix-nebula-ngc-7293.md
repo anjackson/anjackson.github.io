@@ -9,7 +9,9 @@ node_id: 1308
 title: The Helix Nebula - NGC 7293
 created: '2004-08-16'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1308/"
+permalink: "/node/1308/"
 tags:
 - From the internet
 ---

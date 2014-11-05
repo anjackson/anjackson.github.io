@@ -11,6 +11,7 @@ created: '2004-08-11'
 changed: '2004-12-02'
 aliases:
 - "/about/ilike/music/"
+- "/node/1291/"
 permalink: "/about/ilike/music/"
 tags: []
 ---

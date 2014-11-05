@@ -9,11 +9,13 @@ node_id: 1296
 title: 'Sight: editor'
 created: '2004-08-13'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/1296/"
+permalink: "/node/1296/"
 tags:
 - screenshots
 images:
-- - src: image/images/editor-1296.png
-    name: editor-1296.png
+- src: image/images/editor-1296.png
+  name: editor-1296.png
 ---
 

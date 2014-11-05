@@ -11,11 +11,12 @@ created: '2006-07-29'
 changed: '2013-06-25'
 aliases:
 - "/2006/07/29/21085_eilidh_kirsty/"
+- "/node/1657/"
 permalink: "/2006/07/29/21085_eilidh_kirsty/"
 tags:
 - Eilidh
 images:
-- - src: image/images/IMG_1085.JPG
-    name: IMG_1085.JPG
+- src: image/images/IMG_1085.JPG
+  name: IMG_1085.JPG
 ---
 

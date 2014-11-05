@@ -11,6 +11,7 @@ created: '2009-08-10'
 changed: '2009-08-10'
 aliases:
 - "/code/"
+- "/node/1846/"
 permalink: "/code/"
 tags: []
 ---

@@ -9,12 +9,14 @@ node_id: 425
 title: 00757 - Big Sur
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases: []
+aliases:
+- "/node/425/"
+permalink: "/node/425/"
 tags:
 - California
 - 2003/09 - September 2003
 images:
-- - src: image/images/107_0757-b-425.jpg
-    name: 107_0757-b-425.jpg
+- src: image/images/107_0757-b-425.jpg
+  name: 107_0757-b-425.jpg
 ---
 Another fine piece of Big Sur coastline.

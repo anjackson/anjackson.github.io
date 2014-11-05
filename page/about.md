@@ -11,6 +11,7 @@ created: '2004-03-18'
 changed: '2010-07-23'
 aliases:
 - "/about/"
+- "/node/1/"
 permalink: "/about/"
 tags: []
 ---

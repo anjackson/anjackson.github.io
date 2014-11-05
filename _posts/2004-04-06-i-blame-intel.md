@@ -11,6 +11,7 @@ created: '2004-04-06'
 changed: '2010-07-23'
 aliases:
 - "/2004/04/06/i_blame_intel/"
+- "/node/527/"
 permalink: "/2004/04/06/i_blame_intel/"
 tags:
 - Geek
