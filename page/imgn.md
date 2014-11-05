@@ -17,7 +17,7 @@ tags: []
 <br/>
 <br/>
 <div align="center">
-<img src="/themes/xtemplate/anjackson.net/imgn-menu.jpg" border="0" usemap="#clientmap" alt="img|n menu" width="397" height="361"/>
+<img src="/themes/anjackson.net/imgn-menu.jpg" border="0" usemap="#clientmap" alt="img|n menu" width="397" height="361"/>
 </div>
 <!-- Automatically created by Imagen, v1.74 -->
 <map name="clientmap"><area shape="rect" coords="44,153,118,181" href="/image/tid/41" alt="people"/><area shape="rect" coords="51,181,118,209" href="/image/tid/3" alt="places"/><area shape="rect" coords="65,209,118,233" href="/image/tid/56" alt="imgn"/><area shape="rect" coords="27,128,118,153" href="/image/" alt="digital photo album"/></map>

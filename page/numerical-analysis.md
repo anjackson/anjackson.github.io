@@ -13,41 +13,41 @@ redirect_from: []
 permalink: "/node/691/"
 tags: []
 ---
-!!!Numerical Analysis
+### Numerical Analysis
 Don't re-invent the wheel.
 
-!!General Libraries
+## General Libraries
 
-!Numerical Recipies
-http://www.nr.com/
+# Numerical Recipies
+<http://www.nr.com/>
 
 C, FORTRAN???
 
 Bugs and rebuttal.
 
-!Numerical Algorithms Group (NAG)
-http://www.nag.com/
+# Numerical Algorithms Group (NAG)
+<http://www.nag.com/>
 
 C, FORTRAN???
 
-!IMSL
-http://www.vni.com/products/imsl/
+# IMSL
+<http://www.vni.com/products/imsl/>
 C, FORTRAN, Java.
 
-!GNU Scientific Library
-http://sources.redhat.com/gsl/
+# GNU Scientific Library (GSL)
+<http://www.gnu.org/software/gsl/>
 
 C, with wrappers for???
 
-!Also...
+# Also...
 Graphic Gems???
-Colt, library for Java-based numerical computation. http://hoschek.home.cern.ch/hoschek/colt/ ???
+Colt, library for Java-based numerical computation. <http://hoschek.home.cern.ch/hoschek/colt/> ???
 
-!Summary
+# Summary
 Lack of coordination of other potentially general library systems?
 
 
-!!Libraries For More Specific Tasks
+## Libraries For More Specific Tasks
 
 FFTW
 

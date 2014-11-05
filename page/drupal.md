@@ -19,4 +19,4 @@ tags:
 Drupal is a powerful PHP-based website engine that I have used to help seperate the styling of my web pages from the content.  The 'look' is described by a Drupal theme I created, and is stored in a set of files on the server.  The page content is stored in a more presentation-neutral format in the back-end MySQL database.
 
 ###  Links
-To learn more about Drupal, head to <http://www.drupal.org/.>
+To learn more about Drupal, head to [drupal.org](http://www.drupal.org/).

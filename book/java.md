@@ -25,8 +25,13 @@ tags:
 * [JUnit Testing Framework](http://www.junit.org/)
 * [Log4j Logging System](http://jakarta.apache.org/log4j/)
 * [RngPack: High-Quality Random Number Generators](http://www.honeylocust.com/RngPack/)
-* AWT etc
+* Desktop GUI Stuff
     * [AWT Tutorial from Sun](http://java.sun.com/developer/onlineTraining/awt/)
+    * [SWT Snippets](http://www.eclipse.org/swt/snippets/)
+* OSGi
+    * [Apache Felix Application Demonstration](http://cwiki.apache.org/confluence/display/FELIX/Apache+Felix+Application+Demonstration)
+    * [Apache Felix iPOJO](http://cwiki.apache.org/confluence/display/FELIX/Apache+Felix+iPOJO)
+    * [Apache Felix File Install](http://cwiki.apache.org/confluence/display/FELIX/Apache+Felix+File+Install)
 
 ## Site Deployment/Management
 * [Structs](http://jakarta.apache.org/struts/)

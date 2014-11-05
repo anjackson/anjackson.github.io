@@ -23,7 +23,7 @@ As an unhappy medium, I've decided to write small Java test cases where I can do
 
 Anyways, here's the example applet. You'll need to have the Java plug-in installed for you to be able to see it[1].  Note that the particle starts at a random location, so it will look different every time.  The source code itself is attached to the bottom of this page.[2]
 
-<applet code="net/anjackson/physlets/!CircleBouncePhyslet.class" codebase="extras/" height="200" width="200">
+<applet code="net/anjackson/physlets/!CircleBouncePhyslet.class" codebase="/extras/" height="200" width="200">
 No Java Plugin Installed!
 </applet>
 

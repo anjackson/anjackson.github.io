@@ -30,7 +30,7 @@ tags: []
        <tr><td valign="middle" align="center"><font size="-1">
 &nbsp;<br/>
 &nbsp;<br/>
-       <a href="/all.html">all</a> | <a href="/me">me</a> | <a href="/img-n">img|n</a> | <a href="/ix2v">ix2v</a> | <a href="/poot">poot</a> | <a href="/url">*url</a> | <a href="/contact">@</a><br/>
+       <a href="/all">all</a> | <a href="/me">me</a> | <a href="/img-n">img|n</a> | <a href="/ix2v">ix2v</a> | <a href="/poot">poot</a> | <a href="/url">*url</a> | <a href="/contact">@</a><br/>
 <a href="/node">Click here for the latest news.</a>
        </font></td></tr>
        <tr><td valign="middle" align="center"><nbspace/></td></tr>

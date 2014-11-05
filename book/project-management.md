@@ -13,16 +13,9 @@ redirect_from: []
 permalink: "/node/989/"
 tags: []
 ---
-!!!Web Apps
-Useful server or web based applications
-
-!!Photo Albums
-*Giffle:linpha
-*Giffle:phpDPA
-
-!!Project Management
-*Giffle:dot-project+project-management http://www.dotproject.net/
-*Giffle:pmtool
-*Bug Tracking
-**Giffle:bugzilla
-**Giffle:mantis+bug+tracking
+# Project Management
+* Giffle:dot-project+project-management <http://www.dotproject.net/>
+* Giffle:pmtool
+* Bug Tracking
+    * Giffle:bugzilla
+    * Giffle:mantis+bug+tracking

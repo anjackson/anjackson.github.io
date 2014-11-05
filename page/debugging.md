@@ -14,7 +14,8 @@ redirect_from:
 permalink: "/title/SCDebugging/"
 tags: []
 ---
-!!Introduction
+## Introduction
 
-!!Sources
-*Should grab some tips from [Slashdot: New & Revolutionary Debugging Techniques?|http://slashdot.org/article.pl?sid=04/05/02/1346209&mode=thread&tid=126&tid=156]
+## Sources
+* Wikipedia has a nice introductory article on bugs [here](http://en.wikipedia.org/wiki/Computer_bug)
+* Should grab some tips from [Slashdot: New & Revolutionary Debugging Techniques?](http://slashdot.org/article.pl?sid=04/05/02/1346209&mode=thread&tid=126&tid=156)

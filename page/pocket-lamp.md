@@ -38,7 +38,7 @@ Note that this package MUST be installed to a proper linuxy filesystem - the FAT
 * If you are running low on space...
     * Move your database files from {{/var/lib/mysql}} to some other storage like SD or CF, and symlink them back to the original location.
     * Delete extra localization/language files that you don't need.
-    * Delete any binaries you don't need.  I think only {{mysqlstart}},{{mysqlstop}},{{mysqld}},{{safe_mysqld}} and {{mysql}} absolutely required, but YMMV.  DO NOT remove any of the dynamic libraries - they are all required.
+    * Delete any binaries you don't need.  I think only {{mysqlstart}},{{mysqlstop}},{{mysqld}},{{safe_mysqld}} and {{mysql}} are _absolutely_ required, but YMMV.  DO NOT remove any of the dynamic libraries - they are all required.
 
 I've tested the package on my SL-5500 with the v3.1 Sharp ROM, and I know someone got it working on a C750.  Please get [in touch](http://anjackson.net/contact) if you have any questions, or if you can confirm that the package works on other Zaurii/ROMs.
 

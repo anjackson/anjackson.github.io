@@ -15,4 +15,4 @@ permalink: "/book/travels/"
 tags:
 - Travels
 ---
-Stories from my travels.
+All about my travels.

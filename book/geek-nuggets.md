@@ -14,5 +14,4 @@ redirect_from:
 permalink: "/geek_nuggets/"
 tags: []
 ---
-!!! Geek Nuggets
 Various bits of useful but geeky knowledge.

@@ -75,6 +75,8 @@ This rather random wedge of the website is used to store various useful bits of 
     * [curtis](http://www.gailcurtis.co.uk/)
     * [dave&jen](http://www.daveandjen.co.uk) (web site engine and design built on Drupal by me)
     * [rhthm.com](http://www.rhthm.com/) Funf naw eins, mde.
+    * [Kowari digital design](http://www.kowaridesign.com/)
+    * [magritek - NMR kit](http://www.magritek.com/)
     * [Impact Services Ltd](http://www.impactservicesltd.com/)
 * Random
     * [h2g2 @ the beeb](http://www.bbc.co.uk/radio4/hitchhikers/)

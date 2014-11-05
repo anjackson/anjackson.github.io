@@ -13,4 +13,4 @@ redirect_from: []
 permalink: "/node/1512/"
 tags: []
 ---
-The hopelessly badly named browser-based scripting language that has nothing to do with ((Java)).
+The hopelessly badly-named browser scripting language that has nothing to do with [Java].

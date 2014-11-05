@@ -13,7 +13,8 @@ redirect_from: []
 permalink: "/node/1418/"
 tags: []
 ---
-*[Haskell|http://www.haskell.org/]
-**[GUI Stuff|http://www.haskell.org/libraries/#guigs]
-*[O'Caml|http://www.ocaml.org/]
-**[GUI Stuff|http://caml.inria.fr/humps/caml_Graphics_and_GUI_tool_kits.html]
+* [Haskell](http://www.haskell.org/)
+    * [Tutorial](http://www.haskell.org/tutorial/)
+    * [GUI Stuff](http://www.haskell.org/libraries/#guigs)
+* [O'Caml](http://www.ocaml.org/)
+    * [GUI Stuff](http://caml.inria.fr/humps/caml_Graphics_and_GUI_tool_kits.html)

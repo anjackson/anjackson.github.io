@@ -16,13 +16,13 @@ tags:
 ---
 Overview of the route I took on my big trip around the world.
 <!--break-->
-!!World Map
+## World Map
 
 <img src="/images/worldmap_s-1300.png" usemap="#clientmap" border="0" align="center"/>
 
 Click on the wee dots to be taken to the image galleries for each place
 
-!Itinery
+# Itinery
 <ul>
 <li>Sep 2003 - Edinburgh</li>
 <li>Sep 2003 - London</li>
