@@ -78,7 +78,7 @@
 {% endif %}
 
 	 
-   <div class="container mtb">
+   <div class="container">
    
 {{ content }}
 
@@ -102,14 +102,17 @@
 		 		<div class="col-md-4">
 		 			<h4>About</h4>
 		 			<div class="hline-w"></div>
-		 			<p>anjackson.net &#150; Fighting entropy since 1993...</p>
+		 			<p>{{ site.description }}</p>
 		 		</div>
 		 		<div class="col-md-4">
 		 			<h4>Elsewhere</h4>
 		 			<div class="hline-w"></div>
 		 			<p>
-		 				<a href="https://twitter.com/anjacks0n"><i class="fa fa-twitter"></i></a>
-		 				<a href="https://www.facebook.com/andrew.n.jackson"><i class="fa fa-facebook"></i></a>
+            <a href="https://twitter.com/{{ site.owner.twitter }}"><i class="fa fa-twitter"></i></a>
+            <a href="https://github.com/{{ site.owner.github }}"><i class="fa fa-github"></i></a>
+            <a href="http://uk.linkedin.com/in/{{ site.owner.linkedin }}/"><i class="fa fa-linkedin"></i></a>
+            <a href="http://stackoverflow.com/users/{{ site.owner.stackoverflow }}"><i class="fa fa-stack-overflow"></i></a>
+		 				<a href="https://www.facebook.com/{{ site.owner.facebook }}"><i class="fa fa-facebook"></i></a>
 		 			</p>
 		 		</div>
 		 		<div class="col-md-4">
