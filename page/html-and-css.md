@@ -34,6 +34,6 @@ As of September 2002, the Special Educational Needs and Disability Act (SENDA) m
 * __Making Pages Accessible__
     * The Web Accessibility Initiative: [w3c WAI](http://www.w3.org/WAI/)
     * The Bobby WAI online webpage testing tool: [Bobby](http://bobby.watchfire.com/)
-    * Examples of what can be achieved using only CSS for your design, with pure content in the HTML: [The CSS Zen Garden](http://www.csszengarden.com/) and [CSS Beauty](http://www.cssbeauty.com/).  Note that this approach ensures the _content'' is visible on any browser, but the ''design_ may degrade unpredictably on those awkward 'middle-aged' browsers (Netscape 4.x, IE 4.x).
+    * Examples of what can be achieved using only CSS for your design, with pure content in the HTML: [The CSS Zen Garden](http://www.csszengarden.com/) and [CSS Beauty](http://www.cssbeauty.com/).  Note that this approach ensures the _content_ is visible on any browser, but the _design_ may degrade unpredictably on those awkward 'middle-aged' browsers (Netscape 4.x, IE 4.x).
     * [JAWS aural browser](http://www.freedomscientific.com/).
 

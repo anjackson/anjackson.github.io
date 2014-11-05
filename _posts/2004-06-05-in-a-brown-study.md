@@ -24,7 +24,7 @@ Pah!
 
 Despite the fact that David used to live in a shop in Wirksworth that sold Aeros, and that the flat Mint Aero was one of my Dad's favourites long before I came along, we were shouted down.  So, I hereby intend to prove that the flat Aero was as old as the hills, and the Aero Chunky a mere 80's upstart, an Aero-brand publicity stunt, the only redeeming feature of which was the indirect creation of the Cadbury Wispa bar.
 
-__Exhibit A__ is the image at the top of this page, [a scan of a 1971 Aero bar](http://anjackson.net/node/713), ruthlessly stolen from [Alan's Chocolate Experience](http://website.lineone.net/~wallyed/choc5.html). It clearly shows the pre-decimalization price of the bar to be 9 old British pence (_d'' was used for pence, ''s'' for shillings and ''l_ for pounds - no-one knows why).
+__Exhibit A__ is the image at the top of this page, [a scan of a 1971 Aero bar](http://anjackson.net/node/713), ruthlessly stolen from [Alan's Chocolate Experience](http://website.lineone.net/~wallyed/choc5.html). It clearly shows the pre-decimalization price of the bar to be 9 old British pence (_d_ was used for pence, _s_ for shillings and _l_ for pounds - no-one knows why).
 
 
 __Exhibit B__ is this quote taken from the [NestlÃƒÂ© Rowntree brands website](http://www.aerochocolate.co.uk/about/brands/):

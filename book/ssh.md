@@ -18,7 +18,7 @@ tags: []
 Various tips when using the secure shell [ssh](http://www.openssh.com/).
 <!--break-->
 
-## sshd[[_xxx'']: Failed none for ''user'' from ''xxx.xxx.xxx.xxx'' port ''xxxx_ ssh2 
+## sshd[[_xxx_]: Failed none for _user_ from _xxx.xxx.xxx.xxx_ port _xxxx_ ssh2 
 I was having some serious problems with this error cropping up in the server logs just as a particular user logged in, just like this ([taken from here](http://www.derkeiler.com/Mailing-Lists/securityfocus/Secure_Shell/2004-12/0001.html)):
 
     Dec 1 03:27:28 mx sshd[743]: Failed none for mxadmin from 192.168.3.3 port 4321 ssh2

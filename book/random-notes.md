@@ -59,7 +59,7 @@ All sorts of information that may be of use to me while planning and while on th
     * <http://www.kiwiexperience.co.nz/>
 
 ## Phone
-||__Services_'	||'''Gold Network*'''	||'''Silver Network**'''	||'_Bronze Network***__||
+||__Services__	||__Gold Network*__	||__Silver Network**__	||__Bronze Network***__||
 ||Calls to the UK	||75p	||99p	||Ã‚Â£1.99||
 ||Calls within the country	||75p	||99p	||Ã‚Â£1.99||
 ||Calls to any other Gold and Silver European country	||Ã‚Â£1.99	||Ã‚Â£1.99	||Ã‚Â£1.99||

@@ -42,7 +42,7 @@ Thankfully, it all went to plan, and Catherine and Graham were waiting to perfor
 
 [align=right](image:1715)Christmas day is mostly about eating, and it started well with a full-on American style breakfast.  Pancakes, Maple syrup and bacon go together remarkably well.  Catherine and Graham then did a fine job of preparing Christmas dinner.  Turkey with all the trimmings, including Brussel sprouts (at our request - it's hardly Christmas without them now is it?).  Most remarkably of all, C+G managed to get the timing right for everything, and no component of the dinner was under or over cooked.  Christmas hat's off to you both.  Another neighbour called Maria joined us for the meal itself, and a jolly time was had by all.  It was the hottest of the days we spent there, and all the better for it.
 
-[align=left](image:1717)Later in the evening, another Christmas Tradition was honoured - that of watching [Mary Poppins](http://www.imdb.com/title/tt0058331/).  Despite it's status as a festive staple, I've not watched it all the way through since I was a child.  I'd quite forgotten how surreal it is.  Still more disturbing was the fact that Graham seems to know _all'' the words to ''all_ the songs...
+[align=left](image:1717)Later in the evening, another Christmas Tradition was honoured - that of watching [Mary Poppins](http://www.imdb.com/title/tt0058331/).  Despite it's status as a festive staple, I've not watched it all the way through since I was a child.  I'd quite forgotten how surreal it is.  Still more disturbing was the fact that Graham seems to know _all_ the words to _all_ the songs...
 
 #  Boxing Day Departure
 
