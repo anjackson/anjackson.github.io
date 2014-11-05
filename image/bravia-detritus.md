@@ -9,8 +9,7 @@ node_id: 1629
 title: Bravia - Detritus
 created: '2006-06-05'
 changed: '2013-06-25'
-aliases:
-- "/2006/06/05/bravia_detritus/"
+redirect_from:
 - "/node/1629/"
 permalink: "/2006/06/05/bravia_detritus/"
 tags:

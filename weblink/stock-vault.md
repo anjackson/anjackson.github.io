@@ -9,8 +9,7 @@ node_id: 1548
 title: Stock Vault
 created: '2004-12-02'
 changed: '2004-12-02'
-aliases:
-- "/node/1548/"
+redirect_from: []
 permalink: "/node/1548/"
 tags:
 - Stock

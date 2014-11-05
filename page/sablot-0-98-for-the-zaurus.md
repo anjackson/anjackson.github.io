@@ -9,8 +9,7 @@ node_id: 699
 title: Sablot 0.98 for the Zaurus
 created: '2004-05-25'
 changed: '2007-02-08'
-aliases:
-- "/2004/05/25/sablot-098-for-the-zaurus/"
+redirect_from:
 - "/node/699/"
 permalink: "/2004/05/25/sablot-098-for-the-zaurus/"
 tags: []

@@ -9,8 +9,7 @@ node_id: 1480
 title: 04233 Lurking in Shadow
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1480/"
+redirect_from: []
 permalink: "/node/1480/"
 tags:
 - 2004/01 - January 2004

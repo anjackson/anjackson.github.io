@@ -9,8 +9,7 @@ node_id: 1040
 title: Fill your bellies
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/fill_your_bellies/"
+redirect_from:
 - "/node/1040/"
 permalink: "/2004/08/10/fill_your_bellies/"
 tags:

@@ -9,8 +9,7 @@ node_id: 1495
 title: 11278 Mansfield
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1495/"
+redirect_from: []
 permalink: "/node/1495/"
 tags:
 - Wellington

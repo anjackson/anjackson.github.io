@@ -9,8 +9,7 @@ node_id: 1867
 title: around britain in 43 marathons...
 created: '2009-08-31'
 changed: '2010-07-23'
-aliases:
-- "/2009/08/31/around_britain_43_marathons/"
+redirect_from:
 - "/node/1867/"
 permalink: "/2009/08/31/around_britain_43_marathons/"
 tags: []

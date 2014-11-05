@@ -9,8 +9,7 @@ node_id: 655
 title: ed-merrygo.sml
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/node/655/"
+redirect_from: []
 permalink: "/node/655/"
 tags:
 - Edinburgh

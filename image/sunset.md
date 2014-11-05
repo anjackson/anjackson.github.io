@@ -9,8 +9,7 @@ node_id: 1070
 title: Sunset
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/sunset/"
+redirect_from:
 - "/node/1070/"
 permalink: "/2004/08/10/sunset/"
 tags:

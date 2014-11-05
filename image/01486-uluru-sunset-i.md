@@ -9,8 +9,7 @@ node_id: 376
 title: 01486 Uluru Sunset I
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/376/"
+redirect_from: []
 permalink: "/node/376/"
 tags:
 - The Red Centre

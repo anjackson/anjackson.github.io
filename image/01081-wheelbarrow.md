@@ -9,8 +9,7 @@ node_id: 437
 title: 01081 Wheelbarrow
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/437/"
+redirect_from: []
 permalink: "/node/437/"
 tags:
 - Fiji

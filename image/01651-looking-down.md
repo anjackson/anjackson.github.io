@@ -9,8 +9,7 @@ node_id: 390
 title: 01651 Looking down
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/390/"
+redirect_from: []
 permalink: "/node/390/"
 tags:
 - The Red Centre

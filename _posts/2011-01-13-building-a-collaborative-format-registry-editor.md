@@ -9,8 +9,7 @@ node_id: 1887
 title: Building A Collaborative Format Registry Editor
 created: '2011-01-13'
 changed: '2011-01-14'
-aliases:
-- "/2011/01/13/building_collaborative_format_registry_editor/"
+redirect_from:
 - "/node/1887/"
 permalink: "/2011/01/13/building_collaborative_format_registry_editor/"
 tags:

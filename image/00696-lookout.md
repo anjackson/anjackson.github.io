@@ -9,8 +9,7 @@ node_id: 325
 title: 00696 - Lookout
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/325/"
+redirect_from: []
 permalink: "/node/325/"
 tags:
 - California

@@ -9,8 +9,7 @@ node_id: 1658
 title: 29256 Cheeky-Chops
 created: '2006-07-29'
 changed: '2013-06-25'
-aliases:
-- "/2006/07/29/29256_cheeky_chops/"
+redirect_from:
 - "/node/1658/"
 permalink: "/2006/07/29/29256_cheeky_chops/"
 tags:

@@ -9,8 +9,7 @@ node_id: 539
 title: 05426 Blue Ice & Sunlight
 created: '2004-04-18'
 changed: '2013-06-25'
-aliases:
-- "/node/539/"
+redirect_from: []
 permalink: "/node/539/"
 tags:
 - Highlights

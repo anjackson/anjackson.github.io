@@ -9,8 +9,7 @@ node_id: 1194
 title: Christchurch gardens
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/christchurch_gardens/"
+redirect_from:
 - "/node/1194/"
 permalink: "/2004/08/10/christchurch_gardens/"
 tags:

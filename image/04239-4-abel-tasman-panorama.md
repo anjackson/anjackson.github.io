@@ -9,8 +9,7 @@ node_id: 1481
 title: 04239-4 Abel Tasman Panorama
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1481/"
+redirect_from: []
 permalink: "/node/1481/"
 tags:
 - 2004/01 - January 2004

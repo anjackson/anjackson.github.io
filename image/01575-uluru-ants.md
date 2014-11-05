@@ -9,8 +9,7 @@ node_id: 382
 title: 01575 Uluru Ants
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/382/"
+redirect_from: []
 permalink: "/node/382/"
 tags:
 - Highlights

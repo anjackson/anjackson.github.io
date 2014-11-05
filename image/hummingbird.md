@@ -9,8 +9,7 @@ node_id: 1708
 title: Hummingbird
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/hummingbird_0/"
+redirect_from:
 - "/node/1708/"
 permalink: "/2007/01/19/hummingbird_0/"
 tags:

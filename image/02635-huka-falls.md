@@ -9,8 +9,7 @@ node_id: 886
 title: 02635 Huka Falls
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/886/"
+redirect_from: []
 permalink: "/node/886/"
 tags:
 - Highlights

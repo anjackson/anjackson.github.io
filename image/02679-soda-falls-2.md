@@ -9,8 +9,7 @@ node_id: 902
 title: 02679 Soda Falls 2
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/902/"
+redirect_from: []
 permalink: "/node/902/"
 tags:
 - 2003/11 - November 2003

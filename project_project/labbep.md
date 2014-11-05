@@ -9,8 +9,7 @@ node_id: 696
 title: labbep
 created: '2004-05-17'
 changed: '2004-05-17'
-aliases:
-- "/project/labbep/"
+redirect_from:
 - "/node/696/"
 permalink: "/project/labbep/"
 tags: []

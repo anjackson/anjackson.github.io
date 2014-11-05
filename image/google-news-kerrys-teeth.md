@@ -9,8 +9,7 @@ node_id: 547
 title: Google News - Kerry's Teeth
 created: '2004-05-04'
 changed: '2013-06-25'
-aliases:
-- "/node/547/"
+redirect_from: []
 permalink: "/node/547/"
 tags:
 - From the internet

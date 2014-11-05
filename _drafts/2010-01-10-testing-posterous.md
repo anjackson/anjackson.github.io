@@ -9,8 +9,7 @@ node_id: 1870
 title: Testing Posterous...
 created: '2010-01-10'
 changed: '2010-07-23'
-aliases:
-- "/2010/01/10/testing_posterous/"
+redirect_from:
 - "/node/1870/"
 permalink: "/2010/01/10/testing_posterous/"
 tags: []

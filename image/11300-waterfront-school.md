@@ -9,8 +9,7 @@ node_id: 1498
 title: 11300 Waterfront School
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1498/"
+redirect_from: []
 permalink: "/node/1498/"
 tags:
 - Wellington

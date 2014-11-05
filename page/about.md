@@ -9,8 +9,7 @@ node_id: 1
 title: about
 created: '2004-03-18'
 changed: '2010-07-23'
-aliases:
-- "/about/"
+redirect_from:
 - "/node/1/"
 permalink: "/about/"
 tags: []

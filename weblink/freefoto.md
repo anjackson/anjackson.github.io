@@ -9,8 +9,7 @@ node_id: 1551
 title: FreeFoto
 created: '2004-12-03'
 changed: '2004-12-03'
-aliases:
-- "/node/1551/"
+redirect_from: []
 permalink: "/node/1551/"
 tags:
 - Stock

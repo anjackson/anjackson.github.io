@@ -9,8 +9,7 @@ node_id: 5
 title: My Birthday
 created: '2004-03-19'
 changed: '2004-03-19'
-aliases:
-- "/node/5/"
+redirect_from: []
 permalink: "/node/5/"
 tags: []
 ---

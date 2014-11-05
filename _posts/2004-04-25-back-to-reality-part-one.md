@@ -9,8 +9,7 @@ node_id: 545
 title: back to reality, part one
 created: '2004-04-25'
 changed: '2010-07-23'
-aliases:
-- "/2004/04/25/back_reality_part_one/"
+redirect_from:
 - "/node/545/"
 permalink: "/2004/04/25/back_reality_part_one/"
 tags:

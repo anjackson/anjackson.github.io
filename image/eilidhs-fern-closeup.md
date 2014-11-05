@@ -9,8 +9,7 @@ node_id: 1756
 title: Eilidh's fern closeup
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/eilidhs_fern_closeup/"
+redirect_from:
 - "/node/1756/"
 permalink: "/2007/01/19/eilidhs_fern_closeup/"
 tags:

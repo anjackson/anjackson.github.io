@@ -9,8 +9,7 @@ node_id: 697
 title: in a nutshell
 created: '2004-05-20'
 changed: '2010-07-23'
-aliases:
-- "/2004/05/20/nutshell/"
+redirect_from:
 - "/node/697/"
 permalink: "/2004/05/20/nutshell/"
 tags:

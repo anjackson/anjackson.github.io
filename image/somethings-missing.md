@@ -9,8 +9,7 @@ node_id: 1063
 title: Something's missing
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/somethings_missing/"
+redirect_from:
 - "/node/1063/"
 permalink: "/2004/08/10/somethings_missing/"
 tags:

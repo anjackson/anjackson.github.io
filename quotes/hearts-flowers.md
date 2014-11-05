@@ -9,8 +9,7 @@ node_id: 1550
 title: hearts + flowers
 created: '2004-11-30'
 changed: '2004-12-02'
-aliases:
-- "/node/1550/"
+redirect_from: []
 permalink: "/node/1550/"
 tags: []
 ---

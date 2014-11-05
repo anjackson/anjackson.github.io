@@ -9,8 +9,7 @@ node_id: 1435
 title: monster tracks
 created: '2004-10-16'
 changed: '2010-07-23'
-aliases:
-- "/2004/10/16/monster_tracks/"
+redirect_from:
 - "/node/1435/"
 permalink: "/2004/10/16/monster_tracks/"
 tags:

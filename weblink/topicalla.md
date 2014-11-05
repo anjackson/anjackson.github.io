@@ -9,8 +9,7 @@ node_id: 1453
 title: Topicalla
 created: '2004-11-12'
 changed: '2004-11-12'
-aliases:
-- "/node/1453/"
+redirect_from: []
 permalink: "/node/1453/"
 tags:
 - www v2.0

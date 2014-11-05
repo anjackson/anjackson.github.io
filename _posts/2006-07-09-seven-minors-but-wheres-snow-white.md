@@ -9,8 +9,7 @@ node_id: 1631
 title: seven minors (but where's Snow White?)
 created: '2006-07-09'
 changed: '2010-07-23'
-aliases:
-- "/2006/07/09/seven_minors_wheres_snow_white/"
+redirect_from:
 - "/node/1631/"
 permalink: "/2006/07/09/seven_minors_wheres_snow_white/"
 tags:

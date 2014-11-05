@@ -9,8 +9,7 @@ node_id: 575
 title: Take A Chance On Me
 created: '2004-05-12'
 changed: '2013-06-25'
-aliases:
-- "/ix2v/comphys/docs/phd/mccm.pdf/"
+redirect_from:
 - "/node/575/"
 permalink: "/ix2v/comphys/docs/phd/mccm.pdf/"
 tags: []

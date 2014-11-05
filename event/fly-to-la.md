@@ -9,8 +9,7 @@ node_id: 1424
 title: Fly to LA
 created: '2004-09-24'
 changed: '2004-10-01'
-aliases:
-- "/node/1424/"
+redirect_from: []
 permalink: "/node/1424/"
 tags: []
 ---

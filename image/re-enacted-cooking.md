@@ -9,8 +9,7 @@ node_id: 1053
 title: Re-enacted cooking.
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/re_enacted_cooking/"
+redirect_from:
 - "/node/1053/"
 permalink: "/2004/08/10/re_enacted_cooking/"
 tags:

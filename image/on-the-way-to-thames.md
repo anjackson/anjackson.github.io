@@ -9,8 +9,7 @@ node_id: 1021
 title: On the way to Thames
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/on_the_way_to_thames/"
+redirect_from:
 - "/node/1021/"
 permalink: "/2004/08/10/on_the_way_to_thames/"
 tags:

@@ -9,8 +9,7 @@ node_id: 695
 title: anjackson.net
 created: '2004-05-17'
 changed: '2004-05-17'
-aliases:
-- "/project/anjnet/"
+redirect_from:
 - "/node/695/"
 permalink: "/project/anjnet/"
 tags: []

@@ -9,8 +9,7 @@ node_id: 358
 title: 01242 - Manly Jazz
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/358/"
+redirect_from: []
 permalink: "/node/358/"
 tags:
 - Sydney

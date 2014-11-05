@@ -9,8 +9,7 @@ node_id: 1060
 title: 02979 Legolas @ 40c
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/node/1060/"
+redirect_from: []
 permalink: "/node/1060/"
 tags:
 - The Return Of The King

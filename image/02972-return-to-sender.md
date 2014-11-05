@@ -9,8 +9,7 @@ node_id: 1058
 title: 02972 Return to Sender
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/node/1058/"
+redirect_from: []
 permalink: "/node/1058/"
 tags:
 - The Return Of The King

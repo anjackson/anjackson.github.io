@@ -9,8 +9,7 @@ node_id: 1469
 title: 04159 Estuary
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1469/"
+redirect_from: []
 permalink: "/node/1469/"
 tags:
 - 2004/01 - January 2004

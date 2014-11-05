@@ -9,8 +9,7 @@ node_id: 1742
 title: View from Andy's work
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/view_from_andys_work/"
+redirect_from:
 - "/node/1742/"
 permalink: "/2007/01/19/view_from_andys_work/"
 tags:

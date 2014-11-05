@@ -9,8 +9,7 @@ node_id: 1392
 title: 03990 Misty Beach III
 created: '2004-08-20'
 changed: '2013-06-25'
-aliases:
-- "/node/1392/"
+redirect_from: []
 permalink: "/node/1392/"
 tags:
 - 2004/01 - January 2004

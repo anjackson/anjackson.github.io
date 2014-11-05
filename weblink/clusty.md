@@ -9,8 +9,7 @@ node_id: 1568
 title: Clusty
 created: '2004-12-21'
 changed: '2004-12-21'
-aliases:
-- "/node/1568/"
+redirect_from: []
 permalink: "/node/1568/"
 tags:
 - search engines

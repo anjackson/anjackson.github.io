@@ -9,8 +9,7 @@ node_id: 592
 title: not a dead American president
 created: '2004-05-12'
 changed: '2004-05-12'
-aliases:
-- "/about/iam/dap/"
+redirect_from:
 - "/node/592/"
 permalink: "/about/iam/dap/"
 tags: []

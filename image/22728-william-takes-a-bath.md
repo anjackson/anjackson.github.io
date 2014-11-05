@@ -9,8 +9,7 @@ node_id: 1639
 title: 22728 William takes a bath
 created: '2006-07-29'
 changed: '2013-06-25'
-aliases:
-- "/2006/07/29/22728_william_takes_a_bath/"
+redirect_from:
 - "/node/1639/"
 permalink: "/2006/07/29/22728_william_takes_a_bath/"
 tags:

@@ -9,8 +9,7 @@ node_id: 654
 title: ed-bh-shadow.sml
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/node/654/"
+redirect_from: []
 permalink: "/node/654/"
 tags:
 - Edinburgh

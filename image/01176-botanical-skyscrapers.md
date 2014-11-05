@@ -9,8 +9,7 @@ node_id: 351
 title: 01176 - Botanical Skyscrapers
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/351/"
+redirect_from: []
 permalink: "/node/351/"
 tags:
 - Sydney

@@ -9,8 +9,7 @@ node_id: 1615
 title: final ring design, and stones
 created: '2006-05-05'
 changed: '2013-06-25'
-aliases:
-- "/2006/05/05/final_ring_design_and_stones/"
+redirect_from:
 - "/node/1615/"
 permalink: "/2006/05/05/final_ring_design_and_stones/"
 tags:

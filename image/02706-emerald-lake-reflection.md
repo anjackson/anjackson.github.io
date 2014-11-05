@@ -9,8 +9,7 @@ node_id: 917
 title: 02706 Emerald Lake Reflection
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/917/"
+redirect_from: []
 permalink: "/node/917/"
 tags:
 - Highlights

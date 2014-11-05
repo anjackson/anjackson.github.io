@@ -9,8 +9,7 @@ node_id: 1865
 title: Web Development
 created: '2009-08-15'
 changed: '2009-08-15'
-aliases:
-- "/geek_nuggets/web_development/"
+redirect_from:
 - "/node/1865/"
 permalink: "/geek_nuggets/web_development/"
 tags: []

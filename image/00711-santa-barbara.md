@@ -9,8 +9,7 @@ node_id: 326
 title: 00711 - Santa Barbara
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/326/"
+redirect_from: []
 permalink: "/node/326/"
 tags:
 - California

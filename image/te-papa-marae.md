@@ -9,8 +9,7 @@ node_id: 1038
 title: Te Papa Marae
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/te_papa_marae/"
+redirect_from:
 - "/node/1038/"
 permalink: "/2004/08/10/te_papa_marae/"
 tags:

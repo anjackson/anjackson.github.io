@@ -9,8 +9,7 @@ node_id: 1287
 title: dtp
 created: '2004-08-11'
 changed: '2009-08-10'
-aliases:
-- "/node/1287/"
+redirect_from: []
 permalink: "/node/1287/"
 tags: []
 ---

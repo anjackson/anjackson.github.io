@@ -9,8 +9,7 @@ node_id: 1502
 title: 11329 Waterfront From Te Papa
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1502/"
+redirect_from: []
 permalink: "/node/1502/"
 tags:
 - Wellington

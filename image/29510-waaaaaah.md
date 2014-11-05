@@ -9,8 +9,7 @@ node_id: 1660
 title: 29510 Waaaaaah!
 created: '2006-07-29'
 changed: '2013-06-25'
-aliases:
-- "/2006/07/29/29510_waaaaaah/"
+redirect_from:
 - "/node/1660/"
 permalink: "/2006/07/29/29510_waaaaaah/"
 tags:

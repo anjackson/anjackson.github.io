@@ -9,8 +9,7 @@ node_id: 1808
 title: stats
 created: '2008-01-21'
 changed: '2010-07-23'
-aliases:
-- "/stats/"
+redirect_from:
 - "/node/1808/"
 permalink: "/stats/"
 tags: []

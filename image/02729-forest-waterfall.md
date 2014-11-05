@@ -9,8 +9,7 @@ node_id: 928
 title: 02729 Forest Waterfall
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/928/"
+redirect_from: []
 permalink: "/node/928/"
 tags:
 - Highlights

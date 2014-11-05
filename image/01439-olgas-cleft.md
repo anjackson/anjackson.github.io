@@ -9,8 +9,7 @@ node_id: 371
 title: 01439 Olgas Cleft
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/371/"
+redirect_from: []
 permalink: "/node/371/"
 tags:
 - Highlights

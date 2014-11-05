@@ -9,8 +9,7 @@ node_id: 1628
 title: Bravia - Glow
 created: '2006-06-05'
 changed: '2013-06-25'
-aliases:
-- "/2006/06/05/bravia_glow/"
+redirect_from:
 - "/node/1628/"
 permalink: "/2006/06/05/bravia_glow/"
 tags:

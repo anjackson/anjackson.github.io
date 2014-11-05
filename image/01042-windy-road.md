@@ -9,8 +9,7 @@ node_id: 344
 title: 01042 Windy Road
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/344/"
+redirect_from: []
 permalink: "/node/344/"
 tags:
 - California

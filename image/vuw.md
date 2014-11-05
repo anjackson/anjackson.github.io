@@ -9,8 +9,7 @@ node_id: 1096
 title: VUW
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/vuw/"
+redirect_from:
 - "/node/1096/"
 permalink: "/2004/08/10/vuw/"
 tags:

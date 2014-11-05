@@ -10,8 +10,7 @@ title: !binary |-
   MDI5NTAgTmF6Z8ODxpLDgsK7bCBvbiB0aGUgcm9vZg==
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/node/1043/"
+redirect_from: []
 permalink: "/node/1043/"
 tags:
 - The Return Of The King

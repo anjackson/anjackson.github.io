@@ -9,8 +9,7 @@ node_id: 1569
 title: LSTM T1
 created: '2004-12-21'
 changed: '2004-12-21'
-aliases:
-- "/node/1569/"
+redirect_from: []
 permalink: "/node/1569/"
 tags:
 - Lattice Boltzmann

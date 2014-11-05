@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blog
 permalink: /tags/
 title: Tag Index
 description: "An archive of posts sorted by tag."

@@ -9,8 +9,7 @@ node_id: 1734
 title: Eilidh at Oriental Bay
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/eilidh_at_oriental_bay/"
+redirect_from:
 - "/node/1734/"
 permalink: "/2007/01/19/eilidh_at_oriental_bay/"
 tags:

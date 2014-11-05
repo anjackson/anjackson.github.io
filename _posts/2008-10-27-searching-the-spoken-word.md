@@ -9,8 +9,7 @@ node_id: 1831
 title: searching the spoken word
 created: '2008-10-27'
 changed: '2008-12-04'
-aliases:
-- "/2008/10/27/searching_spoken_word/"
+redirect_from:
 - "/node/1831/"
 permalink: "/2008/10/27/searching_spoken_word/"
 tags:

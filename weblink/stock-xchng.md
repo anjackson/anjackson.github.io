@@ -9,8 +9,7 @@ node_id: 1549
 title: Stock.XCHNG
 created: '2004-12-02'
 changed: '2004-12-02'
-aliases:
-- "/node/1549/"
+redirect_from: []
 permalink: "/node/1549/"
 tags:
 - Stock

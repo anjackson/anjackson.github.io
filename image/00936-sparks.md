@@ -9,8 +9,7 @@ node_id: 339
 title: 00936 Sparks
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/339/"
+redirect_from: []
 permalink: "/node/339/"
 tags:
 - California

@@ -9,8 +9,7 @@ node_id: 1003
 title: Waterfall freeze-frame
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/waterfall_freeze_frame/"
+redirect_from:
 - "/node/1003/"
 permalink: "/2004/08/10/waterfall_freeze_frame/"
 tags:

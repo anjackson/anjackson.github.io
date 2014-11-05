@@ -9,8 +9,7 @@ node_id: 374
 title: 01467 Leaving the Olgas
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/374/"
+redirect_from: []
 permalink: "/node/374/"
 tags:
 - The Red Centre

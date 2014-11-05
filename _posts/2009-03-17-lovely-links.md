@@ -9,8 +9,7 @@ node_id: 1845
 title: lovely links
 created: '2009-03-17'
 changed: '2010-07-23'
-aliases:
-- "/2009/03/17/lovely_links/"
+redirect_from:
 - "/node/1845/"
 permalink: "/2009/03/17/lovely_links/"
 tags: []

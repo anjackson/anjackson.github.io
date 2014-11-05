@@ -9,8 +9,7 @@ node_id: 1510
 title: the wrong speed
 created: '2004-11-15'
 changed: '2010-07-23'
-aliases:
-- "/2004/11/15/wrong_speed/"
+redirect_from:
 - "/node/1510/"
 permalink: "/2004/11/15/wrong_speed/"
 tags: []

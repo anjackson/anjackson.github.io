@@ -9,8 +9,7 @@ node_id: 1004
 title: Long road home
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/long_road_home/"
+redirect_from:
 - "/node/1004/"
 permalink: "/2004/08/10/long_road_home/"
 tags:

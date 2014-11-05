@@ -9,8 +9,7 @@ node_id: 1666
 title: 31201 Eilidh & Belafonte
 created: '2006-07-29'
 changed: '2013-06-25'
-aliases:
-- "/2006/07/29/31201_eilidh_belafonte/"
+redirect_from:
 - "/node/1666/"
 permalink: "/2006/07/29/31201_eilidh_belafonte/"
 tags:

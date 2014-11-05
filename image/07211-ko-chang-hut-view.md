@@ -9,8 +9,7 @@ node_id: 728
 title: 07211 - Ko Chang Hut View
 created: '2004-06-30'
 changed: '2013-06-25'
-aliases:
-- "/node/728/"
+redirect_from: []
 permalink: "/node/728/"
 tags:
 - Highlights

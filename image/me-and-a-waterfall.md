@@ -9,8 +9,7 @@ node_id: 1002
 title: Me and a waterfall
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/me_and_a_waterfall/"
+redirect_from:
 - "/node/1002/"
 permalink: "/2004/08/10/me_and_a_waterfall/"
 tags:

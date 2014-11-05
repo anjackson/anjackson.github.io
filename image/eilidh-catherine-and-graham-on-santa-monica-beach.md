@@ -9,8 +9,7 @@ node_id: 1710
 title: Eilidh, Catherine & Graham on Santa Monica beach
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/eilidh_catherine_graham_on_santa_monica_beach_0/"
+redirect_from:
 - "/node/1710/"
 permalink: "/2007/01/19/eilidh_catherine_graham_on_santa_monica_beach_0/"
 tags:

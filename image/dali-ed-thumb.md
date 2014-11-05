@@ -9,8 +9,7 @@ node_id: 629
 title: dali-ed.thumb
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/node/629/"
+redirect_from: []
 permalink: "/node/629/"
 tags:
 - Older

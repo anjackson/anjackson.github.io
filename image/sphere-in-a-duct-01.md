@@ -9,8 +9,7 @@ node_id: 548
 title: sphere in a duct 01
 created: '2004-05-04'
 changed: '2013-06-25'
-aliases:
-- "/node/548/"
+redirect_from: []
 permalink: "/node/548/"
 tags:
 - ix2v

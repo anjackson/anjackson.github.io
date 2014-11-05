@@ -9,8 +9,7 @@ node_id: 1614
 title: ring designs
 created: '2006-05-05'
 changed: '2013-06-25'
-aliases:
-- "/2006/05/05/ring_designs/"
+redirect_from:
 - "/node/1614/"
 permalink: "/2006/05/05/ring_designs/"
 tags:

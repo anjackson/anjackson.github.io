@@ -9,8 +9,7 @@ node_id: 923
 title: 02713 Tongariro Far End View
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/923/"
+redirect_from: []
 permalink: "/node/923/"
 tags:
 - 2003/11 - November 2003

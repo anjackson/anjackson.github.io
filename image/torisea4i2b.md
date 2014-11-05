@@ -9,8 +9,7 @@ node_id: 611
 title: torisea4i2b
 created: '2004-05-12'
 changed: '2013-06-25'
-aliases:
-- "/node/611/"
+redirect_from: []
 permalink: "/node/611/"
 tags:
 - imgn

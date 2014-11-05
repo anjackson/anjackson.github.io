@@ -9,8 +9,7 @@ node_id: 331
 title: 00781 - Almost-raspberries close-up
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/331/"
+redirect_from: []
 permalink: "/node/331/"
 tags:
 - California

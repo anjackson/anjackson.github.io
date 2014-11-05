@@ -9,8 +9,7 @@ node_id: 653
 title: ed-bh-mast.sml
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/node/653/"
+redirect_from: []
 permalink: "/node/653/"
 tags:
 - Edinburgh

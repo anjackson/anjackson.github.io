@@ -9,8 +9,7 @@ node_id: 1562
 title: Sparkline PHP Graphing Library
 created: '2004-12-06'
 changed: '2004-12-06'
-aliases:
-- "/node/1562/"
+redirect_from: []
 permalink: "/node/1562/"
 tags:
 - Geeking

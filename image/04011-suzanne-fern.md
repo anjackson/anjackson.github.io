@@ -9,8 +9,7 @@ node_id: 1400
 title: 04011 Suzanne + Fern
 created: '2004-08-20'
 changed: '2013-06-25'
-aliases:
-- "/node/1400/"
+redirect_from: []
 permalink: "/node/1400/"
 tags:
 - 2004/01 - January 2004

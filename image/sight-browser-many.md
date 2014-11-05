@@ -9,8 +9,7 @@ node_id: 1295
 title: 'Sight: browser, many'
 created: '2004-08-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1295/"
+redirect_from: []
 permalink: "/node/1295/"
 tags:
 - screenshots

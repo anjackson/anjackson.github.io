@@ -9,8 +9,7 @@ node_id: 1773
 title: Chimpanzees (Pan Troglodytes)
 created: '2007-01-31'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/31/chimpanzees_pan_troglodytes/"
+redirect_from:
 - "/node/1773/"
 permalink: "/2007/01/31/chimpanzees_pan_troglodytes/"
 tags:

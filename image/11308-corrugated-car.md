@@ -9,8 +9,7 @@ node_id: 1500
 title: 11308 Corrugated Car
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1500/"
+redirect_from: []
 permalink: "/node/1500/"
 tags:
 - Wellington

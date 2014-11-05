@@ -9,8 +9,7 @@ node_id: 422
 title: 01008 - Big Trees
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/422/"
+redirect_from: []
 permalink: "/node/422/"
 tags:
 - California

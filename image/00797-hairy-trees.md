@@ -9,8 +9,7 @@ node_id: 334
 title: 00797 - Hairy Trees
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/334/"
+redirect_from: []
 permalink: "/node/334/"
 tags:
 - California

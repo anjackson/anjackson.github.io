@@ -9,8 +9,7 @@ node_id: 1676
 title: a whole new experience...
 created: '2006-08-03'
 changed: '2010-07-23'
-aliases:
-- "/2006/08/03/whole_new_experience/"
+redirect_from:
 - "/node/1676/"
 permalink: "/2006/08/03/whole_new_experience/"
 tags:

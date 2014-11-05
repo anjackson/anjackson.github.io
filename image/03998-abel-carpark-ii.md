@@ -9,8 +9,7 @@ node_id: 1396
 title: 03998 Abel Carpark II
 created: '2004-08-20'
 changed: '2013-06-25'
-aliases:
-- "/node/1396/"
+redirect_from: []
 permalink: "/node/1396/"
 tags:
 - 2004/01 - January 2004

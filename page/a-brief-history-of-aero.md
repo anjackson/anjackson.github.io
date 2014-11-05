@@ -9,8 +9,7 @@ node_id: 735
 title: A Brief History Of Aero
 created: '2004-07-16'
 changed: '2006-07-27'
-aliases:
-- "/2004/07/16/a-brief-history-of-aero/"
+redirect_from:
 - "/node/735/"
 permalink: "/2004/07/16/a-brief-history-of-aero/"
 tags:

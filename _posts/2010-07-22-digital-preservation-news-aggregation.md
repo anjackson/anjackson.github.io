@@ -9,8 +9,7 @@ node_id: 1871
 title: digital preservation news aggregation
 created: '2010-07-22'
 changed: '2010-07-23'
-aliases:
-- "/2010/07/22/digital_preservation_news_aggregation/"
+redirect_from:
 - "/node/1871/"
 permalink: "/2010/07/22/digital_preservation_news_aggregation/"
 tags:

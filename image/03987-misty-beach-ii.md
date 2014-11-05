@@ -9,8 +9,7 @@ node_id: 1391
 title: 03987 Misty Beach II
 created: '2004-08-20'
 changed: '2013-06-25'
-aliases:
-- "/node/1391/"
+redirect_from: []
 permalink: "/node/1391/"
 tags:
 - 2004/01 - January 2004

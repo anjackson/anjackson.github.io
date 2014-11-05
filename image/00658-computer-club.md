@@ -9,8 +9,7 @@ node_id: 320
 title: 00658 - Computer Club
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/320/"
+redirect_from: []
 permalink: "/node/320/"
 tags:
 - Wirksworth

@@ -9,8 +9,7 @@ node_id: 661
 title: york-trees.sml
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/node/661/"
+redirect_from: []
 permalink: "/node/661/"
 tags:
 - York

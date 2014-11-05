@@ -9,8 +9,7 @@ node_id: 651
 title: y2003-thmb
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/node/651/"
+redirect_from: []
 permalink: "/node/651/"
 tags:
 - Older

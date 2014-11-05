@@ -9,8 +9,7 @@ node_id: 1101
 title: Leaving Wellington
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/leaving_wellington/"
+redirect_from:
 - "/node/1101/"
 permalink: "/2004/08/10/leaving_wellington/"
 tags:

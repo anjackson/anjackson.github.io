@@ -9,8 +9,7 @@ node_id: 1093
 title: Cable car still missing
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/cable_car_still_missing/"
+redirect_from:
 - "/node/1093/"
 permalink: "/2004/08/10/cable_car_still_missing/"
 tags:

@@ -9,8 +9,7 @@ node_id: 1713
 title: Looking for lifeguards
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/looking_for_lifeguards_0/"
+redirect_from:
 - "/node/1713/"
 permalink: "/2007/01/19/looking_for_lifeguards_0/"
 tags:

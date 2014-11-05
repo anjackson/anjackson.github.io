@@ -9,8 +9,7 @@ node_id: 342
 title: 01020 - Fire & Light
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/342/"
+redirect_from: []
 permalink: "/node/342/"
 tags:
 - California

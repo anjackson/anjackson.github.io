@@ -9,8 +9,7 @@ node_id: 1086
 title: 03036 Ian McKellen
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/node/1086/"
+redirect_from: []
 permalink: "/node/1086/"
 tags:
 - The Return Of The King

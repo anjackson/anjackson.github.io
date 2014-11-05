@@ -9,8 +9,7 @@ node_id: 1522
 title: Blow up a Rolo
 created: '2004-11-16'
 changed: '2004-11-16'
-aliases:
-- "/node/1522/"
+redirect_from: []
 permalink: "/node/1522/"
 tags:
 - Hummus

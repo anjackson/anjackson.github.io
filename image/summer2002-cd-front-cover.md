@@ -9,8 +9,7 @@ node_id: 1543
 title: Summer2002 CD Front Cover
 created: '2004-11-30'
 changed: '2013-06-25'
-aliases:
-- "/node/1543/"
+redirect_from: []
 permalink: "/node/1543/"
 tags:
 - imgn

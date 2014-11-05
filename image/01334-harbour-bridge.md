@@ -9,8 +9,7 @@ node_id: 359
 title: 01334 Harbour Bridge
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/359/"
+redirect_from: []
 permalink: "/node/359/"
 tags:
 - Sydney

@@ -9,8 +9,7 @@ node_id: 430
 title: 00902 - Looking quite cool... looking pretty cool...
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/430/"
+redirect_from: []
 permalink: "/node/430/"
 tags:
 - California

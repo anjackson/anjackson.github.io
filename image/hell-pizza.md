@@ -9,8 +9,7 @@ node_id: 1722
 title: Hell Pizza
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/hell_pizza/"
+redirect_from:
 - "/node/1722/"
 permalink: "/2007/01/19/hell_pizza/"
 tags:

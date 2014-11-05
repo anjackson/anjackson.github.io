@@ -9,8 +9,7 @@ node_id: 525
 title: Quotification
 created: '2004-04-02'
 changed: '2010-07-23'
-aliases:
-- "/2004/04/02/quotification/"
+redirect_from:
 - "/node/525/"
 permalink: "/2004/04/02/quotification/"
 tags:

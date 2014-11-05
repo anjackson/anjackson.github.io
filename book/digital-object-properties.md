@@ -9,8 +9,7 @@ node_id: 1855
 title: Digital Object Properties
 created: '2009-08-11'
 changed: '2009-08-11'
-aliases:
-- "/digital_preservation_notebook/digital_object_properties/"
+redirect_from:
 - "/node/1855/"
 permalink: "/digital_preservation_notebook/digital_object_properties/"
 tags: []

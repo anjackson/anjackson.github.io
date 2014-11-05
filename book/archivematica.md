@@ -9,8 +9,7 @@ node_id: 1877
 title: Archivematica
 created: '2010-08-12'
 changed: '2010-08-12'
-aliases:
-- "/digital_preservation_notebook/digital_object_storage/repository_systems/archivematica/"
+redirect_from:
 - "/node/1877/"
 permalink: "/digital_preservation_notebook/digital_object_storage/repository_systems/archivematica/"
 tags:

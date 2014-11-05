@@ -9,8 +9,7 @@ node_id: 708
 title: Extractor
 created: '2004-05-31'
 changed: '2007-02-08'
-aliases:
-- "/poot/riscos/extractor/"
+redirect_from:
 - "/node/708/"
 permalink: "/poot/riscos/extractor/"
 tags: []

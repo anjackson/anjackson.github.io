@@ -9,8 +9,7 @@ node_id: 682
 title: jeffC1sml
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/node/682/"
+redirect_from: []
 permalink: "/node/682/"
 tags:
 - Older

@@ -9,8 +9,7 @@ node_id: 723
 title: at least there's hills now
 created: '2004-06-23'
 changed: '2010-07-23'
-aliases:
-- "/2004/06/23/least_theres_hills_now/"
+redirect_from:
 - "/node/723/"
 permalink: "/2004/06/23/least_theres_hills_now/"
 tags:

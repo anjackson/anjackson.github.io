@@ -9,8 +9,7 @@ node_id: 1872
 title: convergent evolution of curation services
 created: '2010-07-27'
 changed: '2010-07-27'
-aliases:
-- "/2010/07/27/convergent_evolution_curation_services/"
+redirect_from:
 - "/node/1872/"
 permalink: "/2010/07/27/convergent_evolution_curation_services/"
 tags:

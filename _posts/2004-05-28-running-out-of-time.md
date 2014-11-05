@@ -9,8 +9,7 @@ node_id: 703
 title: running out of time...
 created: '2004-05-28'
 changed: '2010-07-23'
-aliases:
-- "/2004/05/28/running_out_time/"
+redirect_from:
 - "/node/703/"
 permalink: "/2004/05/28/running_out_time/"
 tags:

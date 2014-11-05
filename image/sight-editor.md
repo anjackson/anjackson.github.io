@@ -9,8 +9,7 @@ node_id: 1296
 title: 'Sight: editor'
 created: '2004-08-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1296/"
+redirect_from: []
 permalink: "/node/1296/"
 tags:
 - screenshots

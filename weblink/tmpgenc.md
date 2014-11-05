@@ -9,8 +9,7 @@ node_id: 1555
 title: TMPGEnc
 created: '2004-12-03'
 changed: '2004-12-03'
-aliases:
-- "/node/1555/"
+redirect_from: []
 permalink: "/node/1555/"
 tags:
 - Geeking

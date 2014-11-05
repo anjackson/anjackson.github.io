@@ -9,8 +9,7 @@ node_id: 656
 title: ed-porto.sml
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/node/656/"
+redirect_from: []
 permalink: "/node/656/"
 tags:
 - Edinburgh

@@ -9,8 +9,7 @@ node_id: 443
 title: 01295 - Harbour Nights
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/443/"
+redirect_from: []
 permalink: "/node/443/"
 tags:
 - Sydney

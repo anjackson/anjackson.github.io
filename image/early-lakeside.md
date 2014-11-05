@@ -9,8 +9,7 @@ node_id: 822
 title: Early, lakeside
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/2004/07/26/early_lakeside/"
+redirect_from:
 - "/node/822/"
 permalink: "/2004/07/26/early_lakeside/"
 tags:

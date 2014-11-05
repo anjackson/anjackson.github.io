@@ -9,8 +9,7 @@ node_id: 668
 title: echums-logo-sml
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/node/668/"
+redirect_from: []
 permalink: "/node/668/"
 tags:
 - Older

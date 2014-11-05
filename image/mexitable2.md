@@ -9,8 +9,7 @@ node_id: 620
 title: mexitable2
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/node/620/"
+redirect_from: []
 permalink: "/node/620/"
 tags:
 - Older

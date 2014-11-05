@@ -9,8 +9,7 @@ node_id: 1470
 title: 04162 Mid-Estuary
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1470/"
+redirect_from: []
 permalink: "/node/1470/"
 tags:
 - 2004/01 - January 2004

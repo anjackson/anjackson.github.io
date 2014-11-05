@@ -9,8 +9,7 @@ node_id: 1657
 title: 21085 Eilidh & Kirsty
 created: '2006-07-29'
 changed: '2013-06-25'
-aliases:
-- "/2006/07/29/21085_eilidh_kirsty/"
+redirect_from:
 - "/node/1657/"
 permalink: "/2006/07/29/21085_eilidh_kirsty/"
 tags:

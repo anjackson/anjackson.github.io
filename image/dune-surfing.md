@@ -9,8 +9,7 @@ node_id: 495
 title: Dune surfing
 created: '2004-03-31'
 changed: '2013-06-25'
-aliases:
-- "/2004/03/31/dune_surfing/"
+redirect_from:
 - "/node/495/"
 permalink: "/2004/03/31/dune_surfing/"
 tags:

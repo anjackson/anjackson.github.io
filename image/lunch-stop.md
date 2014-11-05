@@ -9,8 +9,7 @@ node_id: 1031
 title: Lunch stop
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/lunch_stop/"
+redirect_from:
 - "/node/1031/"
 permalink: "/2004/08/10/lunch_stop/"
 tags:

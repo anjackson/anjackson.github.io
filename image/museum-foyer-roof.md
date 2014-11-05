@@ -9,8 +9,7 @@ node_id: 1014
 title: Museum foyer roof
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/museum_foyer_roof/"
+redirect_from:
 - "/node/1014/"
 permalink: "/2004/08/10/museum_foyer_roof/"
 tags:

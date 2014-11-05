@@ -9,8 +9,7 @@ node_id: 1584
 title: 11560 Lambton Quay
 created: '2005-01-02'
 changed: '2013-06-25'
-aliases:
-- "/node/1584/"
+redirect_from: []
 permalink: "/node/1584/"
 tags:
 - Wellington

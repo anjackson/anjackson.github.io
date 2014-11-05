@@ -9,8 +9,7 @@ node_id: 919
 title: 02709 Looking Back
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/919/"
+redirect_from: []
 permalink: "/node/919/"
 tags:
 - Highlights

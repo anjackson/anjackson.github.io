@@ -9,8 +9,7 @@ node_id: 1640
 title: 22792 Falling off her Mum's bike
 created: '2006-07-29'
 changed: '2013-06-25'
-aliases:
-- "/2006/07/29/22792_falling_off_her_mums_bike/"
+redirect_from:
 - "/node/1640/"
 permalink: "/2006/07/29/22792_falling_off_her_mums_bike/"
 tags:

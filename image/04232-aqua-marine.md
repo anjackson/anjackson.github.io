@@ -9,8 +9,7 @@ node_id: 1479
 title: 04232 Aqua Marine
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1479/"
+redirect_from: []
 permalink: "/node/1479/"
 tags:
 - 2004/01 - January 2004

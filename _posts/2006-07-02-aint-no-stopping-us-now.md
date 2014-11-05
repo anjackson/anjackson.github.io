@@ -9,8 +9,7 @@ node_id: 1630
 title: ain't no stopping us now...
 created: '2006-07-02'
 changed: '2010-07-23'
-aliases:
-- "/2006/07/02/aint_no_stopping_us_now/"
+redirect_from:
 - "/node/1630/"
 permalink: "/2006/07/02/aint_no_stopping_us_now/"
 tags:

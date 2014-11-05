@@ -9,8 +9,7 @@ node_id: 424
 title: 00743 - Big Sur
 created: '2003-09-18'
 changed: '2013-06-25'
-aliases:
-- "/node/424/"
+redirect_from: []
 permalink: "/node/424/"
 tags:
 - California

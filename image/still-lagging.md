@@ -9,8 +9,7 @@ node_id: 1759
 title: Still lagging...
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/still_lagging/"
+redirect_from:
 - "/node/1759/"
 permalink: "/2007/01/19/still_lagging/"
 tags:

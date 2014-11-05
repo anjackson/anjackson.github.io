@@ -9,8 +9,7 @@ node_id: 335
 title: 00801 - Me & my hat
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/335/"
+redirect_from: []
 permalink: "/node/335/"
 tags:
 - Andy

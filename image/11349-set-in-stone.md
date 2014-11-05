@@ -9,8 +9,7 @@ node_id: 1507
 title: 11349 Set in Stone
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1507/"
+redirect_from: []
 permalink: "/node/1507/"
 tags:
 - Wellington

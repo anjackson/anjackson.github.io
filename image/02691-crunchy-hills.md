@@ -9,8 +9,7 @@ node_id: 908
 title: 02691 Crunchy Hills
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/908/"
+redirect_from: []
 permalink: "/node/908/"
 tags:
 - 2003/11 - November 2003

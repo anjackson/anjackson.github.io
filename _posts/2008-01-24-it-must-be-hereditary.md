@@ -9,8 +9,7 @@ node_id: 1790
 title: it must be hereditary
 created: '2008-01-24'
 changed: '2010-07-23'
-aliases:
-- "/2008/01/24/it_must_be_hereditary/"
+redirect_from:
 - "/node/1790/"
 permalink: "/2008/01/24/it_must_be_hereditary/"
 tags:

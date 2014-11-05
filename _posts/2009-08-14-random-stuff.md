@@ -9,8 +9,7 @@ node_id: 1637
 title: random stuff
 created: '2009-08-14'
 changed: '2010-07-23'
-aliases:
-- "/2009/08/14/random_stuff/"
+redirect_from:
 - "/node/1637/"
 permalink: "/2009/08/14/random_stuff/"
 tags:

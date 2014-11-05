@@ -9,8 +9,7 @@ node_id: 1407
 title: 04035 Clear Waters
 created: '2004-08-20'
 changed: '2013-06-25'
-aliases:
-- "/node/1407/"
+redirect_from: []
 permalink: "/node/1407/"
 tags:
 - 2004/01 - January 2004

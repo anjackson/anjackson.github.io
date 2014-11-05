@@ -9,8 +9,7 @@ node_id: 624
 title: binary.1
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/node/624/"
+redirect_from: []
 permalink: "/node/624/"
 tags:
 - imgn

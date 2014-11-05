@@ -9,8 +9,7 @@ node_id: 1019
 title: Around Auckland
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/around_auckland_0/"
+redirect_from:
 - "/node/1019/"
 permalink: "/2004/08/10/around_auckland_0/"
 tags:

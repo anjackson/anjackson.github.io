@@ -9,8 +9,7 @@ node_id: 321
 title: 00663 Raspberry Cocktail
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/321/"
+redirect_from: []
 permalink: "/node/321/"
 tags:
 - 2003/09 - September 2003

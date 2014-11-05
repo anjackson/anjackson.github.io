@@ -9,8 +9,7 @@ node_id: 726
 title: Visualization
 created: '2004-06-27'
 changed: '2004-06-27'
-aliases:
-- "/node/726/"
+redirect_from: []
 permalink: "/node/726/"
 tags: []
 ---

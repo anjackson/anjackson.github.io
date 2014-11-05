@@ -9,8 +9,7 @@ node_id: 1817
 title: three strikes and you're offline
 created: '2008-07-06'
 changed: '2008-12-04'
-aliases:
-- "/2008/07/06/three_strikes_and_youre_offline/"
+redirect_from:
 - "/node/1817/"
 permalink: "/2008/07/06/three_strikes_and_youre_offline/"
 tags:

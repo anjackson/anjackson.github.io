@@ -9,8 +9,7 @@ node_id: 992
 title: Mangrove walkway
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/mangrove_walkway/"
+redirect_from:
 - "/node/992/"
 permalink: "/2004/08/10/mangrove_walkway/"
 tags:

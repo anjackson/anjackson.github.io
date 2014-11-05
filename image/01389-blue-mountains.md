@@ -9,8 +9,7 @@ node_id: 367
 title: 01389 Blue Mountains
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/367/"
+redirect_from: []
 permalink: "/node/367/"
 tags:
 - Highlights

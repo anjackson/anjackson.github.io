@@ -9,8 +9,7 @@ node_id: 380
 title: 01524 Uluru Base Walk
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/2004/03/26/01524_uluru_base_walk/"
+redirect_from:
 - "/node/380/"
 permalink: "/2004/03/26/01524_uluru_base_walk/"
 tags:

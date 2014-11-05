@@ -9,8 +9,7 @@ node_id: 372
 title: 01447 Out of the Olgas
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/372/"
+redirect_from: []
 permalink: "/node/372/"
 tags:
 - The Red Centre

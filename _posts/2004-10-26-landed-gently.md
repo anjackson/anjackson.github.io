@@ -9,8 +9,7 @@ node_id: 1437
 title: landed gently
 created: '2004-10-26'
 changed: '2010-07-23'
-aliases:
-- "/2004/10/26/landed_gently/"
+redirect_from:
 - "/node/1437/"
 permalink: "/2004/10/26/landed_gently/"
 tags:

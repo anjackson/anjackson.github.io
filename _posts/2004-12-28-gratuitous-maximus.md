@@ -9,8 +9,7 @@ node_id: 1573
 title: gratuitous maximus
 created: '2004-12-28'
 changed: '2010-07-23'
-aliases:
-- "/2004/12/28/gratuitous_maximus/"
+redirect_from:
 - "/node/1573/"
 permalink: "/2004/12/28/gratuitous_maximus/"
 tags:

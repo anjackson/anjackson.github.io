@@ -9,8 +9,7 @@ node_id: 432
 title: 01359 - Sydney Harbour Widescreen
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/432/"
+redirect_from: []
 permalink: "/node/432/"
 tags:
 - Sydney

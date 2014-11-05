@@ -9,8 +9,7 @@ node_id: 609
 title: torifinery
 created: '2004-05-12'
 changed: '2013-06-25'
-aliases:
-- "/node/609/"
+redirect_from: []
 permalink: "/node/609/"
 tags:
 - imgn

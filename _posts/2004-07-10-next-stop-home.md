@@ -9,8 +9,7 @@ node_id: 732
 title: 'next stop: home'
 created: '2004-07-10'
 changed: '2010-07-23'
-aliases:
-- "/2004/07/10/next_stop_home/"
+redirect_from:
 - "/node/732/"
 permalink: "/2004/07/10/next_stop_home/"
 tags:

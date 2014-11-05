@@ -9,8 +9,7 @@ node_id: 1731
 title: Fern globe closeup
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/fern_globe_closeup/"
+redirect_from:
 - "/node/1731/"
 permalink: "/2007/01/19/fern_globe_closeup/"
 tags:

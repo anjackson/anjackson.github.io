@@ -9,8 +9,7 @@ node_id: 541
 title: 05651 Autumn Leaves
 created: '2004-04-20'
 changed: '2013-06-25'
-aliases:
-- "/2004/04/20/05651_autumn_leaves/"
+redirect_from:
 - "/node/541/"
 permalink: "/2004/04/20/05651_autumn_leaves/"
 tags:

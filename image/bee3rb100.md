@@ -9,8 +9,7 @@ node_id: 680
 title: bee3rB100
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/node/680/"
+redirect_from: []
 permalink: "/node/680/"
 tags:
 - Older

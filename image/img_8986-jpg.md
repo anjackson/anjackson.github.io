@@ -9,8 +9,7 @@ node_id: 895
 title: IMG_8986.JPG
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/2004/07/26/img_8986_jpg/"
+redirect_from:
 - "/node/895/"
 permalink: "/2004/07/26/img_8986_jpg/"
 tags:

@@ -9,8 +9,7 @@ node_id: 452
 title: One Million Dollars
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/2004/03/26/img_1904_b/"
+redirect_from:
 - "/node/452/"
 permalink: "/2004/03/26/img_1904_b/"
 tags:

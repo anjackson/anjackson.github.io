@@ -9,8 +9,7 @@ node_id: 918
 title: 02707 Snow, rock and pool.
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/918/"
+redirect_from: []
 permalink: "/node/918/"
 tags:
 - 2003/11 - November 2003

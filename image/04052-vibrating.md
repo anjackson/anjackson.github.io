@@ -9,8 +9,7 @@ node_id: 1410
 title: 04052 Vibrating
 created: '2004-08-20'
 changed: '2013-06-25'
-aliases:
-- "/node/1410/"
+redirect_from: []
 permalink: "/node/1410/"
 tags:
 - 2004/01 - January 2004

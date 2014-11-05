@@ -9,8 +9,7 @@ node_id: 568
 title: java
 created: '2004-05-11'
 changed: '2009-08-10'
-aliases:
-- "/geek/java/"
+redirect_from:
 - "/node/568/"
 permalink: "/geek/java/"
 tags: []

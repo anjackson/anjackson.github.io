@@ -9,8 +9,7 @@ node_id: 421
 title: 00721 Widescreen Coastline
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/421/"
+redirect_from: []
 permalink: "/node/421/"
 tags:
 - California

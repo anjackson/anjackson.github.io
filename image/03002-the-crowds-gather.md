@@ -9,8 +9,7 @@ node_id: 1071
 title: 03002 The crowds gather
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/node/1071/"
+redirect_from: []
 permalink: "/node/1071/"
 tags:
 - The Return Of The King

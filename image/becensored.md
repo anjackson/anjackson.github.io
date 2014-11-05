@@ -9,8 +9,7 @@ node_id: 632
 title: becensored
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/node/632/"
+redirect_from: []
 permalink: "/node/632/"
 tags:
 - Older

@@ -9,8 +9,7 @@ node_id: 1857
 title: Repository Systems
 created: '2009-08-11'
 changed: '2010-08-12'
-aliases:
-- "/digital_preservation_notebook/digital_object_storage/repository_systems/"
+redirect_from:
 - "/node/1857/"
 permalink: "/digital_preservation_notebook/digital_object_storage/repository_systems/"
 tags: []

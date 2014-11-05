@@ -9,8 +9,7 @@ node_id: 1668
 title: 31638 Eilidh & Granny
 created: '2006-07-29'
 changed: '2013-06-25'
-aliases:
-- "/2006/07/29/31638_eilidh_granny/"
+redirect_from:
 - "/node/1668/"
 permalink: "/2006/07/29/31638_eilidh_granny/"
 tags:

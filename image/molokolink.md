@@ -9,8 +9,7 @@ node_id: 606
 title: molokolink
 created: '2004-05-12'
 changed: '2013-06-25'
-aliases:
-- "/node/606/"
+redirect_from: []
 permalink: "/node/606/"
 tags:
 - imgn

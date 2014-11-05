@@ -9,8 +9,7 @@ node_id: 1012
 title: Tiki and other pendants
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/tiki_and_other_pendants/"
+redirect_from:
 - "/node/1012/"
 permalink: "/2004/08/10/tiki_and_other_pendants/"
 tags:

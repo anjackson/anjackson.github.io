@@ -9,8 +9,7 @@ node_id: 1784
 title: Sun Conure
 created: '2007-01-31'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/31/sun_conure/"
+redirect_from:
 - "/node/1784/"
 permalink: "/2007/01/31/sun_conure/"
 tags:

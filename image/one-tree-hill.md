@@ -9,8 +9,7 @@ node_id: 995
 title: One tree hill
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/one_tree_hill/"
+redirect_from:
 - "/node/995/"
 permalink: "/2004/08/10/one_tree_hill/"
 tags:

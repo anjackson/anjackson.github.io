@@ -9,8 +9,7 @@ node_id: 1623
 title: Eilidh & Terry
 created: '2006-05-29'
 changed: '2013-06-25'
-aliases:
-- "/2006/05/29/eilidh_terry/"
+redirect_from:
 - "/node/1623/"
 permalink: "/2006/05/29/eilidh_terry/"
 tags:

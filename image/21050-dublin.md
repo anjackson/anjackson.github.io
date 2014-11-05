@@ -9,8 +9,7 @@ node_id: 1656
 title: 21050 Dublin
 created: '2006-07-29'
 changed: '2013-06-25'
-aliases:
-- "/2006/07/29/21050_dublin/"
+redirect_from:
 - "/node/1656/"
 permalink: "/2006/07/29/21050_dublin/"
 tags:

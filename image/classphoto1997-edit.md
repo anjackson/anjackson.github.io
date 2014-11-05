@@ -9,8 +9,7 @@ node_id: 639
 title: classphoto1997-edit
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/2004/05/13/classphoto1997_edit/"
+redirect_from:
 - "/node/639/"
 permalink: "/2004/05/13/classphoto1997_edit/"
 tags:

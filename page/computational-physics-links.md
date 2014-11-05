@@ -9,8 +9,7 @@ node_id: 566
 title: 'computational physics: links'
 created: '2004-05-11'
 changed: '2004-05-11'
-aliases:
-- "/ix2v/comphys/plinks/"
+redirect_from:
 - "/node/566/"
 permalink: "/ix2v/comphys/plinks/"
 tags: []

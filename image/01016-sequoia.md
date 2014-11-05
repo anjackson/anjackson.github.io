@@ -9,8 +9,7 @@ node_id: 341
 title: 01016 Sequoia
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/341/"
+redirect_from: []
 permalink: "/node/341/"
 tags:
 - California

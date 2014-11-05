@@ -9,8 +9,7 @@ node_id: 1782
 title: Australian Pelicans
 created: '2007-01-31'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/31/australian_pelicans/"
+redirect_from:
 - "/node/1782/"
 permalink: "/2007/01/31/australian_pelicans/"
 tags:

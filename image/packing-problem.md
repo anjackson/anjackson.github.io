@@ -9,8 +9,7 @@ node_id: 1027
 title: Packing problem
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/packing_problem/"
+redirect_from:
 - "/node/1027/"
 permalink: "/2004/08/10/packing_problem/"
 tags:

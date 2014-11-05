@@ -9,8 +9,7 @@ node_id: 588
 title: The Forces Of Nature
 created: '2004-05-12'
 changed: '2007-02-08'
-aliases:
-- "/ix2v/comphys/docs/ug/y1-forces.pdf/"
+redirect_from:
 - "/node/588/"
 permalink: "/ix2v/comphys/docs/ug/y1-forces.pdf/"
 tags: []

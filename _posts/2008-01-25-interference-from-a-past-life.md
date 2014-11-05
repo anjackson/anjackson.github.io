@@ -9,8 +9,7 @@ node_id: 1810
 title: interference from a past life
 created: '2008-01-25'
 changed: '2010-07-23'
-aliases:
-- "/2008/01/25/interference_past_life/"
+redirect_from:
 - "/node/1810/"
 permalink: "/2008/01/25/interference_past_life/"
 tags:

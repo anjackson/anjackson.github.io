@@ -9,8 +9,7 @@ node_id: 433
 title: 01636 King's Canyon Oasis
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/433/"
+redirect_from: []
 permalink: "/node/433/"
 tags:
 - The Red Centre

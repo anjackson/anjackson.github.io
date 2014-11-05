@@ -9,8 +9,7 @@ node_id: 1506
 title: 11346 Te Papa
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1506/"
+redirect_from: []
 permalink: "/node/1506/"
 tags:
 - Wellington

@@ -9,8 +9,7 @@ node_id: 687
 title: title
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/node/687/"
+redirect_from: []
 permalink: "/node/687/"
 tags:
 - Older

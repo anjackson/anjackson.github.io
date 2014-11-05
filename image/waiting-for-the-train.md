@@ -9,8 +9,7 @@ node_id: 1724
 title: Waiting for the train
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/waiting_for_the_train/"
+redirect_from:
 - "/node/1724/"
 permalink: "/2007/01/19/waiting_for_the_train/"
 tags:

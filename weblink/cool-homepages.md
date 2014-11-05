@@ -9,8 +9,7 @@ node_id: 1519
 title: Cool Homepages
 created: '2004-11-16'
 changed: '2004-11-17'
-aliases:
-- "/node/1519/"
+redirect_from: []
 permalink: "/node/1519/"
 tags:
 - Web Design

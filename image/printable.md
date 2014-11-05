@@ -9,8 +9,7 @@ node_id: 666
 title: printable
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/node/666/"
+redirect_from: []
 permalink: "/node/666/"
 tags:
 - Older

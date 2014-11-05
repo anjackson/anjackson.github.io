@@ -9,8 +9,7 @@ node_id: 379
 title: 01508 Uluru Sunrise
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/379/"
+redirect_from: []
 permalink: "/node/379/"
 tags:
 - The Red Centre

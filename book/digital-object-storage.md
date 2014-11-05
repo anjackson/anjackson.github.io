@@ -9,8 +9,7 @@ node_id: 1852
 title: Digital Object Storage
 created: '2009-08-10'
 changed: '2010-08-12'
-aliases:
-- "/digital_preservation_notebook/digital_object_storage/"
+redirect_from:
 - "/node/1852/"
 permalink: "/digital_preservation_notebook/digital_object_storage/"
 tags: []

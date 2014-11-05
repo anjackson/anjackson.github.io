@@ -9,8 +9,7 @@ node_id: 981
 title: steady progress
 created: '2004-07-30'
 changed: '2010-07-23'
-aliases:
-- "/2004/07/30/steady_progress/"
+redirect_from:
 - "/node/981/"
 permalink: "/2004/07/30/steady_progress/"
 tags:

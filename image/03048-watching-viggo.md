@@ -9,8 +9,7 @@ node_id: 1091
 title: 03048 Watching Viggo
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/node/1091/"
+redirect_from: []
 permalink: "/node/1091/"
 tags:
 - The Return Of The King

@@ -9,8 +9,7 @@ node_id: 1762
 title: Wellington Harbour
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/wellington_harbour/"
+redirect_from:
 - "/node/1762/"
 permalink: "/2007/01/19/wellington_harbour/"
 tags:

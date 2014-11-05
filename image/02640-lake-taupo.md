@@ -9,8 +9,7 @@ node_id: 889
 title: 02640 Lake Taupo
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/889/"
+redirect_from: []
 permalink: "/node/889/"
 tags:
 - Highlights

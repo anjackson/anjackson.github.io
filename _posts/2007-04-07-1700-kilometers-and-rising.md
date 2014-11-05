@@ -9,8 +9,7 @@ node_id: 1793
 title: 1,700 kilometers and rising...
 created: '2007-04-07'
 changed: '2010-07-23'
-aliases:
-- "/2007/04/07/1700_kilometers_and_rising/"
+redirect_from:
 - "/node/1793/"
 permalink: "/2007/04/07/1700_kilometers_and_rising/"
 tags:

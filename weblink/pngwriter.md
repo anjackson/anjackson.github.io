@@ -9,8 +9,7 @@ node_id: 1586
 title: PNGwriter
 created: '2005-01-05'
 changed: '2005-01-05'
-aliases:
-- "/2005/01/05/pngwriter/"
+redirect_from:
 - "/node/1586/"
 permalink: "/2005/01/05/pngwriter/"
 tags:

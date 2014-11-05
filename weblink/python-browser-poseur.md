@@ -9,8 +9,7 @@ node_id: 1588
 title: Python Browser Poseur
 created: '2005-01-11'
 changed: '2005-01-11'
-aliases:
-- "/2005/01/11/python-browser-poseur/"
+redirect_from:
 - "/node/1588/"
 permalink: "/2005/01/11/python-browser-poseur/"
 tags:

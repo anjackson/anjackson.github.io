@@ -9,8 +9,7 @@ node_id: 1022
 title: Thames police station
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/thames_police_station/"
+redirect_from:
 - "/node/1022/"
 permalink: "/2004/08/10/thames_police_station/"
 tags:

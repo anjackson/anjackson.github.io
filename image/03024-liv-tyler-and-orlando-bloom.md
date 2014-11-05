@@ -9,8 +9,7 @@ node_id: 1079
 title: 03024 Liv Tyler and Orlando Bloom
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/node/1079/"
+redirect_from: []
 permalink: "/node/1079/"
 tags:
 - The Return Of The King

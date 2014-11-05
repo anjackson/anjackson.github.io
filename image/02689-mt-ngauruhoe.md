@@ -9,8 +9,7 @@ node_id: 906
 title: 02689 Mt Ngauruhoe
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/906/"
+redirect_from: []
 permalink: "/node/906/"
 tags:
 - Highlights

@@ -9,8 +9,7 @@ node_id: 1523
 title: morgueFile
 created: '2004-11-16'
 changed: '2004-12-02'
-aliases:
-- "/node/1523/"
+redirect_from: []
 permalink: "/node/1523/"
 tags:
 - Stock

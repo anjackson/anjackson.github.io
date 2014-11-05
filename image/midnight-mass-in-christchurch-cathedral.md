@@ -9,8 +9,7 @@ node_id: 1193
 title: Midnight Mass in Christchurch cathedral
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/midnight_mass_in_christchurch_cathedral/"
+redirect_from:
 - "/node/1193/"
 permalink: "/2004/08/10/midnight_mass_in_christchurch_cathedral/"
 tags:

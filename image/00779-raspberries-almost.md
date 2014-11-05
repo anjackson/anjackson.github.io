@@ -9,8 +9,7 @@ node_id: 330
 title: 00779 Raspberries (almost)
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/330/"
+redirect_from: []
 permalink: "/node/330/"
 tags:
 - California

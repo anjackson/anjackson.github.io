@@ -9,8 +9,7 @@ node_id: 1508
 title: 11362 Boat Shed Harbour
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1508/"
+redirect_from: []
 permalink: "/node/1508/"
 tags:
 - Wellington

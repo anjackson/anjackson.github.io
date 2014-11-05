@@ -9,8 +9,7 @@ node_id: 1080
 title: 03025 Mostly Liv Tyler
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/node/1080/"
+redirect_from: []
 permalink: "/node/1080/"
 tags:
 - Highlights

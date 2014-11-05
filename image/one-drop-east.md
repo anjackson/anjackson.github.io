@@ -9,8 +9,7 @@ node_id: 689
 title: One Drop East
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/node/689/"
+redirect_from: []
 permalink: "/node/689/"
 tags:
 - From the internet

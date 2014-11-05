@@ -9,8 +9,7 @@ node_id: 364
 title: 01376 Skyway
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/364/"
+redirect_from: []
 permalink: "/node/364/"
 tags:
 - 2003/10 - October 2003

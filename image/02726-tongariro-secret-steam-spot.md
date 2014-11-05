@@ -9,8 +9,7 @@ node_id: 926
 title: 02726 Tongariro Secret Steam Spot
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/926/"
+redirect_from: []
 permalink: "/node/926/"
 tags:
 - Highlights

@@ -9,8 +9,7 @@ node_id: 1616
 title: the ring itself
 created: '2006-05-05'
 changed: '2013-06-25'
-aliases:
-- "/2006/05/05/the_ring_itself/"
+redirect_from:
 - "/node/1616/"
 permalink: "/2006/05/05/the_ring_itself/"
 tags:

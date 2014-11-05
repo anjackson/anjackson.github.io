@@ -9,8 +9,7 @@ node_id: 1738
 title: Wellington Cable Car a.k.a. Andy's Stairlift
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/wellington_cable_car_a_k_a_andys_stairlift/"
+redirect_from:
 - "/node/1738/"
 permalink: "/2007/01/19/wellington_cable_car_a_k_a_andys_stairlift/"
 tags:

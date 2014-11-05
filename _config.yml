@@ -16,6 +16,7 @@ owner:
   github:         anjackson
   stackoverflow:  6689
   linkedin:       andrewnjackson
+  skype:          andrew.n.jackson
   instagram:
   lastfm:
   tumblr:
@@ -83,3 +84,7 @@ kramdown:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "_scripts", "minimal-mistakes-master", "so-simple-theme-master", "solid-theme"]
+
+gems:
+  - jekyll-redirect-from
+

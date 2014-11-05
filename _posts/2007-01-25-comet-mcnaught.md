@@ -9,8 +9,7 @@ node_id: 1768
 title: comet mcnaught
 created: '2007-01-25'
 changed: '2010-07-23'
-aliases:
-- "/2007/01/25/comet_mcnaught/"
+redirect_from:
 - "/node/1768/"
 permalink: "/2007/01/25/comet_mcnaught/"
 tags:

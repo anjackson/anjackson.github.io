@@ -9,8 +9,7 @@ node_id: 997
 title: Very silver fern
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/very_silver_fern/"
+redirect_from:
 - "/node/997/"
 permalink: "/2004/08/10/very_silver_fern/"
 tags:

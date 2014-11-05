@@ -9,8 +9,7 @@ node_id: 1540
 title: shoot the breeze
 created: '2004-11-26'
 changed: '2010-07-23'
-aliases:
-- "/2004/11/26/shoot_breeze/"
+redirect_from:
 - "/node/1540/"
 permalink: "/2004/11/26/shoot_breeze/"
 tags:

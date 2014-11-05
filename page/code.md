@@ -9,8 +9,7 @@ node_id: 1846
 title: Code
 created: '2009-08-10'
 changed: '2009-08-10'
-aliases:
-- "/code/"
+redirect_from:
 - "/node/1846/"
 permalink: "/code/"
 tags: []

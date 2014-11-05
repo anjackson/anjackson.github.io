@@ -9,8 +9,7 @@ node_id: 1864
 title: illustrating oil consumption
 created: '2009-08-12'
 changed: '2010-07-23'
-aliases:
-- "/2009/08/12/illustrating_oil_consumption/"
+redirect_from:
 - "/node/1864/"
 permalink: "/2009/08/12/illustrating_oil_consumption/"
 tags:

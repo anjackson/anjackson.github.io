@@ -9,8 +9,7 @@ node_id: 1681
 title: Which version of the OS is this?
 created: '2006-08-10'
 changed: '2006-09-23'
-aliases:
-- "/2006/08/10/which_version_of_the_os_is_this/"
+redirect_from:
 - "/node/1681/"
 permalink: "/2006/08/10/which_version_of_the_os_is_this/"
 tags:

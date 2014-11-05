@@ -9,8 +9,7 @@ node_id: 1794
 title: nearly over...
 created: '2007-04-26'
 changed: '2010-07-23'
-aliases:
-- "/2007/04/26/nearly_over/"
+redirect_from:
 - "/node/1794/"
 permalink: "/2007/04/26/nearly_over/"
 tags:

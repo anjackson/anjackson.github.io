@@ -9,8 +9,7 @@ node_id: 934
 title: 02761 No-one looks good in this stuff
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/934/"
+redirect_from: []
 permalink: "/node/934/"
 tags:
 - Andy

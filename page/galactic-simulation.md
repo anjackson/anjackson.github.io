@@ -9,8 +9,7 @@ node_id: 579
 title: Galactic Simulation
 created: '2004-05-12'
 changed: '2007-02-08'
-aliases:
-- "/ix2v/comphys/docs/ug/y4-pmii-galactic.pdf/"
+redirect_from:
 - "/node/579/"
 permalink: "/ix2v/comphys/docs/ug/y4-pmii-galactic.pdf/"
 tags: []

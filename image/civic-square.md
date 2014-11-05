@@ -9,8 +9,7 @@ node_id: 1730
 title: Civic square
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/civic_square/"
+redirect_from:
 - "/node/1730/"
 permalink: "/2007/01/19/civic_square/"
 tags:

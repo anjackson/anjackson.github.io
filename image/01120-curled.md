@@ -9,8 +9,7 @@ node_id: 438
 title: 01120 Curled
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/438/"
+redirect_from: []
 permalink: "/node/438/"
 tags:
 - Fiji

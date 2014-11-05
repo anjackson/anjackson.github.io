@@ -9,8 +9,7 @@ node_id: 1736
 title: Pohutukawa closeup
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/pohutukawa_closeup/"
+redirect_from:
 - "/node/1736/"
 permalink: "/2007/01/19/pohutukawa_closeup/"
 tags:

@@ -9,8 +9,7 @@ node_id: 1591
 title: imgSeek
 created: '2005-01-14'
 changed: '2005-01-14'
-aliases:
-- "/2005/01/14/imgseek/"
+redirect_from:
 - "/node/1591/"
 permalink: "/2005/01/14/imgseek/"
 tags:

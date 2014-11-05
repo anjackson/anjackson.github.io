@@ -9,8 +9,7 @@ node_id: 1714
 title: Walking along the beach
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/walking_along_the_beach_0/"
+redirect_from:
 - "/node/1714/"
 permalink: "/2007/01/19/walking_along_the_beach_0/"
 tags:

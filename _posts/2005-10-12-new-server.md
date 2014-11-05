@@ -9,8 +9,7 @@ node_id: 1607
 title: new server
 created: '2005-10-12'
 changed: '2010-07-23'
-aliases:
-- "/2005/10/12/new_server/"
+redirect_from:
 - "/node/1607/"
 permalink: "/2005/10/12/new_server/"
 tags:

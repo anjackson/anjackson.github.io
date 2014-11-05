@@ -9,8 +9,7 @@ node_id: 916
 title: 02703 Emerald Lake View
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/916/"
+redirect_from: []
 permalink: "/node/916/"
 tags:
 - 2003/11 - November 2003

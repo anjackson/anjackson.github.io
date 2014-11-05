@@ -9,8 +9,7 @@ node_id: 688
 title: The 88
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/node/688/"
+redirect_from: []
 permalink: "/node/688/"
 tags:
 - From the internet

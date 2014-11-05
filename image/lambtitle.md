@@ -9,8 +9,7 @@ node_id: 604
 title: lambtitle
 created: '2004-05-12'
 changed: '2013-06-25'
-aliases:
-- "/node/604/"
+redirect_from: []
 permalink: "/node/604/"
 tags:
 - imgn

@@ -9,8 +9,7 @@ node_id: 706
 title: XMLSite
 created: '2004-05-31'
 changed: '2007-02-08'
-aliases:
-- "/poot/riscos/xmlsite/"
+redirect_from:
 - "/node/706/"
 permalink: "/poot/riscos/xmlsite/"
 tags: []

@@ -9,8 +9,7 @@ node_id: 1472
 title: 04170 Ripples
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1472/"
+redirect_from: []
 permalink: "/node/1472/"
 tags:
 - 2004/01 - January 2004

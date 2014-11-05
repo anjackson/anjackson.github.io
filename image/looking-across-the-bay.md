@@ -9,8 +9,7 @@ node_id: 1097
 title: Looking across the bay.
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/looking_across_the_bay/"
+redirect_from:
 - "/node/1097/"
 permalink: "/2004/08/10/looking_across_the_bay/"
 tags:

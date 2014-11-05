@@ -9,8 +9,7 @@ node_id: 913
 title: 02698 Blue Lake
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/913/"
+redirect_from: []
 permalink: "/node/913/"
 tags:
 - 2003/11 - November 2003

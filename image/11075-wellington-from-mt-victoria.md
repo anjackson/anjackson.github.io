@@ -9,8 +9,7 @@ node_id: 1485
 title: 11075 Wellington from Mt Victoria
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1485/"
+redirect_from: []
 permalink: "/node/1485/"
 tags:
 - Wellington

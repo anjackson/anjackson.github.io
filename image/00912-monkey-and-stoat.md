@@ -9,8 +9,7 @@ node_id: 338
 title: 00912 - Monkey & Stoat
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/338/"
+redirect_from: []
 permalink: "/node/338/"
 tags:
 - California

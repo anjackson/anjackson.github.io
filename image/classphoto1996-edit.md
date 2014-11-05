@@ -9,8 +9,7 @@ node_id: 637
 title: classphoto1996-edit
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/2004/05/13/classphoto1996_edit/"
+redirect_from:
 - "/node/637/"
 permalink: "/2004/05/13/classphoto1996_edit/"
 tags:

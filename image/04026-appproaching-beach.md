@@ -9,8 +9,7 @@ node_id: 1403
 title: 04026 Appproaching Beach
 created: '2004-08-20'
 changed: '2013-06-25'
-aliases:
-- "/node/1403/"
+redirect_from: []
 permalink: "/node/1403/"
 tags:
 - 2004/01 - January 2004

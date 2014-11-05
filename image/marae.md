@@ -9,8 +9,7 @@ node_id: 1010
 title: Marae
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/marae_0/"
+redirect_from:
 - "/node/1010/"
 permalink: "/2004/08/10/marae_0/"
 tags:

@@ -9,8 +9,7 @@ node_id: 1016
 title: Fountain with flame
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/fountain_with_flame_0/"
+redirect_from:
 - "/node/1016/"
 permalink: "/2004/08/10/fountain_with_flame_0/"
 tags:

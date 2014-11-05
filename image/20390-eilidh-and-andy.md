@@ -9,8 +9,7 @@ node_id: 1644
 title: 20390 Eilidh & Andy
 created: '2006-07-29'
 changed: '2013-06-25'
-aliases:
-- "/2006/07/29/20390_eilidh_andy/"
+redirect_from:
 - "/node/1644/"
 permalink: "/2006/07/29/20390_eilidh_andy/"
 tags:

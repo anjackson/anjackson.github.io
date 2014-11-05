@@ -9,8 +9,7 @@ node_id: 705
 title: Expat for RISC OS
 created: '2004-05-31'
 changed: '2007-02-08'
-aliases:
-- "/poot/riscos/xmlutils/expat/"
+redirect_from:
 - "/node/705/"
 permalink: "/poot/riscos/xmlutils/expat/"
 tags: []

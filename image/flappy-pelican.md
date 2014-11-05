@@ -9,8 +9,7 @@ node_id: 1783
 title: Flappy Pelican
 created: '2007-01-31'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/31/flappy_pelican/"
+redirect_from:
 - "/node/1783/"
 permalink: "/2007/01/31/flappy_pelican/"
 tags:

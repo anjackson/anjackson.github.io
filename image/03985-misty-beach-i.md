@@ -9,8 +9,7 @@ node_id: 1390
 title: 03985 Misty Beach I
 created: '2004-08-20'
 changed: '2013-06-25'
-aliases:
-- "/node/1390/"
+redirect_from: []
 permalink: "/node/1390/"
 tags:
 - Highlights

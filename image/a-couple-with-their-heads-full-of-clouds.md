@@ -9,8 +9,7 @@ node_id: 628
 title: A Couple with Their Heads Full of Clouds
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/2004/05/13-a-couple-with-their-heads-full-of-clouds/"
+redirect_from:
 - "/node/628/"
 permalink: "/2004/05/13-a-couple-with-their-heads-full-of-clouds/"
 tags:

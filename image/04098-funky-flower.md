@@ -9,8 +9,7 @@ node_id: 1458
 title: 04098 Funky Flower
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1458/"
+redirect_from: []
 permalink: "/node/1458/"
 tags:
 - 2004/01 - January 2004

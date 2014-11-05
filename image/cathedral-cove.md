@@ -9,8 +9,7 @@ node_id: 802
 title: Cathedral Cove
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/2004/07/26/cathedral_cove/"
+redirect_from:
 - "/node/802/"
 permalink: "/2004/07/26/cathedral_cove/"
 tags:

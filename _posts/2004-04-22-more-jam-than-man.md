@@ -9,8 +9,7 @@ node_id: 544
 title: more jam than man
 created: '2004-04-22'
 changed: '2010-07-23'
-aliases:
-- "/2004/04/22/more_jam_man/"
+redirect_from:
 - "/node/544/"
 permalink: "/2004/04/22/more_jam_man/"
 tags:

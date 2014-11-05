@@ -9,8 +9,7 @@ node_id: 1750
 title: Leading MacDougall
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/leading_macdougall/"
+redirect_from:
 - "/node/1750/"
 permalink: "/2007/01/19/leading_macdougall/"
 tags:

@@ -9,8 +9,7 @@ node_id: 1084
 title: 03032 Christopher Lee and Sean Astin
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/node/1084/"
+redirect_from: []
 permalink: "/node/1084/"
 tags:
 - The Return Of The King

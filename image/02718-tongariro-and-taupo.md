@@ -9,8 +9,7 @@ node_id: 925
 title: 02718 Tongariro & Taupo
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/925/"
+redirect_from: []
 permalink: "/node/925/"
 tags:
 - 2003/11 - November 2003

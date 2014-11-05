@@ -9,8 +9,7 @@ node_id: 1579
 title: 'sIFR 2.0: Release Candidate 2 is Finally Here'
 created: '2004-12-30'
 changed: '2004-12-30'
-aliases:
-- "/2004/12/30/sifr-20-release-candidate-2-is-finally-here/"
+redirect_from:
 - "/node/1579/"
 permalink: "/2004/12/30/sifr-20-release-candidate-2-is-finally-here/"
 tags:

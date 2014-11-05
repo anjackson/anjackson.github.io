@@ -9,8 +9,7 @@ node_id: 369
 title: 01413 The Red Centre
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/369/"
+redirect_from: []
 permalink: "/node/369/"
 tags:
 - The Red Centre

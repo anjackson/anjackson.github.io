@@ -9,8 +9,7 @@ node_id: 1008
 title: War memories
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/war_memories/"
+redirect_from:
 - "/node/1008/"
 permalink: "/2004/08/10/war_memories/"
 tags:

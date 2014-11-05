@@ -9,8 +9,7 @@ node_id: 1785
 title: Golden Lion Tamarin
 created: '2007-01-31'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/31/golden_lion_tamarin/"
+redirect_from:
 - "/node/1785/"
 permalink: "/2007/01/31/golden_lion_tamarin/"
 tags:

@@ -9,8 +9,7 @@ node_id: 549
 title: silly google
 created: '2004-05-04'
 changed: '2010-07-23'
-aliases:
-- "/2004/05/04/silly_google/"
+redirect_from:
 - "/node/549/"
 permalink: "/2004/05/04/silly_google/"
 tags:

@@ -9,8 +9,7 @@ node_id: 1452
 title: Annozilla
 created: '2004-11-12'
 changed: '2004-11-12'
-aliases:
-- "/node/1452/"
+redirect_from: []
 permalink: "/node/1452/"
 tags:
 - www v2.0

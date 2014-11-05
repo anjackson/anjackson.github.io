@@ -9,8 +9,7 @@ node_id: 1045
 title: 02953 Oi! Lush Elf!
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/node/1045/"
+redirect_from: []
 permalink: "/node/1045/"
 tags:
 - The Return Of The King

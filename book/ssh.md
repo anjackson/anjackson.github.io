@@ -9,8 +9,7 @@ node_id: 984
 title: ssh
 created: '2004-08-10'
 changed: '2006-09-23'
-aliases:
-- "/2004/08/10/ssh/"
+redirect_from:
 - "/node/984/"
 permalink: "/2004/08/10/ssh/"
 tags: []

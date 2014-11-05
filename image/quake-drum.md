@@ -9,8 +9,7 @@ node_id: 1599
 title: quake drum
 created: '2005-03-19'
 changed: '2013-06-25'
-aliases:
-- "/2005/03/19/quake-drum/"
+redirect_from:
 - "/node/1599/"
 permalink: "/2005/03/19/quake-drum/"
 tags:

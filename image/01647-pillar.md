@@ -9,8 +9,7 @@ node_id: 389
 title: 01647 Pillar
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/389/"
+redirect_from: []
 permalink: "/node/389/"
 tags:
 - Highlights

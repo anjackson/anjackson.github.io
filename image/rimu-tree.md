@@ -9,8 +9,7 @@ node_id: 1748
 title: Rimu tree
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/rimu_tree/"
+redirect_from:
 - "/node/1748/"
 permalink: "/2007/01/19/rimu_tree/"
 tags:

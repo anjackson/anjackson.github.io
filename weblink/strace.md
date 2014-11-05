@@ -9,8 +9,7 @@ node_id: 1577
 title: strace
 created: '2004-12-30'
 changed: '2004-12-30'
-aliases:
-- "/2004/12/30/strace/"
+redirect_from:
 - "/node/1577/"
 permalink: "/2004/12/30/strace/"
 tags:

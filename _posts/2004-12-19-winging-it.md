@@ -9,8 +9,7 @@ node_id: 1564
 title: winging it
 created: '2004-12-19'
 changed: '2010-07-23'
-aliases:
-- "/2004/12/19/winging_it/"
+redirect_from:
 - "/node/1564/"
 permalink: "/2004/12/19/winging_it/"
 tags:

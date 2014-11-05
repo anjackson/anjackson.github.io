@@ -9,8 +9,7 @@ node_id: 1780
 title: Lion
 created: '2007-01-31'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/31/lion/"
+redirect_from:
 - "/node/1780/"
 permalink: "/2007/01/31/lion/"
 tags:

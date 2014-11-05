@@ -9,8 +9,7 @@ node_id: 352
 title: 01177 The Opera House
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/352/"
+redirect_from: []
 permalink: "/node/352/"
 tags:
 - Sydney

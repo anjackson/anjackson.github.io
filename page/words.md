@@ -9,8 +9,7 @@ node_id: 594
 title: words
 created: '2004-05-12'
 changed: '2004-05-12'
-aliases:
-- "/about/ilike/words/"
+redirect_from:
 - "/node/594/"
 permalink: "/about/ilike/words/"
 tags: []

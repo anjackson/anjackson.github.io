@@ -9,8 +9,7 @@ node_id: 1764
 title: McNaught over Wellington
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/mcnaught_over_wellington/"
+redirect_from:
 - "/node/1764/"
 permalink: "/2007/01/19/mcnaught_over_wellington/"
 tags:

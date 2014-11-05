@@ -9,8 +9,7 @@ node_id: 1425
 title: Fly to NZ
 created: '2004-09-24'
 changed: '2004-10-01'
-aliases:
-- "/node/1425/"
+redirect_from: []
 permalink: "/node/1425/"
 tags: []
 ---

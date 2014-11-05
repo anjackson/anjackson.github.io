@@ -9,8 +9,7 @@ node_id: 340
 title: 00945 Sunlight
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/340/"
+redirect_from: []
 permalink: "/node/340/"
 tags:
 - California

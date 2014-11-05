@@ -9,8 +9,7 @@ node_id: 1520
 title: Inkscape
 created: '2004-11-16'
 changed: '2004-11-16'
-aliases:
-- "/node/1520/"
+redirect_from: []
 permalink: "/node/1520/"
 tags:
 - Art & Design

@@ -9,8 +9,7 @@ node_id: 1760
 title: Still leading...
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/still_leading/"
+redirect_from:
 - "/node/1760/"
 permalink: "/2007/01/19/still_leading/"
 tags:

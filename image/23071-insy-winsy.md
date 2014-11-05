@@ -9,8 +9,7 @@ node_id: 1641
 title: 23071 Insy Winsy
 created: '2006-07-29'
 changed: '2013-06-25'
-aliases:
-- "/2006/07/29/23071_insy_winsy/"
+redirect_from:
 - "/node/1641/"
 permalink: "/2006/07/29/23071_insy_winsy/"
 tags:

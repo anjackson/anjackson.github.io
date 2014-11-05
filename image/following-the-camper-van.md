@@ -9,8 +9,7 @@ node_id: 785
 title: Following the camper van
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/2004/07/26/following_the_camper_van/"
+redirect_from:
 - "/node/785/"
 permalink: "/2004/07/26/following_the_camper_van/"
 tags:

@@ -9,8 +9,7 @@ node_id: 381
 title: 01538 Aboriginal Art
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/381/"
+redirect_from: []
 permalink: "/node/381/"
 tags:
 - The Red Centre

@@ -9,8 +9,7 @@ node_id: 348
 title: 01101 Towel Tree
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/348/"
+redirect_from: []
 permalink: "/node/348/"
 tags:
 - Fiji

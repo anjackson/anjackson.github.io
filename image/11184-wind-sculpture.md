@@ -9,8 +9,7 @@ node_id: 1488
 title: 11184 Wind Sculpture
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1488/"
+redirect_from: []
 permalink: "/node/1488/"
 tags:
 - Wellington

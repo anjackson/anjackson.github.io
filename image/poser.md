@@ -9,8 +9,7 @@ node_id: 665
 title: Poser
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/2004/05/13/poser/"
+redirect_from:
 - "/node/665/"
 permalink: "/2004/05/13/poser/"
 tags:

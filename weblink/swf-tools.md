@@ -9,8 +9,7 @@ node_id: 1566
 title: SWF Tools
 created: '2004-12-21'
 changed: '2004-12-21'
-aliases:
-- "/node/1566/"
+redirect_from: []
 permalink: "/node/1566/"
 tags:
 - Flash

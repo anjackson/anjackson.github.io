@@ -9,8 +9,7 @@ node_id: 426
 title: 00840 - Kite-surfing
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/426/"
+redirect_from: []
 permalink: "/node/426/"
 tags:
 - California

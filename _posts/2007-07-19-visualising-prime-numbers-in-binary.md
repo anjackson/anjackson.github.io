@@ -9,8 +9,7 @@ node_id: 1806
 title: visualising prime numbers in binary
 created: '2007-07-19'
 changed: '2007-07-19'
-aliases:
-- "/2007/07/19/visualising_prime_numbers_in_binary/"
+redirect_from:
 - "/node/1806/"
 permalink: "/2007/07/19/visualising_prime_numbers_in_binary/"
 tags:

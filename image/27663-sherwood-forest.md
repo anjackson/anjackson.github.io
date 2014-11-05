@@ -9,8 +9,7 @@ node_id: 1647
 title: 27663 Sherwood Forest
 created: '2006-07-29'
 changed: '2013-06-25'
-aliases:
-- "/2006/07/29/27663_sherwood_forest/"
+redirect_from:
 - "/node/1647/"
 permalink: "/2006/07/29/27663_sherwood_forest/"
 tags:

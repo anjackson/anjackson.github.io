@@ -9,8 +9,7 @@ node_id: 733
 title: changing planes
 created: '2004-07-11'
 changed: '2010-07-23'
-aliases:
-- "/2004/07/11/changing_planes/"
+redirect_from:
 - "/node/733/"
 permalink: "/2004/07/11/changing_planes/"
 tags:

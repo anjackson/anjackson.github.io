@@ -9,8 +9,7 @@ node_id: 909
 title: 02692 Red Crater
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/909/"
+redirect_from: []
 permalink: "/node/909/"
 tags:
 - 2003/11 - November 2003

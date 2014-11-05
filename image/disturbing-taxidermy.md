@@ -9,8 +9,7 @@ node_id: 1006
 title: Disturbing taxidermy
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/disturbing_taxidermy/"
+redirect_from:
 - "/node/1006/"
 permalink: "/2004/08/10/disturbing_taxidermy/"
 tags:

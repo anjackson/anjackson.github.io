@@ -9,8 +9,7 @@ node_id: 434
 title: 00872 - Golden Gate Bridge & San Francisco Bay
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/434/"
+redirect_from: []
 permalink: "/node/434/"
 tags:
 - California

@@ -9,8 +9,7 @@ node_id: 711
 title: Data
 created: '2004-06-02'
 changed: '2004-06-02'
-aliases:
-- "/node/711/"
+redirect_from: []
 permalink: "/node/711/"
 tags: []
 ---

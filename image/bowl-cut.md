@@ -9,8 +9,7 @@ node_id: 663
 title: Bowl Cut
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/2004/05/13/bowl_cut/"
+redirect_from:
 - "/node/663/"
 permalink: "/2004/05/13/bowl_cut/"
 tags:

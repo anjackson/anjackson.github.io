@@ -9,8 +9,7 @@ node_id: 1836
 title: Digital Preservation
 created: '2008-12-22'
 changed: '2010-07-24'
-aliases:
-- "/work/digitalpreservation/"
+redirect_from:
 - "/node/1836/"
 permalink: "/work/digitalpreservation/"
 tags:

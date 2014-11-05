@@ -9,8 +9,7 @@ node_id: 930
 title: 02745 Gravity Wins
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/930/"
+redirect_from: []
 permalink: "/node/930/"
 tags:
 - Andy

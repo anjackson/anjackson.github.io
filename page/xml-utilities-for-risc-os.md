@@ -9,8 +9,7 @@ node_id: 704
 title: XML Utilities For RISC OS
 created: '2004-05-31'
 changed: '2007-02-08'
-aliases:
-- "/poot/riscos/xmlutils/"
+redirect_from:
 - "/node/704/"
 permalink: "/poot/riscos/xmlutils/"
 tags: []

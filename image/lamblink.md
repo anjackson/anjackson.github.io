@@ -9,8 +9,7 @@ node_id: 603
 title: lamblink
 created: '2004-05-12'
 changed: '2013-06-25'
-aliases:
-- "/node/603/"
+redirect_from: []
 permalink: "/node/603/"
 tags:
 - imgn

@@ -9,8 +9,7 @@ node_id: 929
 title: 02742 Fighting Gravity
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/929/"
+redirect_from: []
 permalink: "/node/929/"
 tags:
 - Andy

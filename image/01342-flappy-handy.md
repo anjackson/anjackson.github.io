@@ -9,8 +9,7 @@ node_id: 360
 title: 01342 Flappy Handy
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/360/"
+redirect_from: []
 permalink: "/node/360/"
 tags:
 - Sydney

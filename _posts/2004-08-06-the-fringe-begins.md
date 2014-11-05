@@ -9,8 +9,7 @@ node_id: 983
 title: the fringe begins
 created: '2004-08-06'
 changed: '2010-07-23'
-aliases:
-- "/2004/08/06/fringe_begins/"
+redirect_from:
 - "/node/983/"
 permalink: "/2004/08/06/fringe_begins/"
 tags:

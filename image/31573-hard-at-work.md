@@ -9,8 +9,7 @@ node_id: 1667
 title: 31573 Hard at work
 created: '2006-07-29'
 changed: '2013-06-25'
-aliases:
-- "/2006/07/29/31573_hard_at_work/"
+redirect_from:
 - "/node/1667/"
 permalink: "/2006/07/29/31573_hard_at_work/"
 tags:

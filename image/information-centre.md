@@ -9,8 +9,7 @@ node_id: 1743
 title: Information centre
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/information_centre/"
+redirect_from:
 - "/node/1743/"
 permalink: "/2007/01/19/information_centre/"
 tags:

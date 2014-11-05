@@ -9,8 +9,7 @@ node_id: 1733
 title: Chaffers Marina
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/chaffers_marina/"
+redirect_from:
 - "/node/1733/"
 permalink: "/2007/01/19/chaffers_marina/"
 tags:

@@ -9,8 +9,7 @@ node_id: 1723
 title: Divine Pizza
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/divine_pizza/"
+redirect_from:
 - "/node/1723/"
 permalink: "/2007/01/19/divine_pizza/"
 tags:

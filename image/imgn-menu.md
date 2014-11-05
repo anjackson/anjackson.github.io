@@ -9,8 +9,7 @@ node_id: 623
 title: imgn-menu
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/node/623/"
+redirect_from: []
 permalink: "/node/623/"
 tags:
 - Older

@@ -9,8 +9,7 @@ node_id: 1763
 title: McNaught closeup
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/mcnaught_closeup/"
+redirect_from:
 - "/node/1763/"
 permalink: "/2007/01/19/mcnaught_closeup/"
 tags:

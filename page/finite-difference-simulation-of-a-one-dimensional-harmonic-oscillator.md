@@ -9,8 +9,7 @@ node_id: 584
 title: Finite Difference Simulation of a One Dimensional Harmonic Oscillator
 created: '2004-05-12'
 changed: '2007-02-08'
-aliases:
-- "/ix2v/comphys/docs/ug/y3-pm1-fd-ho.pdf/"
+redirect_from:
 - "/node/584/"
 permalink: "/ix2v/comphys/docs/ug/y3-pm1-fd-ho.pdf/"
 tags: []

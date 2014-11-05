@@ -9,8 +9,7 @@ node_id: 1087
 title: 03037 Not sure - CG guys maybe
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/node/1087/"
+redirect_from: []
 permalink: "/node/1087/"
 tags:
 - The Return Of The King

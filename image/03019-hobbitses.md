@@ -9,8 +9,7 @@ node_id: 1075
 title: 03019 Hobbitses
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/node/1075/"
+redirect_from: []
 permalink: "/node/1075/"
 tags:
 - The Return Of The King

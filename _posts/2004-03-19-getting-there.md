@@ -9,8 +9,7 @@ node_id: 3
 title: Getting there...
 created: '2004-03-19'
 changed: '2010-07-23'
-aliases:
-- "/2004/03/19/getting_there/"
+redirect_from:
 - "/node/3/"
 permalink: "/2004/03/19/getting_there/"
 tags: []

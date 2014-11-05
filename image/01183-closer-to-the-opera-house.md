@@ -9,8 +9,7 @@ node_id: 353
 title: 01183 - Closer to the Opera House
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/353/"
+redirect_from: []
 permalink: "/node/353/"
 tags:
 - Sydney

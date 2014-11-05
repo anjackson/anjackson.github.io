@@ -9,8 +9,7 @@ node_id: 388
 title: 01629 Drastic Steps
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/388/"
+redirect_from: []
 permalink: "/node/388/"
 tags:
 - The Red Centre

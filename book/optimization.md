@@ -9,8 +9,7 @@ node_id: 712
 title: Optimization
 created: '2004-06-02'
 changed: '2004-06-02'
-aliases:
-- "/node/712/"
+redirect_from: []
 permalink: "/node/712/"
 tags: []
 ---

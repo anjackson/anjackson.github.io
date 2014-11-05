@@ -9,8 +9,7 @@ node_id: 1861
 title: Migration Tools & Pathways
 created: '2009-08-11'
 changed: '2009-08-11'
-aliases:
-- "/digital_preservation_notebook/preservation_strategies/migration_tools_pathways/"
+redirect_from:
 - "/node/1861/"
 permalink: "/digital_preservation_notebook/preservation_strategies/migration_tools_pathways/"
 tags: []

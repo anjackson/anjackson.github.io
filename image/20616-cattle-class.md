@@ -9,8 +9,7 @@ node_id: 1652
 title: 20616 Cattle Class
 created: '2006-07-29'
 changed: '2013-06-25'
-aliases:
-- "/2006/07/29/20616_cattle_class/"
+redirect_from:
 - "/node/1652/"
 permalink: "/2006/07/29/20616_cattle_class/"
 tags:

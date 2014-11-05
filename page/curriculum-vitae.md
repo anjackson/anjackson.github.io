@@ -9,8 +9,7 @@ node_id: 1286
 title: curriculum vitae
 created: '2004-08-11'
 changed: '2008-01-22'
-aliases:
-- "/ix2v/cv/"
+redirect_from:
 - "/ix2v/cv/index.php/"
 - "/node/1286/"
 permalink: "/ix2v/cv/"

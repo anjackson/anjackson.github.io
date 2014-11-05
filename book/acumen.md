@@ -9,8 +9,7 @@ node_id: 1875
 title: Acumen
 created: '2010-08-12'
 changed: '2010-08-12'
-aliases:
-- "/Digital Preservation/Digital Object Storage/Repository Systems/acumen/"
+redirect_from:
 - "/node/1875/"
 permalink: "/Digital Preservation/Digital Object Storage/Repository Systems/acumen/"
 tags:

@@ -9,8 +9,7 @@ node_id: 891
 title: 02645 Over the lake
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/891/"
+redirect_from: []
 permalink: "/node/891/"
 tags:
 - 2003/11 - November 2003

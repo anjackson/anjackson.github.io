@@ -9,8 +9,7 @@ node_id: 1011
 title: Carvings
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/carvings/"
+redirect_from:
 - "/node/1011/"
 permalink: "/2004/08/10/carvings/"
 tags:

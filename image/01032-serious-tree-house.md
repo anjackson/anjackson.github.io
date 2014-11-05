@@ -9,8 +9,7 @@ node_id: 343
 title: 01032 - Serious Tree-House
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/343/"
+redirect_from: []
 permalink: "/node/343/"
 tags:
 - California

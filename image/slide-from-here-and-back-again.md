@@ -9,8 +9,7 @@ node_id: 1539
 title: Slide from Here And Back Again
 created: '2004-11-26'
 changed: '2013-06-25'
-aliases:
-- "/node/1539/"
+redirect_from: []
 permalink: "/node/1539/"
 tags:
 - ix2v

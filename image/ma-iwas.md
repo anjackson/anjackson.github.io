@@ -9,8 +9,7 @@ node_id: 605
 title: ma.iwas
 created: '2004-05-12'
 changed: '2013-06-25'
-aliases:
-- "/node/605/"
+redirect_from: []
 permalink: "/node/605/"
 tags:
 - imgn

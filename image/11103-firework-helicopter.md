@@ -9,8 +9,7 @@ node_id: 1486
 title: 11103 Firework Helicopter
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1486/"
+redirect_from: []
 permalink: "/node/1486/"
 tags:
 - Wellington

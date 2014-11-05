@@ -9,8 +9,7 @@ node_id: 1610
 title: nutshells
 created: '2005-11-16'
 changed: '2007-07-27'
-aliases:
-- "/nutshells/"
+redirect_from:
 - "/node/1610/"
 permalink: "/nutshells/"
 tags: []

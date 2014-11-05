@@ -9,8 +9,7 @@ node_id: 887
 title: 02638 Huka Closeup
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/887/"
+redirect_from: []
 permalink: "/node/887/"
 tags:
 - 2003/11 - November 2003

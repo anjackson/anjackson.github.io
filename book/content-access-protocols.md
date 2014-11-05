@@ -9,8 +9,7 @@ node_id: 1858
 title: Content Access Protocols
 created: '2009-08-11'
 changed: '2010-08-12'
-aliases:
-- "/digital_preservation_notebook/digital_object_storage/content_access_protocols/"
+redirect_from:
 - "/node/1858/"
 permalink: "/digital_preservation_notebook/digital_object_storage/content_access_protocols/"
 tags: []

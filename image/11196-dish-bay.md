@@ -9,8 +9,7 @@ node_id: 1489
 title: 11196 Dish Bay
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1489/"
+redirect_from: []
 permalink: "/node/1489/"
 tags:
 - Wellington

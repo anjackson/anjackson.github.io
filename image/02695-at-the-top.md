@@ -9,8 +9,7 @@ node_id: 911
 title: 02695 At the top
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/911/"
+redirect_from: []
 permalink: "/node/911/"
 tags:
 - Andy

@@ -9,8 +9,7 @@ node_id: 1719
 title: Looks familiar
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/looks_familiar_0/"
+redirect_from:
 - "/node/1719/"
 permalink: "/2007/01/19/looks_familiar_0/"
 tags:

@@ -9,8 +9,7 @@ node_id: 490
 title: End of VUW work.
 created: '2004-03-31'
 changed: '2004-05-27'
-aliases:
-- "/node/490/"
+redirect_from: []
 permalink: "/node/490/"
 tags: []
 ---

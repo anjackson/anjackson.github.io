@@ -9,8 +9,7 @@ node_id: 1044
 title: 02951 Smart Orc
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/node/1044/"
+redirect_from: []
 permalink: "/node/1044/"
 tags:
 - The Return Of The King

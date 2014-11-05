@@ -9,8 +9,7 @@ node_id: 1590
 title: Mac mini
 created: '2005-01-12'
 changed: '2013-06-25'
-aliases:
-- "/2005/01/12/mac-mini/"
+redirect_from:
 - "/node/1590/"
 permalink: "/2005/01/12/mac-mini/"
 tags:

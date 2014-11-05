@@ -9,8 +9,7 @@ node_id: 1835
 title: science commons, the video
 created: '2008-12-22'
 changed: '2010-07-24'
-aliases:
-- "/2008/12/22/science_commons_video/"
+redirect_from:
 - "/node/1835/"
 permalink: "/2008/12/22/science_commons_video/"
 tags:

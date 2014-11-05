@@ -9,8 +9,7 @@ node_id: 329
 title: 00750 - Campfire
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/329/"
+redirect_from: []
 permalink: "/node/329/"
 tags:
 - California

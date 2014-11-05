@@ -9,8 +9,7 @@ node_id: 1412
 title: 04062 Blue Moon II
 created: '2004-08-20'
 changed: '2013-06-25'
-aliases:
-- "/node/1412/"
+redirect_from: []
 permalink: "/node/1412/"
 tags:
 - 2004/01 - January 2004

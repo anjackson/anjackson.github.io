@@ -9,8 +9,7 @@ node_id: 377
 title: 01493 Uluru Sunset II
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/377/"
+redirect_from: []
 permalink: "/node/377/"
 tags:
 - Highlights

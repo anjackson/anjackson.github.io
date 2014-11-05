@@ -9,8 +9,7 @@ node_id: 607
 title: substance
 created: '2004-05-12'
 changed: '2013-06-25'
-aliases:
-- "/node/607/"
+redirect_from: []
 permalink: "/node/607/"
 tags:
 - imgn

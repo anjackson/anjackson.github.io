@@ -9,8 +9,7 @@ node_id: 1602
 title: don't panic
 created: '2005-03-22'
 changed: '2010-07-23'
-aliases:
-- "/2005/03/22/dont_panic/"
+redirect_from:
 - "/node/1602/"
 permalink: "/2005/03/22/dont_panic/"
 tags:

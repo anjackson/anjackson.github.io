@@ -9,8 +9,7 @@ node_id: 599
 title: bjorklogo
 created: '2004-05-12'
 changed: '2013-06-25'
-aliases:
-- "/node/599/"
+redirect_from: []
 permalink: "/node/599/"
 tags:
 - imgn

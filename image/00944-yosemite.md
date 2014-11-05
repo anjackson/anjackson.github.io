@@ -9,8 +9,7 @@ node_id: 431
 title: 00944 Yosemite
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/431/"
+redirect_from: []
 permalink: "/node/431/"
 tags:
 - California

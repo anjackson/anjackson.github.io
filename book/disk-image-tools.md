@@ -9,8 +9,7 @@ node_id: 1869
 title: Disk Image Tools
 created: '2009-09-02'
 changed: '2009-09-02'
-aliases:
-- "/digital_preservation_notebook/physical_media/disk_image_tools/"
+redirect_from:
 - "/node/1869/"
 permalink: "/digital_preservation_notebook/physical_media/disk_image_tools/"
 tags: []

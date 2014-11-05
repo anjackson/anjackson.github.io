@@ -9,8 +9,7 @@ node_id: 1663
 title: 20407 Handstand
 created: '2006-07-29'
 changed: '2013-06-25'
-aliases:
-- "/2006/07/29/20407_handstand/"
+redirect_from:
 - "/node/1663/"
 permalink: "/2006/07/29/20407_handstand/"
 tags:

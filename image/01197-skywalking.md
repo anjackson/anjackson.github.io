@@ -9,8 +9,7 @@ node_id: 440
 title: 01197 Skywalking
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/440/"
+redirect_from: []
 permalink: "/node/440/"
 tags:
 - Sydney

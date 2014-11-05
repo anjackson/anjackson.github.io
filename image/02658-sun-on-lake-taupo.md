@@ -9,8 +9,7 @@ node_id: 894
 title: 02658 Sun on lake Taupo
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/894/"
+redirect_from: []
 permalink: "/node/894/"
 tags:
 - 2003/11 - November 2003

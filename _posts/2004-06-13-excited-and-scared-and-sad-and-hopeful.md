@@ -9,8 +9,7 @@ node_id: 716
 title: excited & scared & sad & hopeful
 created: '2004-06-13'
 changed: '2010-07-23'
-aliases:
-- "/2004/06/13/excited_scared_sad_hopeful/"
+redirect_from:
 - "/node/716/"
 permalink: "/2004/06/13/excited_scared_sad_hopeful/"
 tags:

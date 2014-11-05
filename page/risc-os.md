@@ -9,8 +9,7 @@ node_id: 567
 title: risc os
 created: '2004-05-11'
 changed: '2009-08-10'
-aliases:
-- "/geek/riscos/"
+redirect_from:
 - "/node/567/"
 permalink: "/geek/riscos/"
 tags: []

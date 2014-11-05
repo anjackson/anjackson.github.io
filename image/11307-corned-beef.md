@@ -9,8 +9,7 @@ node_id: 1499
 title: 11307 Corned Beef
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1499/"
+redirect_from: []
 permalink: "/node/1499/"
 tags:
 - Wellington

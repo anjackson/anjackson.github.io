@@ -9,8 +9,7 @@ node_id: 677
 title: wiki-logo
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/node/677/"
+redirect_from: []
 permalink: "/node/677/"
 tags:
 - Older

@@ -9,8 +9,7 @@ node_id: 373
 title: 01453 Full House
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/373/"
+redirect_from: []
 permalink: "/node/373/"
 tags:
 - The Red Centre

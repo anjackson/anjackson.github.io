@@ -9,8 +9,7 @@ node_id: 7
 title: Skinning up.
 created: '2004-03-20'
 changed: '2010-07-23'
-aliases:
-- "/2004/03/20/skinning/"
+redirect_from:
 - "/node/7/"
 permalink: "/2004/03/20/skinning/"
 tags:

@@ -9,8 +9,7 @@ node_id: 1402
 title: 04028 Beach Shade
 created: '2004-08-20'
 changed: '2013-06-25'
-aliases:
-- "/node/1402/"
+redirect_from: []
 permalink: "/node/1402/"
 tags:
 - 2004/01 - January 2004

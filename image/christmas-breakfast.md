@@ -9,8 +9,7 @@ node_id: 1715
 title: Christmas breakfast
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/christmas_breakfast_0/"
+redirect_from:
 - "/node/1715/"
 permalink: "/2007/01/19/christmas_breakfast_0/"
 tags:

@@ -9,8 +9,7 @@ node_id: 730
 title: cambodia rocks
 created: '2004-07-04'
 changed: '2010-07-23'
-aliases:
-- "/2004/07/04/cambodia_rocks/"
+redirect_from:
 - "/node/730/"
 permalink: "/2004/07/04/cambodia_rocks/"
 tags:

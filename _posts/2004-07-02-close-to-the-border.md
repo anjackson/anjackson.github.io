@@ -9,8 +9,7 @@ node_id: 729
 title: close to the border
 created: '2004-07-02'
 changed: '2010-07-23'
-aliases:
-- "/2004/07/02/close_border/"
+redirect_from:
 - "/node/729/"
 permalink: "/2004/07/02/close_border/"
 tags:

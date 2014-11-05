@@ -9,8 +9,7 @@ node_id: 667
 title: aj-logo-sml
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/node/667/"
+redirect_from: []
 permalink: "/node/667/"
 tags:
 - Older

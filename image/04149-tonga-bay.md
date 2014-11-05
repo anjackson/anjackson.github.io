@@ -9,8 +9,7 @@ node_id: 1466
 title: 04149 Tonga Bay
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1466/"
+redirect_from: []
 permalink: "/node/1466/"
 tags:
 - 2004/01 - January 2004

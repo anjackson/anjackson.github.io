@@ -9,8 +9,7 @@ node_id: 885
 title: 02624 Rescuing Aaron
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/885/"
+redirect_from: []
 permalink: "/node/885/"
 tags:
 - 2003/11 - November 2003

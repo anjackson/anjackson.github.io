@@ -9,8 +9,7 @@ node_id: 383
 title: 01577 Uluru Clamberers
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/383/"
+redirect_from: []
 permalink: "/node/383/"
 tags:
 - Highlights

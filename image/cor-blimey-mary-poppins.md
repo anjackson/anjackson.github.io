@@ -9,8 +9,7 @@ node_id: 1717
 title: Cor Blimey Mary Poppins!
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/cor_blimey_mary_poppins_0/"
+redirect_from:
 - "/node/1717/"
 permalink: "/2007/01/19/cor_blimey_mary_poppins_0/"
 tags:

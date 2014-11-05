@@ -9,8 +9,7 @@ node_id: 1535
 title: Laszlo Systems Open Source Rich Client Platform
 created: '2004-11-18'
 changed: '2004-11-18'
-aliases:
-- "/node/1535/"
+redirect_from: []
 permalink: "/node/1535/"
 tags:
 - Flash

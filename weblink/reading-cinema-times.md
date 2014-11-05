@@ -9,8 +9,7 @@ node_id: 1559
 title: Reading Cinema Times
 created: '2004-12-03'
 changed: '2004-12-03'
-aliases:
-- "/node/1559/"
+redirect_from: []
 permalink: "/node/1559/"
 tags:
 - Wellington

@@ -9,8 +9,7 @@ node_id: 1807
 title: merchandise
 created: '2007-07-20'
 changed: '2010-07-24'
-aliases:
-- "/geek/merchstore/"
+redirect_from:
 - "/2007/07/20/merchandise/"
 - "/node/1807/"
 permalink: "/geek/merchstore/"

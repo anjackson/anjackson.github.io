@@ -9,8 +9,7 @@ node_id: 1886
 title: 'OPF Blog: Format Obsolescence and Sustainable Access'
 created: '2011-01-12'
 changed: '2011-01-13'
-aliases:
-- "/2011/01/12/opf_blog_format_obsolescence_and_sustainable_access/"
+redirect_from:
 - "/node/1886/"
 permalink: "/2011/01/12/opf_blog_format_obsolescence_and_sustainable_access/"
 tags:

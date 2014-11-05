@@ -9,8 +9,7 @@ node_id: 1393
 title: 03994 Glimpsing Abel Tasman
 created: '2004-08-20'
 changed: '2013-06-25'
-aliases:
-- "/node/1393/"
+redirect_from: []
 permalink: "/node/1393/"
 tags:
 - 2004/01 - January 2004

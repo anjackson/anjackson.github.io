@@ -9,8 +9,7 @@ node_id: 1436
 title: half-way there
 created: '2004-10-21'
 changed: '2010-07-23'
-aliases:
-- "/2004/10/21/halfway_there/"
+redirect_from:
 - "/node/1436/"
 permalink: "/2004/10/21/halfway_there/"
 tags:

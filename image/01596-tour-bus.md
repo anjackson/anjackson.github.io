@@ -9,8 +9,7 @@ node_id: 386
 title: 01596 Tour Bus
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/386/"
+redirect_from: []
 permalink: "/node/386/"
 tags:
 - The Red Centre

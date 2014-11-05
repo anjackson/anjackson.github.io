@@ -9,8 +9,7 @@ node_id: 563
 title: Lattice Switch Monte Carlo Poster
 created: '2004-05-11'
 changed: '2013-06-25'
-aliases:
-- "/ix2v/comphys/docs/phd/poster-gif/"
+redirect_from:
 - "/node/563/"
 permalink: "/ix2v/comphys/docs/phd/poster-gif/"
 tags:

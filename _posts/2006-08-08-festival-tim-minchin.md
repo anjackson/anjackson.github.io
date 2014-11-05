@@ -9,8 +9,7 @@ node_id: 1679
 title: 'festival: tim minchin '
 created: '2006-08-08'
 changed: '2010-07-23'
-aliases:
-- "/2006/08/08/festival_tim_minchin/"
+redirect_from:
 - "/2006/08/07/festival_tim_minchin/"
 - "/node/1679/"
 permalink: "/2006/08/08/festival_tim_minchin/"

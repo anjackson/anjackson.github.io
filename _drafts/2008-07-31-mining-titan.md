@@ -9,8 +9,7 @@ node_id: 1828
 title: mining titan
 created: '2008-07-31'
 changed: '2010-07-23'
-aliases:
-- "/2008/07/31/mining_titan/"
+redirect_from:
 - "/node/1828/"
 permalink: "/2008/07/31/mining_titan/"
 tags:

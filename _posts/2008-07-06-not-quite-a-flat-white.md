@@ -9,8 +9,7 @@ node_id: 1818
 title: not quite a flat white
 created: '2008-07-06'
 changed: '2010-07-23'
-aliases:
-- "/2008/07/06/not_quite_flat_white/"
+redirect_from:
 - "/node/1818/"
 permalink: "/2008/07/06/not_quite_flat_white/"
 tags:

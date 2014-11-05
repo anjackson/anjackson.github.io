@@ -9,8 +9,7 @@ node_id: 1746
 title: Troup picnic area
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/troup_picnic_area/"
+redirect_from:
 - "/node/1746/"
 permalink: "/2007/01/19/troup_picnic_area/"
 tags:

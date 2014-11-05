@@ -9,8 +9,7 @@ node_id: 1755
 title: Andy's fern closeup
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/andys_fern_closeup/"
+redirect_from:
 - "/node/1755/"
 permalink: "/2007/01/19/andys_fern_closeup/"
 tags:

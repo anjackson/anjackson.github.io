@@ -9,8 +9,7 @@ node_id: 1662
 title: 30358 Wet Dog Alert
 created: '2006-07-29'
 changed: '2013-06-25'
-aliases:
-- "/2006/07/29/30358_wet_dog_alert/"
+redirect_from:
 - "/node/1662/"
 permalink: "/2006/07/29/30358_wet_dog_alert/"
 tags:

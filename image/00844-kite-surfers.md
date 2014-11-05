@@ -9,8 +9,7 @@ node_id: 427
 title: 00844 - Kite-surfers
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/427/"
+redirect_from: []
 permalink: "/node/427/"
 tags:
 - California

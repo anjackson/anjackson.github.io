@@ -9,8 +9,7 @@ node_id: 1030
 title: Islands and trees
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/islands_and_trees_0/"
+redirect_from:
 - "/node/1030/"
 permalink: "/2004/08/10/islands_and_trees_0/"
 tags:

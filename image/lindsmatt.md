@@ -9,8 +9,7 @@ node_id: 633
 title: lindsmatt
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/node/633/"
+redirect_from: []
 permalink: "/node/633/"
 tags:
 - Older

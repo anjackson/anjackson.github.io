@@ -9,8 +9,7 @@ node_id: 1083
 title: 03029 Black Rider
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/node/1083/"
+redirect_from: []
 permalink: "/node/1083/"
 tags:
 - The Return Of The King

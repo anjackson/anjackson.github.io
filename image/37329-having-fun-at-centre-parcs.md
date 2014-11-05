@@ -9,8 +9,7 @@ node_id: 1675
 title: 37329 Having fun at Centre Parcs
 created: '2006-08-01'
 changed: '2013-06-25'
-aliases:
-- "/2006/08/01/37329_having_fun_at_centre_parcs/"
+redirect_from:
 - "/node/1675/"
 permalink: "/2006/08/01/37329_having_fun_at_centre_parcs/"
 tags:

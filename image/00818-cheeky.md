@@ -9,8 +9,7 @@ node_id: 337
 title: 00818 - Cheeky
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/337/"
+redirect_from: []
 permalink: "/node/337/"
 tags:
 - California

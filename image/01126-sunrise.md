@@ -9,8 +9,7 @@ node_id: 349
 title: 01126 Sunrise
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/349/"
+redirect_from: []
 permalink: "/node/349/"
 tags:
 - Australia

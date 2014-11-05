@@ -9,8 +9,7 @@ node_id: 384
 title: 01589 Uluru Detail
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/384/"
+redirect_from: []
 permalink: "/node/384/"
 tags:
 - The Red Centre

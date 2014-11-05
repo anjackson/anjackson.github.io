@@ -9,8 +9,7 @@ node_id: 552
 title: publications
 created: '2004-05-10'
 changed: '2009-08-10'
-aliases:
-- "/work/publications/"
+redirect_from:
 - "/node/552/"
 permalink: "/work/publications/"
 tags: []

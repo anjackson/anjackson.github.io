@@ -9,8 +9,7 @@ node_id: 576
 title: 'Simulation: A Bluffer''s Guide'
 created: '2004-05-12'
 changed: '2007-02-08'
-aliases:
-- "/ix2v/comphys/docs/phd/simguide.pdf/"
+redirect_from:
 - "/node/576/"
 permalink: "/ix2v/comphys/docs/phd/simguide.pdf/"
 tags: []

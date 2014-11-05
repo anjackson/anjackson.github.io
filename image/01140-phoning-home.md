@@ -9,8 +9,7 @@ node_id: 350
 title: 01140 Phoning Home
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/350/"
+redirect_from: []
 permalink: "/node/350/"
 tags:
 - Highlights

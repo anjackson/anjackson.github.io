@@ -9,8 +9,7 @@ node_id: 907
 title: 02690 Tongariro Aaron
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/907/"
+redirect_from: []
 permalink: "/node/907/"
 tags:
 - 2003/11 - November 2003

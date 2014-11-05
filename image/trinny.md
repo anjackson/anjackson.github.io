@@ -9,8 +9,7 @@ node_id: 1635
 title: Trinny
 created: '2006-07-10'
 changed: '2013-06-25'
-aliases:
-- "/2006/07/10/trinny/"
+redirect_from:
 - "/node/1635/"
 permalink: "/2006/07/10/trinny/"
 tags:

@@ -9,8 +9,7 @@ node_id: 720
 title: tuk-tuk-tastic
 created: '2004-06-17'
 changed: '2010-07-23'
-aliases:
-- "/2004/06/17/tuktuktastic/"
+redirect_from:
 - "/node/720/"
 permalink: "/2004/06/17/tuktuktastic/"
 tags:

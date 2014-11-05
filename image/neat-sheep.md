@@ -9,8 +9,7 @@ node_id: 1028
 title: Neat sheep
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/neat_sheep/"
+redirect_from:
 - "/node/1028/"
 permalink: "/2004/08/10/neat_sheep/"
 tags:

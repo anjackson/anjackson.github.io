@@ -9,8 +9,7 @@ node_id: 1834
 title: Zoetrope, an interactive time machine for the web
 created: '2008-12-22'
 changed: '2008-12-22'
-aliases:
-- "/2008/12/22/zoetrope_interactive_time_machine_web/"
+redirect_from:
 - "/node/1834/"
 permalink: "/2008/12/22/zoetrope_interactive_time_machine_web/"
 tags:

@@ -9,8 +9,7 @@ node_id: 725
 title: 07098 Wat Chedi Luang
 created: '2004-06-27'
 changed: '2013-06-25'
-aliases:
-- "/node/725/"
+redirect_from: []
 permalink: "/node/725/"
 tags:
 - Highlights

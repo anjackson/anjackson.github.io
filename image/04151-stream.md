@@ -9,8 +9,7 @@ node_id: 1467
 title: 04151 Stream
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1467/"
+redirect_from: []
 permalink: "/node/1467/"
 tags:
 - 2004/01 - January 2004

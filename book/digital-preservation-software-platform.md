@@ -9,8 +9,7 @@ node_id: 1874
 title: Digital Preservation Software Platform
 created: '2010-08-12'
 changed: '2010-08-12'
-aliases:
-- "/digital_preservation_notebook/digital_object_storage/repository_systems/digital_preservation_software_platform/"
+redirect_from:
 - "/node/1874/"
 permalink: "/digital_preservation_notebook/digital_object_storage/repository_systems/digital_preservation_software_platform/"
 tags:

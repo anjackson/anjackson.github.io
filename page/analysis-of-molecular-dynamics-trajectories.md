@@ -9,8 +9,7 @@ node_id: 585
 title: Analysis of molecular dynamics trajectories
 created: '2004-05-12'
 changed: '2007-02-08'
-aliases:
-- "/ix2v/comphys/docs/ug/y3-pm2-md-lj.pdf/"
+redirect_from:
 - "/node/585/"
 permalink: "/ix2v/comphys/docs/ug/y3-pm2-md-lj.pdf/"
 tags: []

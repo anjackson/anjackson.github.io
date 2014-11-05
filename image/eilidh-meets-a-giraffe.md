@@ -9,8 +9,7 @@ node_id: 1778
 title: Eilidh meets a giraffe
 created: '2007-01-31'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/31/eilidh_meets_a_giraffe/"
+redirect_from:
 - "/node/1778/"
 permalink: "/2007/01/31/eilidh_meets_a_giraffe/"
 tags:

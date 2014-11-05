@@ -9,8 +9,7 @@ node_id: 577
 title: Interaction-Free Measurements
 created: '2004-05-12'
 changed: '2007-02-08'
-aliases:
-- "/ix2v/comphys/docs/phd/ifm.pdf/"
+redirect_from:
 - "/node/577/"
 permalink: "/ix2v/comphys/docs/phd/ifm.pdf/"
 tags: []

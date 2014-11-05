@@ -9,8 +9,7 @@ node_id: 900
 title: 02667 Tongariro Highlands
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/900/"
+redirect_from: []
 permalink: "/node/900/"
 tags:
 - Highlights

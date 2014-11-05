@@ -9,8 +9,7 @@ node_id: 1542
 title: Summer2002 CD Face
 created: '2004-11-30'
 changed: '2013-06-25'
-aliases:
-- "/node/1542/"
+redirect_from: []
 permalink: "/node/1542/"
 tags:
 - imgn

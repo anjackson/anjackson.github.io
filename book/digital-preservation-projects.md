@@ -9,8 +9,7 @@ node_id: 1849
 title: Digital Preservation Projects
 created: '2009-08-10'
 changed: '2009-08-10'
-aliases:
-- "/digital_preservation_notebook/digital_preservation_projects/"
+redirect_from:
 - "/node/1849/"
 permalink: "/digital_preservation_notebook/digital_preservation_projects/"
 tags: []

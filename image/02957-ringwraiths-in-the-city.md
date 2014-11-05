@@ -9,8 +9,7 @@ node_id: 1048
 title: 02957 Ringwraiths in the City
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/node/1048/"
+redirect_from: []
 permalink: "/node/1048/"
 tags:
 - The Return Of The King

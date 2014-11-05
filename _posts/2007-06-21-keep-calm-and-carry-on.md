@@ -9,8 +9,7 @@ node_id: 1800
 title: Keep Calm and Carry On
 created: '2007-06-21'
 changed: '2007-07-19'
-aliases:
-- "/2007/06/21/keep_calm_and_carry_on/"
+redirect_from:
 - "/node/1800/"
 permalink: "/2007/06/21/keep_calm_and_carry_on/"
 tags: []

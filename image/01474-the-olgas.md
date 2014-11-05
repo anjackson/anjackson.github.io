@@ -9,8 +9,7 @@ node_id: 375
 title: 01474 The Olgas
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/375/"
+redirect_from: []
 permalink: "/node/375/"
 tags:
 - The Red Centre

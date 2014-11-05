@@ -9,8 +9,7 @@ node_id: 1484
 title: 11066 Bike on Victoria
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1484/"
+redirect_from: []
 permalink: "/node/1484/"
 tags:
 - Wellington

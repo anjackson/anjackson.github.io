@@ -9,8 +9,7 @@ node_id: 1593
 title: AMN-2 Poster
 created: '2005-02-04'
 changed: '2013-06-25'
-aliases:
-- "/2005/02/04/amn-2-poster/"
+redirect_from:
 - "/node/1593/"
 permalink: "/2005/02/04/amn-2-poster/"
 tags:

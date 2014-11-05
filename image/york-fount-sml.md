@@ -9,8 +9,7 @@ node_id: 658
 title: york-fount.sml
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/node/658/"
+redirect_from: []
 permalink: "/node/658/"
 tags:
 - York

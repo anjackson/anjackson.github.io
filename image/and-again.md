@@ -9,8 +9,7 @@ node_id: 1711
 title: And again...
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/and_again_0/"
+redirect_from:
 - "/node/1711/"
 permalink: "/2007/01/19/and_again_0/"
 tags:

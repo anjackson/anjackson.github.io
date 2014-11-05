@@ -9,8 +9,7 @@ node_id: 527
 title: i blame Intel
 created: '2004-04-06'
 changed: '2010-07-23'
-aliases:
-- "/2004/04/06/i_blame_intel/"
+redirect_from:
 - "/node/527/"
 permalink: "/2004/04/06/i_blame_intel/"
 tags:

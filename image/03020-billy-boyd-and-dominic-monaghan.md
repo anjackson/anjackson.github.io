@@ -9,8 +9,7 @@ node_id: 1076
 title: 03020 Billy Boyd and Dominic Monaghan
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/node/1076/"
+redirect_from: []
 permalink: "/node/1076/"
 tags:
 - The Return Of The King

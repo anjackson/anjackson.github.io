@@ -9,8 +9,7 @@ node_id: 537
 title: almost ready to go
 created: '2004-04-16'
 changed: '2010-07-23'
-aliases:
-- "/2004/04/16/almost_ready_go/"
+redirect_from:
 - "/node/537/"
 permalink: "/2004/04/16/almost_ready_go/"
 tags:

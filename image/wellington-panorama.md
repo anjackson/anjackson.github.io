@@ -9,8 +9,7 @@ node_id: 1099
 title: Wellington panorama
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/wellington_panorama/"
+redirect_from:
 - "/node/1099/"
 permalink: "/2004/08/10/wellington_panorama/"
 tags:

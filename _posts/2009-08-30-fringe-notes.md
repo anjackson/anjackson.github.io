@@ -9,8 +9,7 @@ node_id: 1866
 title: fringe notes
 created: '2009-08-30'
 changed: '2010-07-23'
-aliases:
-- "/2009/08/30/fringe_notes/"
+redirect_from:
 - "/node/1866/"
 permalink: "/2009/08/30/fringe_notes/"
 tags:

@@ -9,8 +9,7 @@ node_id: 1787
 title: Looking for Kiwis
 created: '2007-01-31'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/31/looking_for_kiwis_0/"
+redirect_from:
 - "/node/1787/"
 permalink: "/2007/01/31/looking_for_kiwis_0/"
 tags:

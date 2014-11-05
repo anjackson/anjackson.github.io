@@ -9,8 +9,7 @@ node_id: 361
 title: 01345 Cheesy Grins
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/2004/03/26/01345_cheesy_grins/"
+redirect_from:
 - "/node/361/"
 permalink: "/2004/03/26/01345_cheesy_grins/"
 tags:

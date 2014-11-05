@@ -9,8 +9,7 @@ node_id: 538
 title: mouth of the grey
 created: '2004-04-17'
 changed: '2010-07-23'
-aliases:
-- "/2004/04/17/mouth_grey/"
+redirect_from:
 - "/node/538/"
 permalink: "/2004/04/17/mouth_grey/"
 tags:

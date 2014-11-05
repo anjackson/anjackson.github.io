@@ -9,8 +9,7 @@ node_id: 1645
 title: 20399 On a swing
 created: '2006-07-29'
 changed: '2013-06-25'
-aliases:
-- "/2006/07/29/20399_on_a_swing/"
+redirect_from:
 - "/node/1645/"
 permalink: "/2006/07/29/20399_on_a_swing/"
 tags:

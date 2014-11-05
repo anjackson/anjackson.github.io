@@ -75,7 +75,7 @@ module JekyllImport
                       n.promote, \
                       n.* \
                FROM node AS n, \
-                    field_data_body AS fdb \
+                    field_revision_body AS fdb \
                WHERE n.nid = fdb.entity_id \
                AND n.vid = fdb.revision_id"
 
@@ -157,6 +157,7 @@ module JekyllImport
 
           # Grab the node ID:
           node_id = post[:nid]
+          print("NID:"+node_id.to_s+" "+post[:title]+" \n")
 
           # Decide the filename etc.:
           time = Time.at(post[:created])
@@ -177,20 +178,22 @@ module JekyllImport
           end          
 
           # Look for permalinks from the aliases:
-          postdata['aliases'] ||= []
+          postdata['redirect_from'] ||= []
           alias_query = "SELECT alias FROM url_alias WHERE source = 'node/#{node_id}'";
           for node_alias in db[alias_query]
             if node_alias != nil
               url_alias = "/" + node_alias[:alias] + "/"
             end
             postdata['permalink'] ||= url_alias
-            postdata['aliases'] <<  url_alias
+            postdata['redirect_from'] <<  url_alias
             all_urls << { 'href' => url_alias, 'title' => title }
           end
           url_alias = node_alias = "/node/" + node_id.to_s + "/"
           postdata['permalink'] ||= url_alias
-          postdata['aliases'] <<  url_alias
+          postdata['redirect_from'] <<  url_alias
           all_urls << { 'href' => url_alias, 'title' => title }
+          # Remove the permalink from the redirects list:
+          postdata['redirect_from'] = postdata['redirect_from'] - [ postdata['permalink'] ]
 
 
           # Look for relevant taxonomy entries:
@@ -244,6 +247,8 @@ module JekyllImport
           content = post[:body_value]
           if post[:body_format] == "1"
             content = phpwikiToMarkdown(content)
+          else
+            postdata['body_format'] = post[:body_format]
           end
 
           # Replace windows newlines:

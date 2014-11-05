@@ -9,8 +9,7 @@ node_id: 1744
 title: View from the canopy walkway
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/view_from_the_canopy_walkway/"
+redirect_from:
 - "/node/1744/"
 permalink: "/2007/01/19/view_from_the_canopy_walkway/"
 tags:

@@ -9,8 +9,7 @@ node_id: 670
 title: hpcx-logo-sml
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/node/670/"
+redirect_from: []
 permalink: "/node/670/"
 tags:
 - Older

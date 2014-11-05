@@ -9,8 +9,7 @@ node_id: 1587
 title: Navigation Blindness
 created: '2005-01-06'
 changed: '2005-01-06'
-aliases:
-- "/2005/01/06/navigation-blindness/"
+redirect_from:
 - "/node/1587/"
 permalink: "/2005/01/06/navigation-blindness/"
 tags:

@@ -9,8 +9,7 @@ node_id: 1611
 title: hacks & plans
 created: '2006-01-20'
 changed: '2010-07-23'
-aliases:
-- "/2006/01/20/hacks_plans/"
+redirect_from:
 - "/node/1611/"
 permalink: "/2006/01/20/hacks_plans/"
 tags:

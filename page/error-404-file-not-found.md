@@ -9,8 +9,7 @@ node_id: 1423
 title: 'Error 404: File Not Found'
 created: '2004-09-23'
 changed: '2004-09-23'
-aliases:
-- "/error/404/"
+redirect_from:
 - "/node/1423/"
 permalink: "/error/404/"
 tags: []

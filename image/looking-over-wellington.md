@@ -9,8 +9,7 @@ node_id: 1776
 title: Looking over Wellington
 created: '2007-01-31'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/31/looking_over_wellington/"
+redirect_from:
 - "/node/1776/"
 permalink: "/2007/01/31/looking_over_wellington/"
 tags:

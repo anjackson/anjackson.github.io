@@ -9,8 +9,7 @@ node_id: 1632
 title: Chris
 created: '2006-07-09'
 changed: '2013-06-25'
-aliases:
-- "/2006/07/09/chris/"
+redirect_from:
 - "/node/1632/"
 permalink: "/2006/07/09/chris/"
 tags:

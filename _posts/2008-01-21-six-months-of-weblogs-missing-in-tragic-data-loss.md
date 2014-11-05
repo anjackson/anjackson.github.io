@@ -9,8 +9,7 @@ node_id: 1809
 title: six months of weblogs missing in tragic data loss
 created: '2008-01-21'
 changed: '2010-07-23'
-aliases:
-- "/2008/01/21/six_months_weblogs_missing_tragic_data_loss/"
+redirect_from:
 - "/node/1809/"
 permalink: "/2008/01/21/six_months_weblogs_missing_tragic_data_loss/"
 tags:

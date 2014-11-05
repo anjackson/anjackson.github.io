@@ -9,8 +9,7 @@ node_id: 1634
 title: Ford
 created: '2006-07-10'
 changed: '2013-06-25'
-aliases:
-- "/2006/07/10/ford/"
+redirect_from:
 - "/node/1634/"
 permalink: "/2006/07/10/ford/"
 tags:

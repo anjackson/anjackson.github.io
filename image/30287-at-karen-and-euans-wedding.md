@@ -9,8 +9,7 @@ node_id: 1674
 title: 30287 At Karen & Euan's Wedding
 created: '2006-08-01'
 changed: '2013-06-25'
-aliases:
-- "/2006/08/01/30287_at_karen_euans_wedding/"
+redirect_from:
 - "/node/1674/"
 permalink: "/2006/08/01/30287_at_karen_euans_wedding/"
 tags:

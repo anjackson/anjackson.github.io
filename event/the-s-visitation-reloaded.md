@@ -9,8 +9,7 @@ node_id: 1420
 title: The S Visitation - Reloaded.
 created: '2004-09-02'
 changed: '2004-10-01'
-aliases:
-- "/node/1420/"
+redirect_from: []
 permalink: "/node/1420/"
 tags: []
 ---

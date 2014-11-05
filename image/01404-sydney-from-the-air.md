@@ -9,8 +9,7 @@ node_id: 368
 title: 01404 Sydney From The Air
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/368/"
+redirect_from: []
 permalink: "/node/368/"
 tags:
 - Sydney

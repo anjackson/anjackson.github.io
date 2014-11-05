@@ -9,8 +9,7 @@ node_id: 602
 title: lamb.fof
 created: '2004-05-12'
 changed: '2013-06-25'
-aliases:
-- "/node/602/"
+redirect_from: []
 permalink: "/node/602/"
 tags:
 - imgn

@@ -9,8 +9,7 @@ node_id: 1427
 title: reassuringly expensive
 created: '2004-09-29'
 changed: '2010-07-23'
-aliases:
-- "/2004/09/29/reassuringly_expensive/"
+redirect_from:
 - "/node/1427/"
 permalink: "/2004/09/29/reassuringly_expensive/"
 tags:

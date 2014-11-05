@@ -9,8 +9,7 @@ node_id: 1056
 title: Re-enactment - psuedodead
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/re_enactment_psuedodead/"
+redirect_from:
 - "/node/1056/"
 permalink: "/2004/08/10/re_enactment_psuedodead/"
 tags:

@@ -9,8 +9,7 @@ node_id: 1439
 title: steam powered
 created: '2004-11-03'
 changed: '2010-07-23'
-aliases:
-- "/2004/11/03/steam_powered/"
+redirect_from:
 - "/node/1439/"
 permalink: "/2004/11/03/steam_powered/"
 tags:

@@ -9,8 +9,7 @@ node_id: 727
 title: yes, you can hate me now
 created: '2004-06-30'
 changed: '2010-07-23'
-aliases:
-- "/2004/06/30/yes_you_can_hate_me_now/"
+redirect_from:
 - "/node/727/"
 permalink: "/2004/06/30/yes_you_can_hate_me_now/"
 tags:

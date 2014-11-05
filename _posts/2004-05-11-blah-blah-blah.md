@@ -9,8 +9,7 @@ node_id: 569
 title: blah blah blah
 created: '2004-05-11'
 changed: '2010-07-23'
-aliases:
-- "/2004/05/11/blah_blah_blah/"
+redirect_from:
 - "/node/569/"
 permalink: "/2004/05/11/blah_blah_blah/"
 tags:

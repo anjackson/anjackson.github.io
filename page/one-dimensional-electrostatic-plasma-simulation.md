@@ -9,8 +9,7 @@ node_id: 583
 title: One-Dimensional Electrostatic Plasma Simulation
 created: '2004-05-12'
 changed: '2007-02-08'
-aliases:
-- "/ix2v/comphys/docs/ug/y3-pic-plasma.pdf/"
+redirect_from:
 - "/node/583/"
 permalink: "/ix2v/comphys/docs/ug/y3-pic-plasma.pdf/"
 tags: []

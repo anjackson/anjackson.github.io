@@ -9,8 +9,7 @@ node_id: 1624
 title: The Bushes
 created: '2006-05-30'
 changed: '2013-06-25'
-aliases:
-- "/2006/05/30/the_bushes/"
+redirect_from:
 - "/node/1624/"
 permalink: "/2006/05/30/the_bushes/"
 tags:

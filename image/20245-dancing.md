@@ -9,8 +9,7 @@ node_id: 1642
 title: 20245 Dancing
 created: '2006-07-29'
 changed: '2013-06-25'
-aliases:
-- "/2006/07/29/20245_dancing/"
+redirect_from:
 - "/node/1642/"
 permalink: "/2006/07/29/20245_dancing/"
 tags:

@@ -9,8 +9,7 @@ node_id: 935
 title: 02765 Abseiling In Waitomo
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/935/"
+redirect_from: []
 permalink: "/node/935/"
 tags:
 - Andy

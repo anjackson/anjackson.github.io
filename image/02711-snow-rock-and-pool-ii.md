@@ -9,8 +9,7 @@ node_id: 921
 title: 02711 Snow, rock and pool II
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/921/"
+redirect_from: []
 permalink: "/node/921/"
 tags:
 - 2003/11 - November 2003

@@ -9,8 +9,7 @@ node_id: 731
 title: all templed out
 created: '2004-07-07'
 changed: '2010-07-23'
-aliases:
-- "/2004/07/07/all_templed_out/"
+redirect_from:
 - "/node/731/"
 permalink: "/2004/07/07/all_templed_out/"
 tags:

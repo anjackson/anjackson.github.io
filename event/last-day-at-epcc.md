@@ -9,8 +9,7 @@ node_id: 739
 title: Last day at EPCC
 created: '2004-07-21'
 changed: '2004-09-23'
-aliases:
-- "/node/739/"
+redirect_from: []
 permalink: "/node/739/"
 tags:
 - General

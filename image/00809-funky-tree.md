@@ -9,8 +9,7 @@ node_id: 336
 title: 00809 - Funky tree
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/336/"
+redirect_from: []
 permalink: "/node/336/"
 tags:
 - California

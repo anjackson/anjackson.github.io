@@ -9,8 +9,7 @@ node_id: 1529
 title: 'Slashback: Echo, Lunchbox, Questions'
 created: '2004-11-18'
 changed: '2004-11-18'
-aliases:
-- "/node/1529/"
+redirect_from: []
 permalink: "/node/1529/"
 tags:
 - DHTML

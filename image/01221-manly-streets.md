@@ -9,8 +9,7 @@ node_id: 356
 title: 01221 Manly Streets
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/356/"
+redirect_from: []
 permalink: "/node/356/"
 tags:
 - Sydney

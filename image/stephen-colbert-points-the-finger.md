@@ -9,8 +9,7 @@ node_id: 1625
 title: Stephen Colbert Points The Finger
 created: '2006-05-30'
 changed: '2013-06-25'
-aliases:
-- "/2006/05/30/stephen_colbert_points_the_finger/"
+redirect_from:
 - "/node/1625/"
 permalink: "/2006/05/30/stephen_colbert_points_the_finger/"
 tags:

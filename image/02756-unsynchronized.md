@@ -9,8 +9,7 @@ node_id: 932
 title: 02756 Unsynchronized
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/932/"
+redirect_from: []
 permalink: "/node/932/"
 tags:
 - Andy

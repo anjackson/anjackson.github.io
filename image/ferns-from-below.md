@@ -9,8 +9,7 @@ node_id: 1754
 title: Ferns from below
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/ferns_from_below/"
+redirect_from:
 - "/node/1754/"
 permalink: "/2007/01/19/ferns_from_below/"
 tags:

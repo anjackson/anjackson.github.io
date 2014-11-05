@@ -9,8 +9,7 @@ node_id: 1582
 title: 11517 NZ Christmas Tree
 created: '2005-01-02'
 changed: '2013-06-25'
-aliases:
-- "/2005/01/02/11517-nz-christmas-tree/"
+redirect_from:
 - "/node/1582/"
 permalink: "/2005/01/02/11517-nz-christmas-tree/"
 tags:

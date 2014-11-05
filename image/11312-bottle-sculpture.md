@@ -9,8 +9,7 @@ node_id: 1501
 title: 11312 Bottle Sculpture
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1501/"
+redirect_from: []
 permalink: "/node/1501/"
 tags:
 - Wellington

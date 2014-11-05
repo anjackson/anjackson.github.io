@@ -9,8 +9,7 @@ node_id: 363
 title: 01370 Waterfall
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/363/"
+redirect_from: []
 permalink: "/node/363/"
 tags:
 - 2003/10 - October 2003

@@ -9,8 +9,7 @@ node_id: 1068
 title: 02994 Rolling out the red carpet
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/node/1068/"
+redirect_from: []
 permalink: "/node/1068/"
 tags:
 - The Return Of The King

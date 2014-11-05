@@ -9,8 +9,7 @@ node_id: 715
 title: Start work at EPCC.
 created: '2004-06-05'
 changed: '2004-06-05'
-aliases:
-- "/node/715/"
+redirect_from: []
 permalink: "/node/715/"
 tags: []
 ---

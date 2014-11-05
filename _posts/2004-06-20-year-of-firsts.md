@@ -9,8 +9,7 @@ node_id: 721
 title: Year of Firsts
 created: '2004-06-20'
 changed: '2010-07-23'
-aliases:
-- "/2004/06/20/year_firsts/"
+redirect_from:
 - "/node/721/"
 permalink: "/2004/06/20/year_firsts/"
 tags:

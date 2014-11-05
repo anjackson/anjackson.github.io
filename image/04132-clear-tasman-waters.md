@@ -9,8 +9,7 @@ node_id: 1463
 title: 04132 Clear Tasman Waters
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1463/"
+redirect_from: []
 permalink: "/node/1463/"
 tags:
 - 2004/01 - January 2004

@@ -9,8 +9,7 @@ node_id: 565
 title: computational physics
 created: '2004-05-11'
 changed: '2009-08-10'
-aliases:
-- "/work/physics/"
+redirect_from:
 - "/node/565/"
 permalink: "/work/physics/"
 tags:

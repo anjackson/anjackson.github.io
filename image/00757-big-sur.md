@@ -9,8 +9,7 @@ node_id: 425
 title: 00757 - Big Sur
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/425/"
+redirect_from: []
 permalink: "/node/425/"
 tags:
 - California

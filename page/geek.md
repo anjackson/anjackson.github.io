@@ -9,8 +9,7 @@ node_id: 314
 title: geek
 created: '2004-03-26'
 changed: '2009-08-15'
-aliases:
-- "/geek/"
+redirect_from:
 - "/node/314/"
 permalink: "/geek/"
 tags:

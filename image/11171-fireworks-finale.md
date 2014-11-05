@@ -9,8 +9,7 @@ node_id: 1487
 title: 11171 Fireworks Finale
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1487/"
+redirect_from: []
 permalink: "/node/1487/"
 tags:
 - Wellington

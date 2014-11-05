@@ -9,8 +9,7 @@ node_id: 581
 title: Cake Theory
 created: '2004-05-12'
 changed: '2007-02-08'
-aliases:
-- "/ix2v/comphys/docs/ug/y3-fd-caketheory.pdf/"
+redirect_from:
 - "/node/581/"
 permalink: "/ix2v/comphys/docs/ug/y3-fd-caketheory.pdf/"
 tags: []

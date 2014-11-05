@@ -9,8 +9,7 @@ node_id: 621
 title: imgn-logo-sml
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/node/621/"
+redirect_from: []
 permalink: "/node/621/"
 tags:
 - Older

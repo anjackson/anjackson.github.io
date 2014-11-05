@@ -9,8 +9,7 @@ node_id: 1578
 title: Apple Refurb Store
 created: '2004-12-30'
 changed: '2004-12-30'
-aliases:
-- "/2004/12/30/apple-refurb-store/"
+redirect_from:
 - "/node/1578/"
 permalink: "/2004/12/30/apple-refurb-store/"
 tags:

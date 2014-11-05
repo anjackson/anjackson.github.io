@@ -9,8 +9,7 @@ node_id: 1883
 title: 'OPF Blog: Breaking Down The Format Registry'
 created: '2010-12-09'
 changed: '2010-12-09'
-aliases:
-- "/2010/12/09/opf_blog_breaking_down_format_registry/"
+redirect_from:
 - "/node/1883/"
 permalink: "/2010/12/09/opf_blog_breaking_down_format_registry/"
 tags:

@@ -9,8 +9,7 @@ node_id: 737
 title: roast beef
 created: '2004-07-16'
 changed: '2010-07-23'
-aliases:
-- "/2004/07/16/roast_beef/"
+redirect_from:
 - "/node/737/"
 permalink: "/2004/07/16/roast_beef/"
 tags:

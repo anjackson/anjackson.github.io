@@ -9,8 +9,7 @@ node_id: 8
 title: websites
 created: '2004-03-20'
 changed: '2009-08-10'
-aliases:
-- "/work/websites/"
+redirect_from:
 - "/node/8/"
 permalink: "/work/websites/"
 tags: []

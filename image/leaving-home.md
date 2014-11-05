@@ -9,8 +9,7 @@ node_id: 1039
 title: Leaving home
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/leaving_home/"
+redirect_from:
 - "/node/1039/"
 permalink: "/2004/08/10/leaving_home/"
 tags:

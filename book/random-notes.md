@@ -9,8 +9,7 @@ node_id: 1306
 title: Random Notes
 created: '2004-08-16'
 changed: '2004-08-16'
-aliases:
-- "/node/1306/"
+redirect_from: []
 permalink: "/node/1306/"
 tags: []
 ---

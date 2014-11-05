@@ -9,8 +9,7 @@ node_id: 1863
 title: a simple website is a happy website
 created: '2009-08-11'
 changed: '2010-07-23'
-aliases:
-- "/2009/08/11/simple_website_happy_website/"
+redirect_from:
 - "/node/1863/"
 permalink: "/2009/08/11/simple_website_happy_website/"
 tags:

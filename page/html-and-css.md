@@ -1,0 +1,39 @@
+---
+layout: default
+type: page
+promote: 0
+status: 1
+created_ts: 1091546635
+changed_ts: 1132042943
+node_id: 982
+title: HTML & CSS
+created: '2004-08-03'
+changed: '2005-11-15'
+redirect_from: []
+permalink: "/node/982/"
+tags: []
+---
+## Links
+* An excellent site for learning about good HTML+CSS page design can be found at <http://www.htmldog.com/.>
+* Similar thing at <http://www.wpdfd.com/editorial/basics/> but less detailed.
+* [DHTML Lemmings!](http://193.151.73.87/games/lemmings/)
+* Fancy Interfaces:
+    * <http://www.domapi.com/> and similar libraries.
+* IE xhtml mime type bug workaround - <http://keystonewebsites.com/articles/mime_type.php>
+* <http://dean.edwards.name/IE7/> for patching up IE to a decent standard of CSS.
+* [Slashdot comment containing useful links](http://books.slashdot.org/comments.pl?sid=123868&threshold=1&commentsort=0&tid=156&tid=126&tid=95&tid=6&mode=thread&cid=10400625), [and another](http://books.slashdot.org/comments.pl?sid=123868&threshold=1&commentsort=0&tid=156&tid=126&tid=95&tid=6&mode=thread&pid=10400625#10400950).
+* [an example of a complex site using pure CSS design](http://www.mezzoblue.com/).
+
+== Accessibility ==
+As of September 2002, the Special Educational Needs and Disability Act (SENDA) made it unlawful for any higher-education establishment to place a disabled student at any kind of 'significant disadvantage'.  As EPCC now offers courses to students, this legislation affects us.  Here are a few links on the subject.
+* __Edinburgh__
+    * A good overview, _if you read nothing else, read this_: [Web Help at the Univeristy of Edinburgh - Accessibility](http://webhelp.ucs.ed.ac.uk/docs/accessibility.html).
+    * [Disability Policy](http://www.disability-office.ed.ac.uk/disability_policy99.htm) (under review due to SENDA).
+* __National__
+    * This site has pointers to all the legal documents and some good articles: <http://www.web-access.org.uk/>
+* __Making Pages Accessible__
+    * The Web Accessibility Initiative: <http://www.w3.org/WAI/>
+    * The Bobby WAI online webpage testing tool: <http://bobby.watchfire.com/>
+    * Examples of what can be achieved using only CSS for your design, with pure content in the HTML: [The CSS Zen Garden](http://www.csszengarden.com/) and [CSS Beauty](http://www.cssbeauty.com/).  Note that this approach ensures the _content'' is visible on any browser, but the ''design_ may degrade unpredictably on those awkward 'middle-aged' browsers (Netscape 4.x, IE 4.x).
+* <http://www.freedomscientific.com/> JAWS aural browser.
+

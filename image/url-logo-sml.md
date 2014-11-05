@@ -9,8 +9,7 @@ node_id: 684
 title: url-logo-sml
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/node/684/"
+redirect_from: []
 permalink: "/node/684/"
 tags:
 - Older

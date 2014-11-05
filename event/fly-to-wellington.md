@@ -9,8 +9,7 @@ node_id: 1426
 title: Fly to Wellington
 created: '2004-09-24'
 changed: '2004-10-01'
-aliases:
-- "/node/1426/"
+redirect_from: []
 permalink: "/node/1426/"
 tags: []
 ---

@@ -9,8 +9,7 @@ node_id: 564
 title: The Two-Dimensional Ising Model
 created: '2004-05-11'
 changed: '2013-06-25'
-aliases:
-- "/ix2v/comphys/docs/phd/IsingMCMC.pdf/"
+redirect_from:
 - "/node/564/"
 permalink: "/ix2v/comphys/docs/phd/IsingMCMC.pdf/"
 tags:

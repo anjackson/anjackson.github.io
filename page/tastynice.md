@@ -9,8 +9,7 @@ node_id: 1292
 title: tastynice
 created: '2004-08-11'
 changed: '2004-08-11'
-aliases:
-- "/about/ilike/tastynice/"
+redirect_from:
 - "/node/1292/"
 permalink: "/about/ilike/tastynice/"
 tags: []

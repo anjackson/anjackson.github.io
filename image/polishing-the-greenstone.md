@@ -9,8 +9,7 @@ node_id: 1740
 title: Polishing the greenstone
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/polishing_the_greenstone/"
+redirect_from:
 - "/node/1740/"
 permalink: "/2007/01/19/polishing_the_greenstone/"
 tags:

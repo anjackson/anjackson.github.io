@@ -9,8 +9,7 @@ node_id: 991
 title: Red trees
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/red_trees/"
+redirect_from:
 - "/node/991/"
 permalink: "/2004/08/10/red_trees/"
 tags:

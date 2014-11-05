@@ -9,8 +9,7 @@ node_id: 912
 title: 02696 Venting Mountains
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/912/"
+redirect_from: []
 permalink: "/node/912/"
 tags:
 - 2003/11 - November 2003

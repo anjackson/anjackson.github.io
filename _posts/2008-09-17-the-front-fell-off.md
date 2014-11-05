@@ -9,8 +9,7 @@ node_id: 1830
 title: the front fell off
 created: '2008-09-17'
 changed: '2010-07-23'
-aliases:
-- "/2008/09/17/front_fell/"
+redirect_from:
 - "/node/1830/"
 permalink: "/2008/09/17/front_fell/"
 tags:

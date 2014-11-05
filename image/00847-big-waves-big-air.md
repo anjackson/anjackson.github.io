@@ -9,8 +9,7 @@ node_id: 428
 title: 00847 - Big waves, big air.
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/428/"
+redirect_from: []
 permalink: "/node/428/"
 tags:
 - California

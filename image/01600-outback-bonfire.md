@@ -9,8 +9,7 @@ node_id: 447
 title: 01600 Outback Bonfire
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/447/"
+redirect_from: []
 permalink: "/node/447/"
 tags:
 - The Red Centre

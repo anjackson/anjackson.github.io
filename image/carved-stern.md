@@ -9,8 +9,7 @@ node_id: 1013
 title: Carved stern
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/carved_stern/"
+redirect_from:
 - "/node/1013/"
 permalink: "/2004/08/10/carved_stern/"
 tags:

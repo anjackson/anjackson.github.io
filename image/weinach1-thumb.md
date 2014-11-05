@@ -9,8 +9,7 @@ node_id: 631
 title: weinach1.thumb
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/node/631/"
+redirect_from: []
 permalink: "/node/631/"
 tags:
 - Older

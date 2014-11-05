@@ -9,8 +9,7 @@ node_id: 322
 title: 00665 Slick Jeff tucks in.
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/322/"
+redirect_from: []
 permalink: "/node/322/"
 tags:
 - California

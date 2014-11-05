@@ -9,8 +9,7 @@ node_id: 1775
 title: Eastern Grey Kangaroo
 created: '2007-01-31'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/31/eastern_grey_kangaroo/"
+redirect_from:
 - "/node/1775/"
 permalink: "/2007/01/31/eastern_grey_kangaroo/"
 tags:

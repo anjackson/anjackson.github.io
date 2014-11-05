@@ -9,8 +9,7 @@ node_id: 1576
 title: Google Scholar
 created: '2004-12-30'
 changed: '2004-12-30'
-aliases:
-- "/2004/12/30/google-scholar/"
+redirect_from:
 - "/node/1576/"
 permalink: "/2004/12/30/google-scholar/"
 tags:

@@ -9,8 +9,7 @@ node_id: 1411
 title: 04059 Blue Moon
 created: '2004-08-20'
 changed: '2013-06-25'
-aliases:
-- "/node/1411/"
+redirect_from: []
 permalink: "/node/1411/"
 tags:
 - 2004/01 - January 2004

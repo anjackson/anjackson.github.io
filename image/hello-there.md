@@ -9,8 +9,7 @@ node_id: 1779
 title: Hello there
 created: '2007-01-31'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/31/hello_there/"
+redirect_from:
 - "/node/1779/"
 permalink: "/2007/01/31/hello_there/"
 tags:

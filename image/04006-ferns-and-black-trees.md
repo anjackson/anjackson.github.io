@@ -9,8 +9,7 @@ node_id: 1399
 title: 04006 Ferns and Black Trees
 created: '2004-08-20'
 changed: '2013-06-25'
-aliases:
-- "/node/1399/"
+redirect_from: []
 permalink: "/node/1399/"
 tags:
 - 2004/01 - January 2004

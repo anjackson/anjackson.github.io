@@ -9,8 +9,7 @@ node_id: 659
 title: york-hes-hall.sml
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/img-n/places/images/york-hes-hall.sml.jpg/"
+redirect_from:
 - "/node/659/"
 permalink: "/img-n/places/images/york-hes-hall.sml.jpg/"
 tags:

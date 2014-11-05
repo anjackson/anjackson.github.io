@@ -9,8 +9,7 @@ node_id: 1029
 title: Islands
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/islands_3/"
+redirect_from:
 - "/node/1029/"
 permalink: "/2004/08/10/islands_3/"
 tags:

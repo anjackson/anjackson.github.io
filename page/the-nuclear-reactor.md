@@ -9,8 +9,7 @@ node_id: 587
 title: The Nuclear Reactor
 created: '2004-05-12'
 changed: '2007-02-08'
-aliases:
-- "/ix2v/comphys/docs/ug/y2-mc-reactor.pdf/"
+redirect_from:
 - "/node/587/"
 permalink: "/ix2v/comphys/docs/ug/y2-mc-reactor.pdf/"
 tags: []

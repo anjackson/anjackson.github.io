@@ -9,8 +9,7 @@ node_id: 1833
 title: well played, sir
 created: '2008-11-05'
 changed: '2010-07-23'
-aliases:
-- "/2008/11/05/well_played_sir/"
+redirect_from:
 - "/node/1833/"
 permalink: "/2008/11/05/well_played_sir/"
 tags:

@@ -9,8 +9,7 @@ node_id: 664
 title: Keen
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/2004/05/13/keen/"
+redirect_from:
 - "/node/664/"
 permalink: "/2004/05/13/keen/"
 tags:

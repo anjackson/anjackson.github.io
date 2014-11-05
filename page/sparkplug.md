@@ -9,8 +9,7 @@ node_id: 709
 title: Sparkplug
 created: '2004-05-31'
 changed: '2007-02-08'
-aliases:
-- "/poot/riscos/splug/"
+redirect_from:
 - "/node/709/"
 permalink: "/poot/riscos/splug/"
 tags: []

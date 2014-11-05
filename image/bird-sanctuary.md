@@ -9,8 +9,7 @@ node_id: 1737
 title: Bird sanctuary
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/bird_sanctuary/"
+redirect_from:
 - "/node/1737/"
 permalink: "/2007/01/19/bird_sanctuary/"
 tags:

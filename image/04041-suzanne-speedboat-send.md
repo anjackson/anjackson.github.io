@@ -9,8 +9,7 @@ node_id: 1408
 title: 04041 Suzanne Speedboat  Send
 created: '2004-08-20'
 changed: '2013-06-25'
-aliases:
-- "/node/1408/"
+redirect_from: []
 permalink: "/node/1408/"
 tags:
 - 2004/01 - January 2004

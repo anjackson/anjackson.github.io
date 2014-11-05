@@ -9,8 +9,7 @@ node_id: 346
 title: 01058 Tourist trap
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/346/"
+redirect_from: []
 permalink: "/node/346/"
 tags:
 - Fiji

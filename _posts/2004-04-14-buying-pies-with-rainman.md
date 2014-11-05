@@ -9,8 +9,7 @@ node_id: 533
 title: buying pies with rainman
 created: '2004-04-14'
 changed: '2010-07-23'
-aliases:
-- "/2004/04/14/buying_pies_rainman/"
+redirect_from:
 - "/node/533/"
 permalink: "/2004/04/14/buying_pies_rainman/"
 tags:

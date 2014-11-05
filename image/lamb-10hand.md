@@ -9,8 +9,7 @@ node_id: 601
 title: lamb.10hand
 created: '2004-05-12'
 changed: '2013-06-25'
-aliases:
-- "/node/601/"
+redirect_from: []
 permalink: "/node/601/"
 tags:
 - imgn

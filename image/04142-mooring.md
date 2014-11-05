@@ -9,8 +9,7 @@ node_id: 1465
 title: 04142 Mooring
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1465/"
+redirect_from: []
 permalink: "/node/1465/"
 tags:
 - 2004/01 - January 2004

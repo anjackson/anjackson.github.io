@@ -9,8 +9,7 @@ node_id: 1633
 title: Gwynneth
 created: '2006-07-10'
 changed: '2013-06-25'
-aliases:
-- "/2006/07/10/gwynneth/"
+redirect_from:
 - "/node/1633/"
 permalink: "/2006/07/10/gwynneth/"
 tags:

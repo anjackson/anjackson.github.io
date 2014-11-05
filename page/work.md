@@ -9,8 +9,7 @@ node_id: 4
 title: work
 created: '2004-03-19'
 changed: '2010-07-23'
-aliases:
-- "/work/"
+redirect_from:
 - "/node/4/"
 permalink: "/work/"
 tags: []

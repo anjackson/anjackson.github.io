@@ -9,8 +9,7 @@ node_id: 987
 title: XML
 created: '2004-08-10'
 changed: '2004-08-10'
-aliases:
-- "/node/987/"
+redirect_from: []
 permalink: "/node/987/"
 tags: []
 ---

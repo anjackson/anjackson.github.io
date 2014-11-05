@@ -9,8 +9,7 @@ node_id: 1774
 title: Eilidh and the chimps
 created: '2007-01-31'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/31/eilidh_and_the_chimps/"
+redirect_from:
 - "/node/1774/"
 permalink: "/2007/01/31/eilidh_and_the_chimps/"
 tags:

@@ -9,8 +9,7 @@ node_id: 444
 title: "01350 Bar light\r\n"
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/444/"
+redirect_from: []
 permalink: "/node/444/"
 tags:
 - Sydney

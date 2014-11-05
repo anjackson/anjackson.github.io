@@ -9,8 +9,7 @@ node_id: 1309
 title: Family get-together
 created: '2004-08-16'
 changed: '2004-08-16'
-aliases:
-- "/node/1309/"
+redirect_from: []
 permalink: "/node/1309/"
 tags: []
 ---

@@ -9,8 +9,7 @@ node_id: 945
 title: Mount Egmont/Taranaki
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/2004/07/26/mount_egmont_taranaki/"
+redirect_from:
 - "/node/945/"
 permalink: "/2004/07/26/mount_egmont_taranaki/"
 tags:

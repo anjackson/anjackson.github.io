@@ -9,8 +9,7 @@ node_id: 429
 title: 00857 - Golden Gate Bridge
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/429/"
+redirect_from: []
 permalink: "/node/429/"
 tags:
 - California

@@ -9,8 +9,7 @@ node_id: 657
 title: twin town
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/node/657/"
+redirect_from: []
 permalink: "/node/657/"
 tags:
 - Wirksworth

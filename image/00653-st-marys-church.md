@@ -9,8 +9,7 @@ node_id: 319
 title: 00653 - St. Mary's Church
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/319/"
+redirect_from: []
 permalink: "/node/319/"
 tags:
 - Wirksworth

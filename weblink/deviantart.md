@@ -9,8 +9,7 @@ node_id: 1513
 title: deviantART
 created: '2004-11-16'
 changed: '2004-11-16'
-aliases:
-- "/node/1513/"
+redirect_from: []
 permalink: "/node/1513/"
 tags:
 - Art & Design

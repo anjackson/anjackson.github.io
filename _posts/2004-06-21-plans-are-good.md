@@ -9,8 +9,7 @@ node_id: 722
 title: plans are good
 created: '2004-06-21'
 changed: '2010-07-23'
-aliases:
-- "/2004/06/21/plans_are_good/"
+redirect_from:
 - "/node/722/"
 permalink: "/2004/06/21/plans_are_good/"
 tags:

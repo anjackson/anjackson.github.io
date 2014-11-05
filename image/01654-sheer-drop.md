@@ -9,8 +9,7 @@ node_id: 391
 title: 01654 Sheer Drop
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/391/"
+redirect_from: []
 permalink: "/node/391/"
 tags:
 - The Red Centre

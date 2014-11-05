@@ -9,8 +9,7 @@ node_id: 595
 title: andalsolink
 created: '2004-05-12'
 changed: '2013-06-25'
-aliases:
-- "/node/595/"
+redirect_from: []
 permalink: "/node/595/"
 tags:
 - imgn

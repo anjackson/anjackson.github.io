@@ -9,8 +9,7 @@ node_id: 532
 title: the next journey
 created: '2004-04-07'
 changed: '2010-07-23'
-aliases:
-- "/2004/04/07/next_journey/"
+redirect_from:
 - "/node/532/"
 permalink: "/2004/04/07/next_journey/"
 tags:

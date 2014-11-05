@@ -9,8 +9,7 @@ node_id: 1685
 title: Tell me about my hardware.
 created: '2006-09-29'
 changed: '2008-07-30'
-aliases:
-- "/2004/08/10/shell_tricks/tell_me_about_my_hardware/"
+redirect_from:
 - "/node/1685/"
 permalink: "/2004/08/10/shell_tricks/tell_me_about_my_hardware/"
 tags: []

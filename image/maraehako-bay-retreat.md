@@ -9,8 +9,7 @@ node_id: 850
 title: Maraehako Bay Retreat
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/2004/07/26/maraehako_bay_retreat/"
+redirect_from:
 - "/node/850/"
 permalink: "/2004/07/26/maraehako_bay_retreat/"
 tags:

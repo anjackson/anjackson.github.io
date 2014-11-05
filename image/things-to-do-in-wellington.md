@@ -9,8 +9,7 @@ node_id: 1741
 title: Things to do in Wellington
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/things_to_do_in_wellington/"
+redirect_from:
 - "/node/1741/"
 permalink: "/2007/01/19/things_to_do_in_wellington/"
 tags:

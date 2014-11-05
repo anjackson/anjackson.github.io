@@ -9,8 +9,7 @@ node_id: 324
 title: 00678 - Santa Monica Beach
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/324/"
+redirect_from: []
 permalink: "/node/324/"
 tags:
 - California

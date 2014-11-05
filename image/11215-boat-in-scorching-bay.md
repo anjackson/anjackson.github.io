@@ -9,8 +9,7 @@ node_id: 1491
 title: 11215 Boat in Scorching Bay
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1491/"
+redirect_from: []
 permalink: "/node/1491/"
 tags:
 - Wellington

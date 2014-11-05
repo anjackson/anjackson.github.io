@@ -9,8 +9,7 @@ node_id: 1725
 title: Eilidh's first photo of Wellington
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/eilidhs_first_photo_of_wellington/"
+redirect_from:
 - "/node/1725/"
 permalink: "/2007/01/19/eilidhs_first_photo_of_wellington/"
 tags:

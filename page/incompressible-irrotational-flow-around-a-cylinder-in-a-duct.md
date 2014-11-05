@@ -9,8 +9,7 @@ node_id: 586
 title: Incompressible Irrotational Flow around a Cylinder in a Duct
 created: '2004-05-12'
 changed: '2007-02-08'
-aliases:
-- "/ix2v/comphys/docs/ug/y2-fe-flow.pdf/"
+redirect_from:
 - "/node/586/"
 permalink: "/ix2v/comphys/docs/ug/y2-fe-flow.pdf/"
 tags: []

@@ -9,8 +9,7 @@ node_id: 1545
 title: undo
 created: '2004-12-02'
 changed: '2004-12-10'
-aliases:
-- "/node/1545/"
+redirect_from: []
 permalink: "/node/1545/"
 tags: []
 ---

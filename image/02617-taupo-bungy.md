@@ -9,8 +9,7 @@ node_id: 884
 title: 02617 Taupo Bungy
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/884/"
+redirect_from: []
 permalink: "/node/884/"
 tags:
 - 2003/11 - November 2003

@@ -9,8 +9,7 @@ node_id: 740
 title: Web Application Notes
 created: '2004-07-21'
 changed: '2006-09-05'
-aliases:
-- "/2004/07/21/web_application_notes/"
+redirect_from:
 - "/node/740/"
 permalink: "/2004/07/21/web_application_notes/"
 tags: []

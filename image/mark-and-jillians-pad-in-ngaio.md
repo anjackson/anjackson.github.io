@@ -9,8 +9,7 @@ node_id: 1720
 title: Mark & Jillian's pad in Ngaio
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/mark_jillians_pad_in_ngaio/"
+redirect_from:
 - "/node/1720/"
 permalink: "/2007/01/19/mark_jillians_pad_in_ngaio/"
 tags:

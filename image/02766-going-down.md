@@ -9,8 +9,7 @@ node_id: 936
 title: 02766 Going Down
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/936/"
+redirect_from: []
 permalink: "/node/936/"
 tags:
 - Andy

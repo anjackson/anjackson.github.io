@@ -9,8 +9,7 @@ node_id: 1090
 title: 03042 Watching the big screen
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/node/1090/"
+redirect_from: []
 permalink: "/node/1090/"
 tags:
 - The Return Of The King

@@ -9,8 +9,7 @@ node_id: 1514
 title: ClipArt @ freedesktop.org
 created: '2004-11-16'
 changed: '2004-11-16'
-aliases:
-- "/node/1514/"
+redirect_from: []
 permalink: "/node/1514/"
 tags:
 - Art & Design

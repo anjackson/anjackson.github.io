@@ -9,8 +9,7 @@ node_id: 795
 title: Near Cathedral Cove
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/2004/07/26/near_cathedral_cove/"
+redirect_from:
 - "/node/795/"
 permalink: "/2004/07/26/near_cathedral_cove/"
 tags:

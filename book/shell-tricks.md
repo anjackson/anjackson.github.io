@@ -9,8 +9,7 @@ node_id: 985
 title: Shell Tricks
 created: '2004-08-10'
 changed: '2006-09-29'
-aliases:
-- "/2004/08/10/shell_tricks/"
+redirect_from:
 - "/node/985/"
 permalink: "/2004/08/10/shell_tricks/"
 tags: []

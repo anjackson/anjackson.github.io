@@ -9,8 +9,7 @@ node_id: 1473
 title: 04191 Fern Lined Path
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1473/"
+redirect_from: []
 permalink: "/node/1473/"
 tags:
 - 2004/01 - January 2004

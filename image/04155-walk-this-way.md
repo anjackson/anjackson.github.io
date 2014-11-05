@@ -9,8 +9,7 @@ node_id: 1468
 title: 04155 Walk This Way
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1468/"
+redirect_from: []
 permalink: "/node/1468/"
 tags:
 - 2004/01 - January 2004

@@ -9,8 +9,7 @@ node_id: 1739
 title: Inside Te Papa museum
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/inside_te_papa_museum/"
+redirect_from:
 - "/node/1739/"
 permalink: "/2007/01/19/inside_te_papa_museum/"
 tags:

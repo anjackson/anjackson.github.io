@@ -9,8 +9,7 @@ node_id: 1567
 title: svg2swf
 created: '2004-12-21'
 changed: '2004-12-21'
-aliases:
-- "/node/1567/"
+redirect_from: []
 permalink: "/node/1567/"
 tags:
 - Flash

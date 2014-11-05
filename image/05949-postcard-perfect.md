@@ -9,8 +9,7 @@ node_id: 543
 title: 05949 Postcard Perfect
 created: '2004-04-22'
 changed: '2013-06-25'
-aliases:
-- "/node/543/"
+redirect_from: []
 permalink: "/node/543/"
 tags:
 - Highlights

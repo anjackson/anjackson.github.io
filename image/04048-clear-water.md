@@ -9,8 +9,7 @@ node_id: 1409
 title: 04048 Clear Water
 created: '2004-08-20'
 changed: '2013-06-25'
-aliases:
-- "/node/1409/"
+redirect_from: []
 permalink: "/node/1409/"
 tags:
 - 2004/01 - January 2004

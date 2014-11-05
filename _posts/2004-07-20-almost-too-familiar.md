@@ -9,8 +9,7 @@ node_id: 738
 title: almost too familiar
 created: '2004-07-20'
 changed: '2010-07-23'
-aliases:
-- "/2004/07/20/almost_too_familiar/"
+redirect_from:
 - "/node/738/"
 permalink: "/2004/07/20/almost_too_familiar/"
 tags:

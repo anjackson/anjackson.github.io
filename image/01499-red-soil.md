@@ -9,8 +9,7 @@ node_id: 378
 title: 01499 Red Soil
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/378/"
+redirect_from: []
 permalink: "/node/378/"
 tags:
 - The Red Centre

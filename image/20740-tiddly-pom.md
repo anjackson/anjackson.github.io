@@ -9,8 +9,7 @@ node_id: 1653
 title: 20740 Tiddly-pom
 created: '2006-07-29'
 changed: '2013-06-25'
-aliases:
-- "/2006/07/29/20740_tiddly_pom/"
+redirect_from:
 - "/node/1653/"
 permalink: "/2006/07/29/20740_tiddly_pom/"
 tags:

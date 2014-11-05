@@ -9,8 +9,7 @@ node_id: 1758
 title: A Tui on a fern
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/a_tui_on_a_fern/"
+redirect_from:
 - "/node/1758/"
 permalink: "/2007/01/19/a_tui_on_a_fern/"
 tags:

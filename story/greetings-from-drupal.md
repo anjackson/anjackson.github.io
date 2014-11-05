@@ -9,8 +9,7 @@ node_id: 2
 title: Greetings from Drupal...
 created: '2004-03-18'
 changed: '2010-07-23'
-aliases:
-- "/greetings_drupal/"
+redirect_from:
 - "/node/2/"
 permalink: "/greetings_drupal/"
 tags: []

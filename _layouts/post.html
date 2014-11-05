@@ -5,5 +5,14 @@ active: blog
 
 <article>	
   {{ content }}
+  <hr/>
+  <p>Modified: {{ page.date | date:"%Y-%m-%d" }} | Created: {{ page.created }}</p>
+  {% if page.tags %}
+  <p><csmall>
+  {% for tag in page.tags %}
+  <a href="{{ site.baseurl}}/tags/#{{tag}}" class="btn btn-theme">{{ tag }}</a>{% if forloop.last != true %}&nbsp;{% endif %}
+  {% endfor %}
+  </csmall></p>
+  {% endif %}
 </article>
 		 		

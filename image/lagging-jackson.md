@@ -9,8 +9,7 @@ node_id: 1749
 title: Lagging Jackson
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/lagging_jackson/"
+redirect_from:
 - "/node/1749/"
 permalink: "/2007/01/19/lagging_jackson/"
 tags:

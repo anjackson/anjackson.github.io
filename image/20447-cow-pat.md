@@ -9,8 +9,7 @@ node_id: 1648
 title: 20447 Cow Pat
 created: '2006-07-29'
 changed: '2013-06-25'
-aliases:
-- "/2006/07/29/20447_cow_pat/"
+redirect_from:
 - "/node/1648/"
 permalink: "/2006/07/29/20447_cow_pat/"
 tags:

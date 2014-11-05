@@ -9,8 +9,7 @@ node_id: 488
 title: A plan of sorts.
 created: '2004-03-31'
 changed: '2010-07-23'
-aliases:
-- "/2004/03/31/plan_sorts/"
+redirect_from:
 - "/node/488/"
 permalink: "/2004/03/31/plan_sorts/"
 tags:

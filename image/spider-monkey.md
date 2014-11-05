@@ -9,8 +9,7 @@ node_id: 1786
 title: Spider Monkey
 created: '2007-01-31'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/31/spider_monkey/"
+redirect_from:
 - "/node/1786/"
 permalink: "/2007/01/31/spider_monkey/"
 tags:

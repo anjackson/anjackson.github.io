@@ -9,8 +9,7 @@ node_id: 1815
 title: "~980 double decker buses"
 created: '2008-06-27'
 changed: '2010-07-23'
-aliases:
-- "/2008/06/27/980_double_decker_buses/"
+redirect_from:
 - "/node/1815/"
 permalink: "/2008/06/27/980_double_decker_buses/"
 tags:

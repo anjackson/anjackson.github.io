@@ -9,8 +9,7 @@ node_id: 446
 title: 01434 Long Roads & Red Soil
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/446/"
+redirect_from: []
 permalink: "/node/446/"
 tags:
 - The Red Centre

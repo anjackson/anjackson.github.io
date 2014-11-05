@@ -9,8 +9,7 @@ node_id: 1728
 title: Airwolf
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/airwolf/"
+redirect_from:
 - "/node/1728/"
 permalink: "/2007/01/19/airwolf/"
 tags:

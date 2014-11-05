@@ -9,8 +9,7 @@ node_id: 1046
 title: 02954 Twigging a lift
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/node/1046/"
+redirect_from: []
 permalink: "/node/1046/"
 tags:
 - The Return Of The King

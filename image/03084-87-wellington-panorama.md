@@ -9,8 +9,7 @@ node_id: 1456
 title: 03084-87 Wellington Panorama
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1456/"
+redirect_from: []
 permalink: "/node/1456/"
 tags:
 - 2003/12 - December 2003

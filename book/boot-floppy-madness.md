@@ -9,8 +9,7 @@ node_id: 1592
 title: Boot floppy madness
 created: '2005-01-25'
 changed: '2006-09-23'
-aliases:
-- "/2005/01/25/boot-floppy-madness/"
+redirect_from:
 - "/node/1592/"
 permalink: "/2005/01/25/boot-floppy-madness/"
 tags: []

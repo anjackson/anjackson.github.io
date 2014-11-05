@@ -9,8 +9,7 @@ node_id: 370
 title: 01438 Walk This Way
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/370/"
+redirect_from: []
 permalink: "/node/370/"
 tags:
 - The Red Centre

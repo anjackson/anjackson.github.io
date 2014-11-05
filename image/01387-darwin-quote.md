@@ -9,8 +9,7 @@ node_id: 366
 title: 01387 Darwin Quote
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/366/"
+redirect_from: []
 permalink: "/node/366/"
 tags:
 - 2003/10 - October 2003

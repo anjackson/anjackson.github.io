@@ -9,8 +9,7 @@ node_id: 783
 title: Stony Beach campfire
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/2004/07/26/stony_beach_campfire_0/"
+redirect_from:
 - "/node/783/"
 permalink: "/2004/07/26/stony_beach_campfire_0/"
 tags:

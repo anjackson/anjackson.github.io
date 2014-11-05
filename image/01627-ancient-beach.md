@@ -9,8 +9,7 @@ node_id: 387
 title: 01627 Ancient Beach
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/387/"
+redirect_from: []
 permalink: "/node/387/"
 tags:
 - Highlights

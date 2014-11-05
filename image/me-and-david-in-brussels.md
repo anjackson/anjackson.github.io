@@ -9,8 +9,7 @@ node_id: 634
 title: me & david in brussels
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/2004/05/13/me_david_in_brussels/"
+redirect_from:
 - "/node/634/"
 permalink: "/2004/05/13/me_david_in_brussels/"
 tags:

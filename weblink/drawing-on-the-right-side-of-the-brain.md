@@ -9,8 +9,7 @@ node_id: 1518
 title: Drawing on the Right Side of the Brain
 created: '2004-11-16'
 changed: '2004-11-16'
-aliases:
-- "/node/1518/"
+redirect_from: []
 permalink: "/node/1518/"
 tags:
 - Art & Design

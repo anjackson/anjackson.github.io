@@ -9,8 +9,7 @@ node_id: 354
 title: 01185 Opera House Detail
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/354/"
+redirect_from: []
 permalink: "/node/354/"
 tags:
 - Highlights

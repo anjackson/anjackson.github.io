@@ -9,8 +9,7 @@ node_id: 1461
 title: 04116 From The Taxi
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1461/"
+redirect_from: []
 permalink: "/node/1461/"
 tags:
 - 2004/01 - January 2004

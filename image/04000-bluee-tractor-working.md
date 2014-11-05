@@ -9,8 +9,7 @@ node_id: 1397
 title: 04000 Bluee Tractor, working
 created: '2004-08-20'
 changed: '2013-06-25'
-aliases:
-- "/node/1397/"
+redirect_from: []
 permalink: "/node/1397/"
 tags:
 - 2004/01 - January 2004

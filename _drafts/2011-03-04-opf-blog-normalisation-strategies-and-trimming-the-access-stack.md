@@ -9,8 +9,7 @@ node_id: 1888
 title: 'OPF Blog: Normalisation Strategies & Trimming The Access Stack'
 created: '2011-03-04'
 changed: '2011-03-30'
-aliases:
-- "/2011/03/04/opf_blog_normalisation_strategies_trimming_access_stack/"
+redirect_from:
 - "/node/1888/"
 permalink: "/2011/03/04/opf_blog_normalisation_strategies_trimming_access_stack/"
 tags:

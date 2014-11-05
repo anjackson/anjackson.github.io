@@ -9,8 +9,7 @@ node_id: 915
 title: 02702 Emerald Lakes
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/915/"
+redirect_from: []
 permalink: "/node/915/"
 tags:
 - Highlights

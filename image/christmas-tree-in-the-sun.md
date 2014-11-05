@@ -9,8 +9,7 @@ node_id: 1707
 title: Christmas tree in the sun
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/christmas_tree_in_the_sun_0/"
+redirect_from:
 - "/node/1707/"
 permalink: "/2007/01/19/christmas_tree_in_the_sun_0/"
 tags:

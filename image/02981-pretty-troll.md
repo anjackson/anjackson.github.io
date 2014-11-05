@@ -9,8 +9,7 @@ node_id: 1062
 title: 02981 Pretty Troll
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/node/1062/"
+redirect_from: []
 permalink: "/node/1062/"
 tags:
 - The Return Of The King

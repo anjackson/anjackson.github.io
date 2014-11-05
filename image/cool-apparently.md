@@ -9,8 +9,7 @@ node_id: 1033
 title: Cool, apparently
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/cool_apparently/"
+redirect_from:
 - "/node/1033/"
 permalink: "/2004/08/10/cool_apparently/"
 tags:

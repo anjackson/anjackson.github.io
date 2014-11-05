@@ -9,8 +9,7 @@ node_id: 550
 title: clever google
 created: '2004-05-05'
 changed: '2010-07-23'
-aliases:
-- "/2004/05/05/clever_google/"
+redirect_from:
 - "/node/550/"
 permalink: "/2004/05/05/clever_google/"
 tags:

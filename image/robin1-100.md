@@ -9,8 +9,7 @@ node_id: 683
 title: robin1.100
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/node/683/"
+redirect_from: []
 permalink: "/node/683/"
 tags:
 - Older

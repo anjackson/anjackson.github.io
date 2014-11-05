@@ -9,8 +9,7 @@ node_id: 910
 title: 02693 Still Climbing
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/910/"
+redirect_from: []
 permalink: "/node/910/"
 tags:
 - Highlights

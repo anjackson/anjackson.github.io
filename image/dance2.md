@@ -9,8 +9,7 @@ node_id: 618
 title: dance2
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/node/618/"
+redirect_from: []
 permalink: "/node/618/"
 tags:
 - Older

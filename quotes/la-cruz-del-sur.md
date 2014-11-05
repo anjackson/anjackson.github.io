@@ -9,8 +9,7 @@ node_id: 1560
 title: La Cruz Del Sur
 created: '2004-12-05'
 changed: '2004-12-05'
-aliases:
-- "/node/1560/"
+redirect_from: []
 permalink: "/node/1560/"
 tags: []
 ---

@@ -9,8 +9,7 @@ node_id: 1581
 title: Formatting an SD card as ext2
 created: '2005-01-02'
 changed: '2005-01-02'
-aliases:
-- "/2005/01/02/formatting-an-sd-card-as-ext2/"
+redirect_from:
 - "/node/1581/"
 permalink: "/2005/01/02/formatting-an-sd-card-as-ext2/"
 tags: []

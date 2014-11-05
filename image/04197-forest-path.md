@@ -9,8 +9,7 @@ node_id: 1475
 title: 04197 Forest Path
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1475/"
+redirect_from: []
 permalink: "/node/1475/"
 tags:
 - 2004/01 - January 2004

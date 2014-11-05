@@ -9,8 +9,7 @@ node_id: 333
 title: 00794 - Deep Aquamarine
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/333/"
+redirect_from: []
 permalink: "/node/333/"
 tags:
 - California

@@ -9,8 +9,7 @@ node_id: 710
 title: Gloop
 created: '2004-05-31'
 changed: '2007-02-08'
-aliases:
-- "/poot/riscos/gloop/"
+redirect_from:
 - "/node/710/"
 permalink: "/poot/riscos/gloop/"
 tags: []

@@ -9,8 +9,7 @@ node_id: 1313
 title: 03804 Moeraki Boulders
 created: '2004-08-20'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/20/03804_c/"
+redirect_from:
 - "/node/1313/"
 permalink: "/2004/08/20/03804_c/"
 tags:

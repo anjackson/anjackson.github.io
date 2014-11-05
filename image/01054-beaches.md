@@ -9,8 +9,7 @@ node_id: 435
 title: 01054 - Beaches
 created: '2004-03-26'
 changed: '2013-06-25'
-aliases:
-- "/node/435/"
+redirect_from: []
 permalink: "/node/435/"
 tags:
 - Fiji

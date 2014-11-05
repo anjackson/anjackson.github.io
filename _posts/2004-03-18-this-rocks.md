@@ -9,8 +9,7 @@ node_id: 12
 title: This rocks.
 created: '2004-03-18'
 changed: '2010-07-23'
-aliases:
-- "/2004/03/18/rocks/"
+redirect_from:
 - "/node/12/"
 permalink: "/2004/03/18/rocks/"
 tags:

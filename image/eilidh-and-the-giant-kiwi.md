@@ -9,8 +9,7 @@ node_id: 1781
 title: Eilidh and the giant Kiwi
 created: '2007-01-31'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/31/eilidh_and_the_giant_kiwi/"
+redirect_from:
 - "/node/1781/"
 permalink: "/2007/01/31/eilidh_and_the_giant_kiwi/"
 tags:

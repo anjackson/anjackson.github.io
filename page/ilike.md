@@ -9,8 +9,7 @@ node_id: 593
 title: ilike
 created: '2004-05-12'
 changed: '2008-01-22'
-aliases:
-- "/about/ilike/"
+redirect_from:
 - "/node/593/"
 permalink: "/about/ilike/"
 tags: []

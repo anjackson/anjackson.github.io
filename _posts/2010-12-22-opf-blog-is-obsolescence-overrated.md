@@ -9,8 +9,7 @@ node_id: 1885
 title: 'OPF Blog: Is obsolescence overrated?'
 created: '2010-12-22'
 changed: '2010-12-22'
-aliases:
-- "/2010/12/22/opf_blog_obsolescence_overrated/"
+redirect_from:
 - "/node/1885/"
 permalink: "/2010/12/22/opf_blog_obsolescence_overrated/"
 tags:

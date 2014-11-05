@@ -9,8 +9,7 @@ node_id: 1732
 title: Further along the waterfront
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/further_along_the_waterfront/"
+redirect_from:
 - "/node/1732/"
 permalink: "/2007/01/19/further_along_the_waterfront/"
 tags:

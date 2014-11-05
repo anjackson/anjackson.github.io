@@ -9,8 +9,7 @@ node_id: 1553
 title: reh3 stock
 created: '2004-12-03'
 changed: '2004-12-03'
-aliases:
-- "/node/1553/"
+redirect_from: []
 permalink: "/node/1553/"
 tags:
 - Stock

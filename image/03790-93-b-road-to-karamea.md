@@ -9,8 +9,7 @@ node_id: 1457
 title: 03790-93-b Road to Karamea
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1457/"
+redirect_from: []
 permalink: "/node/1457/"
 tags:
 - 2004/01 - January 2004

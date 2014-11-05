@@ -9,8 +9,7 @@ node_id: 686
 title: lost
 created: '2004-05-13'
 changed: '2013-06-25'
-aliases:
-- "/node/686/"
+redirect_from: []
 permalink: "/node/686/"
 tags:
 - Older

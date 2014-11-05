@@ -9,8 +9,7 @@ node_id: 890
 title: 02641 Tongariro From Taupo
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/890/"
+redirect_from: []
 permalink: "/node/890/"
 tags:
 - 2003/11 - November 2003

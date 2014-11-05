@@ -9,8 +9,7 @@ node_id: 1450
 title: Bugxula
 created: '2004-11-12'
 changed: '2004-11-12'
-aliases:
-- "/node/1450/"
+redirect_from: []
 permalink: "/node/1450/"
 tags:
 - Coding

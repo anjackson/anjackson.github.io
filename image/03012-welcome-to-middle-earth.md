@@ -9,8 +9,7 @@ node_id: 1072
 title: 03012 Welcome to Middle Earth
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/node/1072/"
+redirect_from: []
 permalink: "/node/1072/"
 tags:
 - The Return Of The King

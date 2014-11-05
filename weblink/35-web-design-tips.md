@@ -9,8 +9,7 @@ node_id: 1580
 title: 35 Web Design Tips
 created: '2004-12-30'
 changed: '2004-12-30'
-aliases:
-- "/2004/12/30/35-web-design-tips/"
+redirect_from:
 - "/node/1580/"
 permalink: "/2004/12/30/35-web-design-tips/"
 tags:

@@ -9,8 +9,7 @@ node_id: 931
 title: 02749 Trampoline Lesson
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/931/"
+redirect_from: []
 permalink: "/node/931/"
 tags:
 - Andy

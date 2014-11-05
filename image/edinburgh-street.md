@@ -9,8 +9,7 @@ node_id: 1020
 title: Edinburgh Street
 created: '2004-08-10'
 changed: '2013-06-25'
-aliases:
-- "/2004/08/10/edinburgh_street/"
+redirect_from:
 - "/node/1020/"
 permalink: "/2004/08/10/edinburgh_street/"
 tags:

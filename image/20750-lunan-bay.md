@@ -9,8 +9,7 @@ node_id: 1654
 title: 20750 Lunan Bay
 created: '2006-07-29'
 changed: '2013-06-25'
-aliases:
-- "/2006/07/29/20750_lunan_bay/"
+redirect_from:
 - "/node/1654/"
 permalink: "/2006/07/29/20750_lunan_bay/"
 tags:

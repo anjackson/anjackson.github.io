@@ -9,8 +9,7 @@ node_id: 1459
 title: 04102 Takaka Street Market
 created: '2004-11-13'
 changed: '2013-06-25'
-aliases:
-- "/node/1459/"
+redirect_from: []
 permalink: "/node/1459/"
 tags:
 - 2004/01 - January 2004

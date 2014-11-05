@@ -9,8 +9,7 @@ node_id: 1802
 title: Bookstore
 created: '2007-07-13'
 changed: '2010-07-24'
-aliases:
-- "/geek/bookstore/"
+redirect_from:
 - "/2007/07/13/bookstore/"
 - "/node/1802/"
 permalink: "/geek/bookstore/"

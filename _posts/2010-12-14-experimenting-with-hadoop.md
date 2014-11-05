@@ -9,8 +9,7 @@ node_id: 1884
 title: Experimenting with Hadoop
 created: '2010-12-14'
 changed: '2010-12-17'
-aliases:
-- "/2010/12/14/experimenting_hadoop/"
+redirect_from:
 - "/node/1884/"
 permalink: "/2010/12/14/experimenting_hadoop/"
 tags:

@@ -9,8 +9,7 @@ node_id: 1804
 title: 9593 Primes In Binary
 created: '2007-07-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/07/19/9593_primes_in_binary/"
+redirect_from:
 - "/node/1804/"
 permalink: "/2007/07/19/9593_primes_in_binary/"
 tags:

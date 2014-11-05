@@ -9,8 +9,7 @@ node_id: 920
 title: 02710 Looking Further Back
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/920/"
+redirect_from: []
 permalink: "/node/920/"
 tags:
 - Highlights

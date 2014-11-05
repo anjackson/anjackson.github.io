@@ -9,8 +9,7 @@ node_id: 613
 title: malink
 created: '2004-05-12'
 changed: '2013-06-25'
-aliases:
-- "/node/613/"
+redirect_from: []
 permalink: "/node/613/"
 tags:
 - imgn

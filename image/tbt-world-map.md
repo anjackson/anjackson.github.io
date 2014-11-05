@@ -9,8 +9,7 @@ node_id: 1300
 title: 'TBT: World Map'
 created: '2004-08-16'
 changed: '2013-06-25'
-aliases:
-- "/node/1300/"
+redirect_from: []
 permalink: "/node/1300/"
 tags:
 - The Big Trip

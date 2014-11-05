@@ -9,8 +9,7 @@ node_id: 893
 title: 02652 Lake Taupo Islands
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/893/"
+redirect_from: []
 permalink: "/node/893/"
 tags:
 - 2003/11 - November 2003

@@ -9,8 +9,7 @@ node_id: 1583
 title: 11540 New Year on the Wellington waterfront
 created: '2005-01-02'
 changed: '2013-06-25'
-aliases:
-- "/node/1583/"
+redirect_from: []
 permalink: "/node/1583/"
 tags:
 - Wellington

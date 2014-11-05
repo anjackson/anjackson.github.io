@@ -9,8 +9,7 @@ node_id: 724
 title: bored of hills, bring on the islands [updated]
 created: '2004-06-25'
 changed: '2010-07-23'
-aliases:
-- "/2004/06/25/bored_hills_bring_islands_updated/"
+redirect_from:
 - "/node/724/"
 permalink: "/2004/06/25/bored_hills_bring_islands_updated/"
 tags:

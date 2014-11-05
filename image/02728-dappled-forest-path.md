@@ -9,8 +9,7 @@ node_id: 927
 title: 02728 Dappled Forest Path
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/927/"
+redirect_from: []
 permalink: "/node/927/"
 tags:
 - 2003/11 - November 2003

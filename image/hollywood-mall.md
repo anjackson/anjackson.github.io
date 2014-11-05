@@ -9,8 +9,7 @@ node_id: 1718
 title: Hollywood mall
 created: '2007-01-19'
 changed: '2013-06-25'
-aliases:
-- "/2007/01/19/hollywood_mall_0/"
+redirect_from:
 - "/node/1718/"
 permalink: "/2007/01/19/hollywood_mall_0/"
 tags:

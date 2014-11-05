@@ -9,8 +9,7 @@ node_id: 1659
 title: 29438 Is it a bird?
 created: '2006-07-29'
 changed: '2013-06-25'
-aliases:
-- "/2006/07/29/29438_is_it_a_bird/"
+redirect_from:
 - "/node/1659/"
 permalink: "/2006/07/29/29438_is_it_a_bird/"
 tags:

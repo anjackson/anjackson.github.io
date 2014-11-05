@@ -9,8 +9,7 @@ node_id: 1856
 title: Quality Assurance
 created: '2009-08-11'
 changed: '2009-08-11'
-aliases:
-- "/digital_preservation_notebook/quality_assurance/"
+redirect_from:
 - "/node/1856/"
 permalink: "/digital_preservation_notebook/quality_assurance/"
 tags: []

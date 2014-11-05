@@ -9,8 +9,7 @@ node_id: 1765
 title: christmas in los angeles
 created: '2007-01-20'
 changed: '2010-07-23'
-aliases:
-- "/2007/01/20/christmas_los_angeles/"
+redirect_from:
 - "/node/1765/"
 permalink: "/2007/01/20/christmas_los_angeles/"
 tags:

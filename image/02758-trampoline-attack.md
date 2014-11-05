@@ -9,8 +9,7 @@ node_id: 933
 title: 02758 Trampoline Attack
 created: '2004-07-26'
 changed: '2013-06-25'
-aliases:
-- "/node/933/"
+redirect_from: []
 permalink: "/node/933/"
 tags:
 - Andy
