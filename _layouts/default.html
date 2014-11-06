@@ -50,15 +50,15 @@
             <li{% if page.url contains "/about/"%} class="active"{% endif %}><a href="{{ site.baseurl }}/about/">ABOUT</a></li>
             <li{% if page.url contains "/about/"%} class="active"{% endif %}><a href="{{ site.baseurl }}/work/">WORK</a></li>
             <li{% if page.url contains "/blog/" or page.active == "blog" %} class="active"{% endif %}><a href="{{ site.baseurl }}/blog/">BLOG</a></li>
-            <li{% if page.url contains "/contact/"%} class="active"{% endif %}><a href="{{ site.baseurl }}/contact/">CONTACT</a></li>
             <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">PAGES <b class="caret"></b></a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">PROJECTS <b class="caret"></b></a>
               <ul class="dropdown-menu">
                 <li><a href="{{ site.baseurl }}/single-post.html">SINGLE POST</a></li>
                 <li><a href="{{ site.baseurl }}/portfolio.html">PORTFOLIO</a></li>
                 <li><a href="{{ site.baseurl }}/single-project.html">SINGLE PROJECT</a></li>
               </ul>
             </li>
+            <li{% if page.url contains "/import_sitemap.html"%} class="active"{% endif %}><a href="{{ site.baseurl }}/import_sitemap.html">MAP</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
@@ -108,20 +108,20 @@
 		 			<h4>Elsewhere</h4>
 		 			<div class="hline-w"></div>
 		 			<p>
-            <a href="https://twitter.com/{{ site.owner.twitter }}"><i class="fa fa-twitter"></i></a>
-            <a href="https://github.com/{{ site.owner.github }}"><i class="fa fa-github"></i></a>
-            <a href="http://uk.linkedin.com/in/{{ site.owner.linkedin }}/"><i class="fa fa-linkedin"></i></a>
-            <a href="skype:{{ site.owner.skype }}?chat&amp;topic=Hello"><i class="fa fa-skype"></i></a>
-            <a href="http://stackoverflow.com/users/{{ site.owner.stackoverflow }}"><i class="fa fa-stack-overflow"></i></a>
-            <a href="https://plus.google.com/+{{ site.owner.google_plus }}"><i class="fa fa-google-plus"></i></a>
-            <a href="https://www.facebook.com/{{ site.owner.facebook }}"><i class="fa fa-facebook"></i></a>
+            <a href="https://twitter.com/{{ site.owner.twitter }}" title="Twitter"><i class="fa fa-twitter"></i></a>
+            <a href="https://github.com/{{ site.owner.github }}" title="GitHub"><i class="fa fa-github"></i></a>
+            <a href="http://qanda.digipres.org/user/anjackson" title="DigiPres Q&amp;A"><i class="fa fa-question-circle"></i></a>
+            <a href="http://stackoverflow.com/users/{{ site.owner.stackoverflow }}" title="StackOverflow"><i class="fa fa-stack-overflow"></i></a>
 		 			</p>
 		 		</div>
 		 		<div class="col-md-4">
-		 			<h4>Location</h4>
+		 			<h4>Contact</h4>
 		 			<div class="hline-w"></div>
 		 			<p>
-		 				UK<br/>
+            <a href="mailto:{{ site.owner.email }}" title="Email"><i class="fa fa-pencil-square-o"></i></a>
+            <a href="skype:{{ site.owner.skype }}?chat&amp;topic=Hello" title="Skype"><i class="fa fa-skype"></i></a>
+            <a href="http://uk.linkedin.com/in/{{ site.owner.linkedin }}/" title="LinkedIn"><i class="fa fa-linkedin"></i></a>
+            <a href="https://plus.google.com/+{{ site.owner.google_plus }}"><i class="fa fa-google-plus"></i></a>
 		 			</p>
 		 		</div>
 		 	
