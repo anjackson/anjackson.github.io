@@ -54,9 +54,9 @@ screenshots
 Here are some screenshots of it running on the Acorn Java VM.
 </p>
 <p align="center">
-[image](/node/[image:1294])
-[image](/node/[image:1295])
-[image](/node/[image:1296])
+{% include _image.html nid="1294" %}
+{% include _image.html nid="1295" %}
+{% include _image.html nid="1296" %}
 </p>
 <table width="100%" border="0" cellpadding="5" cellspacing="5"></table>
 </td>

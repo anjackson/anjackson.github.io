@@ -15,7 +15,7 @@ permalink: "/2004/07/16/a-brief-history-of-aero/"
 category: General
 tags: []
 ---
-[image](/node/[image:713,left,10,5])To settle [an argument I was embroiled in](http://anjackson.net/node/714), I wrote to Nestle to ask them about the history of Aero chocolate.  They decided to send me a letter rather than an email (how quaint!), so while I was home and scanned and OCR'd it (so there may be a few character recognition errors).  Here's what they said....
+{% include _image.html nid="713" align="left" hspace="10" vspace="5" width="" %}To settle [an argument I was embroiled in](http://anjackson.net/node/714), I wrote to Nestle to ask them about the history of Aero chocolate.  They decided to send me a letter rather than an email (how quaint!), so while I was home and scanned and OCR'd it (so there may be a few character recognition errors).  Here's what they said....
 <!--break-->
 
 ----

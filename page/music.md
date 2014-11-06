@@ -85,7 +85,7 @@ _Happy Child_, [Tweaker](http://www.tweaker.net/) (The Attraction to All Things 
 
 ----
 
-[image](/node/[right margin=5](image:1434))__Monster__ track has to be _Wow_ from _Final Straw_ by _[Snow Patrol](http://www.snowpatrol.net/)_.  It really rather hits the mark.  In fact the [whole album](http://www.amazon.co.uk/exec/obidos/ASIN/B0001BH15K/202-6537669-9498213) is pretty darned good.  Go get it.  _Spitting Games_ is also a favourite, if only for the lines:
+{% include _image.html nid="1434" align="right" hspace="" vspace="" width="" %}__Monster__ track has to be _Wow_ from _Final Straw_ by _[Snow Patrol](http://www.snowpatrol.net/)_.  It really rather hits the mark.  In fact the [whole album](http://www.amazon.co.uk/exec/obidos/ASIN/B0001BH15K/202-6537669-9498213) is pretty darned good.  Go get it.  _Spitting Games_ is also a favourite, if only for the lines:
 :_My heart is bursting in your perfect eyes_
 :_As blue as oceans and as pure as skies_
 And _Grazed Knees_ is a bit of a stand-out track too.
@@ -166,7 +166,7 @@ _Edinburgh, Summer 2003_
 ----
 
 ### Summer2002 Compilation
-[image](/node/[hspace=5](image:1543))[image](/node/[hspace=5](image:1544))[image](/node/[hspace=5](image:1542))
+{% include _image.html nid="1543" align="" hspace="5" vspace="" width="" %}{% include _image.html nid="1544" align="" hspace="5" vspace="" width="" %}{% include _image.html nid="1542" align="" hspace="5" vspace="" width="" %}
 :1. _gabriel_ - lamb
 :2. _can't get you out of me head_ - kylie
 :3. _destiny_ - zero7

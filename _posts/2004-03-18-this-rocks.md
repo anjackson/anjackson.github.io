@@ -17,7 +17,7 @@ tags: []
 ---
 I mean, this really is rather fine...
 
-[image](/node/[image:11])
+{% include _image.html nid="11" %}
 
 <i>No tax on custard.</i>
 

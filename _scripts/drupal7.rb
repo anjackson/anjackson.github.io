@@ -247,14 +247,44 @@ module JekyllImport
 
           # Deal with the content:
           content = post[:body_value]
-          # Fix up [image:XX] links
-          content = content.gsub(/\[image:([0-9]+)(.*?)\]/) { |nid, args|
-            if args
-              "[image - #{args}](/node/#{nid})"
+          # Fix up [image:XX] links, which come in multiple forms:
+          content = content.gsub(/\[image:([0-9]+)(.*?)\]/) do |match|
+            nid = $1.to_s
+            args = $2.to_s
+            if args != ""
+              align = ""
+              width = ""
+              hspace = ""
+              vspace = ""
+              if args.match(/^,/)
+                parts = args.split(',')
+                align = parts[1]
+                hspace = parts[2]
+                vspace = parts[3]
+              else
+                parts = args.split(" ")
+                if parts[0].match(/left/)
+                  align = "left"
+                  parts = parts.drop(1)
+                elsif parts[0].match(/right/)
+                  align = "right"
+                  parts = parts.drop(1)
+                end
+                for part in parts
+                  if part.match(/^width=/)
+                    width = part.sub(/^width=/,'')
+                  elsif part.match(/^vspace=/)
+                    vspace = part.sub(/^vspace=/,'')
+                  elsif part.match(/^hspace=/)
+                    hspace = part.sub(/^hspace=/,'')
+                  end
+                end
+              end
+              "{% include _image.html nid=\"#{nid}\" align=\"#{align}\" hspace=\"#{hspace}\" vspace=\"#{vspace}\" width=\"#{width}\" %}"
             else
-              "[image](/node/#{nid})"
+              "{% include _image.html nid=\"#{nid}\" %}"
             end
-          }
+          end
           # Convert the content if appropriate:
           if post[:body_format] == "1"
             content = phpwikiToMarkdown(content)

@@ -15,6 +15,6 @@ permalink: "/2004/04/22/more_jam_man/"
 category: Travels
 tags: []
 ---
-[image](/node/[image:543,right,10,5])Milford Sound, with clear blue skies.  I am clearly too lucky by half.  It was just _so beautiful_ - awe inspiring.  Long day, but very very very much worth it.
+{% include _image.html nid="543" align="right" hspace="10" vspace="5" width="" %}Milford Sound, with clear blue skies.  I am clearly too lucky by half.  It was just _so beautiful_ - awe inspiring.  Long day, but very very very much worth it.
 
 Dunedin tommorrow - allegedly the Edinburgh of the southern hemisphere.  As long as there are no _{explicit hyperbole}_ bagpipers there, I'll be happy.  ;)

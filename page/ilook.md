@@ -16,4 +16,4 @@ tags: []
 ---
 ### Jackson through the ages
 
-[image](/node/[image:663])[image](/node/[image:664])[image](/node/[image:665])
+{% include _image.html nid="663" %}{% include _image.html nid="664" %}{% include _image.html nid="665" %}

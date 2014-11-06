@@ -1,0 +1,7 @@
+{% for page in site.pages %}
+{% if page.nid == include.nid %}
+<div style="align:{{include.align}};">
+<img src="{{ page.images[0].src }}">{{ page.images[0].name }}</a>
+</div>
+{% endif %}
+{% endfor %}
