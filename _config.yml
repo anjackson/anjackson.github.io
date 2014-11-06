@@ -2,7 +2,7 @@ title:            andrew.n.jackson
 description:      Fighting entropy since 1993
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 baseurl:              
-disqus_shortname:
+disqus_shortname: anjackson
 
 # Owner/author information
 owner:
