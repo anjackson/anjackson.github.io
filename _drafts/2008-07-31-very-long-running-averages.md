@@ -7,6 +7,7 @@ created_ts: 1217498669
 changed_ts: 1279903479
 node_id: 1827
 title: very long running averages
+author: anj
 created: '2008-07-31'
 changed: '2010-07-23'
 redirect_from:

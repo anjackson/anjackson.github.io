@@ -7,6 +7,7 @@ created_ts: 1080273762
 changed_ts: 1279903481
 node_id: 317
 title: Still faffing....
+author: anj
 created: '2004-03-26'
 changed: '2010-07-23'
 redirect_from:

@@ -7,6 +7,7 @@ created_ts: 1090420320
 changed_ts: 1157466053
 node_id: 740
 title: Web Application Notes
+author: anj
 created: '2004-07-21'
 changed: '2006-09-05'
 redirect_from:

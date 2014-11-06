@@ -7,6 +7,7 @@ created_ts: 1184344732
 changed_ts: 1279960553
 node_id: 1802
 title: Bookstore
+author: anj
 created: '2007-07-13'
 changed: '2010-07-24'
 redirect_from:

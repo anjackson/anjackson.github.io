@@ -7,6 +7,7 @@ created_ts: 1083634690
 changed_ts: 1279903479
 node_id: 549
 title: silly google
+author: anj
 created: '2004-05-04'
 changed: '2010-07-23'
 redirect_from:

@@ -7,6 +7,7 @@ created_ts: 1100741197
 changed_ts: 1100741197
 node_id: 1536
 title: Jude
+author: anj
 created: '2004-11-18'
 changed: '2004-11-18'
 redirect_from: []

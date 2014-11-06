@@ -7,6 +7,7 @@ created_ts: 1084357483
 changed_ts: 1201005196
 node_id: 593
 title: ilike
+author: anj
 created: '2004-05-12'
 changed: '2008-01-22'
 redirect_from:

@@ -7,6 +7,7 @@ created_ts: 1079763742
 changed_ts: 1132135113
 node_id: 10
 title: Welcome
+author: anj
 created: '2004-03-20'
 changed: '2005-11-16'
 redirect_from: []

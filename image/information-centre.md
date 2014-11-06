@@ -7,6 +7,7 @@ created_ts: 1169198025
 changed_ts: 1372159490
 node_id: 1743
 title: Information centre
+author: anj
 created: '2007-01-19'
 changed: '2013-06-25'
 redirect_from:

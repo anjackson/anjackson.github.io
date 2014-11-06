@@ -7,6 +7,7 @@ created_ts: 1079659585
 changed_ts: 1279903481
 node_id: 3
 title: Getting there...
+author: anj
 created: '2004-03-19'
 changed: '2010-07-23'
 redirect_from:

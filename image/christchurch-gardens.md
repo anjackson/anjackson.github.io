@@ -7,6 +7,7 @@ created_ts: 1092143863
 changed_ts: 1372159446
 node_id: 1194
 title: Christchurch gardens
+author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
 redirect_from:

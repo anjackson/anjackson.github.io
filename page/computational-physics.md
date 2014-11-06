@@ -7,6 +7,7 @@ created_ts: 1084239231
 changed_ts: 1249919395
 node_id: 565
 title: computational physics
+author: anj
 created: '2004-05-11'
 changed: '2009-08-10'
 redirect_from:

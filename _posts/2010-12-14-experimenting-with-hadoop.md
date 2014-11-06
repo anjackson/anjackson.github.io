@@ -7,6 +7,7 @@ created_ts: 1292357861
 changed_ts: 1292613062
 node_id: 1884
 title: Experimenting with Hadoop
+author: anj
 created: '2010-12-14'
 changed: '2010-12-17'
 redirect_from:

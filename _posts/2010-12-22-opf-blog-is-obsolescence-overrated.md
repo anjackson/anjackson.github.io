@@ -7,6 +7,7 @@ created_ts: 1293051185
 changed_ts: 1293051185
 node_id: 1885
 title: 'OPF Blog: Is obsolescence overrated?'
+author: anj
 created: '2010-12-22'
 changed: '2010-12-22'
 redirect_from:

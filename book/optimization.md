@@ -7,6 +7,7 @@ created_ts: 1086138123
 changed_ts: 1086138423
 node_id: 712
 title: Optimization
+author: anj
 created: '2004-06-02'
 changed: '2004-06-02'
 redirect_from: []

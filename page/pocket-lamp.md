@@ -7,6 +7,7 @@ created_ts: 1094465904
 changed_ts: 1104670224
 node_id: 1421
 title: Pocket LAMP
+author: anj
 created: '2004-09-06'
 changed: '2005-01-02'
 redirect_from:

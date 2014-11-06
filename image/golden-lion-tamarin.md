@@ -7,6 +7,7 @@ created_ts: 1170209067
 changed_ts: 1372159500
 node_id: 1785
 title: Golden Lion Tamarin
+author: anj
 created: '2007-01-31'
 changed: '2013-06-25'
 redirect_from:

@@ -7,6 +7,7 @@ created_ts: 1084353777
 changed_ts: 1100132397
 node_id: 589
 title: parseDouble
+author: anj
 created: '2004-05-12'
 changed: '2004-11-11'
 redirect_from:

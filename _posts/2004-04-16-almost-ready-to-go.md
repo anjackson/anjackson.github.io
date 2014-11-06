@@ -7,6 +7,7 @@ created_ts: 1082080653
 changed_ts: 1279903480
 node_id: 537
 title: almost ready to go
+author: anj
 created: '2004-04-16'
 changed: '2010-07-23'
 redirect_from:

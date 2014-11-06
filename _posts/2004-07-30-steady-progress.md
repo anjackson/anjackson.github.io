@@ -7,6 +7,7 @@ created_ts: 1091199971
 changed_ts: 1279903443
 node_id: 981
 title: steady progress
+author: anj
 created: '2004-07-30'
 changed: '2010-07-23'
 redirect_from:

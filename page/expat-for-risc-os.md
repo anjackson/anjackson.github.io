@@ -7,6 +7,7 @@ created_ts: 1086042085
 changed_ts: 1170908657
 node_id: 705
 title: Expat for RISC OS
+author: anj
 created: '2004-05-31'
 changed: '2007-02-08'
 redirect_from:

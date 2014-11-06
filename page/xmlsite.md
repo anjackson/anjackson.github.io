@@ -7,6 +7,7 @@ created_ts: 1086044031
 changed_ts: 1170908525
 node_id: 706
 title: XMLSite
+author: anj
 created: '2004-05-31'
 changed: '2007-02-08'
 redirect_from:

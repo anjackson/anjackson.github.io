@@ -7,6 +7,7 @@ created_ts: 1084483569
 changed_ts: 1249919983
 node_id: 693
 title: Zaurus
+author: anj
 created: '2004-05-13'
 changed: '2009-08-10'
 redirect_from:

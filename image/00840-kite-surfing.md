@@ -7,6 +7,7 @@ created_ts: 1080280814
 changed_ts: 1372159368
 node_id: 426
 title: 00840 - Kite-surfing
+author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
 redirect_from: []

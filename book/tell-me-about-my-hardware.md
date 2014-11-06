@@ -7,6 +7,7 @@ created_ts: 1159560221
 changed_ts: 1217427157
 node_id: 1685
 title: Tell me about my hardware.
+author: anj
 created: '2006-09-29'
 changed: '2008-07-30'
 redirect_from:

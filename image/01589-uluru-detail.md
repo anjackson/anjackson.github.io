@@ -7,6 +7,7 @@ created_ts: 1080280743
 changed_ts: 1372159365
 node_id: 384
 title: 01589 Uluru Detail
+author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
 redirect_from: []

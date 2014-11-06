@@ -7,6 +7,7 @@ created_ts: 1090862126
 changed_ts: 1372159415
 node_id: 923
 title: 02713 Tongariro Far End View
+author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
 redirect_from: []

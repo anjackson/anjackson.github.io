@@ -7,6 +7,7 @@ created_ts: 1104669542
 changed_ts: 1104670082
 node_id: 1581
 title: Formatting an SD card as ext2
+author: anj
 created: '2005-01-02'
 changed: '2005-01-02'
 redirect_from:

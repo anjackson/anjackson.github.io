@@ -7,6 +7,7 @@ created_ts: 1090862175
 changed_ts: 1372159420
 node_id: 956
 title: Somewhere
+author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
 redirect_from:

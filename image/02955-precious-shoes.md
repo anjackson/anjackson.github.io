@@ -7,6 +7,7 @@ created_ts: 1092143228
 changed_ts: 1372159429
 node_id: 1047
 title: 02955 Precious Shoes
+author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
 redirect_from: []

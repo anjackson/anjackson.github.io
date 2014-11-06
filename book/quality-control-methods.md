@@ -7,6 +7,7 @@ created_ts: 1250001513
 changed_ts: 1250001513
 node_id: 1862
 title: Quality Control Methods
+author: anj
 created: '2009-08-11'
 changed: '2009-08-11'
 redirect_from:

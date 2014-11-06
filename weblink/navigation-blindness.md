@@ -7,6 +7,7 @@ created_ts: 1104969770
 changed_ts: 1104969830
 node_id: 1587
 title: Navigation Blindness
+author: anj
 created: '2005-01-06'
 changed: '2005-01-06'
 redirect_from:

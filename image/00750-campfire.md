@@ -7,6 +7,7 @@ created_ts: 1080280731
 changed_ts: 1372159356
 node_id: 329
 title: 00750 - Campfire
+author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
 redirect_from: []

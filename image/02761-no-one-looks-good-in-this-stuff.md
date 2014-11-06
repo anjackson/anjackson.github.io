@@ -7,6 +7,7 @@ created_ts: 1090862115
 changed_ts: 1372159417
 node_id: 934
 title: 02761 No-one looks good in this stuff
+author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
 redirect_from: []

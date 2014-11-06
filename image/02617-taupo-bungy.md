@@ -7,6 +7,7 @@ created_ts: 1090862000
 changed_ts: 1372159410
 node_id: 884
 title: 02617 Taupo Bungy
+author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
 redirect_from: []

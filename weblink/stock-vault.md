@@ -7,6 +7,7 @@ created_ts: 1101961149
 changed_ts: 1101961209
 node_id: 1548
 title: Stock Vault
+author: anj
 created: '2004-12-02'
 changed: '2004-12-02'
 redirect_from: []

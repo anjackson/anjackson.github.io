@@ -7,6 +7,7 @@ created_ts: 1291924474
 changed_ts: 1291924474
 node_id: 1883
 title: 'OPF Blog: Breaking Down The Format Registry'
+author: anj
 created: '2010-12-09'
 changed: '2010-12-09'
 redirect_from:

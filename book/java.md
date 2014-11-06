@@ -7,6 +7,7 @@ created_ts: 1092136033
 changed_ts: 1250375019
 node_id: 986
 title: Java
+author: anj
 created: '2004-08-10'
 changed: '2009-08-15'
 redirect_from:

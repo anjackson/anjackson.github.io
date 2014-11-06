@@ -7,6 +7,7 @@ created_ts: 1169196641
 changed_ts: 1372159492
 node_id: 1709
 title: Andy on Santa Monica beach
+author: anj
 created: '2007-01-19'
 changed: '2013-06-25'
 redirect_from:

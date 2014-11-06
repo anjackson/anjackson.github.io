@@ -7,6 +7,7 @@ created_ts: 1100345056
 changed_ts: 1372159474
 node_id: 1478
 title: 04229 Clear Down and Far
+author: anj
 created: '2004-11-13'
 changed: '2013-06-25'
 redirect_from: []

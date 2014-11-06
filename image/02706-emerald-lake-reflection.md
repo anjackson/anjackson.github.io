@@ -7,6 +7,7 @@ created_ts: 1090862059
 changed_ts: 1372159415
 node_id: 917
 title: 02706 Emerald Lake Reflection
+author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
 redirect_from: []

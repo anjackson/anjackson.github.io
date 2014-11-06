@@ -7,6 +7,7 @@ created_ts: 1146863933
 changed_ts: 1372159471
 node_id: 1616
 title: the ring itself
+author: anj
 created: '2006-05-05'
 changed: '2013-06-25'
 redirect_from:

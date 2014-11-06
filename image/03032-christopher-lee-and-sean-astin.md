@@ -7,6 +7,7 @@ created_ts: 1092143478
 changed_ts: 1372159432
 node_id: 1084
 title: 03032 Christopher Lee and Sean Astin
+author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
 redirect_from: []

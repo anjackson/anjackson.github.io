@@ -7,6 +7,7 @@ created_ts: 1090862047
 changed_ts: 1372159415
 node_id: 913
 title: 02698 Blue Lake
+author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
 redirect_from: []

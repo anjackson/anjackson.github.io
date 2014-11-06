@@ -7,6 +7,7 @@ created_ts: 1079759798
 changed_ts: 1279903369
 node_id: 7
 title: Skinning up.
+author: anj
 created: '2004-03-20'
 changed: '2010-07-23'
 redirect_from:

@@ -7,6 +7,7 @@ created_ts: 1096039460
 changed_ts: 1096646900
 node_id: 1425
 title: Fly to NZ
+author: anj
 created: '2004-09-24'
 changed: '2004-10-01'
 redirect_from: []

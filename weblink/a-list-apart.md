@@ -7,6 +7,7 @@ created_ts: 1100660981
 changed_ts: 1100661221
 node_id: 1525
 title: a list apart
+author: anj
 created: '2004-11-17'
 changed: '2004-11-17'
 redirect_from: []

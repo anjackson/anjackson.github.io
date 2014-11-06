@@ -7,6 +7,7 @@ created_ts: 1080280801
 changed_ts: 1372159372
 node_id: 433
 title: 01636 King's Canyon Oasis
+author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
 redirect_from: []

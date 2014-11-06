@@ -7,6 +7,7 @@ created_ts: 1086044261
 changed_ts: 1170909811
 node_id: 710
 title: Gloop
+author: anj
 created: '2004-05-31'
 changed: '2007-02-08'
 redirect_from:

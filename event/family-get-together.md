@@ -7,6 +7,7 @@ created_ts: 1092663218
 changed_ts: 1092663338
 node_id: 1309
 title: Family get-together
+author: anj
 created: '2004-08-16'
 changed: '2004-08-16'
 redirect_from: []

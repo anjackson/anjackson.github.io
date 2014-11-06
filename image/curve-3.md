@@ -7,6 +7,7 @@ created_ts: 1084406767
 changed_ts: 1372159385
 node_id: 626
 title: curve.3
+author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
 redirect_from: []

@@ -7,6 +7,7 @@ created_ts: 1080280720
 changed_ts: 1372159358
 node_id: 338
 title: 00912 - Monkey & Stoat
+author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
 redirect_from: []

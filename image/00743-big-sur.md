@@ -7,6 +7,7 @@ created_ts: 1063878415
 changed_ts: 1372159368
 node_id: 424
 title: 00743 - Big Sur
+author: anj
 created: '2003-09-18'
 changed: '2013-06-25'
 redirect_from: []

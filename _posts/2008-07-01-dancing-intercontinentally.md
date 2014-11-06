@@ -7,6 +7,7 @@ created_ts: 1214939781
 changed_ts: 1279903365
 node_id: 1816
 title: dancing, intercontinentally
+author: anj
 created: '2008-07-01'
 changed: '2010-07-23'
 redirect_from:

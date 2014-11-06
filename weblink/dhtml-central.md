@@ -7,6 +7,7 @@ created_ts: 1100741298
 changed_ts: 1100741358
 node_id: 1538
 title: DHTML Central
+author: anj
 created: '2004-11-18'
 changed: '2004-11-18'
 redirect_from: []

@@ -7,6 +7,7 @@ created_ts: 1084232382
 changed_ts: 1372159380
 node_id: 563
 title: Lattice Switch Monte Carlo Poster
+author: anj
 created: '2004-05-11'
 changed: '2013-06-25'
 redirect_from:

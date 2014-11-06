@@ -7,6 +7,7 @@ created_ts: 1299274633
 changed_ts: 1301501212
 node_id: 1888
 title: 'OPF Blog: Normalisation Strategies & Trimming The Access Stack'
+author: anj
 created: '2011-03-04'
 changed: '2011-03-30'
 redirect_from:

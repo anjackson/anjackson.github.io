@@ -7,6 +7,7 @@ created_ts: 1184940182
 changed_ts: 1279960494
 node_id: 1807
 title: merchandise
+author: anj
 created: '2007-07-20'
 changed: '2010-07-24'
 redirect_from:

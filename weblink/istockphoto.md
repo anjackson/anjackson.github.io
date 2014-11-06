@@ -7,6 +7,7 @@ created_ts: 1101961106
 changed_ts: 1101961166
 node_id: 1547
 title: iStockPhoto
+author: anj
 created: '2004-12-02'
 changed: '2004-12-02'
 redirect_from: []

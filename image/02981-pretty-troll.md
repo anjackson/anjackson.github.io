@@ -7,6 +7,7 @@ created_ts: 1092143297
 changed_ts: 1372159430
 node_id: 1062
 title: 02981 Pretty Troll
+author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
 redirect_from: []

@@ -7,6 +7,7 @@ created_ts: 1137765071
 changed_ts: 1279903369
 node_id: 1611
 title: hacks & plans
+author: anj
 created: '2006-01-20'
 changed: '2010-07-23'
 redirect_from:

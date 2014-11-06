@@ -7,6 +7,7 @@ created_ts: 1100345033
 changed_ts: 1372159473
 node_id: 1463
 title: 04132 Clear Tasman Waters
+author: anj
 created: '2004-11-13'
 changed: '2013-06-25'
 redirect_from: []

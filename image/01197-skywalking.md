@@ -7,6 +7,7 @@ created_ts: 1080280863
 changed_ts: 1372159373
 node_id: 440
 title: 01197 Skywalking
+author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
 redirect_from: []

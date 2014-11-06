@@ -7,6 +7,7 @@ created_ts: 1084406774
 changed_ts: 1372159385
 node_id: 637
 title: classphoto1996-edit
+author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
 redirect_from:

@@ -7,6 +7,7 @@ created_ts: 1100576835
 changed_ts: 1279903439
 node_id: 1511
 title: a lack of vision
+author: anj
 created: '2004-11-16'
 changed: '2010-07-23'
 redirect_from:

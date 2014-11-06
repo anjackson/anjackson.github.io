@@ -7,6 +7,7 @@ created_ts: 1090861572
 changed_ts: 1372159396
 node_id: 785
 title: Following the camper van
+author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
 redirect_from:

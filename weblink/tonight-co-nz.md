@@ -7,6 +7,7 @@ created_ts: 1102037426
 changed_ts: 1102037486
 node_id: 1558
 title: tonight.co.nz
+author: anj
 created: '2004-12-03'
 changed: '2004-12-03'
 redirect_from: []

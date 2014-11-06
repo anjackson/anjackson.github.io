@@ -7,6 +7,7 @@ created_ts: 1104670915
 changed_ts: 1279903438
 node_id: 1585
 title: happy new year
+author: anj
 created: '2005-01-02'
 changed: '2010-07-23'
 redirect_from:

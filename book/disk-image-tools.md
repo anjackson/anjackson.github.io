@@ -7,6 +7,7 @@ created_ts: 1251885671
 changed_ts: 1251887682
 node_id: 1869
 title: Disk Image Tools
+author: anj
 created: '2009-09-02'
 changed: '2009-09-02'
 redirect_from:

@@ -7,6 +7,7 @@ created_ts: 1084353416
 changed_ts: 1170908212
 node_id: 588
 title: The Forces Of Nature
+author: anj
 created: '2004-05-12'
 changed: '2007-02-08'
 redirect_from:

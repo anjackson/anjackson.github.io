@@ -7,6 +7,7 @@ created_ts: 1088947098
 changed_ts: 1279903445
 node_id: 730
 title: cambodia rocks
+author: anj
 created: '2004-07-04'
 changed: '2010-07-23'
 redirect_from:

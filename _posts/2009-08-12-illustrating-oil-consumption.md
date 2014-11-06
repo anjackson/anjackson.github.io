@@ -7,6 +7,7 @@ created_ts: 1250086352
 changed_ts: 1279903361
 node_id: 1864
 title: illustrating oil consumption
+author: anj
 created: '2009-08-12'
 changed: '2010-07-23'
 redirect_from:

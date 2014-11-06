@@ -7,6 +7,7 @@ created_ts: 1084351538
 changed_ts: 1170907688
 node_id: 578
 title: Electro-optics Simulation
+author: anj
 created: '2004-05-12'
 changed: '2007-02-08'
 redirect_from:

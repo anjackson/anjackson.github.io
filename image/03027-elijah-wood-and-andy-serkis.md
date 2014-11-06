@@ -7,6 +7,7 @@ created_ts: 1092143404
 changed_ts: 1372159432
 node_id: 1082
 title: 03027 Elijah Wood and Andy Serkis
+author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
 redirect_from: []

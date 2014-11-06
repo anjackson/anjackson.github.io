@@ -7,6 +7,7 @@ created_ts: 1169720513
 changed_ts: 1279903365
 node_id: 1767
 title: otari-wilton's bush
+author: anj
 created: '2007-01-25'
 changed: '2010-07-23'
 redirect_from:

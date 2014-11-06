@@ -7,6 +7,7 @@ created_ts: 1084352793
 changed_ts: 1170907900
 node_id: 584
 title: Finite Difference Simulation of a One Dimensional Harmonic Oscillator
+author: anj
 created: '2004-05-12'
 changed: '2007-02-08'
 redirect_from:

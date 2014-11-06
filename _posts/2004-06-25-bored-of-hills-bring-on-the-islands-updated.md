@@ -7,6 +7,7 @@ created_ts: 1088163587
 changed_ts: 1279903445
 node_id: 724
 title: bored of hills, bring on the islands [updated]
+author: anj
 created: '2004-06-25'
 changed: '2010-07-23'
 redirect_from:

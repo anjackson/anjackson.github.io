@@ -7,6 +7,7 @@ created_ts: 1090862121
 changed_ts: 1372159417
 node_id: 935
 title: 02765 Abseiling In Waitomo
+author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
 redirect_from: []

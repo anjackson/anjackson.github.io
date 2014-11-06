@@ -7,6 +7,7 @@ created_ts: 1096465605
 changed_ts: 1279903440
 node_id: 1427
 title: reassuringly expensive
+author: anj
 created: '2004-09-29'
 changed: '2010-07-23'
 redirect_from:

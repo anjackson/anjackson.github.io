@@ -7,6 +7,7 @@ created_ts: 1084406799
 changed_ts: 1372159386
 node_id: 651
 title: y2003-thmb
+author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
 redirect_from: []

@@ -7,6 +7,7 @@ created_ts: 1080280694
 changed_ts: 1372159354
 node_id: 323
 title: 00672 Santa Monica Pier
+author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
 redirect_from: []

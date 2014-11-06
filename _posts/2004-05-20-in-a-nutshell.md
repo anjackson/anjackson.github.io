@@ -7,6 +7,7 @@ created_ts: 1085037663
 changed_ts: 1279903479
 node_id: 697
 title: in a nutshell
+author: anj
 created: '2004-05-20'
 changed: '2010-07-23'
 redirect_from:

@@ -7,6 +7,7 @@ created_ts: 1104228793
 changed_ts: 1279903438
 node_id: 1573
 title: gratuitous maximus
+author: anj
 created: '2004-12-28'
 changed: '2010-07-23'
 redirect_from:

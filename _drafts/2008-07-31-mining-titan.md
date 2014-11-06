@@ -7,6 +7,7 @@ created_ts: 1217510507
 changed_ts: 1279903364
 node_id: 1828
 title: mining titan
+author: anj
 created: '2008-07-31'
 changed: '2010-07-23'
 redirect_from:

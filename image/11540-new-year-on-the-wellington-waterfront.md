@@ -7,6 +7,7 @@ created_ts: 1104670679
 changed_ts: 1372159482
 node_id: 1583
 title: 11540 New Year on the Wellington waterfront
+author: anj
 created: '2005-01-02'
 changed: '2013-06-25'
 redirect_from: []

@@ -7,6 +7,7 @@ created_ts: 1084351372
 changed_ts: 1170907565
 node_id: 577
 title: Interaction-Free Measurements
+author: anj
 created: '2004-05-12'
 changed: '2007-02-08'
 redirect_from:

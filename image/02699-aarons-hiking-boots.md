@@ -7,6 +7,7 @@ created_ts: 1090862084
 changed_ts: 1372159415
 node_id: 914
 title: 02699 Aaron's Hiking Boots
+author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
 redirect_from: []

@@ -7,6 +7,7 @@ created_ts: 1251747565
 changed_ts: 1279903360
 node_id: 1867
 title: around britain in 43 marathons...
+author: anj
 created: '2009-08-31'
 changed: '2010-07-23'
 redirect_from:

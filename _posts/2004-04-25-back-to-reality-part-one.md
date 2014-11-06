@@ -7,6 +7,7 @@ created_ts: 1082888385
 changed_ts: 1279903479
 node_id: 545
 title: back to reality, part one
+author: anj
 created: '2004-04-25'
 changed: '2010-07-23'
 redirect_from:

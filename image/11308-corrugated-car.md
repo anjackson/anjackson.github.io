@@ -7,6 +7,7 @@ created_ts: 1100345292
 changed_ts: 1372159480
 node_id: 1500
 title: 11308 Corrugated Car
+author: anj
 created: '2004-11-13'
 changed: '2013-06-25'
 redirect_from: []

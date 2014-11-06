@@ -7,6 +7,7 @@ created_ts: 1083640767
 changed_ts: 1372159380
 node_id: 548
 title: sphere in a duct 01
+author: anj
 created: '2004-05-04'
 changed: '2013-06-25'
 redirect_from: []

@@ -7,6 +7,7 @@ created_ts: 1249998515
 changed_ts: 1249999076
 node_id: 1860
 title: Property Extraction Tools
+author: anj
 created: '2009-08-11'
 changed: '2009-08-11'
 redirect_from:

@@ -7,6 +7,7 @@ created_ts: 1100581015
 changed_ts: 1100581075
 node_id: 1520
 title: Inkscape
+author: anj
 created: '2004-11-16'
 changed: '2004-11-16'
 redirect_from: []

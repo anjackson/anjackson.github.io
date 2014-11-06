@@ -7,6 +7,7 @@ created_ts: 1100224153
 changed_ts: 1100224273
 node_id: 1455
 title: Google API Proximity Search
+author: anj
 created: '2004-11-12'
 changed: '2004-11-12'
 redirect_from: []

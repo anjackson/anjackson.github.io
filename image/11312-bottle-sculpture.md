@@ -7,6 +7,7 @@ created_ts: 1100345293
 changed_ts: 1372159480
 node_id: 1501
 title: 11312 Bottle Sculpture
+author: anj
 created: '2004-11-13'
 changed: '2013-06-25'
 redirect_from: []

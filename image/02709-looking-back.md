@@ -7,6 +7,7 @@ created_ts: 1090862124
 changed_ts: 1372159415
 node_id: 919
 title: 02709 Looking Back
+author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
 redirect_from: []

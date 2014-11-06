@@ -1,0 +1,7 @@
+{% if page.category %}
+{% for cat in site.cats %}
+{% if cat.name == page.category %}
+<img src="/assets/category_pictures/{{ cat.picture }}" alt="{{ page.category }}" class="category-icon"/>
+{% endif %}
+{% endfor %}
+{% endif %}      

@@ -7,6 +7,7 @@ created_ts: 1092129270
 changed_ts: 1159004653
 node_id: 984
 title: ssh
+author: anj
 created: '2004-08-10'
 changed: '2006-09-23'
 redirect_from:

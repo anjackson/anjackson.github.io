@@ -7,6 +7,7 @@ created_ts: 1184845139
 changed_ts: 1184861351
 node_id: 1806
 title: visualising prime numbers in binary
+author: anj
 created: '2007-07-19'
 changed: '2007-07-19'
 redirect_from:

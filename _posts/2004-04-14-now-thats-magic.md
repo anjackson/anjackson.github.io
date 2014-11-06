@@ -7,6 +7,7 @@ created_ts: 1081981602
 changed_ts: 1279903480
 node_id: 534
 title: now that's magic!
+author: anj
 created: '2004-04-14'
 changed: '2010-07-23'
 redirect_from:

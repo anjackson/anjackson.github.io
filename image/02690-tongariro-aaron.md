@@ -7,6 +7,7 @@ created_ts: 1090862086
 changed_ts: 1372159413
 node_id: 907
 title: 02690 Tongariro Aaron
+author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
 redirect_from: []

@@ -7,6 +7,7 @@ created_ts: 1080280872
 changed_ts: 1372159373
 node_id: 447
 title: 01600 Outback Bonfire
+author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
 redirect_from: []

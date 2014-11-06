@@ -7,6 +7,7 @@ created_ts: 1092143129
 changed_ts: 1372159427
 node_id: 1031
 title: Lunch stop
+author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
 redirect_from:

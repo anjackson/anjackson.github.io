@@ -7,6 +7,7 @@ created_ts: 1087110108
 changed_ts: 1279903479
 node_id: 716
 title: excited & scared & sad & hopeful
+author: anj
 created: '2004-06-13'
 changed: '2010-07-23'
 redirect_from:

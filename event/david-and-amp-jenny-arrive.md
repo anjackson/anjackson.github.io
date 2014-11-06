@@ -7,6 +7,7 @@ created_ts: 1084325739
 changed_ts: 1085353959
 node_id: 571
 title: David &amp; Jenny arrive.
+author: anj
 created: '2004-05-12'
 changed: '2004-05-24'
 redirect_from: []

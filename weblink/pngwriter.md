@@ -7,6 +7,7 @@ created_ts: 1104923885
 changed_ts: 1104924185
 node_id: 1586
 title: PNGwriter
+author: anj
 created: '2005-01-05'
 changed: '2005-01-05'
 redirect_from:

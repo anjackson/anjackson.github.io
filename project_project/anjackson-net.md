@@ -7,6 +7,7 @@ created_ts: 1084757701
 changed_ts: 1084758781
 node_id: 695
 title: anjackson.net
+author: anj
 created: '2004-05-17'
 changed: '2004-05-17'
 redirect_from:

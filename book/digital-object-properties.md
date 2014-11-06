@@ -7,6 +7,7 @@ created_ts: 1249995677
 changed_ts: 1249998578
 node_id: 1855
 title: Digital Object Properties
+author: anj
 created: '2009-08-11'
 changed: '2009-08-11'
 redirect_from:

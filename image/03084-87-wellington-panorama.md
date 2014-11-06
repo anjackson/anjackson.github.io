@@ -7,6 +7,7 @@ created_ts: 1100345020
 changed_ts: 1372159473
 node_id: 1456
 title: 03084-87 Wellington Panorama
+author: anj
 created: '2004-11-13'
 changed: '2013-06-25'
 redirect_from: []

@@ -7,6 +7,7 @@ created_ts: 1094741382
 changed_ts: 1279903440
 node_id: 1422
 title: beautiful visage
+author: anj
 created: '2004-09-09'
 changed: '2010-07-23'
 redirect_from:

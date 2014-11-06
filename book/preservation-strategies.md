@@ -7,6 +7,7 @@ created_ts: 1249916936
 changed_ts: 1250001605
 node_id: 1850
 title: Preservation Strategies
+author: anj
 created: '2009-08-10'
 changed: '2009-08-11'
 redirect_from:

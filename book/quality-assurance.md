@@ -7,6 +7,7 @@ created_ts: 1249996935
 changed_ts: 1249996935
 node_id: 1856
 title: Quality Assurance
+author: anj
 created: '2009-08-11'
 changed: '2009-08-11'
 redirect_from:

@@ -7,6 +7,7 @@ created_ts: 1102037326
 changed_ts: 1102037326
 node_id: 1557
 title: World Sunlight Map
+author: anj
 created: '2004-12-03'
 changed: '2004-12-03'
 redirect_from: []

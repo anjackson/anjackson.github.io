@@ -7,6 +7,7 @@ created_ts: 1092651908
 changed_ts: 1093620248
 node_id: 1303
 title: The Big Trip 2003-2004
+author: anj
 created: '2004-08-16'
 changed: '2004-08-27'
 redirect_from: []

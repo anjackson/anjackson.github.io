@@ -7,6 +7,7 @@ created_ts: 1100345303
 changed_ts: 1372159480
 node_id: 1508
 title: 11362 Boat Shed Harbour
+author: anj
 created: '2004-11-13'
 changed: '2013-06-25'
 redirect_from: []

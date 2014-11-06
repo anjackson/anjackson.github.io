@@ -7,6 +7,7 @@ created_ts: 1103757946
 changed_ts: 1103758306
 node_id: 1571
 title: grand parade
+author: anj
 created: '2004-12-22'
 changed: '2004-12-22'
 redirect_from: []

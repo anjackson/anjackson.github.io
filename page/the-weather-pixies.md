@@ -7,6 +7,7 @@ created_ts: 1082071943
 changed_ts: 1082072423
 node_id: 536
 title: The Weather Pixies
+author: anj
 created: '2004-04-16'
 changed: '2004-04-16'
 redirect_from: []

@@ -7,6 +7,7 @@ created_ts: 1182429493
 changed_ts: 1184845224
 node_id: 1800
 title: Keep Calm and Carry On
+author: anj
 created: '2007-06-21'
 changed: '2007-07-19'
 redirect_from:

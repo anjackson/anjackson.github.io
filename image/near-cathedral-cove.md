@@ -7,6 +7,7 @@ created_ts: 1090861580
 changed_ts: 1372159398
 node_id: 795
 title: Near Cathedral Cove
+author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
 redirect_from:

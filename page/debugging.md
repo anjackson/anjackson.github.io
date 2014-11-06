@@ -7,6 +7,7 @@ created_ts: 1081225437
 changed_ts: 1086138477
 node_id: 529
 title: Debugging
+author: anj
 created: '2004-04-06'
 changed: '2004-06-02'
 redirect_from:

@@ -7,6 +7,7 @@ created_ts: 1099452425
 changed_ts: 1228416820
 node_id: 1438
 title: the next four years
+author: anj
 created: '2004-11-03'
 changed: '2008-12-04'
 redirect_from:

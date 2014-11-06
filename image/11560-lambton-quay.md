@@ -7,6 +7,7 @@ created_ts: 1104670680
 changed_ts: 1372159482
 node_id: 1584
 title: 11560 Lambton Quay
+author: anj
 created: '2005-01-02'
 changed: '2013-06-25'
 redirect_from: []

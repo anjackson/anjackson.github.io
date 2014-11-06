@@ -7,6 +7,7 @@ created_ts: 1079846167
 changed_ts: 1103601127
 node_id: 13
 title: Drupal
+author: anj
 created: '2004-03-21'
 changed: '2004-12-21'
 redirect_from:

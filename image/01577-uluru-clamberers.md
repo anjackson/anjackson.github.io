@@ -7,6 +7,7 @@ created_ts: 1080280772
 changed_ts: 1372159365
 node_id: 383
 title: 01577 Uluru Clamberers
+author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
 redirect_from: []

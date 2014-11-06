@@ -7,6 +7,7 @@ created_ts: 1100049130
 changed_ts: 1100061610
 node_id: 1441
 title: No More Socks
+author: anj
 created: '2004-11-10'
 changed: '2004-11-10'
 redirect_from: []

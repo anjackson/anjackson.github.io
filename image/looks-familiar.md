@@ -7,6 +7,7 @@ created_ts: 1169196765
 changed_ts: 1372159494
 node_id: 1719
 title: Looks familiar
+author: anj
 created: '2007-01-19'
 changed: '2013-06-25'
 redirect_from:

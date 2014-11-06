@@ -7,6 +7,7 @@ created_ts: 1214591133
 changed_ts: 1249995247
 node_id: 1813
 title: the science of digital preservation
+author: anj
 created: '2008-06-27'
 changed: '2009-08-11'
 redirect_from:

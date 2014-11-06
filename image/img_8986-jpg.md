@@ -7,6 +7,7 @@ created_ts: 1090862040
 changed_ts: 1372159411
 node_id: 895
 title: IMG_8986.JPG
+author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
 redirect_from:

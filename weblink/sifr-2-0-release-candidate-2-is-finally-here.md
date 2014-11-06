@@ -7,6 +7,7 @@ created_ts: 1104404925
 changed_ts: 1104405105
 node_id: 1579
 title: 'sIFR 2.0: Release Candidate 2 is Finally Here'
+author: anj
 created: '2004-12-30'
 changed: '2004-12-30'
 redirect_from:

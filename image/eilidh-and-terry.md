@@ -7,6 +7,7 @@ created_ts: 1148934543
 changed_ts: 1372159482
 node_id: 1623
 title: Eilidh & Terry
+author: anj
 created: '2006-05-29'
 changed: '2013-06-25'
 redirect_from:

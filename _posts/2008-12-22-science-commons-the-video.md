@@ -7,6 +7,7 @@ created_ts: 1229982043
 changed_ts: 1279996823
 node_id: 1835
 title: science commons, the video
+author: anj
 created: '2008-12-22'
 changed: '2010-07-24'
 redirect_from:

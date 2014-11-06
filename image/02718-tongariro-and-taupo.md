@@ -7,6 +7,7 @@ created_ts: 1090862106
 changed_ts: 1372159417
 node_id: 925
 title: 02718 Tongariro & Taupo
+author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
 redirect_from: []

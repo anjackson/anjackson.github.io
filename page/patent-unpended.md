@@ -7,6 +7,7 @@ created_ts: 1085038249
 changed_ts: 1085038549
 node_id: 698
 title: Patent Unpended
+author: anj
 created: '2004-05-20'
 changed: '2004-05-20'
 redirect_from: []

@@ -7,6 +7,7 @@ created_ts: 1154210848
 changed_ts: 1372159485
 node_id: 1641
 title: 23071 Insy Winsy
+author: anj
 created: '2006-07-29'
 changed: '2013-06-25'
 redirect_from:

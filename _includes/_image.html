@@ -1,8 +1,10 @@
-{% for ref in site.pages %}
-{% capture nid %}{{ ref.node_id }}{% endcapture %}
-{% if nid == include.nid %}
-<div style="float:{{ include.align }};">
-<img src="{{ site.baseurl }}/{{ ref.images[0].src }}" alt="{{ ref.images[0].name }}" class="img-responsive img-thumbnail"/>
-</div>
+{% if include.align %}
+ {% if include.align == "right" %}
+  {% assign imgclass="pull-right" %}
+ {% elsif include.align == "left" %}
+  {% assign imgclass="pull-left" %}
+ {% endif %}
+{% else %}
+ {% assign imgclass="center-block" %}
 {% endif %}
-{% endfor %}
+<img src="{{ site.baseurl }}/{{ site.data.images[include.nid] }}" alt="{{ include.title }}" title="{{ include.title }}" class="img-responsive img-thumbnail {{ imgclass }}"/>

@@ -7,6 +7,7 @@ created_ts: 1083724219
 changed_ts: 1279903479
 node_id: 550
 title: clever google
+author: anj
 created: '2004-05-05'
 changed: '2010-07-23'
 redirect_from:

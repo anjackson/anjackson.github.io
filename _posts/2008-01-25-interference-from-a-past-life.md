@@ -7,6 +7,7 @@ created_ts: 1201296337
 changed_ts: 1279903365
 node_id: 1810
 title: interference from a past life
+author: anj
 created: '2008-01-25'
 changed: '2010-07-23'
 redirect_from:

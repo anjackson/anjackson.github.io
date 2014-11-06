@@ -7,6 +7,7 @@ created_ts: 1090862154
 changed_ts: 1372159417
 node_id: 926
 title: 02726 Tongariro Secret Steam Spot
+author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
 redirect_from: []

@@ -8,6 +8,7 @@ changed_ts: 1372159430
 node_id: 1057
 title: !binary |-
   MDI5NzEgTmF6Z8ODxpLDgsK7bCBhdCB0aGUgRW1iYXNzeQ==
+author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
 redirect_from: []

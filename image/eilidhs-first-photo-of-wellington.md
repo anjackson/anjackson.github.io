@@ -7,6 +7,7 @@ created_ts: 1169197318
 changed_ts: 1372159494
 node_id: 1725
 title: Eilidh's first photo of Wellington
+author: anj
 created: '2007-01-19'
 changed: '2013-06-25'
 redirect_from:

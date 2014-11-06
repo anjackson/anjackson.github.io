@@ -7,6 +7,7 @@ created_ts: 1263139201
 changed_ts: 1279903360
 node_id: 1870
 title: Testing Posterous...
+author: anj
 created: '2010-01-10'
 changed: '2010-07-23'
 redirect_from:

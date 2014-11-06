@@ -7,6 +7,7 @@ created_ts: 1092136892
 changed_ts: 1092136952
 node_id: 987
 title: XML
+author: anj
 created: '2004-08-10'
 changed: '2004-08-10'
 redirect_from: []

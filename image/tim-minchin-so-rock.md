@@ -7,6 +7,7 @@ created_ts: 1154991684
 changed_ts: 1372159490
 node_id: 1678
 title: Tim Minchin - So Rock
+author: anj
 created: '2006-08-08'
 changed: '2013-06-25'
 redirect_from:

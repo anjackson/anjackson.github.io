@@ -7,6 +7,7 @@ created_ts: 1229981930
 changed_ts: 1229981930
 node_id: 1834
 title: Zoetrope, an interactive time machine for the web
+author: anj
 created: '2008-12-22'
 changed: '2008-12-22'
 redirect_from:

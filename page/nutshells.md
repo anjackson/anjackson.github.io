@@ -7,6 +7,7 @@ created_ts: 1132147670
 changed_ts: 1185551797
 node_id: 1610
 title: nutshells
+author: anj
 created: '2005-11-16'
 changed: '2007-07-27'
 redirect_from:

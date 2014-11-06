@@ -7,6 +7,7 @@ created_ts: 1100579567
 changed_ts: 1100579987
 node_id: 1513
 title: deviantART
+author: anj
 created: '2004-11-16'
 changed: '2004-11-16'
 redirect_from: []

@@ -7,6 +7,7 @@ created_ts: 1100581323
 changed_ts: 1100581383
 node_id: 1522
 title: Blow up a Rolo
+author: anj
 created: '2004-11-16'
 changed: '2004-11-16'
 redirect_from: []

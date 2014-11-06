@@ -7,6 +7,7 @@ created_ts: 1148987787
 changed_ts: 1228416820
 node_id: 1626
 title: 'Stephen Colbert: Harsh, but Fair.'
+author: anj
 created: '2006-05-30'
 changed: '2008-12-04'
 redirect_from:

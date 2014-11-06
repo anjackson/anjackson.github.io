@@ -7,6 +7,7 @@ created_ts: 1184842529
 changed_ts: 1372159500
 node_id: 1803
 title: Primes In Binary Illustration
+author: anj
 created: '2007-07-19'
 changed: '2013-06-25'
 redirect_from:

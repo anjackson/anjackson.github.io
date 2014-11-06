@@ -7,6 +7,7 @@ created_ts: 1079653619
 changed_ts: 1279903481
 node_id: 2
 title: Greetings from Drupal...
+author: anj
 created: '2004-03-18'
 changed: '2010-07-23'
 redirect_from:

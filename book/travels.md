@@ -7,6 +7,7 @@ created_ts: 1092651381
 changed_ts: 1093620261
 node_id: 1302
 title: Travels
+author: anj
 created: '2004-08-16'
 changed: '2004-08-27'
 redirect_from:

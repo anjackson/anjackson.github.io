@@ -7,6 +7,7 @@ created_ts: 1092143853
 changed_ts: 1372159446
 node_id: 1193
 title: Midnight Mass in Christchurch cathedral
+author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
 redirect_from:

@@ -7,6 +7,7 @@ created_ts: 1080280799
 changed_ts: 1372159360
 node_id: 352
 title: 01177 The Opera House
+author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
 redirect_from: []

@@ -7,6 +7,7 @@ created_ts: 1084352637
 changed_ts: 1170907874
 node_id: 583
 title: One-Dimensional Electrostatic Plasma Simulation
+author: anj
 created: '2004-05-12'
 changed: '2007-02-08'
 redirect_from:

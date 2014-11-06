@@ -7,6 +7,7 @@ created_ts: 1085628846
 changed_ts: 1085628966
 node_id: 701
 title: Fly Singapore to Bangkok
+author: anj
 created: '2004-05-27'
 changed: '2004-05-27'
 redirect_from: []

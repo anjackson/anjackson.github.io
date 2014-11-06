@@ -7,6 +7,7 @@ created_ts: 1249917072
 changed_ts: 1281621966
 node_id: 1852
 title: Digital Object Storage
+author: anj
 created: '2009-08-10'
 changed: '2010-08-12'
 redirect_from:

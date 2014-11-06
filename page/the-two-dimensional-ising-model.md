@@ -7,6 +7,7 @@ created_ts: 1084238305
 changed_ts: 1372196493
 node_id: 564
 title: The Two-Dimensional Ising Model
+author: anj
 created: '2004-05-11'
 changed: '2013-06-25'
 redirect_from:

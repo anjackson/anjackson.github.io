@@ -7,6 +7,7 @@ created_ts: 1091810307
 changed_ts: 1279903443
 node_id: 983
 title: the fringe begins
+author: anj
 created: '2004-08-06'
 changed: '2010-07-23'
 redirect_from:

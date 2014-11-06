@@ -7,6 +7,7 @@ created_ts: 1090862001
 changed_ts: 1372159410
 node_id: 885
 title: 02624 Rescuing Aaron
+author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
 redirect_from: []

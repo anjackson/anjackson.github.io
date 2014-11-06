@@ -7,6 +7,7 @@ created_ts: 1090861679
 changed_ts: 1372159403
 node_id: 834
 title: Green lake
+author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
 redirect_from:

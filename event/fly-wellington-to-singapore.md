@@ -7,6 +7,7 @@ created_ts: 1085627683
 changed_ts: 1085628883
 node_id: 700
 title: Fly Wellington to Singapore
+author: anj
 created: '2004-05-27'
 changed: '2004-05-27'
 redirect_from: []

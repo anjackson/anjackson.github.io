@@ -7,6 +7,7 @@ created_ts: 1169196608
 changed_ts: 1372159492
 node_id: 1706
 title: Catherine & Graham's pad
+author: anj
 created: '2007-01-19'
 changed: '2013-06-25'
 redirect_from:

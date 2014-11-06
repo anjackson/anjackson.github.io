@@ -7,6 +7,7 @@ created_ts: 1101952968
 changed_ts: 1102650408
 node_id: 1545
 title: undo
+author: anj
 created: '2004-12-02'
 changed: '2004-12-10'
 redirect_from: []

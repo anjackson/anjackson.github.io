@@ -7,6 +7,7 @@ created_ts: 1154210874
 changed_ts: 1372159485
 node_id: 1645
 title: 20399 On a swing
+author: anj
 created: '2006-07-29'
 changed: '2013-06-25'
 redirect_from:

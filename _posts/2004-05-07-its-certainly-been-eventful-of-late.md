@@ -7,6 +7,7 @@ created_ts: 1083902659
 changed_ts: 1279903479
 node_id: 551
 title: it's certainly been eventful of late
+author: anj
 created: '2004-05-07'
 changed: '2010-07-23'
 redirect_from:

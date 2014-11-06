@@ -7,6 +7,7 @@ created_ts: 1084350944
 changed_ts: 1372196582
 node_id: 575
 title: Take A Chance On Me
+author: anj
 created: '2004-05-12'
 changed: '2013-06-25'
 redirect_from:

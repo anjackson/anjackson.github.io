@@ -7,6 +7,7 @@ created_ts: 1100223123
 changed_ts: 1100223243
 node_id: 1450
 title: Bugxula
+author: anj
 created: '2004-11-12'
 changed: '2004-11-12'
 redirect_from: []

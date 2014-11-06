@@ -7,6 +7,7 @@ created_ts: 1089446470
 changed_ts: 1279903445
 node_id: 732
 title: 'next stop: home'
+author: anj
 created: '2004-07-10'
 changed: '2010-07-23'
 redirect_from:

@@ -7,6 +7,7 @@ created_ts: 1281620961
 changed_ts: 1281620995
 node_id: 1873
 title: RODA
+author: anj
 created: '2010-08-12'
 changed: '2010-08-12'
 redirect_from:

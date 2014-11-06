@@ -7,6 +7,7 @@ created_ts: 1103606488
 changed_ts: 1103606548
 node_id: 1569
 title: LSTM T1
+author: anj
 created: '2004-12-21'
 changed: '2004-12-21'
 redirect_from: []

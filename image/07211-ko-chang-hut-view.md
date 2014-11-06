@@ -7,6 +7,7 @@ created_ts: 1088591606
 changed_ts: 1372159391
 node_id: 728
 title: 07211 - Ko Chang Hut View
+author: anj
 created: '2004-06-30'
 changed: '2013-06-25'
 redirect_from: []

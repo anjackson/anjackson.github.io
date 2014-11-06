@@ -7,6 +7,7 @@ created_ts: 1084758845
 changed_ts: 1084759025
 node_id: 696
 title: labbep
+author: anj
 created: '2004-05-17'
 changed: '2004-05-17'
 redirect_from:

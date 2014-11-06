@@ -7,6 +7,7 @@ created_ts: 1100741084
 changed_ts: 1100741144
 node_id: 1535
 title: Laszlo Systems Open Source Rich Client Platform
+author: anj
 created: '2004-11-18'
 changed: '2004-11-18'
 redirect_from: []

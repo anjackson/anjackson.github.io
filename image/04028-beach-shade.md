@@ -7,6 +7,7 @@ created_ts: 1093016809
 changed_ts: 1372159469
 node_id: 1402
 title: 04028 Beach Shade
+author: anj
 created: '2004-08-20'
 changed: '2013-06-25'
 redirect_from: []

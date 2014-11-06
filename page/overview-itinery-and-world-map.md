@@ -7,6 +7,7 @@ created_ts: 1092650448
 changed_ts: 1093619448
 node_id: 1301
 title: Overview, Itinery & World Map
+author: anj
 created: '2004-08-16'
 changed: '2004-08-27'
 redirect_from: []

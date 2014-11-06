@@ -7,6 +7,7 @@ created_ts: 1092143325
 changed_ts: 1372159430
 node_id: 1068
 title: 02994 Rolling out the red carpet
+author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
 redirect_from: []

@@ -7,6 +7,7 @@ created_ts: 1100578952
 changed_ts: 1132043068
 node_id: 1512
 title: JavaScript
+author: anj
 created: '2004-11-16'
 changed: '2005-11-15'
 redirect_from: []

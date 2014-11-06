@@ -7,6 +7,7 @@ created_ts: 1081910225
 changed_ts: 1279903480
 node_id: 533
 title: buying pies with rainman
+author: anj
 created: '2004-04-14'
 changed: '2010-07-23'
 redirect_from:

@@ -7,6 +7,7 @@ created_ts: 1215373514
 changed_ts: 1228416820
 node_id: 1817
 title: three strikes and you're offline
+author: anj
 created: '2008-07-06'
 changed: '2008-12-04'
 redirect_from:

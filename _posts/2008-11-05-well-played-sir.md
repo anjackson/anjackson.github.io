@@ -7,6 +7,7 @@ created_ts: 1225891517
 changed_ts: 1279903361
 node_id: 1833
 title: well played, sir
+author: anj
 created: '2008-11-05'
 changed: '2010-07-23'
 redirect_from:

@@ -7,6 +7,7 @@ created_ts: 1080280737
 changed_ts: 1372159354
 node_id: 322
 title: 00665 Slick Jeff tucks in.
+author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
 redirect_from: []

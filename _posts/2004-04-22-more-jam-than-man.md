@@ -7,6 +7,7 @@ created_ts: 1082620931
 changed_ts: 1279903479
 node_id: 544
 title: more jam than man
+author: anj
 created: '2004-04-22'
 changed: '2010-07-23'
 redirect_from:

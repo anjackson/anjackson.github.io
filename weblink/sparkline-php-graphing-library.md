@@ -7,6 +7,7 @@ created_ts: 1102375576
 changed_ts: 1102375636
 node_id: 1562
 title: Sparkline PHP Graphing Library
+author: anj
 created: '2004-12-06'
 changed: '2004-12-06'
 redirect_from: []

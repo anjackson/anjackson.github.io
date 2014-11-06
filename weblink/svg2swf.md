@@ -7,6 +7,7 @@ created_ts: 1103600420
 changed_ts: 1103600480
 node_id: 1567
 title: svg2swf
+author: anj
 created: '2004-12-21'
 changed: '2004-12-21'
 redirect_from: []

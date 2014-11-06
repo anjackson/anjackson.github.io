@@ -7,6 +7,7 @@ created_ts: 1100478270
 changed_ts: 1279903439
 node_id: 1510
 title: the wrong speed
+author: anj
 created: '2004-11-15'
 changed: '2010-07-23'
 redirect_from:

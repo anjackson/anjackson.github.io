@@ -7,6 +7,7 @@ created_ts: 1087962053
 changed_ts: 1279903445
 node_id: 723
 title: at least there's hills now
+author: anj
 created: '2004-06-23'
 changed: '2010-07-23'
 redirect_from:

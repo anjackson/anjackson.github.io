@@ -7,6 +7,7 @@ created_ts: 1092650188
 changed_ts: 1372159380
 node_id: 1300
 title: 'TBT: World Map'
+author: anj
 created: '2004-08-16'
 changed: '2013-06-25'
 redirect_from: []

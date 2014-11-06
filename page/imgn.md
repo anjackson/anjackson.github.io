@@ -7,6 +7,7 @@ created_ts: 1080273926
 changed_ts: 1099947446
 node_id: 313
 title: img|n
+author: anj
 created: '2004-03-26'
 changed: '2004-11-08'
 redirect_from: []

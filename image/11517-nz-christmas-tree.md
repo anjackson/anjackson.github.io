@@ -7,6 +7,7 @@ created_ts: 1104670663
 changed_ts: 1372159482
 node_id: 1582
 title: 11517 NZ Christmas Tree
+author: anj
 created: '2005-01-02'
 changed: '2013-06-25'
 redirect_from:

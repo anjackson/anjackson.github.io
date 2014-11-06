@@ -7,6 +7,7 @@ created_ts: 1084240285
 changed_ts: 1249919901
 node_id: 567
 title: risc os
+author: anj
 created: '2004-05-11'
 changed: '2009-08-10'
 redirect_from:

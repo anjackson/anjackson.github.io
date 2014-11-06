@@ -1,5 +1,6 @@
 ---
 title: Site Map
+layout: default
 ---
 * [This rocks.](/2004/03/18/rocks/)
 * [Getting there...](/2004/03/19/getting_there/)

@@ -7,6 +7,7 @@ created_ts: 1084352261
 changed_ts: 1170907781
 node_id: 581
 title: Cake Theory
+author: anj
 created: '2004-05-12'
 changed: '2007-02-08'
 redirect_from:

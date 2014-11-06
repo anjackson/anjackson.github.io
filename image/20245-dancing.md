@@ -7,6 +7,7 @@ created_ts: 1154210853
 changed_ts: 1372159485
 node_id: 1642
 title: 20245 Dancing
+author: anj
 created: '2006-07-29'
 changed: '2013-06-25'
 redirect_from:

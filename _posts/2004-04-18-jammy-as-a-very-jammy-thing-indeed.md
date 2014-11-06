@@ -7,6 +7,7 @@ created_ts: 1082270388
 changed_ts: 1279903479
 node_id: 540
 title: jammy as a very jammy thing indeed
+author: anj
 created: '2004-04-18'
 changed: '2010-07-23'
 redirect_from:

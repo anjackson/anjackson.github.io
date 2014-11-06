@@ -7,6 +7,7 @@ created_ts: 1155313692
 changed_ts: 1159004663
 node_id: 1682
 title: What OS and compiler is this?
+author: anj
 created: '2006-08-11'
 changed: '2006-09-23'
 redirect_from:

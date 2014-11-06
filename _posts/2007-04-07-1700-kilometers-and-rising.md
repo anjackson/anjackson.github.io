@@ -7,6 +7,7 @@ created_ts: 1175938007
 changed_ts: 1279903365
 node_id: 1793
 title: 1,700 kilometers and rising...
+author: anj
 created: '2007-04-07'
 changed: '2010-07-23'
 redirect_from:

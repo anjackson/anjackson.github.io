@@ -7,6 +7,7 @@ created_ts: 1111456157
 changed_ts: 1279903369
 node_id: 1602
 title: don't panic
+author: anj
 created: '2005-03-22'
 changed: '2010-07-23'
 redirect_from:

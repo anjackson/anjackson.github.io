@@ -7,6 +7,7 @@ created_ts: 1080280696
 changed_ts: 1372159356
 node_id: 324
 title: 00678 - Santa Monica Beach
+author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
 redirect_from: []

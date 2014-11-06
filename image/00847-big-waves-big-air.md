@@ -7,6 +7,7 @@ created_ts: 1080280801
 changed_ts: 1372159370
 node_id: 428
 title: 00847 - Big waves, big air.
+author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
 redirect_from: []

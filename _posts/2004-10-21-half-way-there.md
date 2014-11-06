@@ -7,6 +7,7 @@ created_ts: 1098377156
 changed_ts: 1279903440
 node_id: 1436
 title: half-way there
+author: anj
 created: '2004-10-21'
 changed: '2010-07-23'
 redirect_from:

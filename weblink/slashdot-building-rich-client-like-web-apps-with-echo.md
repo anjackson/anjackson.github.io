@@ -7,6 +7,7 @@ created_ts: 1100740608
 changed_ts: 1100740608
 node_id: 1531
 title: 'Slashdot: Building Rich-Client-Like Web Apps With Echo'
+author: anj
 created: '2004-11-18'
 changed: '2004-11-18'
 redirect_from: []

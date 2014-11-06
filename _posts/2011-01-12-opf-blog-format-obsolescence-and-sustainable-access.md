@@ -7,6 +7,7 @@ created_ts: 1294863462
 changed_ts: 1294912675
 node_id: 1886
 title: 'OPF Blog: Format Obsolescence and Sustainable Access'
+author: anj
 created: '2011-01-12'
 changed: '2011-01-13'
 redirect_from:

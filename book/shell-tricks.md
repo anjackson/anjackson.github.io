@@ -7,6 +7,7 @@ created_ts: 1092135347
 changed_ts: 1159560302
 node_id: 985
 title: Shell Tricks
+author: anj
 created: '2004-08-10'
 changed: '2006-09-29'
 redirect_from:

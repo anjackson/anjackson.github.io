@@ -7,6 +7,7 @@ created_ts: 1154471051
 changed_ts: 1372159490
 node_id: 1673
 title: 30263 At Karen & Euan's Wedding
+author: anj
 created: '2006-08-01'
 changed: '2013-06-25'
 redirect_from:

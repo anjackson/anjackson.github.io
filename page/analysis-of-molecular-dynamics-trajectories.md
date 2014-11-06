@@ -7,6 +7,7 @@ created_ts: 1084352972
 changed_ts: 1170907938
 node_id: 585
 title: Analysis of molecular dynamics trajectories
+author: anj
 created: '2004-05-12'
 changed: '2007-02-08'
 redirect_from:

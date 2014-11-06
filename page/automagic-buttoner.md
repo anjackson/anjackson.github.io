@@ -7,6 +7,7 @@ created_ts: 1103759892
 changed_ts: 1279903438
 node_id: 1572
 title: automagic buttoner
+author: anj
 created: '2004-12-22'
 changed: '2010-07-23'
 redirect_from: []

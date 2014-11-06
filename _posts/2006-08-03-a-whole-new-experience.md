@@ -7,6 +7,7 @@ created_ts: 1154639250
 changed_ts: 1279903366
 node_id: 1676
 title: a whole new experience...
+author: anj
 created: '2006-08-03'
 changed: '2010-07-23'
 redirect_from:

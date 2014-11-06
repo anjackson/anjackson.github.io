@@ -7,6 +7,7 @@ created_ts: 1080280768
 changed_ts: 1372159363
 node_id: 368
 title: 01404 Sydney From The Air
+author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
 redirect_from: []

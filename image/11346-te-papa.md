@@ -7,6 +7,7 @@ created_ts: 1100345300
 changed_ts: 1372159480
 node_id: 1506
 title: 11346 Te Papa
+author: anj
 created: '2004-11-13'
 changed: '2013-06-25'
 redirect_from: []

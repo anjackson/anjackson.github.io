@@ -7,6 +7,7 @@ created_ts: 1081217625
 changed_ts: 1081248825
 node_id: 528
 title: Extended Precision Problem.
+author: anj
 created: '2004-04-06'
 changed: '2004-04-06'
 redirect_from:

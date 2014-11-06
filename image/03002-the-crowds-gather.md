@@ -7,6 +7,7 @@ created_ts: 1092143432
 changed_ts: 1372159432
 node_id: 1071
 title: 03002 The crowds gather
+author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
 redirect_from: []

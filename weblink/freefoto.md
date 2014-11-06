@@ -7,6 +7,7 @@ created_ts: 1102036854
 changed_ts: 1102036854
 node_id: 1551
 title: FreeFoto
+author: anj
 created: '2004-12-03'
 changed: '2004-12-03'
 redirect_from: []

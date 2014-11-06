@@ -7,6 +7,7 @@ created_ts: 1100580766
 changed_ts: 1100661226
 node_id: 1519
 title: Cool Homepages
+author: anj
 created: '2004-11-16'
 changed: '2004-11-17'
 redirect_from: []

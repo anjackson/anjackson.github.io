@@ -7,6 +7,7 @@ created_ts: 1100581171
 changed_ts: 1100581171
 node_id: 1521
 title: Cooking for Engineers
+author: anj
 created: '2004-11-16'
 changed: '2004-11-16'
 redirect_from: []

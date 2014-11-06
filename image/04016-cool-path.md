@@ -7,6 +7,7 @@ created_ts: 1093016806
 changed_ts: 1372159469
 node_id: 1401
 title: 04016 Cool Path
+author: anj
 created: '2004-08-20'
 changed: '2013-06-25'
 redirect_from: []

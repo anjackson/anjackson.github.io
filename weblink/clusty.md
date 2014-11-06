@@ -7,6 +7,7 @@ created_ts: 1103600818
 changed_ts: 1103600878
 node_id: 1568
 title: Clusty
+author: anj
 created: '2004-12-21'
 changed: '2004-12-21'
 redirect_from: []

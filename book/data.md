@@ -7,6 +7,7 @@ created_ts: 1086137926
 changed_ts: 1086138406
 node_id: 711
 title: Data
+author: anj
 created: '2004-06-02'
 changed: '2004-06-02'
 redirect_from: []

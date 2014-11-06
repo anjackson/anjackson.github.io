@@ -7,6 +7,7 @@ created_ts: 1111235894
 changed_ts: 1372159482
 node_id: 1599
 title: quake drum
+author: anj
 created: '2005-03-19'
 changed: '2013-06-25'
 redirect_from:

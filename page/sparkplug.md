@@ -7,6 +7,7 @@ created_ts: 1086044242
 changed_ts: 1170909862
 node_id: 709
 title: Sparkplug
+author: anj
 created: '2004-05-31'
 changed: '2007-02-08'
 redirect_from:

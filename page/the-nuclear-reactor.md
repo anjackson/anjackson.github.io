@@ -7,6 +7,7 @@ created_ts: 1084353275
 changed_ts: 1170908150
 node_id: 587
 title: The Nuclear Reactor
+author: anj
 created: '2004-05-12'
 changed: '2007-02-08'
 redirect_from:

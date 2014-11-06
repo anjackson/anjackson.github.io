@@ -7,6 +7,7 @@ created_ts: 1281621196
 changed_ts: 1281622766
 node_id: 1874
 title: Digital Preservation Software Platform
+author: anj
 created: '2010-08-12'
 changed: '2010-08-12'
 redirect_from:

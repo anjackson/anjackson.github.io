@@ -7,6 +7,7 @@ created_ts: 1170208968
 changed_ts: 1372159497
 node_id: 1774
 title: Eilidh and the chimps
+author: anj
 created: '2007-01-31'
 changed: '2013-06-25'
 redirect_from:

@@ -7,6 +7,7 @@ created_ts: 1090862093
 changed_ts: 1372159415
 node_id: 910
 title: 02693 Still Climbing
+author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
 redirect_from: []

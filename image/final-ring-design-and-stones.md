@@ -7,6 +7,7 @@ created_ts: 1146863799
 changed_ts: 1372159471
 node_id: 1615
 title: final ring design, and stones
+author: anj
 created: '2006-05-05'
 changed: '2013-06-25'
 redirect_from:

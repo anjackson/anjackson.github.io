@@ -7,6 +7,7 @@ created_ts: 1084358583
 changed_ts: 1084358943
 node_id: 594
 title: words
+author: anj
 created: '2004-05-12'
 changed: '2004-05-12'
 redirect_from:

@@ -7,6 +7,7 @@ created_ts: 1129111545
 changed_ts: 1279903369
 node_id: 1607
 title: new server
+author: anj
 created: '2005-10-12'
 changed: '2010-07-23'
 redirect_from:

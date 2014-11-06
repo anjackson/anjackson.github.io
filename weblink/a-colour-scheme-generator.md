@@ -7,6 +7,7 @@ created_ts: 1100580382
 changed_ts: 1100580442
 node_id: 1517
 title: A colour-scheme generator.
+author: anj
 created: '2004-11-16'
 changed: '2004-11-16'
 redirect_from: []

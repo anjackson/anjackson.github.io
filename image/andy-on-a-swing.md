@@ -7,6 +7,7 @@ created_ts: 1154383650
 changed_ts: 1372159380
 node_id: 1669
 title: Andy on a swing
+author: anj
 created: '2006-07-31'
 changed: '2013-06-25'
 redirect_from:

@@ -7,6 +7,7 @@ created_ts: 1099477203
 changed_ts: 1279903440
 node_id: 1439
 title: steam powered
+author: anj
 created: '2004-11-03'
 changed: '2010-07-23'
 redirect_from:

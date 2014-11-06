@@ -7,6 +7,7 @@ created_ts: 1280256710
 changed_ts: 1280263305
 node_id: 1872
 title: convergent evolution of curation services
+author: anj
 created: '2010-07-27'
 changed: '2010-07-27'
 redirect_from:

@@ -7,6 +7,7 @@ created_ts: 1103600350
 changed_ts: 1103600410
 node_id: 1565
 title: Ming
+author: anj
 created: '2004-12-21'
 changed: '2004-12-21'
 redirect_from: []

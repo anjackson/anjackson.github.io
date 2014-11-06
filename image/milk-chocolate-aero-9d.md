@@ -7,6 +7,7 @@ created_ts: 1086398254
 changed_ts: 1372159391
 node_id: 713
 title: Milk Chocolate AERO 9d
+author: anj
 created: '2004-06-05'
 changed: '2013-06-25'
 redirect_from: []

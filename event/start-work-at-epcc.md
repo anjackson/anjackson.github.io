@@ -7,6 +7,7 @@ created_ts: 1086436731
 changed_ts: 1086436791
 node_id: 715
 title: Start work at EPCC.
+author: anj
 created: '2004-06-05'
 changed: '2004-06-05'
 redirect_from: []

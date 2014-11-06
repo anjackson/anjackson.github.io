@@ -7,6 +7,7 @@ created_ts: 1079670281
 changed_ts: 1079670521
 node_id: 5
 title: My Birthday
+author: anj
 created: '2004-03-19'
 changed: '2004-03-19'
 redirect_from: []

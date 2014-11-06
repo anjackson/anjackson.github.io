@@ -7,6 +7,7 @@ created_ts: 1281621326
 changed_ts: 1281622382
 node_id: 1875
 title: Acumen
+author: anj
 created: '2010-08-12'
 changed: '2010-08-12'
 redirect_from:

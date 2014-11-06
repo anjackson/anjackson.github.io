@@ -7,6 +7,7 @@ created_ts: 1092143056
 changed_ts: 1372159421
 node_id: 992
 title: Mangrove walkway
+author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
 redirect_from:

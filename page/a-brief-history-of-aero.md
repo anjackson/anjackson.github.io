@@ -7,6 +7,7 @@ created_ts: 1089977433
 changed_ts: 1153990795
 node_id: 735
 title: A Brief History Of Aero
+author: anj
 created: '2004-07-16'
 changed: '2006-07-27'
 redirect_from:

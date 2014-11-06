@@ -7,6 +7,7 @@ created_ts: 1151854406
 changed_ts: 1279903368
 node_id: 1630
 title: ain't no stopping us now...
+author: anj
 created: '2006-07-02'
 changed: '2010-07-23'
 redirect_from:

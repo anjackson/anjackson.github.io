@@ -7,6 +7,7 @@ created_ts: 1080280755
 changed_ts: 1372159361
 node_id: 358
 title: 01242 - Manly Jazz
+author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
 redirect_from: []

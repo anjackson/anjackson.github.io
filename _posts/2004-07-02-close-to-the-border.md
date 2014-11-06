@@ -7,6 +7,7 @@ created_ts: 1088768242
 changed_ts: 1279903445
 node_id: 729
 title: close to the border
+author: anj
 created: '2004-07-02'
 changed: '2010-07-23'
 redirect_from:

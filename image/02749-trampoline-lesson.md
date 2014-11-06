@@ -7,6 +7,7 @@ created_ts: 1090862129
 changed_ts: 1372159417
 node_id: 931
 title: 02749 Trampoline Lesson
+author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
 redirect_from: []

@@ -7,6 +7,7 @@ created_ts: 1100661054
 changed_ts: 1100661174
 node_id: 1526
 title: kryogenix.org browser experiments
+author: anj
 created: '2004-11-17'
 changed: '2004-11-17'
 redirect_from: []

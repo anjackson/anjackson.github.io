@@ -7,6 +7,7 @@ created_ts: 1100740599
 changed_ts: 1100740659
 node_id: 1532
 title: DHTML Lemmings
+author: anj
 created: '2004-11-18'
 changed: '2004-11-18'
 redirect_from: []

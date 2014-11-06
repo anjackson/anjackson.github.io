@@ -7,6 +7,7 @@ created_ts: 1089979027
 changed_ts: 1279903444
 node_id: 737
 title: roast beef
+author: anj
 created: '2004-07-16'
 changed: '2010-07-23'
 redirect_from:

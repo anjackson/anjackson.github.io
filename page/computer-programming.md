@@ -7,6 +7,7 @@ created_ts: 1084411994
 changed_ts: 1084412114
 node_id: 692
 title: Computer Programming
+author: anj
 created: '2004-05-13'
 changed: '2004-05-13'
 redirect_from: []

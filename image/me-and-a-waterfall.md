@@ -7,6 +7,7 @@ created_ts: 1092143079
 changed_ts: 1372159423
 node_id: 1002
 title: Me and a waterfall
+author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
 redirect_from:

@@ -7,6 +7,7 @@ created_ts: 1079661764
 changed_ts: 1279922925
 node_id: 4
 title: work
+author: anj
 created: '2004-03-19'
 changed: '2010-07-23'
 redirect_from:

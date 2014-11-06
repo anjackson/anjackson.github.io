@@ -7,6 +7,7 @@ created_ts: 1092655962
 changed_ts: 1093619022
 node_id: 1307
 title: Travel Links
+author: anj
 created: '2004-08-16'
 changed: '2004-08-27'
 redirect_from: []

@@ -7,6 +7,7 @@ created_ts: 1084409943
 changed_ts: 1085567763
 node_id: 691
 title: Numerical Analysis
+author: anj
 created: '2004-05-13'
 changed: '2004-05-26'
 redirect_from: []

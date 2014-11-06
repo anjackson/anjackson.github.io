@@ -7,6 +7,7 @@ created_ts: 1100345298
 changed_ts: 1372159480
 node_id: 1504
 title: 11337 Te Papa Scarer
+author: anj
 created: '2004-11-13'
 changed: '2013-06-25'
 redirect_from: []

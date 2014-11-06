@@ -7,6 +7,7 @@ created_ts: 1100741226
 changed_ts: 1100741286
 node_id: 1537
 title: Cross-Browser X Library
+author: anj
 created: '2004-11-18'
 changed: '2004-11-18'
 redirect_from: []

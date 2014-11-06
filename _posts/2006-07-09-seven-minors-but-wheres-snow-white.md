@@ -7,6 +7,7 @@ created_ts: 1152441167
 changed_ts: 1279903368
 node_id: 1631
 title: seven minors (but where's Snow White?)
+author: anj
 created: '2006-07-09'
 changed: '2010-07-23'
 redirect_from:

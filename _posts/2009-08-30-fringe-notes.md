@@ -7,6 +7,7 @@ created_ts: 1251593987
 changed_ts: 1279903360
 node_id: 1866
 title: fringe notes
+author: anj
 created: '2009-08-30'
 changed: '2010-07-23'
 redirect_from:

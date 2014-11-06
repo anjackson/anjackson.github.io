@@ -4,16 +4,10 @@ active: blog
 ---
 
 <article>
-  {% if page.category %}
-  {% for cat in site.cats %}
-  {% if cat.name == page.category %}
-  <img src="/assets/category_pictures/{{ cat.picture }}" alt="{{ page.category }}" style="float:right;"/>
-  {% endif %}
-  {% endfor %}
-  {% endif %}
+  {% include _cat_icon.html %}
   {{ content }}
   <hr/>
-  <p>Modified: {{ page.date | date:"%Y-%m-%d" }} | Created: {{ page.created }}</p>
+  <p>Posted: {{ page.date | date:"%Y-%m-%d" }} | {{ page.author }}</p>
   {% if page.tags %}
   <p><csmall>
   {% for tag in page.tags %}

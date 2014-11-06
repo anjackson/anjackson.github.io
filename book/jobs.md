@@ -7,6 +7,7 @@ created_ts: 1092303269
 changed_ts: 1092307409
 node_id: 1293
 title: Jobs
+author: anj
 created: '2004-08-12'
 changed: '2004-08-12'
 redirect_from: []

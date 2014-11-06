@@ -7,6 +7,7 @@ created_ts: 1080883074
 changed_ts: 1279903481
 node_id: 525
 title: Quotification
+author: anj
 created: '2004-04-02'
 changed: '2010-07-23'
 redirect_from:

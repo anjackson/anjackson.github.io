@@ -7,6 +7,7 @@ created_ts: 1080280821
 changed_ts: 1372159370
 node_id: 429
 title: 00857 - Golden Gate Bridge
+author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
 redirect_from: []

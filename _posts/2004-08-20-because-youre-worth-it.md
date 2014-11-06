@@ -7,6 +7,7 @@ created_ts: 1093017038
 changed_ts: 1279903365
 node_id: 1416
 title: because you're worth it
+author: anj
 created: '2004-08-20'
 changed: '2010-07-23'
 redirect_from:

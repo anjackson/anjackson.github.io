@@ -7,6 +7,7 @@ created_ts: 1097961197
 changed_ts: 1372159473
 node_id: 1434
 title: snow patrol - final straw
+author: anj
 created: '2004-10-16'
 changed: '2013-06-25'
 redirect_from: []

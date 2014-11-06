@@ -7,6 +7,7 @@ created_ts: 1086044256
 changed_ts: 1170909867
 node_id: 708
 title: Extractor
+author: anj
 created: '2004-05-31'
 changed: '2007-02-08'
 redirect_from:

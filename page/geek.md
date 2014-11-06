@@ -7,6 +7,7 @@ created_ts: 1080273920
 changed_ts: 1250291369
 node_id: 314
 title: geek
+author: anj
 created: '2004-03-26'
 changed: '2009-08-15'
 redirect_from:

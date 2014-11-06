@@ -7,6 +7,7 @@ created_ts: 1088590065
 changed_ts: 1279903445
 node_id: 727
 title: yes, you can hate me now
+author: anj
 created: '2004-06-30'
 changed: '2010-07-23'
 redirect_from:

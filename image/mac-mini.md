@@ -7,6 +7,7 @@ created_ts: 1105527382
 changed_ts: 1372159482
 node_id: 1590
 title: Mac mini
+author: anj
 created: '2005-01-12'
 changed: '2013-06-25'
 redirect_from:

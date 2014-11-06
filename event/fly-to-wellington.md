@@ -7,6 +7,7 @@ created_ts: 1096039441
 changed_ts: 1096646881
 node_id: 1426
 title: Fly to Wellington
+author: anj
 created: '2004-09-24'
 changed: '2004-10-01'
 redirect_from: []

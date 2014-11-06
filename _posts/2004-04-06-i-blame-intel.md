@@ -7,6 +7,7 @@ created_ts: 1081217589
 changed_ts: 1279903480
 node_id: 527
 title: i blame Intel
+author: anj
 created: '2004-04-06'
 changed: '2010-07-23'
 redirect_from:

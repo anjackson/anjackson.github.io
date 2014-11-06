@@ -7,6 +7,7 @@ created_ts: 1101779229
 changed_ts: 1372159482
 node_id: 1543
 title: Summer2002 CD Front Cover
+author: anj
 created: '2004-11-30'
 changed: '2013-06-25'
 redirect_from: []

@@ -7,6 +7,7 @@ created_ts: 1249916999
 changed_ts: 1249996866
 node_id: 1851
 title: Metadata Standards
+author: anj
 created: '2009-08-10'
 changed: '2009-08-11'
 redirect_from:

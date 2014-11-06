@@ -7,6 +7,7 @@ created_ts: 1080280723
 changed_ts: 1372159354
 node_id: 320
 title: 00658 - Computer Club
+author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
 redirect_from: []

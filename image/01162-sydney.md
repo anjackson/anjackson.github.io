@@ -7,6 +7,7 @@ created_ts: 1080280913
 changed_ts: 1372159375
 node_id: 439
 title: 01162 Sydney
+author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
 redirect_from: []

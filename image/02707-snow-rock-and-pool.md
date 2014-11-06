@@ -7,6 +7,7 @@ created_ts: 1090862107
 changed_ts: 1372159415
 node_id: 918
 title: 02707 Snow, rock and pool.
+author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
 redirect_from: []

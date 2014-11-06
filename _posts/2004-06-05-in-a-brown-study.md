@@ -7,6 +7,7 @@ created_ts: 1086398745
 changed_ts: 1279903369
 node_id: 714
 title: in a brown study
+author: anj
 created: '2004-06-05'
 changed: '2010-07-23'
 redirect_from:

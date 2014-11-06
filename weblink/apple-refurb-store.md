@@ -7,6 +7,7 @@ created_ts: 1104368227
 changed_ts: 1104368287
 node_id: 1578
 title: Apple Refurb Store
+author: anj
 created: '2004-12-30'
 changed: '2004-12-30'
 redirect_from:

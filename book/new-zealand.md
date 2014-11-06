@@ -7,6 +7,7 @@ created_ts: 1093618733
 changed_ts: 1093621493
 node_id: 1417
 title: New Zealand
+author: anj
 created: '2004-08-27'
 changed: '2004-08-27'
 redirect_from: []

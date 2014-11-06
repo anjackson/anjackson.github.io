@@ -7,6 +7,7 @@ created_ts: 1084239982
 changed_ts: 1084240102
 node_id: 566
 title: 'computational physics: links'
+author: anj
 created: '2004-05-11'
 changed: '2004-05-11'
 redirect_from:

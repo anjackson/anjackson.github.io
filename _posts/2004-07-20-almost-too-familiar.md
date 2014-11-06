@@ -7,6 +7,7 @@ created_ts: 1090315462
 changed_ts: 1279903444
 node_id: 738
 title: almost too familiar
+author: anj
 created: '2004-07-20'
 changed: '2010-07-23'
 redirect_from:

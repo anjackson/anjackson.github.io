@@ -7,6 +7,7 @@ created_ts: 1080712985
 changed_ts: 1085629205
 node_id: 490
 title: End of VUW work.
+author: anj
 created: '2004-03-31'
 changed: '2004-05-27'
 redirect_from: []

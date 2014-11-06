@@ -7,6 +7,7 @@ created_ts: 1294915974
 changed_ts: 1295001803
 node_id: 1887
 title: Building A Collaborative Format Registry Editor
+author: anj
 created: '2011-01-13'
 changed: '2011-01-14'
 redirect_from:

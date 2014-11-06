@@ -7,6 +7,7 @@ created_ts: 1249899488
 changed_ts: 1249899982
 node_id: 1846
 title: Code
+author: anj
 created: '2009-08-10'
 changed: '2009-08-10'
 redirect_from:

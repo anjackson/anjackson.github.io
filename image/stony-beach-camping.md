@@ -7,6 +7,7 @@ created_ts: 1090861559
 changed_ts: 1372159396
 node_id: 780
 title: Stony Beach camping
+author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
 redirect_from:

@@ -7,6 +7,7 @@ created_ts: 1085628987
 changed_ts: 1085629167
 node_id: 702
 title: Fly Phenom Penh to London
+author: anj
 created: '2004-05-27'
 changed: '2004-05-27'
 redirect_from: []

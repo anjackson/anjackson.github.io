@@ -7,6 +7,7 @@ created_ts: 1105419348
 changed_ts: 1105419408
 node_id: 1588
 title: Python Browser Poseur
+author: anj
 created: '2005-01-11'
 changed: '2005-01-11'
 redirect_from:

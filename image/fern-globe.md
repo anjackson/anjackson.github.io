@@ -7,6 +7,7 @@ created_ts: 1092143307
 changed_ts: 1372159430
 node_id: 1066
 title: Fern globe
+author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
 redirect_from:

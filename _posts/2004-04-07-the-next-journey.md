@@ -7,6 +7,7 @@ created_ts: 1081335246
 changed_ts: 1279903480
 node_id: 532
 title: the next journey
+author: anj
 created: '2004-04-07'
 changed: '2010-07-23'
 redirect_from:

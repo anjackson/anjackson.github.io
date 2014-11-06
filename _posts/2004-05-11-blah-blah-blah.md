@@ -7,6 +7,7 @@ created_ts: 1084243658
 changed_ts: 1279903479
 node_id: 569
 title: blah blah blah
+author: anj
 created: '2004-05-11'
 changed: '2010-07-23'
 redirect_from:

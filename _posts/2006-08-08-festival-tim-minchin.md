@@ -7,6 +7,7 @@ created_ts: 1154993859
 changed_ts: 1279903365
 node_id: 1679
 title: 'festival: tim minchin '
+author: anj
 created: '2006-08-08'
 changed: '2010-07-23'
 redirect_from:

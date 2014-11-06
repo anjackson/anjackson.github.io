@@ -7,6 +7,7 @@ created_ts: 1090862030
 changed_ts: 1372159411
 node_id: 889
 title: 02640 Lake Taupo
+author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
 redirect_from: []

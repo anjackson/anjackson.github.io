@@ -7,6 +7,7 @@ created_ts: 1093620350
 changed_ts: 1093621250
 node_id: 1418
 title: Functional Programming
+author: anj
 created: '2004-08-27'
 changed: '2004-08-27'
 redirect_from: []

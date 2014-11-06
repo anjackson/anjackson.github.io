@@ -7,6 +7,7 @@ created_ts: 1249998476
 changed_ts: 1249998489
 node_id: 1859
 title: Property Extraction Methods
+author: anj
 created: '2009-08-11'
 changed: '2009-08-11'
 redirect_from:

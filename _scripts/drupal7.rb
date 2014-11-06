@@ -142,6 +142,7 @@ module JekyllImport
         FileUtils.mkdir_p "_layouts"
 
         all_urls = []
+        image_lookup = {}
 
         db[QUERY].each do |post|
           #pp(post)
@@ -154,12 +155,18 @@ module JekyllImport
             'created_ts' => post[:created],
             'changed_ts' => post[:changed],
             'node_id' => post[:nid],
-            'title' => post[:title]
+            'title' => post[:title],
+            'author' => "anj"
           }
 
           # Grab the node ID:
           node_id = post[:nid]
           print("NID:"+node_id.to_s+" "+post[:title]+" \n")
+
+          # Fix the author:
+          if post[:uid] == 7
+            postdata['author'] = "efj"
+          end
 
           # Decide the filename etc.:
           time = Time.at(post[:created])
@@ -231,6 +238,8 @@ module JekyllImport
                 postdata['images'] << { 'src' => dst, 'name' => dst_file }
                 # Also override the layout in this case:
                 postdata['layout'] = "image"
+                # Also add an image look-up hook:
+                image_lookup[node_id.to_s] = dst
               else
                 postdata['attachments'] ||= []
                 postdata['attachments'] << { 'src' => dst, 'name' => dst_file }
@@ -304,14 +313,19 @@ module JekyllImport
 
         end
         
+        # Write out the site map
         File.open("import_sitemap.md", "w") do |f|
           f.puts "---"
           f.puts "title: Site Map"
+          f.puts "layout: default"
           f.puts "---"
           for entry in all_urls.sort_by { |hsh| hsh['href'] }
             f.puts "* [#{entry['title']}](#{entry['href']})"
           end
         end
+
+        # Write out the image lookup table:
+        File.open('_data/images.yml', 'w') {|f| f.write image_lookup.to_yaml }
 
         # TODO: Make dirs & files for nodes of type 'page'
           # Make refresh pages for these as well

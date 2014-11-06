@@ -7,6 +7,7 @@ created_ts: 1087816118
 changed_ts: 1279903445
 node_id: 722
 title: plans are good
+author: anj
 created: '2004-06-21'
 changed: '2010-07-23'
 redirect_from:

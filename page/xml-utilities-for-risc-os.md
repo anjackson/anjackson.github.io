@@ -7,6 +7,7 @@ created_ts: 1086041757
 changed_ts: 1170908533
 node_id: 704
 title: XML Utilities For RISC OS
+author: anj
 created: '2004-05-31'
 changed: '2007-02-08'
 redirect_from:

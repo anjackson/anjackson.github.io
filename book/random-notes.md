@@ -7,6 +7,7 @@ created_ts: 1092655652
 changed_ts: 1092656552
 node_id: 1306
 title: Random Notes
+author: anj
 created: '2004-08-16'
 changed: '2004-08-16'
 redirect_from: []

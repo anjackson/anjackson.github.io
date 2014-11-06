@@ -7,6 +7,7 @@ created_ts: 1092137058
 changed_ts: 1092655458
 node_id: 989
 title: Project Management
+author: anj
 created: '2004-08-10'
 changed: '2004-08-16'
 redirect_from: []

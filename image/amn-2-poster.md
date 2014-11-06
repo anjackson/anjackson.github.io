@@ -7,6 +7,7 @@ created_ts: 1107481339
 changed_ts: 1372159482
 node_id: 1593
 title: AMN-2 Poster
+author: anj
 created: '2005-02-04'
 changed: '2013-06-25'
 redirect_from:

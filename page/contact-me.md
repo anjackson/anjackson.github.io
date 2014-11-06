@@ -7,6 +7,7 @@ created_ts: 1092392308
 changed_ts: 1092933388
 node_id: 1298
 title: contact me
+author: anj
 created: '2004-08-13'
 changed: '2004-08-19'
 redirect_from: []

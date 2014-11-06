@@ -7,6 +7,7 @@ created_ts: 1092143077
 changed_ts: 1372159423
 node_id: 998
 title: Windswept island
+author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
 redirect_from:

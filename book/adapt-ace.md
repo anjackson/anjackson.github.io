@@ -7,6 +7,7 @@ created_ts: 1281621398
 changed_ts: 1281622286
 node_id: 1876
 title: ADAPT ACE
+author: anj
 created: '2010-08-12'
 changed: '2010-08-12'
 redirect_from:

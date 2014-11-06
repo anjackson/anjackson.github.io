@@ -7,6 +7,7 @@ created_ts: 1081225654
 changed_ts: 1155377909
 node_id: 530
 title: Computational Science
+author: anj
 created: '2004-04-06'
 changed: '2006-08-12'
 redirect_from:

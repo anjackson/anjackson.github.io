@@ -7,6 +7,7 @@ created_ts: 1084357113
 changed_ts: 1084357233
 node_id: 592
 title: not a dead American president
+author: anj
 created: '2004-05-12'
 changed: '2004-05-12'
 redirect_from:

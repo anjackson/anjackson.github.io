@@ -7,6 +7,7 @@ created_ts: 1149517133
 changed_ts: 1372159482
 node_id: 1629
 title: Bravia - Detritus
+author: anj
 created: '2006-06-05'
 changed: '2013-06-25'
 redirect_from:

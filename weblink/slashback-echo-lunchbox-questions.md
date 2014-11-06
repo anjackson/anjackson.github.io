@@ -7,6 +7,7 @@ created_ts: 1100740421
 changed_ts: 1100740481
 node_id: 1529
 title: 'Slashback: Echo, Lunchbox, Questions'
+author: anj
 created: '2004-11-18'
 changed: '2004-11-18'
 redirect_from: []

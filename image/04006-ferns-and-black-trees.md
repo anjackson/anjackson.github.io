@@ -7,6 +7,7 @@ created_ts: 1093016804
 changed_ts: 1372159469
 node_id: 1399
 title: 04006 Ferns and Black Trees
+author: anj
 created: '2004-08-20'
 changed: '2013-06-25'
 redirect_from: []

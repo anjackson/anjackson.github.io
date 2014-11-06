@@ -7,6 +7,7 @@ created_ts: 1249916397
 changed_ts: 1265291477
 node_id: 1848
 title: Digital Object Formats
+author: anj
 created: '2009-08-10'
 changed: '2010-02-04'
 redirect_from:

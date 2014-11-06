@@ -7,6 +7,7 @@ created_ts: 1214600875
 changed_ts: 1279903365
 node_id: 1815
 title: "~980 double decker buses"
+author: anj
 created: '2008-06-27'
 changed: '2010-07-23'
 redirect_from:

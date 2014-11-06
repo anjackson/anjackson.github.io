@@ -7,6 +7,7 @@ created_ts: 1092389813
 changed_ts: 1101790193
 node_id: 1297
 title: Sight
+author: anj
 created: '2004-08-13'
 changed: '2004-11-30'
 redirect_from:

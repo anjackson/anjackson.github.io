@@ -7,6 +7,7 @@ created_ts: 1092143250
 changed_ts: 1372159429
 node_id: 1039
 title: Leaving home
+author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
 redirect_from:

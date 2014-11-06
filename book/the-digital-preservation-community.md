@@ -7,6 +7,7 @@ created_ts: 1249916031
 changed_ts: 1249916292
 node_id: 1847
 title: The Digital Preservation Community
+author: anj
 created: '2009-08-10'
 changed: '2009-08-10'
 redirect_from:

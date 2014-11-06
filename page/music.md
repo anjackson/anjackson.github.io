@@ -7,6 +7,7 @@ created_ts: 1092240993
 changed_ts: 1101960213
 node_id: 1291
 title: music
+author: anj
 created: '2004-08-11'
 changed: '2004-12-02'
 redirect_from:

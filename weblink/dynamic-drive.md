@@ -7,6 +7,7 @@ created_ts: 1100740426
 changed_ts: 1100740426
 node_id: 1528
 title: Dynamic Drive
+author: anj
 created: '2004-11-18'
 changed: '2004-11-18'
 redirect_from: []

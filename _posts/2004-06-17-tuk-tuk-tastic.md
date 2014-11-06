@@ -7,6 +7,7 @@ created_ts: 1087482069
 changed_ts: 1279903445
 node_id: 720
 title: tuk-tuk-tastic
+author: anj
 created: '2004-06-17'
 changed: '2010-07-23'
 redirect_from:

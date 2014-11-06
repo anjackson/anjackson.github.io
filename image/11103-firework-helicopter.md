@@ -7,6 +7,7 @@ created_ts: 1100345270
 changed_ts: 1372159478
 node_id: 1486
 title: 11103 Firework Helicopter
+author: anj
 created: '2004-11-13'
 changed: '2013-06-25'
 redirect_from: []

@@ -7,6 +7,7 @@ created_ts: 1250290799
 changed_ts: 1279903360
 node_id: 1637
 title: random stuff
+author: anj
 created: '2009-08-14'
 changed: '2010-07-23'
 redirect_from:

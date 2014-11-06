@@ -7,6 +7,7 @@ created_ts: 1084166719
 changed_ts: 1249919348
 node_id: 552
 title: publications
+author: anj
 created: '2004-05-10'
 changed: '2009-08-10'
 redirect_from:

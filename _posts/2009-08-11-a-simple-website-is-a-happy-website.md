@@ -7,6 +7,7 @@ created_ts: 1250002634
 changed_ts: 1279903361
 node_id: 1863
 title: a simple website is a happy website
+author: anj
 created: '2009-08-11'
 changed: '2010-07-23'
 redirect_from:

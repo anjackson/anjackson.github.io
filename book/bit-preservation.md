@@ -7,6 +7,7 @@ created_ts: 1249917352
 changed_ts: 1250001016
 node_id: 1853
 title: Bit Preservation
+author: anj
 created: '2009-08-10'
 changed: '2009-08-11'
 redirect_from:

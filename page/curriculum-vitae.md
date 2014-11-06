@@ -7,6 +7,7 @@ created_ts: 1092240709
 changed_ts: 1201000807
 node_id: 1286
 title: curriculum vitae
+author: anj
 created: '2004-08-11'
 changed: '2008-01-22'
 redirect_from:

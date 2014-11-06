@@ -7,6 +7,7 @@ created_ts: 1103450857
 changed_ts: 1279903438
 node_id: 1564
 title: winging it
+author: anj
 created: '2004-12-19'
 changed: '2010-07-23'
 redirect_from:

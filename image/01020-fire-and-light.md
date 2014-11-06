@@ -7,6 +7,7 @@ created_ts: 1080280685
 changed_ts: 1372159358
 node_id: 342
 title: 01020 - Fire & Light
+author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
 redirect_from: []

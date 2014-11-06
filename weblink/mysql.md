@@ -7,6 +7,7 @@ created_ts: 1100128408
 changed_ts: 1100131468
 node_id: 1447
 title: MySQL
+author: anj
 created: '2004-11-10'
 changed: '2004-11-11'
 redirect_from: []

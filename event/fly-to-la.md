@@ -7,6 +7,7 @@ created_ts: 1096039344
 changed_ts: 1096646664
 node_id: 1424
 title: Fly to LA
+author: anj
 created: '2004-09-24'
 changed: '2004-10-01'
 redirect_from: []

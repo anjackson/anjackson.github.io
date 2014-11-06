@@ -7,6 +7,7 @@ created_ts: 1225141931
 changed_ts: 1228417739
 node_id: 1831
 title: searching the spoken word
+author: anj
 created: '2008-10-27'
 changed: '2008-12-04'
 redirect_from:
