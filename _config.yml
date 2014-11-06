@@ -53,6 +53,27 @@ subsites:
   - title: Keeping Codes
     url: /keeping-codes/
 
+cats:
+  - name: "Digital Preservation"
+    picture: digitalpreservation-h48.png
+  - name: Geek
+    picture: geek-arrow-48x48.png
+  - name: General
+    picture: ae-b-48x48.png
+  - name: Procrastination
+    picture: smile-48x48.png
+  - name: Rants
+    picture: thrp-48x48.png
+  - name: Reviews
+    picture: megaphone-48x48.png
+  - name: Science
+    picture: science-48x48.png
+  - name: "Top Links"
+    picture: tango-interworld-48x48.png
+  - name: "Top Tips"
+    picture: clock-48x48.png
+  - name: Travels
+    picture: suitecase-48x48.png
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London

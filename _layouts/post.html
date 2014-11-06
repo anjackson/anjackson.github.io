@@ -3,7 +3,14 @@ layout: blog
 active: blog
 ---
 
-<article>	
+<article>
+  {% if page.category %}
+  {% for cat in site.cats %}
+  {% if cat.name == page.category %}
+  <img src="/assets/category_pictures/{{ cat.picture }}" alt="{{ page.category }}" style="float:right;"/>
+  {% endif %}
+  {% endfor %}
+  {% endif %}
   {{ content }}
   <hr/>
   <p>Modified: {{ page.date | date:"%Y-%m-%d" }} | Created: {{ page.created }}</p>

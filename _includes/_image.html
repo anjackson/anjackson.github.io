@@ -1,7 +1,8 @@
-{% for page in site.pages %}
-{% if page.nid == include.nid %}
-<div style="align:{{include.align}};">
-<img src="{{ page.images[0].src }}">{{ page.images[0].name }}</a>
+{% for ref in site.pages %}
+{% capture nid %}{{ ref.node_id }}{% endcapture %}
+{% if nid == include.nid %}
+<div style="float:{{ include.align }};">
+<img src="{{ site.baseurl }}/{{ ref.images[0].src }}" alt="{{ ref.images[0].name }}" class="img-responsive img-thumbnail"/>
 </div>
 {% endif %}
 {% endfor %}
