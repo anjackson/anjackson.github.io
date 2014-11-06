@@ -1,6 +1,6 @@
 ---
 layout: blog
-permalink: /tags/
+permalink: /blog/tags/
 title: Tag Index
 description: "An archive of posts sorted by tag."
 ---
@@ -11,7 +11,7 @@ description: "An archive of posts sorted by tag."
 <ul class="tag-box inline">
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
-    <li><a href="#{{ this_word }}">{{ this_word }} <span>{{ site.tags[this_word].size }}</span></a></li>
+    <li><a href="#{{ this_word | replace: ' ','' }}">{{ this_word }} <span class="badge badge-theme">{{ site.tags[this_word].size }}</span></a></li>
   {% endunless %}{% endfor %}
 </ul>
 
@@ -19,7 +19,7 @@ description: "An archive of posts sorted by tag."
 
 {% for item in (0..site.tags.size) %}{% unless forloop.last %}
   {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
-  <h2 id="{{ this_word }}">{{ this_word }}</h2>
+  <h2 id="{{ this_word | replace: ' ','' }}" style="padding-top: 70px; margin-top: -70px;">{{ this_word }}</h2>
   <ul class="post-list">
   {% for post in site.tags[this_word] %}{% if post.title != null %}
     <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }} - <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></li>

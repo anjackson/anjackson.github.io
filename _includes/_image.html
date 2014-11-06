@@ -7,4 +7,12 @@
 {% else %}
  {% assign imgclass="center-block" %}
 {% endif %}
-<img src="{{ site.baseurl }}/{{ site.data.images[include.nid] }}" alt="{{ include.title }}" title="{{ include.title }}" class="img-responsive img-thumbnail {{ imgclass }}"/>
+{% if include.width != "" %}
+ {% assign im_width=include.width %}
+{% else %}
+ {% assign im_width="100" %}
+{% endif %}
+
+<a href="{{ site.baseurl }}/node/{{ include.nid }}">
+<img src="{{ site.baseurl }}/{{ site.data.images[include.nid] }}" alt="{{ include.title }}" title="{{ include.title }}" class="img-responsive img-thumbnail {{ imgclass }}" style="width: {{ im_width }}px;"/>
+</a>

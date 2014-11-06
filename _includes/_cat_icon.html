@@ -1,7 +1,12 @@
-{% if page.category %}
+{% if include.cat %}
+ {% assign curcat=include.cat %}
+{% else %}
+ {% assign curcat="General" %}
+{% endif %}
 {% for cat in site.cats %}
-{% if cat.name == page.category %}
-<img src="/assets/category_pictures/{{ cat.picture }}" alt="{{ page.category }}" class="category-icon"/>
+{% if cat.name == curcat %}
+<a href="{{ site.baseurl }}/blog/categories/#{{ cat.name | replace: ' ','' }}">
+<img src="/assets/category_pictures/{{ cat.picture }}" alt="{{ cat.name }}" class="category-icon"/>
+</a>
 {% endif %}
 {% endfor %}
-{% endif %}      

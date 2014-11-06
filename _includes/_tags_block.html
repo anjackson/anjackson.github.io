@@ -1,1 +1,7 @@
-_tags_block.html
+<h4>Popular Tags</h4>
+<div class="hline"></div>
+	<p>
+	{% for tag in site.tags %}
+    	<a class="btn btn-theme" href="{{ site.baseurl }}/blog/tags/#{{ tag[0] | replace: ' ','' }}" role="button">{{ tag[0] }} ({{ tag[1].size }})</a>
+	{% endfor %}
+	</p>

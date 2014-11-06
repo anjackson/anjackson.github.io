@@ -1,1 +1,9 @@
-_categories_block.html
+{% capture categories %}{% for category in site.categories %}{{ category[0] }}|{% endfor %}{% endcapture %}
+{% assign sortedcats = categories | split:' ' | sort %}
+<h4>Categories</h4>
+<div class="hline"></div>
+{% for category in site.categories order:ascending %}
+	<p><a href="{{ site.baseurl }}/blog/categories/#{{ category[0] }}"><i class="fa fa-angle-right"></i> {{ category[0] }}</a> <span class="badge badge-theme pull-right"> {{ category[1] | size }}</span></p>
+{% endfor %}
+<div class="spacing"></div>
+

@@ -1,1 +1,12 @@
-_recent_posts_block.html
+<h4>Recent Posts</h4>
+<div class="hline"></div>
+<ul class="popular-posts">
+  {% for post in site.posts limit:4 %}
+    <li>
+      {% include _cat_icon.html cat=post.category %}
+      <p><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title | truncate: 52 }}</a></p>
+      <em>Posted: {{ post.date | date:"%Y-%m-%d" }}</em>
+    </li>
+  {% endfor %}
+  <li><a href="{{ site.url }}/blog/" title="More">[More...]</a></li>
+</ul>
