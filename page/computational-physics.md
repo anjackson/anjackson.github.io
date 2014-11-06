@@ -12,8 +12,8 @@ changed: '2009-08-10'
 redirect_from:
 - "/node/565/"
 permalink: "/work/physics/"
-tags:
-- Science
+category: Science
+tags: []
 ---
 This life, I have been mostly doing Computational Physics.  This means solving physics problems via computer modelling in order to compare against the traditional pen-and-paper and experimental investigations.  In many cases, either the problem cannot be solved on paper (and computation is the only way to ''approach'' the theory), or the experiments cannot actually be performed (and so a simulation of the experiment is only way to ''test'' the theory).
 

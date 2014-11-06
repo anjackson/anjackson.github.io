@@ -12,8 +12,8 @@ changed: '2010-12-09'
 redirect_from:
 - "/node/1883/"
 permalink: "/2010/12/09/opf_blog_breaking_down_format_registry/"
-tags:
-- Digital Preservation
+category: Digital Preservation
+tags: []
 ---
 A new OPF blog entry: <a href="http://www.openplanetsfoundation.org/node/588">Breaking Down The Format Registry</a>. Reproduced below the fold.
 <!--break-->

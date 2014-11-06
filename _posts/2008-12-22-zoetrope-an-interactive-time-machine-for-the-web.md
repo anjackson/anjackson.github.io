@@ -12,8 +12,8 @@ changed: '2008-12-22'
 redirect_from:
 - "/node/1834/"
 permalink: "/2008/12/22/zoetrope_interactive_time_machine_web/"
+category: Digital Preservation
 tags:
-- Digital Preservation
 - archive
 - visualization
 - web

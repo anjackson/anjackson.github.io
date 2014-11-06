@@ -16,4 +16,4 @@ tags: []
 ---
 ### Jackson through the ages
 
-[image:663][image:664][image:665]
+[image](/node/[image:663])[image](/node/[image:664])[image](/node/[image:665])

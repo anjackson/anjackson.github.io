@@ -12,8 +12,8 @@ changed: '2010-07-24'
 redirect_from:
 - "/node/1836/"
 permalink: "/work/digitalpreservation/"
-tags:
-- Digital Preservation
+category: Digital Preservation
+tags: []
 ---
 This notebook is a place to record useful tidbits of information about digital preservation.  The [Wikipedia page on Digital Preservation](http://en.wikipedia.org/wiki/Digital_preservation) provides quite a good overview of the field, but this notebook intends to dig a little deeper.
 

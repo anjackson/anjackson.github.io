@@ -12,8 +12,8 @@ changed: '2009-08-11'
 redirect_from:
 - "/node/1813/"
 permalink: "/2008/06/27/science_digital_preservation/"
-tags:
-- Digital Preservation
+category: Digital Preservation
+tags: []
 ---
 > 
 > *UPDATE*: I've reconsided my position on this, and I think I've underestimated the issues involved in keeping the bytes safe.  I'll write up some notes [here](/digital_preservation_notebook/bit_preservation).

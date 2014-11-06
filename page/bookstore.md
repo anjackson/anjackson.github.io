@@ -13,8 +13,8 @@ redirect_from:
 - "/2007/07/13/bookstore/"
 - "/node/1802/"
 permalink: "/geek/bookstore/"
-tags:
-- Geek
+category: Geek
+tags: []
 ---
 <p>
 I'm testing out <a href="http://www.lulu.com/anjackson/">the Lulu publishing service</a>, as I've never had my own printed copy of my thesis, and I wanted to make a softback version.

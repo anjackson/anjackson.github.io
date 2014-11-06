@@ -14,7 +14,7 @@ redirect_from:
 permalink: "/2004/06/05/brown_study/"
 tags: []
 ---
-[image:713,left,10,5]While hanging out with David, Jenny, Andy and Michelle, a heated argument broke out.  The subject was one of those close to all our hearts, the history of British chocolate.  To be precise, the history of the Rowntree Aero bar.
+[image](/node/[image:713,left,10,5])While hanging out with David, Jenny, Andy and Michelle, a heated argument broke out.  The subject was one of those close to all our hearts, the history of British chocolate.  To be precise, the history of the Rowntree Aero bar.
 
 Andy and Jenny had the sheer audacity to suggest that the Aero chunky bar (the long thin one, released in the 1980's) had been the first, and that the segmented Aero (the wide flat break-into-bits one) had come out afterwards...
 

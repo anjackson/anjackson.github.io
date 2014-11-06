@@ -11,8 +11,8 @@ created: '2004-11-10'
 changed: '2004-11-10'
 redirect_from: []
 permalink: "/node/1446/"
-tags:
-- General
+category: General
+tags: []
 ---
 
 I have enabled email submission of pages.  This is just a test to see if

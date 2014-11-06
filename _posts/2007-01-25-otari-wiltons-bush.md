@@ -12,8 +12,8 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/1767/"
 permalink: "/2007/01/25/otariwiltons_bush/"
-tags:
-- Travels
+category: Travels
+tags: []
 ---
 While staying in Ngaio, we visited [Otari-Wilton's Bush](http://www.otariwiltonsbush.org.nz/)...
 

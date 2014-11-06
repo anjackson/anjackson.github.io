@@ -13,8 +13,8 @@ redirect_from:
 - "/2007/07/20/merchandise/"
 - "/node/1807/"
 permalink: "/geek/merchstore/"
-tags:
-- Geek
+category: Geek
+tags: []
 ---
 <p>
 An experiment in merchandise.  Thanks to <a href="http://www.spreadshirt.net/shop.php?sid=89904">spreadshirt.net</a>.

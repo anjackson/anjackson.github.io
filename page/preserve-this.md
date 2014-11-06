@@ -12,8 +12,8 @@ changed: '2008-12-22'
 redirect_from:
 - "/node/1844/"
 permalink: "/content/preserve_this/"
-tags:
-- Digital Preservation
+category: Digital Preservation
+tags: []
 ---
 Preserve _this_...
 

@@ -12,8 +12,8 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/718/"
 permalink: "/2004/06/17/currently_nowhere/"
-tags:
-- Travels
+category: Travels
+tags: []
 ---
 Well, technically speaking, given that I've just passed through Singapore immigration (and am pottering around on some fine free internet access in the huge departure lounge), I think I'm nowhere.  Is that how it works?  Or am I on Singaporian soil still?
 

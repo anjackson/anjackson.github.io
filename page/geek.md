@@ -12,8 +12,8 @@ changed: '2009-08-15'
 redirect_from:
 - "/node/314/"
 permalink: "/geek/"
-tags:
-- Geek
+category: Geek
+tags: []
 ---
 <div id="geek-content">
 <h3><a href="/geek_nuggets">geek nuggets</a></h3>

@@ -11,8 +11,8 @@ created: '2004-08-16'
 changed: '2004-08-27'
 redirect_from: []
 permalink: "/node/1307/"
-tags:
-- Travels
+category: Travels
+tags: []
 ---
 Useful website for travel info.
 

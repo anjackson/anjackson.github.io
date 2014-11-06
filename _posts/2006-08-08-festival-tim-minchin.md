@@ -13,11 +13,11 @@ redirect_from:
 - "/2006/08/07/festival_tim_minchin/"
 - "/node/1679/"
 permalink: "/2006/08/08/festival_tim_minchin/"
+category: Top Tips
 tags:
 - Reviews
-- Top Tips
 ---
-[align=right width=150](image:1678) Last weekend the [Edinburgh Festival Fringe](http://www.edfringe.com/) kicked off, and we went to see our first show - [Tim Minchin](http://www.timminchin.com/).  We saw his show last year (for which he won the Perrier Newcomer Award), and thought it was fantastic, so we booked tickets to see him again as soon as this year's program came out.
+[image](/node/[align=right width=150](image:1678)) Last weekend the [Edinburgh Festival Fringe](http://www.edfringe.com/) kicked off, and we went to see our first show - [Tim Minchin](http://www.timminchin.com/).  We saw his show last year (for which he won the Perrier Newcomer Award), and thought it was fantastic, so we booked tickets to see him again as soon as this year's program came out.
 
 This years show, 'So Rock', was very good indeed.  The songs and standup were almost all new material, with the balance a little more towards the standup side than in last year's 'Darkside'.  The only repeat from last years show was the song 'Canvas Bags', where Tim implores the audience to take their canvas bags to the supermarket instead of using plastic ones.  The song is funnier than it sounds, I assure you.
 <!--break-->

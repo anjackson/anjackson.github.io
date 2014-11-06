@@ -12,8 +12,8 @@ changed: '2010-12-22'
 redirect_from:
 - "/node/1885/"
 permalink: "/2010/12/22/opf_blog_obsolescence_overrated/"
+category: Digital Preservation
 tags:
-- Digital Preservation
 - Format Obsolescence
 - Preservation Risks
 ---

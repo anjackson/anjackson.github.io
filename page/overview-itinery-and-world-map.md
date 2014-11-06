@@ -11,8 +11,8 @@ created: '2004-08-16'
 changed: '2004-08-27'
 redirect_from: []
 permalink: "/node/1301/"
-tags:
-- Travels
+category: Travels
+tags: []
 ---
 Overview of the route I took on my big trip around the world.
 <!--break-->

@@ -12,7 +12,7 @@ changed: '2004-08-27'
 redirect_from:
 - "/node/1302/"
 permalink: "/book/travels/"
-tags:
-- Travels
+category: Travels
+tags: []
 ---
 All about my travels.

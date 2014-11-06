@@ -12,8 +12,8 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/1511/"
 permalink: "/geek_nuggets/programming_languages/java/lack_vision/"
-tags:
-- Geek
+category: Geek
+tags: []
 ---
 I have one long running source of frustration when trying to do simulation work: the lack of good visualization tools that can be easily integrated into a simulation code.  Almost all of the physics stuff I do uses fairly simple classical models that would be easy to show graphically.  The big advantage of this is that one can very rapidly see if things are working properly, just be checking if it _looks right_.
 <!--break-->

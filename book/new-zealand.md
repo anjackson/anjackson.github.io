@@ -11,8 +11,8 @@ created: '2004-08-27'
 changed: '2004-08-27'
 redirect_from: []
 permalink: "/node/1417/"
-tags:
-- Travels
+category: Travels
+tags: []
 ---
 Various links and useful stuff about New Zealand.
 <!--break-->

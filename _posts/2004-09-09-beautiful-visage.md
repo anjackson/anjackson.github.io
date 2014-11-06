@@ -12,9 +12,9 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/1422/"
 permalink: "/2004/09/09/beautiful_visage/"
+category: Travels
 tags:
 - General
-- Travels
 ---
 Well, my work visa for New Zealand has come through, and I should be able to buy my ticket at the weekend.  It all looks like it might actually happen!  Rather excited about going back, although there's some folk I'll be very sad to leave behind...
 <!--break-->

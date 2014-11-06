@@ -12,7 +12,7 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/1676/"
 permalink: "/2006/08/03/whole_new_experience/"
-tags:
-- General
+category: General
+tags: []
 ---
 We are now the proud recipients of our very first parking ticket. Great.

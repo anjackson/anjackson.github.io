@@ -11,8 +11,8 @@ created: '2004-12-22'
 changed: '2010-07-23'
 redirect_from: []
 permalink: "/node/1572/"
-tags:
-- Geek
+category: Geek
+tags: []
 ---
 <p>
 Once one site encouraged people to <a href="http://www.gtmcknight.com/buttons/" title="steal these buttons"><i>"steal these buttons"</i></a>, lots of other jumped on the <a href="http://www.b3ta.com/" title="glass coke - kinda like a transparent bandwagon">GC</a>.  So here I am, nicking code from <a href="http://minimalverbosity.com/2003/May/19/buttons.htm" title="minimal verbosity's buttoner script">here</a>, a form from <a href="http://kalsey.com/tools/buttonmaker/" title="Adam Kalsey's buttoner form">here</a>, and then munging and tweaking it all to work as I would prefer.  All this really means is that you can use the form below to generate buttons dynamically...

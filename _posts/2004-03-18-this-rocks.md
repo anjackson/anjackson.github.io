@@ -12,12 +12,12 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/12/"
 permalink: "/2004/03/18/rocks/"
-tags:
-- Procrastination
+category: Procrastination
+tags: []
 ---
 I mean, this really is rather fine...
 
-[image:11]
+[image](/node/[image:11])
 
 <i>No tax on custard.</i>
 

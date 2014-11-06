@@ -12,8 +12,8 @@ changed: '2007-07-19'
 redirect_from:
 - "/node/1806/"
 permalink: "/2007/07/19/visualising_prime_numbers_in_binary/"
-tags:
-- Geek
+category: Geek
+tags: []
 ---
 <p>
 For a while now, I've wondered what the prime numbers look like in binary, that is, if you paint the ones as white dots, and the zeros as black dots, what does the whole set look like?  I finally got around to writing a program to generate the prime numbers and output them as a PNG, and you can see the results below...

@@ -12,8 +12,8 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/1866/"
 permalink: "/2009/08/30/fringe_notes/"
-tags:
-- Reviews
+category: Reviews
+tags: []
 ---
 Edinburgh. Used to live there, you know. Nice place. Been a while. Until last weekend. Visited the [Blythes](http://www.theblythes.org/). 
 

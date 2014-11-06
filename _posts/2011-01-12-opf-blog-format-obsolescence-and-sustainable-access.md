@@ -12,8 +12,8 @@ changed: '2011-01-13'
 redirect_from:
 - "/node/1886/"
 permalink: "/2011/01/12/opf_blog_format_obsolescence_and_sustainable_access/"
+category: Digital Preservation
 tags:
-- Digital Preservation
 - Format Obsolescence
 ---
 A new OPF blog entry: <a href="http://www.openplanetsfoundation.org/node/592">Format Obsolescence and Sustainable Access</a>. Reproduced below...

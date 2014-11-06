@@ -17,7 +17,7 @@ attachments:
 - src: page/files/poster.pdf
   name: poster.pdf
 ---
-[image:563,left,10,5]
+[image](/node/[image:563,left,10,5])
 _Structural Phase Behaviour via Monte Carlo Techniques_
 
 A poster based on my Ph.D. work.  Created on [RISC OS](http://www.riscos.com/) using [!TechWriter](http://www.iconsupport.demon.co.uk/) & [!DrawWorks](http://www.apdl.co.uk/isv/dworks.htm).

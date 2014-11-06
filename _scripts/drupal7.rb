@@ -199,9 +199,9 @@ module JekyllImport
 
 
           # Look for relevant taxonomy entries:
+          postdata['category'] = self.get_taxonomy_terms(db, "taxonomy_vocabulary_3", node_id).to_a.first
           terms = self.get_taxonomy_terms(db, "taxonomyextra", node_id)
           terms.merge(self.get_taxonomy_terms(db, "taxonomy_vocabulary_2", node_id))
-          terms.merge(self.get_taxonomy_terms(db, "taxonomy_vocabulary_3", node_id))
           terms.merge(self.get_taxonomy_terms(db, "taxonomy_vocabulary_7", node_id))
           terms.merge(self.get_taxonomy_terms(db, "taxonomy_vocabulary_9", node_id))
           terms.merge(self.get_taxonomy_terms(db, "taxonomy_vocabulary_10", node_id))
@@ -245,8 +245,17 @@ module JekyllImport
           # to YAML for the header
           data = postdata.delete_if { |k,v| v.nil? || v == ''}.to_yaml
 
-          # Convert the content if appropriate:
+          # Deal with the content:
           content = post[:body_value]
+          # Fix up [image:XX] links
+          content = content.gsub(/\[image:([0-9]+)(.*?)\]/) { |nid, args|
+            if args
+              "[image - #{args}](/node/#{nid})"
+            else
+              "[image](/node/#{nid})"
+            end
+          }
+          # Convert the content if appropriate:
           if post[:body_format] == "1"
             content = phpwikiToMarkdown(content)
           else

@@ -12,8 +12,8 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/721/"
 permalink: "/2004/06/20/year_firsts/"
-tags:
-- Travels
+category: Travels
+tags: []
 ---
 ___Note:  I've not finished editing and proofing this story yet, but feel free to have a read anyways.___
 ----

@@ -12,8 +12,8 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/525/"
 permalink: "/2004/04/02/quotification/"
-tags:
-- General
+category: General
+tags: []
 ---
 Came across this quote, which I rather like.
 

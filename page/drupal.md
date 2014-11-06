@@ -12,8 +12,8 @@ changed: '2004-12-21'
 redirect_from:
 - "/node/13/"
 permalink: "/title/drupal/"
-tags:
-- Geek
+category: Geek
+tags: []
 ---
 ###  Drupal & Me
 Drupal is a powerful PHP-based website engine that I have used to help seperate the styling of my web pages from the content.  The 'look' is described by a Drupal theme I created, and is stored in a set of files on the server.  The page content is stored in a more presentation-neutral format in the back-end MySQL database.
