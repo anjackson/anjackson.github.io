@@ -6,13 +6,13 @@ permalink: /sitemap/
 
 <h2>Posts</h2>
 <ul>
-{% for page in site.posts reversed %}
+{% for page in site.posts %}
 <li><a href="{{ site.url }}{{ page.url }}">{{ page.date | date:"%Y-%m-%d" }} - {{ page.title }}</a></li>
 {% endfor %}
 </ul>
 
 <h2>Pages</h2>
-{% assign sorted_pages = site.pages | sort: 'created','title' %}
+{% assign sorted_pages = site.pages | sort: 'created','last' %}
 <ul>
 {% for page in sorted_pages %}
 {% if page.layout %}
