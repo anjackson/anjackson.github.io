@@ -78,19 +78,40 @@
 {% endif %}
 
 	 
-   <div class="container">
+  <div class="container">
    
-{{ content }}
+  {{ content }}
 
-{% if page.attachments %}
-<ul>
-{% for att in page.attachments %}
-<li><a href="{{ site.baseurl }}/{{ im['src'] }}" title="{{ im['name'] }}">{{ im['name'] }}</a></li>
-{% endfor %}
-</ul>
-{% endif %}
+  {% if page.date %}
+  <hr/>
+  <p>Posted: {{ page.date | date:"%Y-%m-%d" }} | {{ page.author }}</p>
+  {% endif %}
 
-   </div><! --/container -->
+  {% if page.attachments %}
+  <table class="table">
+  <thead>
+  <tr><th>Attachments</th></tr>
+  </thead>
+  <tbody>
+  {% for attached in page.attachments %}
+  <tr><td><a href="{{ site.baseurl }}/{{ attached.src }}" alt="Download {{ attached.name }}.">{{ attached.name }}<span class="pull-right"><i class="fa fa-download"></i></a></span></td></tr>
+  {% endfor %}
+  </tbody>
+  </table>
+  {% endif %}
+
+  {% if page.tags.size > 0 %}
+  <hr/>
+  <p><csmall>
+  {% for tag in page.tags %}
+  <a href="{{ site.baseurl}}/blog/tags/#{{ tag | replace: ' ','' }}" class="btn btn-theme">{{ tag }}</a>{% if forloop.last != true %}&nbsp;{% endif %}
+  {% endfor %}
+  </csmall></p>
+  {% endif %}
+
+  <p>&nbsp;</p>
+
+  </div><! --/container -->
 
 
 	<!-- *****************************************************************************************************************

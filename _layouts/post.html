@@ -5,17 +5,9 @@ active: blog
 
 <article>
   {% include _cat_icon.html cat=page.category %}
+  
   {{ content }}
-  <hr/>
-  <p>Posted: {{ page.date | date:"%Y-%m-%d" }} | {{ page.author }}</p>
-  {% if page.tags %}
-  <hr/>
-  <p><csmall>
-  {% for tag in page.tags %}
-  <a href="{{ site.baseurl}}/blog/tags/#{{ tag | replace: ' ','' }}" class="btn btn-theme">{{ tag }}</a>{% if forloop.last != true %}&nbsp;{% endif %}
-  {% endfor %}
-  </csmall></p>
-  {% endif %}
+
 </article>
 
 {% include _disqus_comments.html %}

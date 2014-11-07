@@ -4,17 +4,6 @@
 # $ sudo gem install sequel
 # $ sudo gem install mysql -- --with-mysql-config=/usr/local/mysql/bin/mysql_config
 
-#
-# TODO
-# If we wish to retain the hierarchy (somehow), pull the parent relationships in from taxonomy_term_heirarchy.
-# - PLUS [image:728,left,10,5] in (wiki?) posts?
-# - Retain additional fields from weblink.url, event.start?, quote.author, projects (no data)?
-# - Check pages and stories for additional fields?
-# - comments?
-# - Retain Book structure and additional fields?
-# - Menus? Needed for book structure I think. Uses menu_links although book module ties menu link IDs to book and node ids.
-#
-
 require 'jekyll-import'
 require 'pp'
 
@@ -327,10 +316,6 @@ module JekyllImport
         # Write out the image lookup table:
         File.open('_data/images.yml', 'w') {|f| f.write image_lookup.to_yaml }
 
-        # TODO: Make dirs & files for nodes of type 'page'
-          # Make refresh pages for these as well
-
-        # TODO: Make refresh dirs & files according to entries in url_alias table
       end
     end
   end
