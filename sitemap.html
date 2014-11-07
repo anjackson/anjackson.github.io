@@ -4,7 +4,12 @@ title: Site Map
 permalink: /sitemap/
 ---
 
-See also <a href="{{ site.baseurl }}/import_sitemap.html">the imported sitemap</a> generated from the Drupal import process.
+<h2>Posts</h2>
+<ul>
+{% for page in site.posts %}
+<li><a href="{{ site.url }}{{ page.url }}">{{ page.date | date:"%Y-%m-%d" }} &emdash; {{ page.title }}</a></li>
+{% endfor %}
+</ul>
 
 <h2>Pages</h2>
 {% assign sorted_pages = site.pages | sort: 'created' %}
@@ -16,9 +21,4 @@ See also <a href="{{ site.baseurl }}/import_sitemap.html">the imported sitemap</
 {% endfor %}
 </ul>
 
-<h2>Posts</h2>
-<ul>
-{% for page in site.posts %}
-<li><a href="{{ site.url }}{{ page.url }}">{{ page.date | date:"%Y-%m-%d" }} &emdash; {{ page.title }}</a></li>
-{% endfor %}
-</ul>
+See also <a href="{{ site.baseurl }}/import_sitemap.html">the imported sitemap</a> generated from the Drupal import process.
