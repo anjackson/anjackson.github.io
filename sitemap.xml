@@ -7,7 +7,7 @@ layout: none
         <loc>{{ site.url }}</loc>
     </url>
     
-    {% for page in site.pages | sort: date %}
+    {% for page in (site.pages | sort: date) %}
     <url>
         <loc>{{ site.url }}{{ page.url }}</loc>
     </url>
