@@ -7,16 +7,16 @@ permalink: /sitemap/
 <h2>Posts</h2>
 <ul>
 {% for page in site.posts %}
-<li><a href="{{ site.url }}{{ page.url }}">{{ page.date | date:"%Y-%m-%d" }} - {{ page.title }}</a></li>
+<li><a href="{{ site.url }}{{ page.url }}">{{ page.date | date:"%Y-%m-%d" }} {{ page.title }}</a></li>
 {% endfor %}
 </ul>
 
 <h2>Pages</h2>
-{% assign sorted_pages = site.pages | sort: 'created','last' %}
+{% assign sorted_pages = site.pages | sort: 'created','first' %}
 <ul>
 {% for page in sorted_pages %}
 {% if page.layout %}
-<li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a>{% if page.created %} ({{ page.created }}){% endif %}</li>
+<li><a href="{{ site.url }}{{ page.url }}">{% if page.title %}{{ page.title }}{% else %}[untitled]{% endif %}</a>{% if page.created %} ({{ page.created }}){% endif %}</li>
 {% endif %}
 {% endfor %}
 </ul>
