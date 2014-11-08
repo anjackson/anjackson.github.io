@@ -111,6 +111,70 @@ module JekyllImport
           return terms
       end
 
+      def self.array_to_tree(bmls)
+        # Rebuild a tree:
+        nested_hash = Hash[bmls.map{|e| [e[:id], e.merge(children: [])]}]
+        nested_hash.each do |id, item|
+          parent = nested_hash[item[:parent_id]]
+          parent[:children] << item if parent
+        end
+
+        # Grab the tops of the trees:
+        tree = nested_hash.select { |id, item| item[:parent_id].nil? }.values
+
+        # Strip out data we no longer need:
+        nested_hash.each do |id, item|
+          item.delete(:id)
+          item.delete(:parent_id)
+        end
+
+        return tree
+      end
+
+      def self.get_menus(db)
+        bm_query = "SELECT ml.* FROM menu_links AS ml"
+        # Extract the link and parent information:
+        links = []
+        db[bm_query].each do |ml|
+          links << { 
+            :menu_name => ml[:menu_name],
+            :id => ml[:mlid],
+            :parent_id => ml[:plid],
+            :path => ml[:link_path],
+            :title => ml[:link_title]
+          }
+        end
+        return links
+      end
+
+      def self.get_book_menus(db)
+        all_links = self.get_menus(db)
+        bmls = []
+        for ml in all_links
+          if ml[:menu_name].match(/^book-toc-/)
+            # Switch to using 'nil' to denote roots:
+            if ml[:parent_mlid] == 0
+              ml[:parent_mlid] = nil
+            end
+            # Add node ID:
+            ml[:node_id] = ml[:path].split(/\//)[1]
+            # Remove unwanted data
+            ml.delete(:menu_name)
+            ml.delete(:path)
+            # Keep it:
+            bmls << ml
+          end
+        end
+
+        # Build up flat and tree hashes of the book menu links:
+        tree = self.array_to_tree(bmls)
+
+        # Use node_id-to-permalink mapping to switch to the best paths:
+        # TBA...
+
+        return tree
+      end
+
       def self.process(options)
         dbname = options.fetch('dbname')
         user   = options.fetch('user')
@@ -126,6 +190,12 @@ module JekyllImport
           QUERY[" field_data_body "] = " " + prefix + "field_data_body "
         end
 
+        # Grab the book heirarchies:
+        book_tree = self.get_book_menus(db)
+        File.open('_data/books.yml', 'w') {|f| f.write book_tree.to_yaml }
+        exit
+
+        # Prepare to grab the posts
         FileUtils.mkdir_p "_posts"
         FileUtils.mkdir_p "_drafts"
         FileUtils.mkdir_p "_layouts"

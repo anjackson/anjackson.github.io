@@ -5,7 +5,7 @@
 {% endif %}
 {% for cat in site.cats %}
 {% if cat.name == curcat %}
-<a href="{{ site.baseurl }}/blog/categories/#{{ cat.name | replace: ' ','' }}">
+<a href="{{ site.baseurl }}/blog/categories/#{{ cat.name | downcase | replace: ' ','' }}" title="{{ cat.name }}">
 <img src="/assets/category_pictures/{{ cat.picture }}" alt="{{ cat.name }}" class="category-icon"/>
 </a>
 {% endif %}
