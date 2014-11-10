@@ -2,8 +2,32 @@
 layout: default
 ---
 
+
+	 	<div class="row">
+	 	
+	 		<! -- BLOG POSTS LIST -->
+	 		<div class="col-xs-12 col-sm-8 col-md-8">
 {% for im in page.images %}
-<img src="{{ site.baseurl }}/{{ im['src'] }}" alt="{{ im['name'] }}"/>
+<img src="{{ site.baseurl }}/{{ im['src'] }}" alt="{{ im['name'] }}" class="img-reponsive"/>
 {% endfor %}
 
 {{ content }}
+
+			</div><! --/col-lg-8 -->
+	 		
+	 		
+	 		<! -- SIDEBAR -->
+	 		<div class="col-xs-12 col-sm-4 col-md-4">
+  
+  <h4>Image Tags</h4>
+<div class="hline"></div>
+	<p>
+	{% for tag in site.data.image_tags.tags %}
+    	<a class="btn btn-theme" href="{{ site.baseurl }}/img-n/all/#{{ tag | replace: ' ','' }}" role="button">{{ tag }}</a>
+    {% endfor %}
+	</p>
+
+
+	 		</div>
+	 	</div><! --/row -->
+

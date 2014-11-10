@@ -1,0 +1,27 @@
+---
+title: Images
+layout: default
+permalink: /img-n/
+---
+
+<div class="row">
+{% for tag in site.data.image_tags.tags %}
+
+<div class="col-md-3">
+{% assign no_image_found = true %}
+{% for page in site.pages %}
+{% if no_image_found == true and page.type == 'image' and page.tags contains tag %}
+{% for im in page.images %}
+<a href="{{ site.baseurl }}/img-n/all/#{{ tag | replace: ' ','' }}">
+<img src="{{ site.baseurl }}/{{ im['src'] }}" alt="{{ im['name'] }}" class="img-responsive img-thumbnail"/>
+</a>
+{% endfor %}
+{% assign no_image_found = false %}
+{% endif %}
+{% endfor %}
+
+<br/>{{ tag }}
+</div>
+
+{% endfor %}
+</div>

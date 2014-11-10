@@ -471,3 +471,7 @@ article .category-icon {
 	max-width: 48px;
 	padding-bottom: 20px;
 }
+
+.img-thumbnail {
+	max-height: 150px;
+}
