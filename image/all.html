@@ -14,7 +14,7 @@ permalink: /img-n/all/
 
 <div class="col-md-2">
 {% for im in page.images %}
-<a href="{{ site.baseurl }}/{{ page.url }}">
+<a href="{{ site.baseurl }}{{ page.url }}">
 <img src="{{ site.baseurl }}/{{ im['src'] }}" alt="{{ im['name'] }}" class="img-responsive img-thumbnail"/>
 </a>
 {% endfor %}
