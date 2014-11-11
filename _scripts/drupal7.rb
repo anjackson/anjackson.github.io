@@ -147,17 +147,19 @@ module JekyllImport
         return links
       end
 
-      def self.get_book_menus(db)
+      def self.get_book_menus(db, nid_to_permalink)
         all_links = self.get_menus(db)
         bmls = []
         for ml in all_links
           if ml[:menu_name].match(/^book-toc-/)
             # Switch to using 'nil' to denote roots:
-            if ml[:parent_mlid] == 0
-              ml[:parent_mlid] = nil
+            if ml[:parent_id] == 0
+              ml[:parent_id] = nil
             end
             # Add node ID:
-            ml[:node_id] = ml[:path].split(/\//)[1]
+            node_id = ml[:path].split(/\//)[1].to_i
+            # Use node_id-to-permalink mapping to switch to the best paths:    
+            ml[:permalink] = nid_to_permalink[node_id]
             # Remove unwanted data
             ml.delete(:menu_name)
             ml.delete(:path)
@@ -169,10 +171,11 @@ module JekyllImport
         # Build up flat and tree hashes of the book menu links:
         tree = self.array_to_tree(bmls)
 
-        # Use node_id-to-permalink mapping to switch to the best paths:
-        # TBA...
-
         return tree
+      end
+
+      def self.slug_it(name)
+        return name.strip.downcase.gsub(/(&|&amp;)/, ' and ').gsub(/[\s\.\/\\]/, '-').gsub(/[^\w-]/, '').gsub(/[-_]{2,}/, '-').gsub(/^[-_]/, '').gsub(/[-_]$/, '')
       end
 
       def self.process(options)
@@ -190,11 +193,6 @@ module JekyllImport
           QUERY[" field_data_body "] = " " + prefix + "field_data_body "
         end
 
-        # Grab the book heirarchies:
-        book_tree = self.get_book_menus(db)
-        File.open('_data/books.yml', 'w') {|f| f.write book_tree.to_yaml }
-        exit
-
         # Prepare to grab the posts
         FileUtils.mkdir_p "_posts"
         FileUtils.mkdir_p "_drafts"
@@ -202,7 +200,16 @@ module JekyllImport
 
         all_urls = []
         image_lookup = {}
+        nid_to_permalink = {}
+        image_tags = Set.new
 
+        # RM any existing weblinks file:
+        wl_filename = "weblinks.html"
+        if File.file?(wl_filename)
+          File.delete(wl_filename)
+        end
+
+        # Go through the nodes:
         db[QUERY].each do |post|
           #pp(post)
           # Get required fields and construct Jekyll compatible name
@@ -234,7 +241,7 @@ module JekyllImport
           postdata['changed'] = mtime.strftime("%Y-%m-%d")
           is_published = post[:status] == 1
           title = post[:title]          
-          slug = title.strip.downcase.gsub(/(&|&amp;)/, ' and ').gsub(/[\s\.\/\\]/, '-').gsub(/[^\w-]/, '').gsub(/[-_]{2,}/, '-').gsub(/^[-_]/, '').gsub(/[-_]$/, '')
+          slug = self.slug_it(title)
           if post[:type] == "blog"
             postdata['layout'] = "post"
             dir = is_published ? "_posts" : "_drafts"
@@ -262,6 +269,8 @@ module JekyllImport
           all_urls << { 'href' => url_alias, 'title' => title }
           # Remove the permalink from the redirects list:
           postdata['redirect_from'] = postdata['redirect_from'] - [ postdata['permalink'] ]
+          # And remember  nid-to-permalink reference:
+          nid_to_permalink[node_id] = postdata['permalink']
 
 
           # Look for relevant taxonomy entries:
@@ -272,6 +281,10 @@ module JekyllImport
           terms.merge(self.get_taxonomy_terms(db, "taxonomy_vocabulary_9", node_id))
           terms.merge(self.get_taxonomy_terms(db, "taxonomy_vocabulary_10", node_id))
           postdata['tags'] = terms.to_a
+          # Add to the set of tags
+          if post[:type] == "image"
+            image_tags.merge(terms)
+          end
 
           # Look for related files:
           file_query = "SELECT fm.* \
@@ -291,7 +304,7 @@ module JekyllImport
             dst_file = File.basename(dst)
             if File.file?(src)
               FileUtils.mkdir_p(File.dirname(dst))
-              FileUtils.cp(src, dst)
+              #FileUtils.cp(src, dst) # Commented out while testing
               if post[:type] == "image"
                 postdata['images'] ||= []
                 postdata['images'] << { 'src' => dst, 'name' => dst_file }
@@ -364,10 +377,30 @@ module JekyllImport
           content = content.gsub(/\r/,"")
 
           # Write out the data and content to file
-          File.open("#{dir}/#{name}", "w") do |f|
-            f.puts data
-            f.puts "---"
-            f.puts content
+          if post[:type] == "weblink"
+            # For weblinks, grab the link URL and combine into one file:
+            file_exists = File.file?(wl_filename)
+            File.open(wl_filename, "a") do |f|
+              if file_exists == false
+                f.puts "---"
+                f.puts "title: Web Links"
+                f.puts "layout: default"
+                f.puts "type: weblinks"
+                f.puts "permalink: /weblinks/"
+                f.puts "---"
+              end
+              weblink_query = "SELECT wl.* FROM weblink as wl WHERE wl.nid = '#{node_id}'"
+              weblink_url = db[weblink_query].first[:weblink]
+              anchor_text = "#{post[:title]}"
+              f.puts "* [#{anchor_text}](#{weblink_url}) #{content}"
+            end
+          else
+            # Otherwise, a file per node:
+            File.open("#{dir}/#{name}", "w") do |f|
+              f.puts data
+              f.puts "---"
+              f.puts content
+            end
           end
 
         end
@@ -385,6 +418,30 @@ module JekyllImport
 
         # Write out the image lookup table:
         File.open('_data/images.yml', 'w') {|f| f.write image_lookup.to_yaml }
+
+        # Grab the book heirarchies:
+        book_tree = self.get_book_menus(db,nid_to_permalink)
+        File.open('_data/books.yml', 'w') {|f| f.write book_tree.to_yaml }
+
+        # Write out pages for each image tag:
+        FileUtils.mkdir_p("image/tags")
+        image_tags_info = []
+        for tag in image_tags
+          tagslug = self.slug_it(tag)
+          image_tags_info << { :name => tag, :slug => tagslug }
+          File.open("image/tags/#{tagslug}.html", 'w') do |f| 
+            f.puts "---"
+            f.puts "title: Images tagged '#{tag}'"
+            f.puts "layout: thumbnails"
+            f.puts "type: thumbnail_page"
+            f.puts "image_tag: #{tag}"
+            f.puts "permalink: /img-n/tags/#{tagslug}/"
+            f.puts "---"
+         end
+        end
+
+        # Write out the image tags list:
+        File.open('_data/image_tags.yml', 'w') {|f| f.write image_tags_info.to_a.to_yaml }
 
       end
     end
