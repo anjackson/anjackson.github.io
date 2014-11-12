@@ -64,8 +64,10 @@
   :promoted: true
 - :name: From the internet
   :slug: from-the-internet
+  :promoted: true
 - :name: ix2v
   :slug: ix2v
+  :promoted: true
 - :name: The Big Trip
   :slug: the-big-trip
   :promoted: true

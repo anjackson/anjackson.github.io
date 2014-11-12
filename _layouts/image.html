@@ -2,9 +2,11 @@
 layout: default
 ---
 
+<div class="image-display">
 {% for im in page.images %}
 <img src="{{ site.baseurl }}/{{ im['src'] }}" alt="{{ im['name'] }}" class="img-reponsive"/>
 {% endfor %}
+</div>
 
 {{ content }}
 

@@ -1,0 +1,10 @@
+<ul>
+{% for item in include.node %}
+<li><a href="{{ item[':permalink'] }}">{{ item[':title'] }}</a>
+{% if item[':children'].size > 0 %}
+{% assign children = item[':children'] %}
+{% include _book_index.html node = children %}
+{% endif %}
+</li>
+{% endfor %}
+</ul>
