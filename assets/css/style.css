@@ -475,3 +475,6 @@ article .category-icon {
 .img-thumbnail {
 	max-height: 150px;
 }
+.image-gallery .image-col {
+	text-align: center;
+}

@@ -1,74 +1,203 @@
-tags:
-- "2003/09 - September 2003"
-- "2003/10 - October 2003"
-- "2003/11 - November 2003"
-- "2003/12 - December 2003"
-- "2004/01 - January 2004"
-- "2004/11 November 2004"
-- "2004/12 December 2004"
-- "Aaron P"
-- "Abel Tasman"
-- "Andy"
-- "Andy & Eilidh"
-- "Auckland"
-- "Australia"
-- "Banks Peninsula"
-- "Bay of Islands"
-- "Blue Mountains"
-- "California"
-- "Cape Palliser"
-- "Catherine M"
-- "Christchurch"
-- "Christine L"
-- "Christmas in Los Angeles"
-- "Claire G"
-- "Comet McNaught"
-- "Coromandel"
-- "David P"
-- "East Cape"
-- "Edinburgh"
-- "Eilidh"
-- "Engagement"
-- "Evelyn K"
-- "Fiji"
-- "From the internet"
-- "Graham D"
-- "Heaphy Track"
-- "Highlights"
-- "Kaikoura"
-- "Karamea"
-- "Karamea to Abel Tasman"
-- "Lewis Pass"
-- "London"
-- "Marlborough"
-- "Melbourne"
-- "Michelle K"
-- "Moeraki"
-- "Napier"
-- "New Zealand"
-- "Northland"
-- "Older"
-- "Otari-Wilton's Bush"
-- "Rotorua"
-- "Scotland"
-- "Slick Jeff"
-- "Sydney"
-- "Taranaki"
-- "Taupo"
-- "The Big Trip"
-- "The Monkey"
-- "The Red Centre"
-- "The Return Of The King"
-- "The first few days"
-- "Tongariro Crossing"
-- "University of York"
-- "Waitomo"
-- "Walk in Forgotten Location"
-- "Wellington"
-- "Wellington Zoo"
-- "Wirksworth"
-- "York"
-- "b3ta"
-- "imgn"
-- "ix2v"
-- "screenshots"
+---
+- :name: Highlights
+  :slug: highlights
+  :promoted: true
+- :name: b3ta
+  :slug: b3ta
+- :name: California
+  :slug: california
+  :promoted: true
+- :name: 2003/09 - September 2003
+  :slug: 2003-09-september-2003
+  :promoted: true
+- :name: Slick Jeff
+  :slug: slick-jeff
+- :name: Wirksworth
+  :slug: wirksworth
+  :promoted: true
+- :name: London
+  :slug: london
+  :promoted: true
+- :name: Graham D
+  :slug: graham-d
+- :name: Catherine M
+  :slug: catherine-m
+- :name: Andy
+  :slug: andy
+- :name: The Monkey
+  :slug: the-monkey
+- :name: Fiji
+  :slug: fiji
+  :promoted: true
+- :name: Australia
+  :slug: australia
+  :promoted: true
+- :name: 2003/10 - October 2003
+  :slug: 2003-10-october-2003
+  :promoted: true
+- :name: Sydney
+  :slug: sydney
+  :promoted: true
+- :name: The Red Centre
+  :slug: the-red-centre
+  :promoted: true
+- :name: Christine L
+  :slug: christine-l
+- :name: Evelyn K
+  :slug: evelyn-k
+- :name: Michelle K
+  :slug: michelle-k
+- :name: Blue Mountains
+  :slug: blue-mountains
+  :promoted: true
+- :name: Melbourne
+  :slug: melbourne
+  :promoted: true
+- :name: Auckland
+  :slug: auckland
+  :promoted: true
+- :name: Northland
+  :slug: northland
+  :promoted: true
+- :name: Christchurch
+  :slug: christchurch
+  :promoted: true
+- :name: From the internet
+  :slug: from-the-internet
+- :name: ix2v
+  :slug: ix2v
+- :name: The Big Trip
+  :slug: the-big-trip
+  :promoted: true
+- :name: imgn
+  :slug: imgn
+  :promoted: true
+- :name: Older
+  :slug: older
+- :name: David P
+  :slug: david-p
+- :name: University of York
+  :slug: university-of-york
+  :promoted: true
+- :name: Edinburgh
+  :slug: edinburgh
+  :promoted: true
+- :name: York
+  :slug: york
+  :promoted: true
+- :name: Coromandel
+  :slug: coromandel
+  :promoted: true
+- :name: Rotorua
+  :slug: rotorua
+  :promoted: true
+- :name: East Cape
+  :slug: east-cape
+  :promoted: true
+- :name: Napier
+  :slug: napier
+  :promoted: true
+- :name: 2003/11 - November 2003
+  :slug: 2003-11-november-2003
+  :promoted: true
+- :name: Taupo
+  :slug: taupo
+  :promoted: true
+- :name: Aaron P
+  :slug: aaron-p
+- :name: Tongariro Crossing
+  :slug: tongariro-crossing
+  :promoted: true
+- :name: Claire G
+  :slug: claire-g
+- :name: Waitomo
+  :slug: waitomo
+  :promoted: true
+- :name: Taranaki
+  :slug: taranaki
+  :promoted: true
+- :name: Cape Palliser
+  :slug: cape-palliser
+  :promoted: true
+- :name: Bay of Islands
+  :slug: bay-of-islands
+  :promoted: true
+- :name: Wellington
+  :slug: wellington
+  :promoted: true
+- :name: The Return Of The King
+  :slug: the-return-of-the-king
+  :promoted: true
+- :name: 2003/12 - December 2003
+  :slug: 2003-12-december-2003
+  :promoted: true
+- :name: New Zealand
+  :slug: new-zealand
+  :promoted: true
+- :name: Marlborough
+  :slug: marlborough
+  :promoted: true
+- :name: Kaikoura
+  :slug: kaikoura
+  :promoted: true
+- :name: Banks Peninsula
+  :slug: banks-peninsula
+  :promoted: true
+- :name: Walk in Forgotten Location
+  :slug: walk-in-forgotten-location
+  :promoted: true
+- :name: Lewis Pass
+  :slug: lewis-pass
+  :promoted: true
+- :name: screenshots
+  :slug: screenshots
+  :promoted: true
+- :name: Karamea
+  :slug: karamea
+  :promoted: true
+- :name: Moeraki
+  :slug: moeraki
+  :promoted: true
+- :name: Heaphy Track
+  :slug: heaphy-track
+  :promoted: true
+- :name: 2004/01 - January 2004
+  :slug: 2004-01-january-2004
+  :promoted: true
+- :name: Karamea to Abel Tasman
+  :slug: karamea-to-abel-tasman
+  :promoted: true
+- :name: Abel Tasman
+  :slug: abel-tasman
+  :promoted: true
+- :name: Engagement
+  :slug: engagement
+  :promoted: true
+- :name: 2004/11 November 2004
+  :slug: 2004-11-november-2004
+  :promoted: true
+- :name: 2004/12 December 2004
+  :slug: 2004-12-december-2004
+  :promoted: true
+- :name: Eilidh
+  :slug: eilidh
+- :name: Andy & Eilidh
+  :slug: andy-and-eilidh
+- :name: Scotland
+  :slug: scotland
+  :promoted: true
+- :name: Otari-Wilton's Bush
+  :slug: otari-wiltons-bush
+  :promoted: true
+- :name: Christmas in Los Angeles
+  :slug: christmas-in-los-angeles
+  :promoted: true
+- :name: The first few days
+  :slug: the-first-few-days
+  :promoted: true
+- :name: Comet McNaught
+  :slug: comet-mcnaught
+  :promoted: true
+- :name: Wellington Zoo
+  :slug: wellington-zoo
+  :promoted: true

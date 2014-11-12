@@ -4,15 +4,17 @@ layout: default
 permalink: /img-n/
 ---
 
-<div class="row">
-{% for tag in site.data.image_tags.tags %}
+<div class="row image-gallery">
+{% for tag in site.data.image_tags %}
 
-<div class="col-md-3">
+{% if tag[':promoted'] %}
+
+<div class="col-md-3 image-col">
 {% assign no_image_found = true %}
 {% for page in site.pages %}
-{% if no_image_found == true and page.type == 'image' and page.tags contains tag %}
+{% if no_image_found == true and page.type == 'image' and page.tags contains tag[':name'] %}
 {% for im in page.images %}
-<a href="{{ site.baseurl }}/img-n/all/#{{ tag | replace: ' ','' }}">
+<a href="{{ site.baseurl }}/img-n/tags/{{ tag[':slug'] }}/">
 <img src="{{ site.baseurl }}/{{ im['src'] }}" alt="{{ im['name'] }}" class="img-responsive img-thumbnail"/>
 </a>
 {% endfor %}
@@ -20,8 +22,10 @@ permalink: /img-n/
 {% endif %}
 {% endfor %}
 
-<br/>{{ tag }}
+<br/>{{ tag[':name'] }}
 </div>
+
+{% endif %}
 
 {% endfor %}
 </div>

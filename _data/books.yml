@@ -1,193 +1,193 @@
 ---
 - :title: Digital Preservation
-  :node_id: '1836'
+  :permalink: "/work/digitalpreservation/"
   :children:
   - :title: Preservation Strategies
-    :node_id: '1850'
+    :permalink: "/digital_preservation_notebook/preservation_strategies/"
     :children:
     - :title: Quality Control Methods
-      :node_id: '1862'
+      :permalink: "/digital_preservation_notebook/preservation_strategies/quality_control_methods/"
       :children: []
     - :title: Migration Tools & Pathways
-      :node_id: '1861'
+      :permalink: "/digital_preservation_notebook/preservation_strategies/migration_tools_pathways/"
       :children: []
   - :title: Physical Media
-    :node_id: '1868'
+    :permalink: "/digital_preservation_notebook/physical_media/"
     :children:
     - :title: Disk Image Tools
-      :node_id: '1869'
+      :permalink: "/digital_preservation_notebook/physical_media/disk_image_tools/"
       :children: []
   - :title: Quality Assurance
-    :node_id: '1856'
+    :permalink: "/digital_preservation_notebook/quality_assurance/"
     :children: []
   - :title: Digital Object Properties
-    :node_id: '1855'
+    :permalink: "/digital_preservation_notebook/digital_object_properties/"
     :children:
     - :title: Property Extraction Tools
-      :node_id: '1860'
+      :permalink: "/digital_preservation_notebook/digital_object_properties/property_extraction_tools/"
       :children: []
     - :title: Property Extraction Methods
-      :node_id: '1859'
+      :permalink: "/digital_preservation_notebook/digital_object_properties/property_extraction_methods/"
       :children: []
   - :title: Bit Preservation
-    :node_id: '1853'
+    :permalink: "/digital_preservation_notebook/bit_preservation/"
     :children: []
   - :title: Digital Object Storage
-    :node_id: '1852'
+    :permalink: "/digital_preservation_notebook/digital_object_storage/"
     :children:
     - :title: Repository Systems
-      :node_id: '1857'
+      :permalink: "/digital_preservation_notebook/digital_object_storage/repository_systems/"
       :children:
       - :title: Archivematica
-        :node_id: '1877'
+        :permalink: "/digital_preservation_notebook/digital_object_storage/repository_systems/archivematica/"
         :children: []
       - :title: ADAPT ACE
-        :node_id: '1876'
+        :permalink: "/Digital Preservation/Digital Object Storage/Repository Systems/adapt_ace/"
         :children: []
       - :title: Acumen
-        :node_id: '1875'
+        :permalink: "/Digital Preservation/Digital Object Storage/Repository Systems/acumen/"
         :children: []
       - :title: Digital Preservation Software Platform
-        :node_id: '1874'
+        :permalink: "/digital_preservation_notebook/digital_object_storage/repository_systems/digital_preservation_software_platform/"
         :children: []
       - :title: RODA
-        :node_id: '1873'
+        :permalink: "/Digital Preservation/Digital Object Storage/Repository Systems/roda/"
         :children: []
     - :title: Content Access Protocols
-      :node_id: '1858'
+      :permalink: "/digital_preservation_notebook/digital_object_storage/content_access_protocols/"
       :children: []
   - :title: Metadata Standards
-    :node_id: '1851'
+    :permalink: "/digital_preservation_notebook/metadata_standards/"
     :children: []
   - :title: The Digital Preservation Community
-    :node_id: '1847'
+    :permalink: "/digital_preservation_notebook/digital_preservation_community/"
     :children: []
   - :title: Digital Object Formats
-    :node_id: '1848'
+    :permalink: "/digital_preservation_notebook/digital_object_formats/"
     :children: []
   - :title: Digital Preservation Projects
-    :node_id: '1849'
+    :permalink: "/digital_preservation_notebook/digital_preservation_projects/"
     :children: []
 - :title: Geek Nuggets
-  :node_id: '312'
+  :permalink: "/geek_nuggets/"
   :children:
   - :title: Patent Unpended
-    :node_id: '698'
+    :permalink: "/node/698/"
     :children: []
   - :title: Website Management
-    :node_id: '1304'
+    :permalink: "/node/1304/"
     :children: []
   - :title: Jobs
-    :node_id: '1293'
+    :permalink: "/node/1293/"
     :children: []
   - :title: Project Management
-    :node_id: '989'
+    :permalink: "/node/989/"
     :children: []
   - :title: Metadata
-    :node_id: '988'
+    :permalink: "/node/988/"
     :children: []
   - :title: XML
-    :node_id: '987'
+    :permalink: "/node/987/"
     :children: []
   - :title: HTML & CSS
-    :node_id: '982'
+    :permalink: "/node/982/"
     :children:
     - :title: JavaScript
-      :node_id: '1512'
+      :permalink: "/node/1512/"
       :children: []
   - :title: Visualization
-    :node_id: '726'
+    :permalink: "/node/726/"
     :children: []
   - :title: Programming Languages
-    :node_id: '535'
+    :permalink: "/node/535/"
     :children:
     - :title: Functional Programming
-      :node_id: '1418'
+      :permalink: "/node/1418/"
       :children: []
     - :title: Java
-      :node_id: '986'
+      :permalink: "/geek_nuggets/programming_languages/java/"
       :children:
       - :title: parseDouble
-        :node_id: '589'
+        :permalink: "/poot/java/parseDouble/"
         :children: []
       - :title: a lack of vision
-        :node_id: '1511'
+        :permalink: "/geek_nuggets/programming_languages/java/lack_vision/"
         :children: []
   - :title: Shell Tricks
-    :node_id: '985'
+    :permalink: "/2004/08/10/shell_tricks/"
     :children:
     - :title: Tell me about my hardware.
-      :node_id: '1685'
+      :permalink: "/2004/08/10/shell_tricks/tell_me_about_my_hardware/"
       :children: []
     - :title: Which version of the OS is this?
-      :node_id: '1681'
+      :permalink: "/2006/08/10/which_version_of_the_os_is_this/"
       :children: []
     - :title: What OS and compiler is this?
-      :node_id: '1682'
+      :permalink: "/2006/08/11/what_os_and_compiler_is_this/"
       :children: []
     - :title: ssh
-      :node_id: '984'
+      :permalink: "/2004/08/10/ssh/"
       :children: []
     - :title: Boot floppy madness
-      :node_id: '1592'
+      :permalink: "/2005/01/25/boot-floppy-madness/"
       :children: []
   - :title: Computational Science
-    :node_id: '530'
+    :permalink: "/book/geeknuggets/compsci/"
     :children:
     - :title: Optimization
-      :node_id: '712'
+      :permalink: "/node/712/"
       :children: []
     - :title: Data
-      :node_id: '711'
+      :permalink: "/node/711/"
       :children: []
     - :title: Computer Programming
-      :node_id: '692'
+      :permalink: "/node/692/"
       :children: []
     - :title: Numerical Analysis
-      :node_id: '691'
+      :permalink: "/node/691/"
       :children: []
     - :title: Debugging
-      :node_id: '529'
+      :permalink: "/title/SCDebugging/"
       :children:
       - :title: Extended Precision Problem.
-        :node_id: '528'
+        :permalink: "/title/FPExtendedPrecisionProblem/"
         :children: []
   - :title: Software Engineering
-    :node_id: '1428'
+    :permalink: "/node/1428/"
     :children: []
   - :title: Zaurus
-    :node_id: '693'
+    :permalink: "/geek_nuggets/zaurus/"
     :children:
     - :title: Formatting an SD card as ext2
-      :node_id: '1581'
+      :permalink: "/2005/01/02/formatting-an-sd-card-as-ext2/"
       :children: []
     - :title: Sablot 0.98 for the Zaurus
-      :node_id: '699'
+      :permalink: "/2004/05/25/sablot-098-for-the-zaurus/"
       :children: []
     - :title: Pocket LAMP
-      :node_id: '1421'
+      :permalink: "/2004/09/06/pocket-lamp/"
       :children: []
   - :title: Web Development
-    :node_id: '1865'
+    :permalink: "/geek_nuggets/web_development/"
     :children: []
 - :title: Travels
-  :node_id: '1302'
+  :permalink: "/book/travels/"
   :children:
   - :title: New Zealand
-    :node_id: '1417'
+    :permalink: "/node/1417/"
     :children: []
   - :title: Travel Links
-    :node_id: '1307'
+    :permalink: "/node/1307/"
     :children: []
   - :title: The Big Trip 2003-2004
-    :node_id: '1303'
+    :permalink: "/node/1303/"
     :children:
     - :title: Random Notes
-      :node_id: '1306'
+      :permalink: "/node/1306/"
       :children: []
     - :title: Year of Firsts
-      :node_id: '721'
+      :permalink: "/2004/06/20/year_firsts/"
       :children: []
     - :title: Overview, Itinery & World Map
-      :node_id: '1301'
+      :permalink: "/node/1301/"
       :children: []

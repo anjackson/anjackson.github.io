@@ -8,12 +8,18 @@ layout: default
 
 {{ content }}
 
-  {% if page.tags.size > 0 %}
-  <hr/>
-  <p><csmall>
-  {% for tag in page.tags %}
-  <a href="{{ site.baseurl}}/img-n/all/#{{ tag | replace: ' ','' }}" class="btn btn-theme">{{ tag }}</a>{% if forloop.last != true %}&nbsp;{% endif %}
-  {% endfor %}
-  </csmall></p>
-  {% endif %}
+{% if page.tags.size > 0 %}
+<hr/>
+<p><csmall>
+{% for tag in page.tags %}
+{% assign tag_slug = "unknown" %}
+{% for tagi in site.data.image_tags %}
+{% if tag == tagi[':name'] %}
+{% assign tag_slug = tagi[':slug'] %}
+{% endif %}
+{% endfor %}
+<a href="{{ site.baseurl}}/img-n/tags/{{ tag_slug }}/" class="btn btn-theme">{{ tag }}</a>{% if forloop.last != true %}&nbsp;{% endif %}
+{% endfor %}
+</csmall></p>
+{% endif %}
 

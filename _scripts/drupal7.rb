@@ -248,7 +248,9 @@ module JekyllImport
             name = time.strftime("%Y-%m-%d-") + slug + '.md'
           else
             dir = post[:type]
-            FileUtils.mkdir_p dir
+            if post[:type] != "weblink"
+              FileUtils.mkdir_p dir
+            end
             name = slug + '.md'
           end          
 
