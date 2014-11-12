@@ -7,32 +7,15 @@ To Do
 -----
 
 * Finalise import:
-    * Retain Book structure and additional fields?
-        * http://anjackson.net/book
-    * Menus? Needed for book structure I think. Uses menu_links although book module ties menu link IDs to book and node ids.
-        * Now extracted OK.
-        * Need to map node_id's to permalinks, I think.
     * Retain additional fields from e.g. weblink.url, event.start?, quote.author, projects (no data)?
-    * Weblink structure http://anjackson.net/admin/content/taxonomy/7
-    * Check pages and stories for additional fields?
     * comments?
     * blocks? Not terribly exciting, but the Flick ones are ok.
-    * http://anjackson.net/image and the taxonomy heirarchy http://anjackson.net/admin/content/taxonomy/2
     * aggregator?
-    * delicious_link etc (out of date)
     * events (appear to hook dates and locations together? World trip probably.)
     * taxonomyextra?
     * freelinking has a few links in it. 
-    * menus (more?)
-    * node_counter ?
     * quotes
-    * weblink
-* Get attachments working properly. DONE.
-* Add side-bar to images?
 * Add a /blog/categories/ page.
-* Add 'missing' (i.e. DB-generated) pages:
-    * /books/?
-    * /images/ (sometimes also called img-n) elsewhere.
 * Update /work/ section, as appropriate.
 * Sitemaps (HTML and XML)
 * Nick anything good from http://localhost:4000/single-post.html
