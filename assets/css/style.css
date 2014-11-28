@@ -228,8 +228,8 @@ a:focus {
 
 /* Services Wrap */
 #service {
-	margin-top: 100px;
-	margin-bottom: 80px;
+	margin-top: 70px;
+	margin-bottom: 60px;
 }
 
 #service i {
@@ -480,4 +480,8 @@ article .category-icon {
 }
 .image-display {
 	text-align: center;
+}
+
+img.avatar {
+	max-width: 120px;
 }
