@@ -8,13 +8,19 @@ To Do
 
 * Finalise import:
     * Retain additional fields from e.g. weblink.url, event.start?, quote.author, projects (no data)?
-    * comments?
+    * comments? Nah.
     * blocks? Not terribly exciting, but the Flick ones are ok.
-    * aggregator?
+    * aggregator? Nah.
     * events (appear to hook dates and locations together? World trip probably.)
     * taxonomyextra?
     * freelinking has a few links in it. 
-    * quotes
+    * quotes & quotes.author?
+* Add a 'legacy' section that includes:
+    * /book/
+    * /img-n/
+    * /weblinks/
+    * /imported-sitemap/
+    * /geek/
 * Add a /blog/categories/ page.
 * Update /work/ section, as appropriate.
 * Sitemaps (HTML and XML)
