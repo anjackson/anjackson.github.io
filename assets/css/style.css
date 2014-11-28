@@ -437,6 +437,12 @@ csmall2 {
 	color:#2f2f2f; 
 	text-decoration: none;
 	}
+
+.popular-posts li.more a, 
+.popular-posts li.more a:hover {
+	color:#ffffff; 
+	text-decoration: none;
+	}
 	
 .popular-posts li img {
 	float: left; 

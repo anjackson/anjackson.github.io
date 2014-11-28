@@ -21,4 +21,9 @@ Welcome to lovelycode.net
 * [My LinkedIn Profile](http://uk.linkedin.com/in/andrewnjackson)
 * <a href="http://del.icio.us/beardedstoat" rel="me">Andy's del.icio.us links</a>.
 * <a href="http://www.flickr.com/photos/andy-and-eilidh/" rel="me">Our flickr photos</a>.
+* [Look at the site map]({{ site.baseurl }}/sitemap/).
+* <a href="{{ site.baseurl }}/work/">WORK</a>
+* <a href="{{ site.baseurl }}/img-n/">IMAGES</a>
+* <a href="{{ site.baseurl }}/geek/">GEEK</a>
+
 
