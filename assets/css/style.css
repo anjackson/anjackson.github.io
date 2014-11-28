@@ -483,5 +483,6 @@ article .category-icon {
 }
 
 img.avatar {
-	max-width: 120px;
+	max-width: 180px;
+	margin: 0 auto;
 }
