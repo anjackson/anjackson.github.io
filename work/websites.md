@@ -15,6 +15,9 @@ redirect_from:
 permalink: "/work/websites/"
 tags: []
 ---
+
+{% include _projects.html kind="websites" %}
+
 <a name="folio">
 <h2>Portfolio</h2>
 </a>

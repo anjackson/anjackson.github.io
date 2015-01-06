@@ -15,7 +15,11 @@ redirect_from:
 permalink: "/about/"
 tags: []
 ---
-Welcome to lovelycode.net
+
+I'm the Web Archiving Technical Lead at the [British Library](http://www.bl.uk/).
+
+<script type="text/javascript" src="http://www.linkedin.com/js/public-profile/widget-os.js"></script>
+<a class="linkedin-profileinsider-inline" href="http://www.linkedin.com/in/andrewnjackson">Andrew Jackson</a>
 
 * <a href="http://twitter.com/lovelycode">@lovelycode</a>
 * [My LinkedIn Profile](http://uk.linkedin.com/in/andrewnjackson)

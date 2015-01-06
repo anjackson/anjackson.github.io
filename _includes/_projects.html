@@ -1,0 +1,7 @@
+{% for page in site.pages %}
+{% if page.type == 'project' and page.tags contains include.kind %}
+
+<a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }} <i class="fa {{ page.fa-icon }}"></i></a>
+
+{% endif %}
+{% endfor %}

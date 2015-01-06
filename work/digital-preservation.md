@@ -27,3 +27,6 @@ Roughly speaking, the technical side of digital preservation can be broken down 
 Most of this notebook deals with the latter issue, i.e. with how to preserve the meaning of digital objects so that they remain accessible over time. Of course, all of that work is based on the assumption that we can keep the actual binary data safe from bit-rot, and so the [[Bit Preservation|first section]] will look at that issue.
 
 See also [items tagged as digital preservation](/topic/topics/digital_preservation)
+
+
+{% include _projects.html kind="digital-preservation" %}
