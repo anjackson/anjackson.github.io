@@ -30,9 +30,18 @@ To Do
 * Finalise front-page content.
 * Create a better, dynamically created site map.
 
+New structure:
+
+* /
+* /work/data-mining
+* /work/digital-preservation
+* /work/development
+
+
 Other ideas
 
 * I like the notion of auto-generating images for blog posts based on the content, perhaps via https://code.google.com/p/jspos/ or similar.
+* I also like the idea of a digital preservatio RSS aggregator subsite based on Jekyll, if possible.
 
 Notes
 -----

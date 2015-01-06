@@ -6,13 +6,14 @@ status: 1
 created_ts: 1229982339
 changed_ts: 1280000396
 node_id: 1836
-title: Digital Preservation
+title: Web Archiving & Digital Preservation
 author: anj
 created: '2008-12-22'
 changed: '2010-07-24'
 redirect_from:
 - "/node/1836/"
-permalink: "/work/digitalpreservation/"
+- "/work/digitalpreservation/"
+permalink: "/work/digital-preservation/"
 category: Digital Preservation
 tags: []
 ---
