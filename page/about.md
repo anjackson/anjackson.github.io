@@ -16,6 +16,15 @@ permalink: "/about/"
 tags: []
 ---
 
+* York etc. Dig info out of disk image.
+* <http://web.archive.org/web/19980110184053/http://www.ph.ed.ac.uk/~anj/>
+* <http://web.archive.org/web/20030622214621/http://anjackson.net/all.html>
+* <http://web.archive.org/web/20030715050253/http://anjackson.net/me/weblog/>
+* <http://web.archive.org/web/20030715050404/http://anjackson.net/me/weblog/archive/>
+* <http://web.archive.org/web/20021130153556/http://www.epcc.ed.ac.uk/~andrewj/>
+* <http://www2.ph.ed.ac.uk/cmatter/cgi-bin/archive/show.cgi?db=projects&id=2>
+* <http://web.archive.org/web/20150109234140/http://nutshells.anjackson.net/>
+
 I'm the Web Archiving Technical Lead at the [British Library](http://www.bl.uk/).
 
 <script type="text/javascript" src="http://www.linkedin.com/js/public-profile/widget-os.js"></script>

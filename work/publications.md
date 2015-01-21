@@ -15,7 +15,11 @@ redirect_from:
 permalink: "/work/publications/"
 tags: []
 ---
-<table width="80%" border="0" cellpadding="5" align="center">
+
+* [Mendelay](http://www.mendeley.com/profiles/andrew-jackson/)
+* [Andrew N. Jackson's articles on arXiv](http://arxiv.org/a/jackson_a_2)
+
+<table width="100%" border="0" cellpadding="5" align="center">
 <tr>
 <td colspan="2" bgcolor="#eeeeee" align="center">
 <font size="+0">
@@ -69,8 +73,8 @@ A report written in the 1st year of my Ph.D. (November 1997).<br>
 </td>
 </tr>
 </table>
-<br>
-<table width="80%" border="0" cellpadding="5" align="center">
+
+<table width="100%" border="0" cellpadding="5" align="center">
 <tr>
 <td colspan="2" bgcolor="#eeeeee" align="center">
 <font size="+0">
@@ -117,9 +121,11 @@ Monte Carlo Condensed Matter<br></td>
 <i>Interaction-Free Measurement</i>
 <br>
 A brief look at a very wierd corner of quantum mechanics.<br></td></tr>
-</table><table width="100%" border="0" cellpadding="5" cellspacing="5"></table>
+</table>
 
-<table width="80%" border="0" cellpadding="5" align="center">
+<table width="100%" border="0" cellpadding="5" cellspacing="5"></table>
+
+<table width="100%" border="0" cellpadding="5" align="center">
 <tr>
 <td colspan="2" bgcolor="#eeeeee" align="center">
 <font size="+0">
@@ -185,4 +191,5 @@ An application of Monte Carlo simulation methods.<br>
 </td> </tr>
 </table>
 <p>
+
 <font color="#ff0000">*</font>This is undergraduate work, which has <b>not</b> been revised at any stage after its original submission for my degree.As such, these documents come with <b>no</b> guarentee of correctness.Mind you, neither does the post-graduate stuff, but at least some of <i>them</i> have been peer-reviewed.</p>
