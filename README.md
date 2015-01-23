@@ -37,6 +37,31 @@ New structure:
 * /work/digital-preservation
 * /work/development
 
+Projects to add
+
+* Searching Web Archives
+* Data-mining Web Archives?
+* Datasets from Web Archives?
+
+* OpenWayback
+
+* SCAPE
+* Planets
+* Archiving the UK Web (NPLD)
+* Strender
+* Migration Workflow (EAP)
+* Formats over Time
+* AQuA etc.
+
+* MCSiMPI
+* MCMC?
+* QCDgrid
+* JP2 profile? PDF risks? JHOVE analysis?
+* MSc Module Coordinator: Applied Numerical Algorithms
+* QCDOC
+* EGEE Network Performance Diagnostic Tool
+* Lattice Switch MC
+
 
 Other ideas
 
