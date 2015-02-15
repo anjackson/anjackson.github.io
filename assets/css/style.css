@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Raleway', sans-serif;
-	font-weight: 700;
+	font-weight: 400;
 }
 
 p { 
@@ -93,7 +93,7 @@ a:focus {
 
 .navbar-brand {
 	font-family: 'Raleway', sans-serif;
-	font-weight: 900;
+	font-weight: 400;
 }
 
 .navbar-header .navbar-brand {
@@ -102,7 +102,7 @@ a:focus {
 
 .navbar-default .navbar-nav > li > a {
 	color: white;
-	font-weight: 700;
+	font-weight: 400;
 	font-size: 12px;
 }
 
@@ -126,7 +126,7 @@ a:focus {
 
 .dropdown-menu > li > a {
 	color: white;
-	font-weight: 700;
+	font-weight: 400;
 	font-size: 12px;
 }
 
@@ -377,7 +377,7 @@ a:focus {
 
 .ctitle {
 	color: #00b3fe;
-	font-weight: 700;
+	font-weight: 400;
 	margin-bottom: 15px;
 }
 
@@ -498,6 +498,5 @@ img.avatar {
 }
 .project-box-title {
 	text-align: center;
-	padding: 12px;
-	font-size: 18px;
+	padding: 8px;
 }
