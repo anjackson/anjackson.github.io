@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: section
 type: page
 promote: 0
 status: 1
@@ -14,6 +14,7 @@ redirect_from:
 - "/node/8/"
 permalink: "/work/websites/"
 tags: []
+projects: websites
 ---
 
-{% include _projects.html kind="websites" %}
+websites

@@ -492,3 +492,11 @@ img.avatar {
 	max-width: 180px;
 	margin: 0 auto;
 }
+
+.project-box p, .project-box a {
+	color: white;
+}
+.project-box-title {
+	text-align: center;
+	padding: 1em;
+}

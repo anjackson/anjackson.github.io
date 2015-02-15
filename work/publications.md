@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: section
 type: page
 promote: 0
 status: 1
@@ -14,6 +14,7 @@ redirect_from:
 - "/node/552/"
 permalink: "/work/publications/"
 tags: []
+projects: publications
 ---
 
 * [Mendelay](http://www.mendeley.com/profiles/andrew-jackson/)

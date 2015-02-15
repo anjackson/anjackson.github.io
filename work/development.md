@@ -1,7 +1,9 @@
 ---
 title: Large-Scale System Design & Development
 permalink: "/work/development/"
-layout: default
+layout: section
+projects: development
 ---
 
-{% include _projects.html kind="development" %}
+
+Development...
