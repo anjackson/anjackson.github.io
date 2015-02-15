@@ -498,5 +498,6 @@ img.avatar {
 }
 .project-box-title {
 	text-align: center;
-	padding: 1em;
+	padding: 12px;
+	font-size: 18px;
 }

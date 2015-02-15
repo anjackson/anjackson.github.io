@@ -2,22 +2,17 @@
 {% for page in site.pages %}
 {% if page.type == 'project' and page.tags contains include.kind %}
 
-<div class="col-xs-12 col-sm-6 col-md-6 project-box" style="padding:0;">
-<a href="{{ site.baseurl }}{{ page.url }}">
-<div class="project-box-bg" style="width: 100%; height: 300px; background-image: url('{{ site.baseurl }}{{ page.screenshot }}');">
-<div class="project-box-gap" style="width: 100%; height: 100px; background-color: rgba(0,179,254,0.75);">
+<div class="col-xs-12 col-sm-6 col-md-6 project-box">
+<div class="project-box-inner" style="border-radius: 10px; border: 4px solid #00B3FE; background-color: #00B3FE;">
+<a href="{{ site.baseurl }}{{ page.url }}" title="{{ page.summary }}">
+<div class="project-box-bg" style="width: 100%; height: 200px; background-image: url('{{ site.baseurl }}{{ page.screenshot }}'); border-radius: 10px;">
 </div>
-<div class="project-box-title" style="width: 100%; height: 100px; background-color: rgba(0,179,254,0.98);">
+<div class="project-box-title" style="width: 100%; height: 50px; background-color: #00B3FE;">
 {{ page.title }}
 <i class="fa {{ page.fa-icon }}"></i>
-<p>
-{{ page.summary }}
-</p>
-</div>
-<div class="project-box-gap" style="width: 100%; height: 100px; background-color: rgba(0,179,254,0.75);">
-</div>
 </div>
 </a>
+</div>
 </div>
 
 {% endif %}
