@@ -2,7 +2,7 @@
 layout: project
 type: project
 title: Keeping Codes
-permalink: "/project/keeping-codes/"
+permalink: "/projects/keeping-codes/"
 tags: [digital-preservation, websites]
 url: http://anjackson.github.io/keeping-codes/
 fa-icon: fa-file-archive-o

@@ -11,10 +11,11 @@ created: '2004-05-17'
 changed: '2004-05-17'
 redirect_from:
 - "/node/696/"
-permalink: "/project/labbep/"
+permalink: "/projects/labbep/"
 tags: [computational-physics, development]
 fa-icon: fa-code-fork
 title: labbep
 summary: LAttice-Boltzmann simulation of fluid-flow in BEad Packs
+screenshot: /projects/images/labbep-lbc.png
 ---
 LAttice-Boltzmann simulation of fluid-flow in BEad Packs (LA.B.BE.P. - catchy backronym yah).

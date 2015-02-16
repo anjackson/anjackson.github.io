@@ -6,16 +6,15 @@ layout: default
 	 	
 	 		<div class="col-xs-12 col-sm-6 col-md-6">
 
-		 		{{ content }}
+   		 		{% include _projects.html kind=page.projects %}
 
-   		 		{% include _recent_posts_block.html %}
-
-			</div>
-	 		
+			</div> 		
 	 		
 	 		<div class="col-xs-12 col-sm-6 col-md-6">
 	 		
-   		 		{% include _projects.html kind=page.projects %}
+		 		{{ content }}
+		 		
+   		 		{% include _recent_posts_block.html %}
 
 	 		</div>
 	 	</div>

@@ -2,7 +2,7 @@
 layout: project
 type: project
 title: digipres.org
-permalink: "/project/digipres.org/"
+permalink: "/projects/digipres.org/"
 tags: [digital-preservation, websites]
 url: http://www.digipres.org/
 fa-icon: fa-users

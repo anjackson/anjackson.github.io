@@ -12,7 +12,7 @@ created: '2004-05-17'
 changed: '2004-05-17'
 redirect_from:
 - "/node/695/"
-permalink: "/project/anjackson.net/"
+permalink: "/projects/anjackson.net/"
 tags: [websites]
 fa-icon: fa-code
 ---

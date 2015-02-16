@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-permalink: "/project/labbep/"
+permalink: "/projects/aadda/"
 tags: [data-mining,development]
 fa-icon: fa-code-fork
 screenshot: /projects/images/aadda-halfsize.png

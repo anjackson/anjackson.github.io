@@ -2,7 +2,7 @@
 layout: project
 type: project
 title: Other websites
-permalink: "/project/other-websites/"
+permalink: "/projects/other-websites/"
 tags: [websites]
 fa-icon: fa-code
 ---
