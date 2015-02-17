@@ -2,7 +2,22 @@
 layout: default
 ---
 
+
+	 	<div class="row">
+	 	
+	 		<div class="col-xs-12 col-sm-6 col-md-6">
+
+		 		{{ content }}
+
+			</div> 		
+	 		
+	 		<div class="col-xs-12 col-sm-6 col-md-6">
+	 		
 <a href="{{ page.url }}"><i class="fa {{ page.fa-icon }}"></i></a>
 
-{{ content }}
 
+		 		
+   		 		{% include _recent_posts_block.html %}
+
+	 		</div>
+	 	</div>

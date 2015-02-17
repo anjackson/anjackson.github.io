@@ -2,7 +2,7 @@
 {% for page in site.pages %}
 {% if page.type == 'project' and page.tags contains include.kind %}
 
-<div class="col-xs-12 col-sm-6 col-md-6">
+<div class="col-xs-6 col-sm-6 col-md-6">
 <div class="project-box">
 <a href="{{ site.baseurl }}{{ page.url }}" title="{{ page.summary }}">
 <div class="project-box-bg" style="width: 100%; height: 200px; background-image: url('{{ site.baseurl }}{{ page.screenshot }}');">

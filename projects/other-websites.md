@@ -5,6 +5,8 @@ title: Other websites
 permalink: "/projects/other-websites/"
 tags: [websites]
 fa-icon: fa-code
+screenshot: /projects/images/digipres-org-halfsize.png
+summary: Various websites I've worked on.
 ---
 
 <h4>nutshells</h4>
