@@ -1,0 +1,3 @@
+# Exclude even more, to make rebuilds quicker while developing...
+exclude: ["page","book","image", "lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "_scripts", "minimal-mistakes-master", "so-simple-theme-master", "solid-theme"]
+

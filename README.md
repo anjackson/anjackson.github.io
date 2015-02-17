@@ -3,6 +3,12 @@ anjackson.github.io
 
 This repository holds my efforts to convert my long-running Drupal site into a more maintainable static version.
 
+Use 
+
+    $ jekyll serve --watch --drafts --config _config.yml,_config-minimal.yml
+
+while tweaking to minimise the number of pages included, and so keep the rebuilds fast.
+
 To Do
 -----
 
