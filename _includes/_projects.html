@@ -1,8 +1,13 @@
 <div class="row">
 {% for page in site.pages %}
-{% if page.type == 'project' and page.tags contains include.kind %}
+{% if page.type == 'project' %}
+{% if page.tags contains include.kind or include.all == true %}
 
-<div class="col-xs-6 col-sm-6 col-md-6">
+{% if include.all == true %}
+<div class="col-xs-3 col-sm-3 col-md-3 project-container">
+{% else %}
+<div class="col-xs-6 col-sm-6 col-md-6 project-container">
+{% endif %}
 <div class="project-box">
 <a href="{{ site.baseurl }}{{ page.url }}" title="{{ page.summary }}">
 <div class="project-box-bg" style="width: 100%; height: 200px; background-image: url('{{ site.baseurl }}{{ page.screenshot }}');">
@@ -14,6 +19,7 @@
 </div>
 </div>
 
+{% endif %}
 {% endif %}
 {% endfor %}
 </div>

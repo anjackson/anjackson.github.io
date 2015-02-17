@@ -40,3 +40,14 @@ I'm the Web Archiving Technical Lead at the [British Library](http://www.bl.uk/)
 * <a href="{{ site.baseurl }}/geek/">GEEK</a>
 
 
+              <ul class="dropdown-menu">
+                <li><a href="{{ site.baseurl }}/projects/">PROJECTS</a></li>
+                <li><a href="{{ site.baseurl }}/projects/digipres.org/">DIGIPRES.ORG</a></li>
+                <li><a href="{{ site.baseurl }}/projects/keeping-codes/">KEEPING CODES</a></li>
+                <li class="divider"></li>
+                <li><a href="{{ site.baseurl }}/single-post.html">SINGLE POST</a></li>
+                <li><a href="{{ site.baseurl }}/portfolio.html">PORTFOLIO</a></li>
+                <li><a href="{{ site.baseurl }}/single-project.html">SINGLE PROJECT</a></li>
+              </ul>
+
+
