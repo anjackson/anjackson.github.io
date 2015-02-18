@@ -15,6 +15,7 @@ redirect_from:
 permalink: "/work/websites/"
 tags: []
 projects: websites
+category: websites
 ---
 
 websites

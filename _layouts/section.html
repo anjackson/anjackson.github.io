@@ -14,7 +14,8 @@ layout: default
 	 		
 		 		{{ content }}
 		 		
-   		 		{% include _recent_posts_block.html %}
+		 		{% assign catposts = site.categories[page.category] %}
+   		 		{% include _recent_posts_block.html posts=catposts %}
 
 	 		</div>
 	 	</div>

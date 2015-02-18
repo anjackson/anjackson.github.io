@@ -8,22 +8,22 @@ layout: default
 
 	 	<div class="row">
 	 	
-	 		<! -- BLOG POSTS LIST -->
+	 		<!-- BLOG POSTS LIST -->
 	 		<div class="col-xs-12 col-sm-8 col-md-8">
 
 		 		  {{ content }}
 
-			</div><! --/col-lg-8 -->
+			</div><!--/col-lg-8 -->
 	 		
 	 		
-	 		<! -- SIDEBAR -->
+	 		<!-- SIDEBAR -->
 	 		<div class="col-xs-12 col-sm-4 col-md-4">
 	 		
-   		 		{% include _recent_posts_block.html %}
+   		 		{% include _recent_posts_block.html posts=site.posts %}
   
    		 		{% include _tags_block.html %}
 
    		 		{% include _categories_block.html %}
 
 	 		</div>
-	 	</div><! --/row -->
+	 	</div><!--/row -->

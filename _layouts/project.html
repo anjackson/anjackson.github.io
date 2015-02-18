@@ -16,8 +16,9 @@ layout: default
 <a href="{{ page.url }}"><i class="fa {{ page.fa-icon }}"></i></a>
 
 
-		 		
-   		 		{% include _recent_posts_block.html %}
+				{% assign ltag = page.title | lower %}
+		 		{% assign tagposts = site.tags[ltag] %}
+   		 		{% include _recent_posts_block.html posts=tagposts %}
 
 	 		</div>
 	 	</div>

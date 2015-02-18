@@ -1,12 +1,18 @@
 <h4>Recent Posts</h4>
 <div class="hline"></div>
+{% if (include.posts | size) > 0 %}
 <ul class="popular-posts">
-  {% for post in site.posts limit:4 %}
+  {% for post in include.posts limit:4 %}
     <li>
       {% include _cat_icon.html cat=post.category %}
       <p><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title | truncate: 52 }}</a></p>
       <em>Posted: {{ post.date | date:"%Y-%m-%d" }}</em>
     </li>
   {% endfor %}
+  {% if (include.posts | size) > 4 %}
   <li class="more"><a href="{{ site.url }}/blog/" title="More" class="btn btn-theme">More</a></li>
+  {% endif %}
 </ul>
+{% else %}
+<p>No posts here yet.</p>
+{% endif %}

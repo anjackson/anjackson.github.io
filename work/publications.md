@@ -15,6 +15,7 @@ redirect_from:
 permalink: "/work/publications/"
 tags: []
 projects: publications
+category: publications
 ---
 
 * [Mendelay](http://www.mendeley.com/profiles/andrew-jackson/)
