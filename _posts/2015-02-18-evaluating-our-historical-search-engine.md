@@ -1,22 +1,25 @@
 ---
-title: Evaluating Our 'Historical Search Engine'
+title: Evaluating Our "Historical Search Engine"
 category: Data Mining
 tags: ["Web Archives","BUDDAH"]
 status: stub
 layout: post
+author: anj
 ---
 
-Over the last year, we have been working on [Big UK Domain Data for the Arts and Humanities](http://buddah.projects.history.ac.uk/) project -- a very ambitious project to build an 'historical search engine' that spans the entire history of the web in the UK. This continues the work of the [Analytical Access to the Domain Dark Archive](http://domaindarkarchive.blogspot.co.uk/) project but at a greater scale, and moreover, with a range of much more challenging use cases.
+Over the last year, we have been a part of the [Big UK Domain Data for the Arts and Humanities](http://buddah.projects.history.ac.uk/) project, with the ambitious goal of building a "historical search engine" covering the early history of the UK web. This continues the work of the [Analytical Access to the Domain Dark Archive](http://domaindarkarchive.blogspot.co.uk/) project but at a greater scale, and moreover, with a much more challenging range of use cases.
 
-We presented the current prototype at the International Digital Curation Conference last week (as written up by the DCC as ["A macroscope for UK web history"](http://www.dcc.ac.uk/blog/macroscope-uk-web-history)), and received largely positive feedback, at least in terms of how we have so far handled the scale of the collection (although the impromptu load-test that followed our presentation showed that supporting many users at once is still a challenge!).
+We presented the current prototype at the International Digital Curation Conference last week (written up by the DCC [here](http://www.dcc.ac.uk/blog/macroscope-uk-web-history)), and received largely positive feedback, at least in terms of how we have so far handled the scale of the collection (although the impromptu load-test that followed our presentation showed that supporting many users at once is still a challenge!).
 
 However, we are eagerly awaiting the results of the *real* test of this system, from the [project's bursary holders](http://buddah.projects.history.ac.uk/news/bursaries/). Ten researchers have been funded as 'expert users' of the system, each with a genuine historical research question in mind. Their feedback will be critical in helping us understand the successes and failures of the system, and how it might be improved.
 
 One of those bursary holders, Gareth Millward, has already talked about their experiences, including this (somewhat misleadingly titled but otherwise excellent) Washington Post article ["I tried to use the Internet to do historical research. It was nearly impossible."](http://www.washingtonpost.com/posteverything/wp/2015/02/17/i-tried-to-use-the-internet-to-do-historical-research-it-was-nearly-impossible/). It seems like the results are something of a mixed bag, and from our informal conversations with the other bursary holders, we suspect that Gareth's experiences are representative of the overall outcome.
 
-For example, although calling this an 'historical search engine' is an effective way of getting the idea across, the actual experience and 'information needs' of the user are very different. As Gareth states, if you [search for RNIB using Google](https://www.google.co.uk/search?q=rnib), the RNIB site and information about it is delivered right at the top of the results.
+For example, although calling this a "historical search engine" is an effective way of getting the idea across, the actual experience and 'information needs' of the user are very different. 
 
-But does this reflect what a 'historical search engine' should do?
+As Gareth states, if you [search for RNIB using Google](https://www.google.co.uk/search?q=rnib), the RNIB site and information about it is delivered right at the top of the results.
+
+But does this reflect what our search engine should do?
 
 When Google ranks it's results, it is making many assumptions. Assumptions about the most important meanings of terms. Assumptions about the current needs of it's users. Assumptions about the information needs of specific users (also know as the [filter bubble](http://en.wikipedia.org/wiki/Filter_bubble)). What assumptions should we make? Are we even playing the same game as Google?
 
@@ -35,6 +38,8 @@ Currently, we expect that refining a search on the web archive will involve a lo
 Both sides of this system are learning as we go. We can build our prototypes, and require our users' feedback to guide us, but at the same time, those researchers have had to learn how to approach such a complex, messy dataset. Both sides have had their expectations challenged, and we look forward to continuing to make progress in partnership with the research community.
 
 <!--
+Preference for Macroscope.
+
 links to self. Problems with text.
 -->
 

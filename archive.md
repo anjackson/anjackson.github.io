@@ -1,6 +1,6 @@
 ---
 title: archive
-layout: page
+layout: default
 permalink: /archive/
 ---
 
