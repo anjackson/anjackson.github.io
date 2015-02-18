@@ -2,8 +2,8 @@
 layout: project
 type: project
 permalink: "/projects/aadda/"
-categories: [data-mining,development]
-tags: [data-mining,development]
+category: Data Mining
+tags: [data-mining]
 fa-icon: fa-code-fork
 screenshot: /projects/images/aadda-halfsize.png
 title: AADDA

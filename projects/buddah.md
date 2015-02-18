@@ -2,7 +2,8 @@
 layout: project
 type: project
 permalink: "/projects/buddah/"
-tags: [data-mining,development]
+category: Data Mining
+tags: [data-mining]
 fa-icon: fa-code-fork
 screenshot: /projects/images/buddah-halfsize.png
 title: BUDDAH
