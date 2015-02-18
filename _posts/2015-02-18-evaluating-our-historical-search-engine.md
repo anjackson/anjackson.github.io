@@ -5,10 +5,11 @@ tags: ["Web Archives","BUDDAH"]
 status: stub
 layout: post
 author: anj
+shown: false
 ---
 
 Over the last year, we have been a part of the [Big UK Domain Data for the Arts and Humanities](http://buddah.projects.history.ac.uk/) project, with the ambitious goal of building a "historical search engine" covering the early history of the UK web. This continues the work of the [Analytical Access to the Domain Dark Archive](http://domaindarkarchive.blogspot.co.uk/) project but at a greater scale, and moreover, with a much more challenging range of use cases.
-
+<!--break-->
 We presented the current prototype at the International Digital Curation Conference last week (written up by the DCC [here](http://www.dcc.ac.uk/blog/macroscope-uk-web-history)), and received largely positive feedback, at least in terms of how we have so far handled the scale of the collection (although the impromptu load-test that followed our presentation showed that supporting many users at once is still a challenge!).
 
 However, we are eagerly awaiting the results of the *real* test of this system, from the [project's bursary holders](http://buddah.projects.history.ac.uk/news/bursaries/). Ten researchers have been funded as 'expert users' of the system, each with a genuine historical research question in mind. Their feedback will be critical in helping us understand the successes and failures of the system, and how it might be improved.

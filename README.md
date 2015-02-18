@@ -12,6 +12,8 @@ while tweaking to minimise the number of pages included, and so keep the rebuild
 To Do
 -----
 
+* Update /work/ section, as appropriate.
+* Sitemaps (HTML and XML) and feed(s).
 * Finalise import:
     * Retain additional fields from e.g. weblink.url, event.start?, quote.author, projects (no data)?
     * comments? Nah.
@@ -28,26 +30,9 @@ To Do
     * /imported-sitemap/
     * /geek/
 * Add a /blog/categories/ page.
-* Update /work/ section, as appropriate.
-* Sitemaps (HTML and XML)
-* Nick anything good from http://localhost:4000/single-post.html
-* Consider a portfolio like http://localhost:4000/portfolio.html, http://www.blacktie.co/demo/solid/single-project.html
-* Finalise main nagivation and sections.
-* Finalise front-page content.
-* Create a better, dynamically created site map.
 
-New structure:
 
-* /
-* /work/data-mining
-* /work/digital-preservation
-* /work/development
-
-Projects to add
-
-* Searching Web Archives
-* Data-mining Web Archives?
-* Datasets from Web Archives?
+### Projects to add ###
 
 * OpenWayback
 
@@ -57,9 +42,9 @@ Projects to add
 * Strender
 * Migration Workflow (EAP)
 * Formats over Time
+* Discovery for web archives (overarching)?
 * AQuA etc.
 
-* MCSiMPI
 * MCMC?
 * QCDgrid
 * JP2 profile? PDF risks? JHOVE analysis?

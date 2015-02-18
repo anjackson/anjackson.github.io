@@ -14,7 +14,7 @@ redirect_from:
 - "/node/1882/"
 permalink: "/2010/08/20/opf_blog_community_and_code/"
 category: Digital Preservation
-tags: []
+tags: [development]
 ---
 As well as blogging about digital preservation here, I've also got a blog on the Open Planets Foundation website where I'll post about OPF issues. I've just posted my first blog entry there: <a href="http://www.openplanetsfoundation.org/node/42">Community and code</a>. Reproduced below the fold.
 <!--break-->

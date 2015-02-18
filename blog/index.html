@@ -5,6 +5,7 @@ title: Blog
 
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
+{% if post.shown != false %}
   <article>
     {% if page.images %}
       <p><img class="img-responsive" src="{{ site.baseurl }}/{{ page.images[0]['src'] }}"></p>
@@ -22,6 +23,7 @@ title: Blog
       <div class="spacing"></div>
       {% endif %}
   </article>
+{% endif %}
 {% endfor %}
 
 <!-- Pagination links -->

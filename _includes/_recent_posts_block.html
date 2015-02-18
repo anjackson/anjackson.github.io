@@ -3,11 +3,13 @@
 {% if (include.posts | size) > 0 %}
 <ul class="popular-posts">
   {% for post in include.posts limit:4 %}
+  {% if post.shown != false %}
     <li>
       {% include _cat_icon.html cat=post.category %}
       <p><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title | truncate: 52 }}</a></p>
       <em>Posted: {{ post.date | date:"%Y-%m-%d" }}</em>
     </li>
+  {% endif %}
   {% endfor %}
   {% if (include.posts | size) > 4 %}
   <li class="more"><a href="{{ site.url }}/blog/" title="More" class="btn btn-theme">More</a></li>
