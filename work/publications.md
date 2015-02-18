@@ -1,5 +1,5 @@
 ---
-layout: section
+layout: default
 type: page
 promote: 0
 status: 1

@@ -17,8 +17,10 @@ category: science
 tags: []
 projects: computational-physics
 ---
-My background in in Computational Physics.  This means solving physics problems via computer modelling in order to compare against the traditional pen-and-paper and experimental investigations.  In many cases, either the problem cannot be solved on paper (and computation is the only way to ''approach'' the theory), or the experiments cannot actually be performed (and so a simulation of the experiment is only way to ''test'' the theory).
 
-Physics Links Page
-------------------
-A [set of useful links](physics/plinks) to physics-related resources collated over the last few years. Many may be broken. 
+My background is in computational physics -- solving physics problems via computer modelling in order to compare against the traditional pen-and-paper and experimental investigations.  In many cases, either the problem cannot be solved on paper (and computation is the only way to ''approach'' the theory), or the experiments cannot actually be performed (and so a simulation of the experiment is only way to ''test'' the theory).
+
+My research focused on large-scale parallel simulations to study problems in statistical physics, fluid dynamics and quantum mechanics.
+
+
+There is also a [set of useful links](physics/plinks) to physics-related resources collated over the last few years. Many are broken now.

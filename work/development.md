@@ -6,5 +6,4 @@ projects: development
 category: development
 ---
 
-
-Development...
+I have been involved in developing a wide range of software systems and architectures, from small scale utilities, through massively parallel computations, to large-scale loosly-coupled architectures.

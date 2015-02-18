@@ -18,4 +18,4 @@ projects: websites
 category: websites
 ---
 
-websites
+Over the years, I've been involved in the development of a number of websites. As style and design are not my strong suite, I have usually focussed on creating data-driven systems with web interfaces.
