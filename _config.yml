@@ -54,6 +54,8 @@ subsites:
     url: /keeping-codes/
 
 cats:
+  - name: "Data Mining"
+    picture: digitalpreservation-h48.png
   - name: "Digital Preservation"
     picture: digitalpreservation-h48.png
   - name: Geek
