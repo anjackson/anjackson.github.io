@@ -14,7 +14,7 @@ title: Blog
       {% include _cat_icon.html cat=post.category %}
       <p><csmall>Posted: {{ post.date | date:"%Y-%m-%d" }} | </csmall><csmall2> {{ post.author }}</csmall2></p>
       <p>
-        {% if post.description %}{{ post.description }}{% else %}{{ post.content | split:"<!-- break -->" | first | truncate: 5000 }}{% endif %}
+        {% if post.description %}{{ post.description }}{% else %}{{ post.content | split:"<!--break-->" | first | truncatewords: 200 }}{% endif %}
       </p>
       <p><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">[Read More]</a></p>
       <div class="hline"></div>
