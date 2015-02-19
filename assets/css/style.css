@@ -469,8 +469,23 @@ csmall2 {
 	margin-left: 2em;
 }
 
+#blog-container img {
+    display: block;
+    display: inline-block;
+    height: auto;
+    max-width: 100%;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    -webkit-box-shadow: 1px 1px 2px 2px #eee;
+    -moz-box-shadow:    1px 1px 2px 2px #eee;
+    box-shadow:         1px 1px 2px 2px #eee;
+}
+
 article .category-icon {
 	float: right;
+    -webkit-box-shadow: none;
+    -moz-box-shadow:    none;
+    box-shadow:         none;
 }
 
 .popular-posts .category-icon {
@@ -521,14 +536,3 @@ img.avatar {
 	outline-style: none;
 }
 
-#blog-container img {
-    display: block;
-    display: inline-block;
-    height: auto;
-    max-width: 100%;
-    margin-top: 1em;
-    margin-bottom: 1em;
-    -webkit-box-shadow: 1px 1px 2px 2px #eee;
-    -moz-box-shadow:    1px 1px 2px 2px #eee;
-    box-shadow:         1px 1px 2px 2px #eee;
-}
