@@ -52,15 +52,15 @@
             <li {% if page.url contains "/work/"%} class="dropdown active"{% else %}class="dropdown"{% endif %}>
               <a href="{{ site.baseurl }}/work/" class="dropdown-toggle" data-toggle="dropdown">WORK <b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="{{ site.baseurl }}/work/">WORK</a></li>
+                <li{% if page.url contains "/work/"%} class="active"{% endif %}><a href="{{ site.baseurl }}/work/">WORK</a></li>
                 <li class="divider"></li>
-                <li><a href="{{ site.baseurl }}/work/data-mining/">DATA MINING</a></li>
-                <li><a href="{{ site.baseurl }}/work/digital-preservation/">DIGITAL PRESERVATION</a></li>
-                <li><a href="{{ site.baseurl }}/work/development/">DEVELOPMENT</a></li>
+                <li{% if page.url contains "/work/data-mining/"%} class="active"{% endif %}><a href="{{ site.baseurl }}/work/data-mining/">DATA MINING</a></li>
+                <li{% if page.url contains "/work/digital-preservation/"%} class="active"{% endif %}><a href="{{ site.baseurl }}/work/digital-preservation/">DIGITAL PRESERVATION</a></li>
+                <li{% if page.url contains "/work/development/"%} class="active"{% endif %}><a href="{{ site.baseurl }}/work/development/">DEVELOPMENT</a></li>
                 <li class="divider"></li>
-                <li><a href="{{ site.baseurl }}/work/computational-physics/">COMPUTATIONAL PHYSICS</a></li>
-                <li><a href="{{ site.baseurl }}/work/publications/">PUBLICATIONS</a></li>
-                <li><a href="{{ site.baseurl }}/work/websites/">WEBSITES</a></li>
+                <li{% if page.url contains "/work/computational-physics/"%} class="active"{% endif %}><a href="{{ site.baseurl }}/work/computational-physics/">COMPUTATIONAL PHYSICS</a></li>
+                <li{% if page.url contains "/work/publications/"%} class="active"{% endif %}><a href="{{ site.baseurl }}/work/publications/">PUBLICATIONS</a></li>
+                <li{% if page.url contains "/work/websites/"%} class="active"{% endif %}><a href="{{ site.baseurl }}/work/websites/">WEBSITES</a></li>
               </ul>
             </li>
             <li{% if page.url contains "/projects/"%} class="active"{% endif %}><a href="{{ site.baseurl }}/projects/">PROJECTS</a></li>

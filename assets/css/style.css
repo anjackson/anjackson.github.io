@@ -488,6 +488,11 @@ article .category-icon {
     box-shadow:         none;
 }
 
+article .google-chart {
+	max-width: 100%;
+	overflow: scroll;
+}
+
 .popular-posts .category-icon {
 	max-width: 48px;
 	padding-bottom: 20px;
