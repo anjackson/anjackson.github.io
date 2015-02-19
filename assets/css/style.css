@@ -469,7 +469,7 @@ csmall2 {
 	margin-left: 2em;
 }
 
-#blog-container img {
+article img {
     display: block;
     display: inline-block;
     height: auto;
