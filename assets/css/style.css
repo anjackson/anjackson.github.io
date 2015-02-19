@@ -518,5 +518,17 @@ img.avatar {
 }
 
 .no-outline, .no-outline:hover, .no-outline:focus, .no-outline:active {
- outline-style: none;
+	outline-style: none;
+}
+
+#blog-container img {
+    display: block;
+    display: inline-block;
+    height: auto;
+    max-width: 100%;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    -webkit-box-shadow: 1px 1px 2px 2px #eee;
+    -moz-box-shadow:    1px 1px 2px 2px #eee;
+    box-shadow:         1px 1px 2px 2px #eee;
 }
