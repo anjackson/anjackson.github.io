@@ -52,8 +52,6 @@
             <li {% if page.url contains "/work/"%} class="dropdown active"{% else %}class="dropdown"{% endif %}>
               <a href="{{ site.baseurl }}/work/" class="dropdown-toggle" data-toggle="dropdown">WORK <b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li{% if page.url contains "/work/"%} class="active"{% endif %}><a href="{{ site.baseurl }}/work/">WORK</a></li>
-                <li class="divider"></li>
                 <li{% if page.url contains "/work/data-mining/"%} class="active"{% endif %}><a href="{{ site.baseurl }}/work/data-mining/">DATA MINING</a></li>
                 <li{% if page.url contains "/work/digital-preservation/"%} class="active"{% endif %}><a href="{{ site.baseurl }}/work/digital-preservation/">DIGITAL PRESERVATION</a></li>
                 <li{% if page.url contains "/work/development/"%} class="active"{% endif %}><a href="{{ site.baseurl }}/work/development/">DEVELOPMENT</a></li>
@@ -76,7 +74,7 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>{{ page.title }}</h3>
+				<h3>{% if page.parent %}<a href="{{ page.parent_link }}" style="color: white">{{ page.parent }}</a>&nbsp;<i class="fa fa-angle-right"></i> {% endif %}{{ page.title }}</h3>
 			</div><!-- /row -->
 	    </div> <!-- /container -->
 	</div><!-- /blue -->
