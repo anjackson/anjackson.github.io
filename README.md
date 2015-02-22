@@ -12,29 +12,27 @@ while tweaking to minimise the number of pages included, and so keep the rebuild
 To Do
 -----
 
+Before going live:
+
 * Update /work/ section, as appropriate.
 * Sitemaps (HTML and XML) and feed(s).
-* Finalise import:
-    * Retain additional fields from e.g. weblink.url, event.start?, quote.author, projects (no data)?
-    * comments? Nah.
-    * blocks? Not terribly exciting, but the Flick ones are ok.
-    * aggregator? Nah.
-    * events (appear to hook dates and locations together? World trip probably.)
-    * taxonomyextra?
-    * freelinking has a few links in it. 
-    * quotes & quotes.author?
+
+Later:
+
 * Add a 'legacy' section that includes:
     * /book/
     * /img-n/
     * /weblinks/
     * /imported-sitemap/
     * /geek/
-* Add a /blog/categories/ page.
-
+* Document the migration and the broken URLs
+    * Books http://anjackson.net/book/, e.g. http://anjackson.net/work/digitalpreservation book structure, and http://anjackson.net/book/export/html/1836
+    * http://anjackson.net/topic/digital_preservation
+    * http://anjackson.net/image/
 
 ### Projects to add ###
 
-* OpenWayback
+* OpenWayback?
 
 * SCAPE
 * Planets

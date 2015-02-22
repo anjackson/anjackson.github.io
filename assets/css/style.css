@@ -541,3 +541,10 @@ img.avatar {
 	outline-style: none;
 }
 
+.parent-link, .parent-link a {
+	color: #ccc;
+}
+
+.parent-link a:hover {
+	color: #fff;
+}

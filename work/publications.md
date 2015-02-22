@@ -20,6 +20,7 @@ category: publications
 
 * [Mendelay](http://www.mendeley.com/profiles/andrew-jackson/)
 * [Andrew N. Jackson's articles on arXiv](http://arxiv.org/a/jackson_a_2)
+* [ORCID iD](http://orcid.org/0000-0001-8168-0797)
 
 <table width="100%" border="0" cellpadding="5" align="center">
 <tr>
