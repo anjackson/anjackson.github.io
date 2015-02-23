@@ -14,8 +14,13 @@ To Do
 
 Before going live:
 
-* Update /work/ section, as appropriate.
-* Sitemaps (HTML and XML) and feed(s).
+* Reorder and add crucial projects, if any.
+* Improve layout of publications page. Add software and data as publications?!
+* Change 'websites' to 'others/various?'
+* Check and link Sitemaps (HTML and XML) and feed(s).
+* Switch 'cityscape' image for link graph or similar?
+* A more recent photo of me.
+* Grab the book outlines and store them in full?
 
 Later:
 
