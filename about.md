@@ -16,7 +16,7 @@ permalink: "/about/"
 tags: []
 ---
 
-* York etc. Dig info out of disk image.
+* York etc. Dig info out of disk image. 
 * <http://web.archive.org/web/19980110184053/http://www.ph.ed.ac.uk/~anj/>
 * <http://web.archive.org/web/20030622214621/http://anjackson.net/all.html>
 * <http://web.archive.org/web/20030715050253/http://anjackson.net/me/weblog/>

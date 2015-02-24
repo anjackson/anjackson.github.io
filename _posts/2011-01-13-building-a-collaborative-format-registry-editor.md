@@ -18,11 +18,11 @@ tags:
 - Format Registries
 ---
 <p>
-New OPF Blog: <a href="">Building A Collaborative Format Registry Editor</a>. Reproduced below...
+New OPF Blog: <a href="http://openpreservation.org/knowledge/blogs/2011/01/14/building-collaborative-format-registry-editor/">Building A Collaborative Format Registry Editor</a>. Reproduced below...
 </p>
 <!--break-->
 <p>
-After <a href="http://www.openplanetsfoundation.org/node/591">Ross's post</a>, I thought I'd better follow up on <a href="http://www.openplanetsfoundation.org/node/588">my format registry thoughts</a> and show you all my response to <a href="http://www.openplanetsfoundation.org/node/565">Adam's challenge</a>. Using <a href="http://drupal.org/">my weapon of choice</a>, I was able created and populated <a href="http://beta.domd.info/">a web site for collaboratively editing PRONOM data</a> in just over one week's worth of my spare time (six days FTE).
+After <a href="http://openpreservation.org/knowledge/blogs/2011/01/03/format-registry-challenge-part-three/">Ross's post</a>, I thought I'd better follow up on <a href="/2010/12/09/opf_blog_breaking_down_format_registry/">my format registry thoughts</a> and show you all my response to <a href="http://openpreservation.org/knowledge/blogs/2010/11/10/rethinking-file-format-registry/">Adam's challenge</a>. Using <a href="http://drupal.org/">my weapon of choice</a>, I was able created and populated <a href="http://beta.domd.info/">a web site for collaboratively editing PRONOM data</a> in just over one week's worth of my spare time (six days FTE).
 </p><p>
 About half the time was spent configuring the web interface. No coding was required in order to do this - I just installed off-the-shelf <a href="http://drupal.org/project/modules">Drupal modules</a> and configured them. Perhaps the most critical module is the <a href="http://drupal.org/project/cck">Content Construction Kit</a>, as this allows custom content types to be built on top of the basic Drupal 'node' type. For example, I needed a 'file extension' field for each record, and this was implemented by creating a taxonomy field called 'file_extensions' and adding it to my Format content type. This makes it easy to discover known extensions and to group format records by extension.
 </p><p>
