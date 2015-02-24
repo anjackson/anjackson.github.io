@@ -15,7 +15,7 @@ redirect_from:
 permalink: "/2011/01/13/building_collaborative_format_registry_editor/"
 category: Digital Preservation
 tags:
-- Format Registries
+- Format Registry
 ---
 <p>
 New OPF Blog: <a href="http://openpreservation.org/knowledge/blogs/2011/01/14/building-collaborative-format-registry-editor/">Building A Collaborative Format Registry Editor</a>. Reproduced below...
