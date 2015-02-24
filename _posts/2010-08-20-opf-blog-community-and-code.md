@@ -16,7 +16,7 @@ permalink: "/2010/08/20/opf_blog_community_and_code/"
 category: Digital Preservation
 tags: [development]
 ---
-As well as blogging about digital preservation here, I've also got a blog on the Open Planets Foundation website where I'll post about OPF issues. I've just posted my first blog entry there: <a href="http://www.openplanetsfoundation.org/node/42">Community and code</a>. Reproduced below the fold.
+As well as blogging about digital preservation here, I've also got a blog on the Open Planets Foundation website where I'll post about OPF issues. I've just posted my first blog entry there: <a href="http://openpreservation.org/knowledge/blogs/2010/08/19/community-and-code/">Community and code</a>. Reproduced below the fold.
 <!--break-->
 <p>Planets was a great success, and I'm proud to have been a part of it. We've done a lot of great work, written a <em>lot</em> of documents, created some pretty decent software, and made as much of it as widely available as we possibly can. We'll be publishing the documentation through this site, and the code is up on <a href="http://planets-suite.sourceforge.net/">SourceForge</a>. We're currently setting up the development and issue-tracking environment, and then we can get down to the real business and work out what we want to build with all we've learned...</p>
 <p>But I'd throw away every single line of code and every single document, rather than lose the Planets community that helped create them. I think we had a nearly perfect blend of technical experts, developers,&nbsp;practitioners, academics and architects, all focussed on building real solutions to the preservation problems that we face today. I believe this tight focus on developing practical systems and tools is a critical part of our success.</p>
