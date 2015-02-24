@@ -1,9 +1,15 @@
 ---
+layout: post
+type: blog
 title: What Have We Saved?
-category: Practice
+author: anj
+category: Digital Preservation
 tags: ["Web Archives"]
-status: stub
-publish: false
+---
+
+First published [on the UK Web Archive blog](http://britishlibrary.typepad.co.uk/webarchive/2014/10/what-is-still-on-the-web-after-10-years-of-archiving-.html).
+<!--break-->
+
 ---
 
 The UK Web Archive started archiving web content towards the end of 2004 ([e.g. The Hutton Enquiry](http://www.webarchive.org.uk/wayback/archive/*/http://www.the-hutton-inquiry.org.uk/index.html)). If we want to look back at the (almost) ten years that have passed since then, can we find a way to see how much we've achieved? Are the URLs we've archived still available on the live web? Or are they long since gone? If those URLs _are_ still working, is the content the same as it was? How has our [archival sliver](http://inkdroid.org/journal/2013/11/26/the-web-as-a-preservation-medium/) of the web changed?
@@ -21,7 +27,7 @@ URLs by the Thousand
 
 Our search system has built-in support for randomizing the order of the results, so a simple script that performs a faceted search was all that was needed to build up a list of one thousand URLs for each year. A second script was used to attempt to re-download each of those URLs, and record the outcome of that process. Those results were then aggregated into an overall table showing how many URLs fell into each different class of outcome, versus crawl date, as shown below:
 
-![Overall Status Trends]({{ site.baseurl }}/images/halflife/halflife-1000-overall-status.png)
+![Overall Status Trends]({{ site.baseurl }}/blog/images/halflife/halflife-1000-overall-status.png)
 
 Here, 'GONE' means that not only is the URL missing, but the host that originally served that URL has disappeared from the web. 'ERROR', on the other hand, means that a server still responded to our request, but that our once-valid URL now causes the server to fail.
 
@@ -42,7 +48,7 @@ Specifically, we generate [ssdeep](http://www.forensicswiki.org/wiki/Ssdeep) 'fu
 
 Processing all of the 'MOVED' or 'OK' results in this way leads to this graph:
 
-![Detailed Similarity Trends]({{ site.baseurl }}/images/halflife/halflife-1000-not-really-ok.png)
+![Detailed Similarity Trends]({{ site.baseurl }}/blog/images/halflife/halflife-1000-not-really-ok.png)
 
 So, for all those 'OK' or 'MOVED' URLs, the vast majority appear to have changed. Very few are binary identical ('SAME'), and while many of the others remain 'SIMILAR' at first, that fraction tails off as we go back in time.
 
@@ -51,7 +57,7 @@ Summarizing Similarity
 
 Combining the similarity data with the original graph, we can replace the 'OK' and 'MOVED' parts of the graph with the similarity results in order to see those trends in context:
 
-![Overall Similarity Trends]({{ site.baseurl }}/images/halflife/halflife-1000-detailed-status.png)
+![Overall Similarity Trends]({{ site.baseurl }}/blog/images/halflife/halflife-1000-detailed-status.png)
 
 Shown in this way, it is clear that very few archived resources are still available, unchanged, on the current web. Or, in other words, very few of our archived URLs are [cool](http://www.w3.org/Provider/Style/URI.html.en).
 

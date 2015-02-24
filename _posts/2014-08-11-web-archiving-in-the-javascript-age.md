@@ -1,9 +1,10 @@
 ---
 title: Web Archiving In The JavaScript Age
-layout: default
-category: Practice
+layout: post
+type: blog
+author: anj
+category: Digital Preservation
 tags: ["Web Archives"]
-status: complete
 ---
 
 First published [on the UK Web Archive blog](http://britishlibrary.typepad.co.uk/webarchive/2014/08/web-archiving-in-the-javascript-age.html).
@@ -19,7 +20,7 @@ In particular, he discusses one of the central challenges of the Age Of JavaScri
 
 To give you an idea of the problem, the following graph shows how the usage of the &lt;script> tag has varied over time:
 
-![The percentage of archived pages that use the &lt;script> tag, over time.]({{ site.baseurl }}/images/script-tag-over-time-sml.png)
+![The percentage of archived pages that use the &lt;script> tag, over time.]({{ site.baseurl }}/blog/images/script-tag-over-time-sml.png)
 
 In 1995, almost no pages used the &lt;script> tag, but fifteen years later, over 95% of web pages require JavaScript. This has been a massive sea-change in the nature of the world wide web, and web archives have had to react to it or face irrelevance.
 

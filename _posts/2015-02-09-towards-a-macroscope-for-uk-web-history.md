@@ -1,10 +1,16 @@
 ---
+layout: post
+type: blog
 title: Towards a Macroscope for UK Web History
-category: Presentation
-tags: ["Web Archiving"]
-status: complete
+author: anj
+category: Digital Preservation
+tags: ["Web Archives"]
 ---
 
+First published [on the UK Web Archive blog](http://britishlibrary.typepad.co.uk/webarchive/).
+<!--break-->
+
+---
 _This is the rough script of the demonstration I gave at [IDCC15][6], with a few extra notes and details._
 <!--break-->
 
@@ -12,13 +18,13 @@ _This is the rough script of the demonstration I gave at [IDCC15][6], with a few
 
 I work at the British Library as technical lead for the [UK Web Archive][5], where we have been archiving thousands of UK web sites by permission since 2004. However, as of April 2013, we have been able to crawl the entire UK web domain under non-print Legal Deposit legislation, meaning that we now archive millions of sites every year. Furthermore, we also hold a copy of the JISC Historial Archive, which is a copy of every .uk resource from the Internet Archive collection up until the adoption of non-print Legal Deposit.
 
-![The UK Web, in 1996.]({{ site.baseurl }}/images/1996-graph.png)
+![The UK Web, in 1996.]({{ site.baseurl }}/blog/images/1996-graph.png)
 
 All together, our archives contain over six billion resources, over 100TB of compressed data, which means we have one big problem.
 
 ## The Problem
 
-> [![Haystack Looming - © Neil Howard CC-BY-NC]({{ site.baseurl }}/images/7810750516_a44ed68b68_k.jpg)](https://flic.kr/p/cUd91m)
+> [![Haystack Looming - © Neil Howard CC-BY-NC]({{ site.baseurl }}/blog/images/7810750516_a44ed68b68_k.jpg)](https://flic.kr/p/cUd91m)
 >
 > [© Neil Howard &mdash; CC-BY-NC](https://flic.kr/p/cUd91m)
 
@@ -28,7 +34,7 @@ However, if the knowledge of the URL is lost, how can we help researchers find w
 
 ## The Solution?
 
-![Whoogle?]({{ site.baseurl }}/images/whoogle.png)
+![Whoogle?]({{ site.baseurl }}/blog/images/whoogle.png)
 
 The obvious answer was to try and create something like a Google search - a full-text 'historical' search engine. However, building a search engine is a major undertaking and so, in order to ensure the development of such a system was relevant to our users, we decided to work closely with academic researchers who are interested in the modern web.  First, this was funded by JISC, through the [Analytical Access to the Domain Dark Archive][4] project, which was later followed up by the currently ongoing AHRC-funded [Big UK Domain Data for the Arts and Humanities][2] project.
 
@@ -73,19 +79,19 @@ Within the faceted search, you can start to get a feel for this by [searching fo
 
 To make this kind of information more accessible, we have also added a visualisation interface for exploring overall trends within the dataset, broadly following the model of the Google Books NGram. This 'distant reading' mode gives our results a proper time-axis, like [this one for 'big data'](http://www.webarchive.org.uk/shine/graph?query=%22big+data%22&year_start=1996&year_end=2010&action=update). 
 
-!['big data', 1996-2010]({{ site.baseurl }}/images/macroscope-2015-02/big-data.png)
+!['big data', 1996-2010]({{ site.baseurl }}/blog/images/macroscope-2015-02/big-data.png)
 
 This graph is a fairly typical shape for many buzzwords within the UK web. A search for [iPhone](http://www.webarchive.org.uk/shine/graph?query=iPhone&year_start=1996&year_end=2010&action=update) quickly illustrates the rapid growth in importance of Apple device.
 
-!['iPhone', 1996-2010]({{ site.baseurl }}/images/macroscope-2015-02/iPhone.png)
+!['iPhone', 1996-2010]({{ site.baseurl }}/blog/images/macroscope-2015-02/iPhone.png)
 
 Then, by adding another search term ([iPhone,UNIX](http://www.webarchive.org.uk/shine/graph?query=UNIX%2CiPhone&year_start=1996&year_end=2010&action=update)), we can quickly contrast that with a much older but less fashionable technology.
 
-!['iPhone versus UNIX', 1996-2010]({{ site.baseurl }}/images/macroscope-2015-02/iPhone-v-UNIX.png)
+!['iPhone versus UNIX', 1996-2010]({{ site.baseurl }}/blog/images/macroscope-2015-02/iPhone-v-UNIX.png)
 
 Furthermore, if you know the right incantations, any of the search fields known to the system can be used in the trends interface. For example, you can construct a search that compares the percentage of resources on [ac.uk versus co.uk over time](http://www.webarchive.org.uk/shine/graph?query=public_suffix%3Aac.uk%2Cpublic_suffix%3Aco.uk&year_start=1996&year_end=2010&action=update). 
 
-!['ac.uk versus co.uk', 1996-2010]({{ site.baseurl }}/images/macroscope-2015-02/acuk-v-couk.png)
+!['ac.uk versus co.uk', 1996-2010]({{ site.baseurl }}/blog/images/macroscope-2015-02/acuk-v-couk.png)
 
 So, while in absolute terms, both ac.uk and co.uk have grown significantly since 1996, the rate of growth of co.uk far outstrips that of ac.uk. This illustrates the kinds of overall trends that can appear in a large-scale web crawl, the presence of which must be taken into account when interpreting trends relating to commercial or academic hosts.
 
@@ -95,29 +101,29 @@ Interesting and useful though this may be, it is still a rather poor Macroscope.
 
 For example, if you look at the [iPhone](http://www.webarchive.org.uk/shine/graph?query=iPhone&year_start=1996&year_end=2010&action=update) curve, and switch to a logarithmic scale (by clicking the vertical axis label), you see a strange dip ahead of the growth curve. 
 
-!['iPhone', 1996-2010 (logarithmic)]({{ site.baseurl }}/images/macroscope-2015-02/iPhone-1997.png)
+!['iPhone', 1996-2010 (logarithmic)]({{ site.baseurl }}/blog/images/macroscope-2015-02/iPhone-1997.png)
 
 What's going on?
 
 Well, by clicking on a data point, the system attemps to bridge the gap between the trend and the underlying data by fetching a fairly large randomly-selected sample of the 'hits' that contribute to that point on the curve. This provides a very fast and natural way to evaluate the trends and understand what's going on underneath them.  
 
-!['iPhone', 1996-2010 (logarithmic, plus sample)]({{ site.baseurl }}/images/macroscope-2015-02/iPhone-1997-hover.png)
+!['iPhone', 1996-2010 (logarithmic, plus sample)]({{ site.baseurl }}/blog/images/macroscope-2015-02/iPhone-1997-hover.png)
 
 From this I was able to learn that in the late nineties there was a Internet Phone called the IPhone, and that this was still in some use as the iPhone hype began.
 
 Similarly, if you search for something like [terrorism OR terrorist](http://www.webarchive.org.uk/shine/graph?query=terrorism+OR+terrorist&year_start=1996&year_end=2010&action=update), you can see peaks associated with major events, and start to dig into them. 
 
-!['terrorism OR terrorist', 1996-2010]({{ site.baseurl }}/images/macroscope-2015-02/terrorism.png)
+!['terrorism OR terrorist', 1996-2010]({{ site.baseurl }}/blog/images/macroscope-2015-02/terrorism.png)
 
 In particular, this curve shows that the occurance of the words terrorism or terrorist not only peaked during 2001, but that the fraction of the web that discusses terrorism has been greater ever since.
 
 The same approach can be used to study periodic events, e.g. ["General Election"](http://www.webarchive.org.uk/shine/graph?query=%22General+Election%22&year_start=1996&year_end=2010&action=update). 
 
-!['general election', 1996-2010]({{ site.baseurl }}/images/macroscope-2015-02/general-election.png)
+!['general election', 1996-2010]({{ site.baseurl }}/blog/images/macroscope-2015-02/general-election.png)
 
 Searching for [Genome](http://www.webarchive.org.uk/shine/graph?query=genome&year_start=1996&year_end=2010&action=update) provides another interesting example. At first, I expected this peak to be related to news about the human genome sequencing project, but by digging into it, we can see that the truth is more complicated than that. A significant fraction of these hist appear to come from the Sanger Institute itself, but more associated with the development of the institute's website rather than a specific experimental milestone.
 
-!['genome', 1996-2010]({{ site.baseurl }}/images/macroscope-2015-02/genome-peak.png)
+!['genome', 1996-2010]({{ site.baseurl }}/blog/images/macroscope-2015-02/genome-peak.png)
 
 In this way, by providing samples and links back to full search results, we make it much easier for a researcher's assumptions about the data to be tested. It also helps make unexpected biases and flaws in the dataset much more apparent.
 

@@ -1,8 +1,10 @@
 ---
+layout: post
+type: blog
 title: User-Driven Digital Preservation
-category: Practice
+author: anj
+category: Digital Preservation
 tags: ["Web Archives"]
-status: complete
 ---
 
 First published [on the UK Web Archive blog](http://britishlibrary.typepad.co.uk/webarchive/2014/08/user-driven-digital-preservation-with-interject.html).

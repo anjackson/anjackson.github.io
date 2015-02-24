@@ -1,9 +1,10 @@
 ---
 title: How much of the UK's HTML is valid?
-layout: default
-category: Practice
+layout: post
+type: blog
+author: anj
+category: Digital Preservation
 tags: ["Web Archives"]
-status: complete
 ---
 
 First published [on the UK Web Archive blog](http://britishlibrary.typepad.co.uk/webarchive/2014/07/how-much-of-the-uk-html-is-valid.html).
@@ -84,7 +85,7 @@ subset containing 1.7 billion of about 2.5 billion resources hosted from
 \*.uk), we've determined the DROID 'misses' as a percentage of the Tika
 'hits' for HTML, year by year, here:
 
-[![Droid-vs-tikka02]({{ site.baseurl}}/images/6a00d8341c464853ef01a73de4b4eb970d-500wi "Droid-vs-tikka02")]({{ site.baseurl}}/images/6a00d8341c464853ef01a73de4b4eb970d-500wi)
+[![Droid-vs-tikka02]({{ site.baseurl}}/blog/images/6a00d8341c464853ef01a73de4b4eb970d-500wi "Droid-vs-tikka02")]({{ site.baseurl}}/images/6a00d8341c464853ef01a73de4b4eb970d-500wi)
 
 From there one can see that pre-2000, at least ten percent of the
 archived HTML is *so* malformed that it's difficult to *even identify it
