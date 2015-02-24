@@ -3,7 +3,6 @@ layout: post
 type: blog
 title: 'OPF Blog: In the room'
 author: anj
-permalink: "/2010/12/22/opf_blog_in_the_room/"
 category: Digital Preservation
 tags:
 - Development

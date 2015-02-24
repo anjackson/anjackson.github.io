@@ -9,6 +9,7 @@ shown: true
 ---
 
 Originally published [on the UK Web Archive blog](http://britishlibrary.typepad.co.uk/webarchive/2015/02/building-a-historical-search-engine-is-no-easy-thing.html), and reproduced below, with a few minor tweaks.
+<!--break-->
 
 ----
 
