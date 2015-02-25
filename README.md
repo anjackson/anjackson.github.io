@@ -15,7 +15,6 @@ To Do
 Before going live:
 
 * Reorder and add crucial projects, if any.
-* Check and link Sitemaps (HTML and XML) and feed(s).
 * Clean up the 'about' section.
 
 Later:

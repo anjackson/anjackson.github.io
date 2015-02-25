@@ -552,6 +552,7 @@ img.avatar {
 a.title-rss {
 	float: right;
 	color: white;
+	padding-right: 0.5em;
 }
 
 a.title-rss:hover {
