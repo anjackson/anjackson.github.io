@@ -5,6 +5,7 @@ title: Towards a Macroscope for UK Web History
 author: anj
 category: Digital Preservation
 tags: ["Web Archives"]
+shown: false
 ---
 
 First published [on the UK Web Archive blog](http://britishlibrary.typepad.co.uk/webarchive/).
