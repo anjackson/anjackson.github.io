@@ -8,7 +8,7 @@
     <meta name="author" content="{{ site.author }}">
     <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico">
 
-    <title>{{ page.title }}</title>
+    <title>{{ page.title | strip_html }}</title>
 
     <!-- Bootstrap core CSS -->
     <link href="{{ site.baseurl }}/assets/css/bootstrap.css" rel="stylesheet">
@@ -92,6 +92,7 @@
 		 		<div class="col-md-4 col-sm-12 col-xs-12">
 		 			<h4>{{ site.description }}</h4>
 		 			<div class="hline-w"></div>
+          <a href="{{ site.baseurl }}/feed.xml" style="float:right; color: white;"><i class="fa fa-rss"></i></a>
 		 			<p>&copy; Dr Andrew N. Jackson &mdash; <a style="color: white" title="Share &amp; Enjoy &mdash; CC-BY" href="https://creativecommons.org/licenses/by/3.0/">CC-BY</a></p>
 		 		</div>
         <div class="col-md-4 col-sm-6 col-xs-12">

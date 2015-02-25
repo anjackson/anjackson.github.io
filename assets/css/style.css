@@ -548,3 +548,12 @@ img.avatar {
 .parent-link a:hover {
 	color: #fff;
 }
+
+a.title-rss {
+	float: right;
+	color: white;
+}
+
+a.title-rss:hover {
+	color: white;
+}

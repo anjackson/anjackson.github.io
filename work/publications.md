@@ -22,6 +22,9 @@ category: publications
 * [Andrew N. Jackson's articles on arXiv](http://arxiv.org/a/jackson_a_2)
 * [ORCID iD](http://orcid.org/0000-0001-8168-0797)
 
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-4">
+
 <table width="100%" border="0" cellpadding="5" align="center">
 <tr>
 <td colspan="2" bgcolor="#eeeeee" align="center">
@@ -77,6 +80,10 @@ A report written in the 1st year of my Ph.D. (November 1997).<br>
 </tr>
 </table>
 
+  </div>
+  <div class="col-xs-12 col-sm-4 col-md-4">
+
+
 <table width="100%" border="0" cellpadding="5" align="center">
 <tr>
 <td colspan="2" bgcolor="#eeeeee" align="center">
@@ -126,14 +133,14 @@ Monte Carlo Condensed Matter<br></td>
 A brief look at a very wierd corner of quantum mechanics.<br></td></tr>
 </table>
 
-<table width="100%" border="0" cellpadding="5" cellspacing="5"></table>
+  </div>
+  <div class="col-xs-12 col-sm-4 col-md-4">
 
 <table width="100%" border="0" cellpadding="5" align="center">
 <tr>
 <td colspan="2" bgcolor="#eeeeee" align="center">
 <font size="+0">
-<b>Undergraduate (MPhys) Reports &amp; Presentations<font color="#ff0000">*</font>
-</b>
+<b>Undergraduate (MPhys) Reports &amp; Presentations<font color="#ff0000">*</font></b>
 </font></td>
 </tr>
 <tr>
@@ -193,6 +200,10 @@ An application of Monte Carlo simulation methods.<br>
 <font size="-1">(1st Year)</font>
 </td> </tr>
 </table>
-<p>
 
+<p>
 <font color="#ff0000">*</font>This is undergraduate work, which has <b>not</b> been revised at any stage after its original submission for my degree.As such, these documents come with <b>no</b> guarentee of correctness.Mind you, neither does the post-graduate stuff, but at least some of <i>them</i> have been peer-reviewed.</p>
+
+  </div>
+
+</div>

@@ -15,15 +15,16 @@ To Do
 Before going live:
 
 * Reorder and add crucial projects, if any.
-* Improve layout of publications page. Add software and data as publications?!
-* Change 'websites' to 'others/various?'
 * Check and link Sitemaps (HTML and XML) and feed(s).
-* Switch 'cityscape' image for link graph or similar?
-* A more recent photo of me.
-* Grab the book outlines and store them in full?
+* Clean up the 'about' section.
 
 Later:
 
+* Improve publications page.
+    * Add software and data as publications?!
+* Switch 'cityscape' image for link graph or similar?
+* A more recent photo of me.
+* Grab the book outlines and store them in full?
 * Add a 'legacy' section that includes:
     * /book/
     * /img-n/
