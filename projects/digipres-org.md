@@ -8,6 +8,7 @@ url: http://www.digipres.org/
 fa-icon: fa-users
 screenshot: /projects/images/digipres-org-halfsize.png
 summary: Community-owned digital preservation resources
+year: 2014
 ---
 
 http://qanda.digipres.org/

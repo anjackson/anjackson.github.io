@@ -7,6 +7,7 @@ fa-icon: fa-code-fork
 title: MCSiMPI
 summary: Monte Carlo Simulation via MPI
 screenshot: /projects/images/mcsimpi.png
+year: 2006
 ---
 
 Monte Carlo simulation of short-range potentials, efficiently parallelised.

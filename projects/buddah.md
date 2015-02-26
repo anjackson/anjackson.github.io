@@ -8,6 +8,7 @@ fa-icon: fa-code-fork
 screenshot: /projects/images/buddah-halfsize.png
 title: BUDDAH
 summary: Big UK Domain Data for the Arts and Humanities
+year: 2014
 ---
 
 Big UK Domain Data for the Arts and Humanities

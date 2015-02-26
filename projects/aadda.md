@@ -8,6 +8,7 @@ fa-icon: fa-code-fork
 screenshot: /projects/images/aadda-halfsize.png
 title: AADDA
 summary: Analytical Access to the Dark Domain Archive
+year: 2013
 ---
 
 AADDA

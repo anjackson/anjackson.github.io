@@ -17,5 +17,6 @@ fa-icon: fa-code-fork
 title: labbep
 summary: LAttice-Boltzmann simulation of fluid-flow in BEad Packs
 screenshot: /projects/images/labbep-lbc.png
+year: 2004
 ---
 LAttice-Boltzmann simulation of fluid-flow in BEad Packs (LA.B.BE.P. - catchy backronym yah).

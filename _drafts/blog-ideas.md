@@ -11,6 +11,15 @@ http://en.wikipedia.org/wiki/Confirmation_bias
 - Discovery of otherwise undiscovered sources is hard to measure.
 - [Reading creationism in the web archive](http://peterwebster.me/2014/11/18/reading-creationism-in-the-web-archive/)
 
+"Plain Text"
+- http://blog.codinghorror.com/there-aint-no-such-thing-as-plain-text/
+- http://www.joelonsoftware.com/articles/Unicode.html
+- http://www.slate.com/articles/arts/books/2012/08/history_of_the_mp3_by_jonathan_sterne_reviewed_.single.html
+
+Death of Disk
+- Major architectural change and it's consequences.
+- http://www.zdnet.com/article/why-ssds-are-obsolete/
+
 Digital Preservation & Sustainable Software
 [The State of JavaScript in 2015](http://www.breck-mckye.com/blog/2014/12/the-state-of-javascript-in-2015/)
 
