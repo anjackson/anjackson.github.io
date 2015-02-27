@@ -1,5 +1,5 @@
 <div class="row">
-{% assign sortedpages = (site.pages | sort:'year' | reverse) %}
+{% assign sortedpages = (site.pages | sort:'year' | reverse ) %}
 {% for page in sortedpages %}
 {% if page.type == 'project' %}
 {% if page.tags contains include.kind or include.all == true %}

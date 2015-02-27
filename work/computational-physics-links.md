@@ -12,7 +12,8 @@ created: '2004-05-11'
 changed: '2004-05-11'
 redirect_from:
 - "/node/566/"
-permalink: "/ix2v/comphys/plinks/"
+- "/ix2v/comphys/plinks/"
+permalink: "/work/physics/links/"
 tags: []
 ---
 <table width="100%" border="0" cellpadding="5" cellspacing="5">

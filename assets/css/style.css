@@ -466,7 +466,7 @@ csmall2 {
 }
 
 .container li {
-	margin-left: 2em;
+/*	margin-left: 2em;*/
 }
 
 article img {
@@ -537,6 +537,12 @@ img.avatar {
 	color: white;
 }
 
+.project-screenshot {
+	max-height: 400px;
+	overflow: hidden;
+	text-align: center;
+}
+
 .no-outline, .no-outline:hover, .no-outline:focus, .no-outline:active {
 	outline-style: none;
 }
@@ -557,4 +563,12 @@ a.title-rss {
 
 a.title-rss:hover {
 	color: white;
+}
+
+.carousel-control.left, .carousel-control.right {
+	background-image: none;
+}
+
+.carousel-caption {
+    background-color: rgba(0,0,0,0.5);
 }

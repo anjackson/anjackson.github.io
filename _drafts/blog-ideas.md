@@ -43,6 +43,8 @@ Formats Over Time
 - e.g. image/* format popularity versus duration?
 
 
+http://mortoray.com/2015/02/25/invented-here-syndrome/
+
 Digital Dark Age
 - ["Information technologies are essentially obsolete every 18 months."](http://sunsettower.net/docs/63kuny1.pdf)
 - http://www.foiman.com/archives/1438
