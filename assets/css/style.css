@@ -535,9 +535,9 @@ img.avatar {
 }
 
 .project-box-title {
-	white-space: nowrap;
-	overflow: hidden;
-	text-overflow: ellipsis;
+  overflow: hidden; 
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 
 .project-box p, .project-box a, .image-box-title a {
