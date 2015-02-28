@@ -531,6 +531,13 @@ img.avatar {
 	width: 100%;
 	background-color: #00B3FE;
 	color: white;
+
+}
+
+.project-box-title {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
 }
 
 .project-box p, .project-box a, .image-box-title a {
