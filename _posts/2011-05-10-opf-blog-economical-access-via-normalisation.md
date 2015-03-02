@@ -6,6 +6,7 @@ author: anj
 category: Digital Preservation
 tags:
 - Normalisation
+- Digital Preservation
 ---
 <p>
 A new OPF blog entry: <a href="http://openpreservation.org/knowledge/blogs/2011/05/10/economical-access-normalisation/">Economical Access via Normalisation</a>. Reproduced below...

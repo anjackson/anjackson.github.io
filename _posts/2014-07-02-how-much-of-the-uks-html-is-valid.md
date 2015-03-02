@@ -4,7 +4,7 @@ layout: post
 type: blog
 author: anj
 category: Digital Preservation
-tags: ["Web Archives"]
+tags: ["Web Archives","Digital Preservation"]
 ---
 
 First published [on the UK Web Archive blog](http://britishlibrary.typepad.co.uk/webarchive/2014/07/how-much-of-the-uk-html-is-valid.html).

@@ -4,7 +4,7 @@ type: blog
 title: 'OPF Blog: In the room'
 author: anj
 category: Development
-tags: [Open Source Development]
+tags: [Open Source Development, development]
 ---
 <p>
 A new OPF blog entry: <a href="http://openpreservation.org/knowledge/blogs/2010/11/17/room/">In the room</a>. Reproduced below...

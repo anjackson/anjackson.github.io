@@ -4,7 +4,10 @@ type: blog
 title: User-Driven Digital Preservation
 author: anj
 category: Digital Preservation
-tags: ["Web Archives"]
+tags:
+- Preservation Actions
+- SCAPE
+- Web Archives
 ---
 
 First published [on the UK Web Archive blog](http://britishlibrary.typepad.co.uk/webarchive/2014/08/user-driven-digital-preservation-with-interject.html).

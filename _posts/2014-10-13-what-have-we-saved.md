@@ -4,7 +4,7 @@ type: blog
 title: What Have We Saved?
 author: anj
 category: Digital Preservation
-tags: ["Web Archives"]
+tags: ["Web Archives","Digital Preservation"]
 ---
 
 First published [on the UK Web Archive blog](http://britishlibrary.typepad.co.uk/webarchive/2014/10/what-is-still-on-the-web-after-10-years-of-archiving-.html).
