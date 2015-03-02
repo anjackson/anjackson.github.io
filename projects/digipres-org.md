@@ -6,7 +6,7 @@ permalink: "/projects/digipres.org/"
 tags: [digital-preservation, websites]
 url: http://www.digipres.org/
 fa-icon: fa-users
-screenshot: /projects/images/digipres-org-halfsize.png
+screenshot: /projects/images/digipres-org.png
 summary: Community-owned digital preservation resources
 year: 2014
 ---

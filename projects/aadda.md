@@ -5,7 +5,7 @@ permalink: "/projects/aadda/"
 category: Data Mining
 tags: [data-mining]
 fa-icon: fa-code-fork
-background: /projects/images/aadda-halfsize.png
+background: /projects/images/aadda.png
 screenshot: /projects/images/aadda.png
 title: AADDA
 summary: Analytical Access to the Dark Domain Archive

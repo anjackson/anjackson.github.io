@@ -15,7 +15,7 @@ redirect_from:
 permalink: "/projects/websites/"
 tags: [websites]
 fa-icon: fa-code
-screenshot: /projects/images/anjackson-4-halfsize.png
+screenshot: /projects/images/anjackson-4.png
 summary: Miscellaneous websites and web projects
 year: 2002
 ---

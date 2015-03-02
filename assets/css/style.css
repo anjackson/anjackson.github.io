@@ -525,6 +525,10 @@ img.avatar {
   margin-bottom: 16px;
 }
 
+.project-box-bg {
+  background-size: 400px auto;
+}
+
 .project-box-title, .image-box-title {
 	text-align: center;
 	padding: 8px;
