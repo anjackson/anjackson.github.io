@@ -1,6 +1,18 @@
 ---
 title: Blog Ideas
+author: anj
+layout: post
 ---
+
+* eChums
+    * Before MySpace and Facebook, about the same time as Friendster...
+
+> **Keep your contacts up to date automatically**
+>
+> As the people you know change jobs, cities, and names, it can be tough to stay up to date with their latest information. The new Contacts ensures that the info you see is still accurate and ready to use by blending your contact’s Google profile information with the stuff you already have.
+>
+> <small>[The new Google Contacts: Bringing everyone together](http://gmailblog.blogspot.nl/2015/03/the-new-google-contacts-bringing.html)</small>
+
 
 Quelle Surprise, Quelled Surprise
 - You may not be surprised simply because you've already considered it. Would you have also said the same if the exact opposite had been found. There must be a name for this kind of bias. 
