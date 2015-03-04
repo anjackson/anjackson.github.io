@@ -12,13 +12,7 @@ while tweaking to minimise the number of pages included, and so keep the rebuild
 To Do
 -----
 
-Before going live:
-
-* Reorder and add crucial projects, if any.
-* Clean up the 'about' section.
-
-Later:
-
+* Improve About section.
 * Improve publications page.
     * Add software and data as publications?!
 * Switch 'cityscape' image for link graph or similar?

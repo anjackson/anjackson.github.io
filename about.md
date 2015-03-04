@@ -16,7 +16,11 @@ permalink: "/about/"
 tags: []
 ---
 
-I'm the [Web Archiving](http://www.webarchive.org.uk/) Technical Lead at the [British Library](http://www.bl.uk/). This is my personal site.
+As the Web Archiving Technical Lead at the British Library, I hold overall responsibility for the technical aspects of the ingest, indexing, discovery and access systems associated with the [UK Web Archive](http://www.webarchive.org.uk/).
+
+This is my personal website, where I [blog]({{ site.baseurl }}/blog/) about geeky things and document my [work]({{ site.baseurl }}/work/) and [projects]({{ site.baseurl }}/projects/).
+
+----
 
 <!--
 
