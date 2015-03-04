@@ -19,4 +19,7 @@ summary: LAttice-Boltzmann simulation of fluid-flow in BEad Packs
 screenshot: /projects/images/labbep-lbc.png
 year: 2004
 ---
-LAttice-Boltzmann simulation of fluid-flow in BEad Packs (LA.B.BE.P. - catchy backronym yah).
+
+The LABBEP codebase performs LAttice-Boltzmann simulation of fluid-flow in BEad Packs[^1]. It is a multi-stage simulation suite that builds up random bead packs, then determines the fluid flow field though those packs of beads, and then finally tracks the motion of 'tracer particles' through that flow field to see how the fluid disperses as it passes though the bead pack.  It was primarily used to help simulate the physical processes underlying a series of NMR experiments dedicated to studying fluid dynamics.
+
+[^1]: Catchy backronym, huh?
