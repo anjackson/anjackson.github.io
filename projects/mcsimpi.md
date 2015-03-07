@@ -16,7 +16,7 @@ The following animation shows a brief simulation of a 'sticky hard disk fluid', 
 <div class="image-box" style="width: 300px; margin: 0 auto;">
 <img src="{{ site.baseurl }}/projects/images/mcsimpi-movie-noloop.gif" id="mcsimpi-animation"/><br/>
 <div class="image-box-title">
-2D simulation of 'sticky' disks &mdash;&nbsp;<a href="#" class="no-outline" id="replayAnimation" title="Click here to replay the animation."><i class="fa fa-repeat"></i></a>
+2D simulation of 'sticky' disks &mdash;&nbsp;<a class="no-outline" id="replayAnimation" title="Click here to replay the animation."><i class="fa fa-repeat"></i></a>
 </div>
 </div>
 
