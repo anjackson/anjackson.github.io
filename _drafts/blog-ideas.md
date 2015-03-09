@@ -35,21 +35,6 @@ Death of Disk
 Digital Preservation & Sustainable Software
 [The State of JavaScript in 2015](http://www.breck-mckye.com/blog/2014/12/the-state-of-javascript-in-2015/)
 
-Digital Vellum
-- http://info.wgbh.org/upf/
-- http://en.wikipedia.org/wiki/UVC-based_preservation
-- http://www.snia.org/SIRF
-- http://planetarium.hki.uni-koeln.de/planets_cms/
-- http://bw-fla.uni-freiburg.de/
-- https://olivearchive.org/
-- c.f. also that IDCC15 blockchain talk. http://www.dcc.ac.uk/events/idcc15/programme-presentations 
-- ‘A system for distributed minting and management of persistent identifiers’ Lukasz Bolikowski et al.
-- Plus KVM
-    - http://www.keep-project.eu/ezpub2/index.php?/eng/About-KEEP/Technical-solution/Progress-beyond-the-state-of-the-art
-    - http://worldwide.espacenet.com/publicationDetails/biblio?CC=WO&NR=03052542&KC=&FT=E&locale=en_EP
-    - http://www.keep-project.eu/downloads/training/09kvm.pdf
-    - [Guideline document and peripheral input/output libraries for digital preservation](http://eprints.port.ac.uk/3417/)
-
 Formats Over Time
 - Hypothesis, that for given usage, formats start as wild and settle down as network effects kick in.
 - e.g. image/* format popularity versus duration?
@@ -67,6 +52,16 @@ DESTROY
 https://bitbucket.org/andrealanci/topicmapping
 http://journals.aps.org/prx/pdf/10.1103/PhysRevX.5.011007
 Sampling skew is nuts. 
+
+Long-winded documents and requirements, decision papers, etc.
+- Just Do It.
+
+Testing Tools - Corpora:
+- [Encyclopedia of Graphics File Formats Companion CD-ROM](https://archive.org/details/EncyclopediaOfGraphicsFileFormatsCompanionCd-rom)
+    - [EGFF ISO Image](https://archive.org/download/EncyclopediaOfGraphicsFileFormatsCompanionCd-rom/GFF_CD.ISO)
+- [EDRM Data Set Files](http://www.edrm.net/projects/dataset/data-set-files)
+    - [EDRM File Formats Data Set 1.0.1](http://www.edrm.net/download/all_projects/data_set/EDRM_Data-Set_File-Formats_1-0.zip)
+    - [EDRM Internationalization Data Set](http://www.edrm.net/download/all_projects/data_set/EDRM_Data-Set_I18N_1-0.zip)
 
 BitTorrent Is Not An Archive
 http://academictorrents.com/browse.php?cat=6&page=4
