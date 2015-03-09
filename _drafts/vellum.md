@@ -2,13 +2,12 @@
 title: Vellum
 category: Digital Preservation
 tags: ["Keeping Codes"]
-status: stub
 layout: post
 author: anj
 shown: true
 ---
 
-Following Vint Cerf's talk at AAAS, the "Digital Dark Age" is in the news again (see [DSHR's blog](http://blog.dshr.org/2015/02/vint-cerfs-talk-at-aaas.html) for a good summary, or one of the [~200 other news articles about it!](https://www.google.co.uk/search?q=%22digital+vellum%22&tbm=nws)). The coverage spun me into a Twitter rant ([documented here](http://ws-dl.blogspot.co.uk/2015/02/2015-02-17-reactions-to-vint-cerfs.html)), but ranting only gets me so far, so I want to dig a bit deeper into the issues here...
+Following Vint Cerf's talk at AAAS, the "Digital Dark Age" is in the news again (see [DSHR's blog](http://blog.dshr.org/2015/02/vint-cerfs-talk-at-aaas.html) for a good summary, or one of the [~200 other news articles about it!](https://www.google.co.uk/search?q=%22digital+vellum%22&tbm=nws)). The coverage spun me into a Twitter rant ([documented here](http://ws-dl.blogspot.co.uk/2015/02/2015-02-17-reactions-to-vint-cerfs.html)), but after reflecting on my reaction, I feel it's worth exploring the issues in a bit more detail...
 
 <!--break-->
 
@@ -16,31 +15,28 @@ Following Vint Cerf's talk at AAAS, the "Digital Dark Age" is in the news again 
 > 
 > <small>[@textfiles](https://twitter.com/textfiles/status/566257028071714817)</small>
 
-I do agree that it's great that big news stories like this raise awareness about these issues, but that's just the first step. Awareness is just an engine of anxiety unless you know how to act upon that knowledge, and it's this part of Vint's message that I find problematic. By pitching  "Digital Vellum" in almost the same breath as posing the problem, Vint makes it sound like digital preservation is just another technical issue to be solved. Hey! Don't worry, it's just a bug in the system! The boffins are working on it! It'll be fine!
+Yes, I agree that it's great that big news stories like this raise awareness about these issues. But that's just the first step. Awareness is only an engine of anxiety unless you know how to act upon that knowledge, and it's this part of Vint's message that I find problematic. By pitching  "Digital Vellum" in almost the same breath as posing the problem, Vint makes it sound like digital preservation is just another technical issue to be solved. Hey! Don't worry, it's just a bug in the system! The boffins are working on it! It'll be fine!
 
-Well, the boffins have been working on this for a while....
+Well, the boffins have been working on this for a while:
 
-* [There's the late 90's Universal Preservation Format](http://info.wgbh.org/upf/)...
-* ...[the early 2000's Universal Virtual Computer](http://en.wikipedia.org/wiki/UVC-based_preservation)...
-* ...[the mid-2000's XCL Project (which doesn't think of itself as a universal preservation format, but it is)](http://planetarium.hki.uni-koeln.de/planets_cms/)...
-* ...[the late 2000's Self-contained Information Retention Format](http://www.snia.org/SIRF)...
-* ...[the early 2010's KEEP Virtual Machine](http://www.keep-project.eu/ezpub2/index.php?/eng/About-KEEP/Technical-solution/Progress-beyond-the-state-of-the-art) (see also [here](http://www.keep-project.eu/downloads/training/09kvm.pdf), [here](http://eprints.port.ac.uk/3417/) and the [patent, here](http://worldwide.espacenet.com/publicationDetails/biblio?CC=WO&NR=03052542&KC=&FT=E&locale=en_EP))...
-* ...[and of course the currently available bwFLA Emulation as a Service system](http://bw-fla.uni-freiburg.de/)...
-* ...[and now a new one -- Welcome to the party Olive Archives!](https://olivearchive.org/)
+* There's the late 90's [Universal Preservation Format](http://info.wgbh.org/upf/)...
+* ...the early 2000's [Universal Virtual Computer](http://en.wikipedia.org/wiki/UVC-based_preservation)...
+* ...the mid-2000's [XCL Project (which doesn't think of itself as a universal preservation format, but it is)](http://planetarium.hki.uni-koeln.de/planets_cms/)...
+* ...the late 2000's [Self-contained Information Retention Format](http://www.snia.org/SIRF)...
+* ...the early 2010's [KEEP Virtual Machine](http://www.keep-project.eu/ezpub2/index.php?/eng/About-KEEP/Technical-solution/Progress-beyond-the-state-of-the-art) (see also [here](http://www.keep-project.eu/downloads/training/09kvm.pdf), [here](http://eprints.port.ac.uk/3417/) and the patent, [here](http://worldwide.espacenet.com/publicationDetails/biblio?CC=WO&NR=03052542&KC=&FT=E&locale=en_EP))...
+* ...and of course the currently available [bwFLA Emulation as a Service system](http://bw-fla.uni-freiburg.de/)...
+* ...and now Vint's weapon on choice, [Olive Archives](https://olivearchive.org/)
 
-My initial response to the news story was largely due to my frustration that most of this work appears to be unknown to Vint[^1]. But having thought about it, this is really a symptom of a much deeper problem. We've been researching this for twenty years, with some very clever people coming up with some very clever ideas, but these ideas remain lost in a niche. We've been using ['Digital Dark Age' to scare up funding for a long time](https://twitter.com/anjacks0n/status/566252699768090624), but those big, expensive EU projects have led to very few concrete changes in how content is managed over time. Even the Guardian can't seem to remember that it's sold this story before...
+My initial response to the news story was frustration that so much of this work appears to be unknown to Vint[^1]. But having thought about it, this is really a symptom of a much deeper problem. We've been researching this for nearly twenty years, with some very clever people coming up with some very clever ideas, but these ideas remain lost in a niche. We've been using ['Digital Dark Age'](https://twitter.com/anjacks0n/status/566252699768090624) to scare up funding for a long time, but for all the academic papers they produced, those big, expensive EU projects have led to remarkably few concrete changes in how content is managed over time. 
 
-> The Digital Dark Age ... Still Looming After All These Years: [2003](http://web.archive.org/web/20030110082553/http://www.guardian.co.uk/online/story/0,3605,871091,00.html) to [2015](http://www.theguardian.com/technology/2015/feb/13/google-boss-warns-forgotten-century-email-photos-vint-cerf)
-> <small>[@anjackson](https://twitter.com/anjacks0n/status/567722836555747329)</small>
+Clever people with fancy technical solutions are not enough. Yes, digital media are more brittle than most analogue media, and yes, changes to software can make individual resources inaccessible. There are a range of solutions and approaches at our disposal, but to take advantage of them, there must be individuals and organizations who have access to the skills and technical resources they need in order to fully realize their role as custodians of that material[^2]. 
 
-Out of all the recent news coverage, I think [Seamus Ross's interview on BBC Radio 4](https://twitter.com/anjacks0n/status/566293872238940162) ([from about 00:30:30, here](http://www.bbc.co.uk/programmes/b051w4dr)) was the most helpful. Seamus emphasised that you need to take care of your digital resources, and outlined some of the actions you can take to look after the files you care about.
-
-Digital media are more brittle, and yes, changes to software can make individual resources inaccessible. There are a range of solutions an approaches, but to take advantage of them, there must be individuals and organisations who are charged with that responsibility and are in a position to do so.  Digital presevation is fundementally both a social and technological problem, in equal measure. Or, to but that another way...
+This is why digital preservation is both a social and technological problem, in equal measure. Or, to but that another way...
 
 > "Digital Vellum" is made of *people*.
 > <small>[@anjacks0n](https://twitter.com/anjacks0n/status/567684803861151744)</small>
 
-It appears that this aspect of the preservation problem did come up in the Q&A after Vint's AAAS presentation[^2]:
+It appears that this aspect of the preservation problem did come up in the Q&A after Vint's AAAS presentation[^3]:
 
 > Google is not directly involved in the digital preservation effort, Cerf said, "although we have worked really hard at preserving the digital information of the day. We aren't planning to become the archive of the future -- although I think it would be cool."
 >
@@ -48,26 +44,14 @@ It appears that this aspect of the preservation problem did come up in the Q&A a
 >
 > <small>["Internet future blackout: No way to preserve our data", Contra Costa Times](http://www.contracostatimes.com/education/ci_27516239/internet-future-blackout-no-way-preserve-our-data)</small>
 
-Ah, it's us. Of course.  With our miniscule budgets (compared to Google), with austerity cutting ever deeper, and with an persistent pressure to outsource everything, it's the libraries and governments of the world that are expected to solve this problem. Certainly those organisations have the remit, but do they have the capability?
+Ah, so it's down to us. Of course.
 
-The question is, then, how do we turn this big news story into concrete action?
+And this, I think, illustrates one of the main underlying problems that have prevented us from getting those 'universal preservation formats' off the ground. Governments and libraries have the *remit* to drive investment in digital preservation, but the broader market is not interested in solving our problems. The historical record is a niche concern, and it's not a lucrative niche.
 
+Furthermore, we are all competing in the same market as the big players when it comes to staff and skills, and in the current climate of dwindling budgets, building up real and sustainable expertise in these areas is extremely difficult. Collaborating on open source tools provides one way of pooling our resources, but while some progress has been made, it's still rare to find enough technical expertise to make these projects sustainable.
 
-- c.f. also that IDCC15 blockchain talk. http://www.dcc.ac.uk/events/idcc15/programme-presentations 
-- ‘A system for distributed minting and management of persistent identifiers’ Lukasz Bolikowski et al.
-
-- Help us cope with [DRM in HTML5](http://www.infoworld.com/article/2614597/cringely/drm-sinks-its-fangs-into-html5--with-help-from-netflix--google--and-microsoft.html)
-- Provide access to [DRM eBooks](https://support.google.com/books/partner/answer/3309439?hl=en-GB) (hey, at least [you're using ePub](http://en.wikipedia.org/wiki/Google_Play_Books#File_formats)!)
-- Provide Olive-style enviroments for Android and apps.
+I guess the next step, then, is to try to find ways of using the recent publicity to drive appropriate investment. Not in academic research, or closed solutions riddled with opportunities for vendor lock-in, but in transferring the existing research-quality tools into sustainable technologies. I'm not sure what the answer is, but I suspect that there is a skills profile waiting to be invented [somewhere between librarian and programmer](http://britishlibrary.typepad.co.uk/digital-scholarship/2015/02/what-would-library-carpentry-look-like.html), and we need more people who can work along that boundary in order to help us find a way forward.
 
 [^1]: Particularly the KEEP and bwFLA work which is really very similar to the Olive Archive approach -- maybe he should have [Googled it](https://www.google.co.uk/search?q=emulation+as+a+service) ;-)
-[^2]: Assuming quote accurate, as this question comes across a bit differently [here](http://dailyfreepress.com/2015/02/19/digital-dark-age-threatens-to-swallow-civilizations-bytes-expert-warns/)
-
-----
-
-* Keep args about timescale switching etc. and technical issues etc. elsewhere.
-* Your shoebox of photos won't last 1000 years either.
-* Migration of signals (all these VM things) still have issues. Essentially a 'preservation platform', but has to subsume compexity of all the other platforms. Can you run Windows 8 on a 386? Will Windows 3.11 run on 64bit hardware. The edges are very complex, and the whole thing probably has the combinatorical problem.
-    * i.e. unique differentiable combinations of application software. (Order of installation!)
-    * i.e. unique differentiable combinations of hardware.
-    * You can sell it to me as 'covering a lot of ground', but you can't sell it as 'perfect'.
+[^2]: Out of all the recent news coverage, [I think](https://twitter.com/anjacks0n/status/566293872238940162) Seamus Ross's interview on BBC Radio 4 ([from about 00:30:30, here](http://www.bbc.co.uk/programmes/b051w4dr)) was the most helpful. Seamus emphasized that you need to take care of your digital resources, and outlined some of the actions you can take to look after the files you care about.
+[^3]: Assuming quote accurate, as this question comes across a bit differently [here](http://dailyfreepress.com/2015/02/19/digital-dark-age-threatens-to-swallow-civilizations-bytes-expert-warns/)
