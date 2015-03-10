@@ -27,6 +27,7 @@ http://en.wikipedia.org/wiki/Confirmation_bias
 - http://blog.codinghorror.com/there-aint-no-such-thing-as-plain-text/
 - http://www.joelonsoftware.com/articles/Unicode.html
 - http://www.slate.com/articles/arts/books/2012/08/history_of_the_mp3_by_jonathan_sterne_reviewed_.single.html
+- n.b. also case sensitivity, line endings, floating point, etc etc.
 
 Death of Disk
 - Major architectural change and it's consequences.

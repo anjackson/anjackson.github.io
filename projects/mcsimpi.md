@@ -20,6 +20,7 @@ The following animation shows a brief simulation of a 'sticky hard disk fluid', 
 </div>
 </div>
 
+<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 <script>
 $(function() {
     var loadImg = document.getElementById('mcsimpi-animation');
