@@ -1,0 +1,6 @@
+---
+layout: none
+---
+User-agent: *
+{% capture site_url %}{%if site.url %}{{ site.url }}{% else %}{{ site.github.url }}{% endif %}{% endcapture %}
+Sitemap: {{ site_url }}/sitemap.xml
