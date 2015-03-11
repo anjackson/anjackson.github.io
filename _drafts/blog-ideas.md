@@ -57,13 +57,6 @@ Sampling skew is nuts.
 Long-winded documents and requirements, decision papers, etc.
 - Just Do It.
 
-Testing Tools - Corpora:
-- [Encyclopedia of Graphics File Formats Companion CD-ROM](https://archive.org/details/EncyclopediaOfGraphicsFileFormatsCompanionCd-rom)
-    - [EGFF ISO Image](https://archive.org/download/EncyclopediaOfGraphicsFileFormatsCompanionCd-rom/GFF_CD.ISO)
-- [EDRM Data Set Files](http://www.edrm.net/projects/dataset/data-set-files)
-    - [EDRM File Formats Data Set 1.0.1](http://www.edrm.net/download/all_projects/data_set/EDRM_Data-Set_File-Formats_1-0.zip)
-    - [EDRM Internationalization Data Set](http://www.edrm.net/download/all_projects/data_set/EDRM_Data-Set_I18N_1-0.zip)
-
 BitTorrent Is Not An Archive
 http://academictorrents.com/browse.php?cat=6&page=4
 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0010071
