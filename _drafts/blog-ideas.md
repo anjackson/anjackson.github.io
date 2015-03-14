@@ -61,11 +61,19 @@ BitTorrent Is Not An Archive
 http://academictorrents.com/browse.php?cat=6&page=4
 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0010071
 
-Single Point of Repair
+Single Point Of Failure
+- 
+
+Single Point Of Repair
 - DOI controversy
 - The web as a million points of failure.
 - Interdependence.
 - Bittorrent as a distributed but coordinated system
+- http://blog.archive.org/2015/02/11/locking-the-web-open-a-call-for-a-distributed-web/
+- https://github.com/jbenet/ipfs
+- http://joearms.github.io/2015/03/12/The_web_of_names.html
+- As if no-one bearing responsiblilty for individual bitstreams is better than one.
+- Need monitoring component. How many valid copies of each are there?
 - But its just a protocol (see biotorrents etc. Academic Torrents).
 - Needs the social pact.
 - Multiple Points Of Repair
@@ -116,6 +124,7 @@ Distributed Web Archives
 - Cassandra
 
 ## Ideas, briefly:
+- [What happens when you type google.com into your browser's address box and press enter?](https://github.com/alex/what-happens-when/blob/master/README.rst)
 - JP2 et al http://xooyoozoo.github.io/yolo-octo-bugfixes/#mascot&jp2=m&bpg=m
     - https://github.com/ross-spencer/rs-misc-scripts/blob/master/jp2-10-1-compression-artifacts.pdf
     - http://kakadusoftware.com/wp-content/uploads/2014/06/Usage_Examples.txt
