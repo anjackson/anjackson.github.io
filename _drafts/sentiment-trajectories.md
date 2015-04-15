@@ -59,5 +59,5 @@ Actually discrete calculus, but leading with integration rather than the differe
 My working is shown [in this iPython Notebook](http://nbviewer.ipython.org/github/anjackson/keeping-codes/blob/gh-pages/experiments/sentimental-trajectories.ipynb) and I'm happy for any of it to be re-used.
 
 
-[^1]: For more details of the discussion on Twitter, see the excellent "Fabula of Syuzhet", collected by [Eileen Clancy](https://twitter.com/clancynewyork): [A Fabula of Syuzhet](https://storify.com/clancynewyork/contretemps-a-syuzhet) and [A Fabula of Syuzhet II](https://storify.com/clancynewyork/a-fabula-of-syuzhet-ii/).
+[^1]: For more details of the discussion on Twitter, see the excellent [A Fabula of Syuzhet](https://storify.com/clancynewyork/contretemps-a-syuzhet) and [A Fabula of Syuzhet II](https://storify.com/clancynewyork/a-fabula-of-syuzhet-ii/), collected by [Eileen Clancy](https://twitter.com/clancynewyork).
 [^2]: As [Tim Sherratt](https://twitter.com/wragge) put it, ["Big data is made up of many small acts of living."]().
