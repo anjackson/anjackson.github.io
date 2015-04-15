@@ -49,6 +49,8 @@ Digital Dark Age
 - Still Looming http://web.archive.org/web/20030110082553/http://www.guardian.co.uk/online/story/0,3605,871091,00.html versus http://www.theguardian.com/technology/2015/feb/13/google-boss-warns-forgotten-century-email-photos-vint-cerf
 - [Managing digital National Archive "a challenge"](http://www.bbc.co.uk/programmes/p02k057y)
 
+- CLEAR and archiveready http://link.springer.com/article/10.1007/s00799-015-0144-4/fulltext.html
+
 DESTROY
 https://bitbucket.org/andrealanci/topicmapping
 http://journals.aps.org/prx/pdf/10.1103/PhysRevX.5.011007
@@ -57,9 +59,9 @@ Sampling skew is nuts.
 Long-winded documents and requirements, decision papers, etc.
 - Just Do It.
 
-BitTorrent Is Not An Archive
-http://academictorrents.com/browse.php?cat=6&page=4
-http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0010071
+The Pitch:
+- Uberconverter
+- Flatsearch
 
 Single Point Of Failure
 - 
@@ -78,9 +80,22 @@ Single Point Of Repair
 - Needs the social pact.
 - Multiple Points Of Repair
 
+BitTorrent Is Not An Archive
+http://academictorrents.com/browse.php?cat=6&page=4
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0010071
+
 Digital Dark Age
 - History, forgotten mistakes.
 - Vendor dependency.
+
+On Modelling:
+- [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html)
+- [Floating-point](http://floating-point-gui.de/basic/)
+- [An Interview with the Old Man of Floating-Point](http://www.cs.berkeley.edu/~wkahan/ieee754status/754story.html)
+
+Funders:
+- http://www.arcadiafund.org.uk/
+- Knight, Mellon, Shuttleworth, Sloan and Helmsley Foundations
 
 Forgiveness & Permission
 - A number of creators of MS-DOS programs have contacted me about having running versions of their works at @internetarchive. Contact me.
