@@ -9,13 +9,13 @@ duration: 30 minutes
 shown: false
 ---
 
-![Slide01]({{ site.baseurl }}/blog/images/what-have-we-saved-2015/Slide01.jpg)
-
 This is the rough script of the presentation I gave on Monday the 26th of April at the [2015 IIPC GA](http://www.netpreserve.org/general-assembly/ga2015-schedule). 
 
 <!--break-->
 
 ---
+
+![Slide01]({{ site.baseurl }}/blog/images/what-have-we-saved-2015/Slide01.jpg)
 
 ![Slide02]({{ site.baseurl }}/blog/images/what-have-we-saved-2015/Slide02.jpg)
 
