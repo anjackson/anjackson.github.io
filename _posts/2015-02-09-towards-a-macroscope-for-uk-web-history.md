@@ -52,9 +52,9 @@ The historians we consulted are generally not just looking for a few specific do
 
 ## The Macroscope ##
 
-In 2011, Katy Börner advocated the implementation of “[plug-and-play macroscopes][1]”, and the idea seems to have struck something of a chord within the digital humanities.[^2]
+In 2011, Katy Börner advocated the implementation of "plug-and-play macroscopes][1]", and the idea seems to have struck something of a chord within the digital humanities.[^2]
 
-> “Macroscopes provide a 'vision of the whole,' helping us 'synthesize' the related elements and detect patterns, trends, and outliers while granting access to myriad details.” 
+> "Macroscopes provide a 'vision of the whole,' helping us 'synthesize' the related elements and detect patterns, trends, and outliers while granting access to myriad details."
 > <small>"[Plug-and-Play Macroscopes][1]" - Katy Börner (2011).</small>
 
 This approach neatly unifies the modern notion of 'distant reading' of texts with the more traditional 'close reading' approach, by encouraging individual items to be discovered via (or contra to) the prevailing trends, while also attempting to embed and present those individual resources in their broader context.

@@ -60,4 +60,4 @@ My working is shown [in this iPython Notebook](http://nbviewer.ipython.org/githu
 
 
 [^1]: For more details of the discussion on Twitter, see the excellent [A Fabula of Syuzhet](https://storify.com/clancynewyork/contretemps-a-syuzhet) and [A Fabula of Syuzhet II](https://storify.com/clancynewyork/a-fabula-of-syuzhet-ii/), collected by [Eileen Clancy](https://twitter.com/clancynewyork).
-[^2]: As [Tim Sherratt](https://twitter.com/wragge) put it, ["Big data is made up of many small acts of living."]().
+[^2]: As [Tim Sherratt](https://twitter.com/wragge) puts it, ["Big data is made up of many small acts of living."](http://discontents.com.au/stories-for-machines-data-for-humans/). Or in other words, Big Data is usually Soylent Data.
