@@ -169,8 +169,6 @@ Pulling the Open and Legal Deposit data together, we can get an overview of the 
 Summary
 -------
 
-![Slide26]({{ site.baseurl }}/blog/images/what-have-we-saved-2015/Slide26.jpg)
-
 I expected the rot rate to be high, but I was shocked by how quickly link rot and content drift come to dominate the scene. 50% of the content is lost after just one year, with more being lost each subsequent year. However, it's worth noting that the loss rate is not maintained at 50%/year. If it was, the loss rate after two years would be 75% rather than 60%. This indicates there are some islands of stability, and that any broad 'average lifetime' for web resources is likely to be a little misleading.
 
 We've also found that this relatively simple text fingerprint provides some useful insight. It does ignore a lot, and is perhaps overly sensitive to changes in the 'furniture' of a web site, but it's useful and importantly, scalable.
@@ -178,6 +176,8 @@ We've also found that this relatively simple text fingerprint provides some usef
 There are a number of ways we might take this work forward, but I'm particularly interested in looking for migrated content. These fingerprints and hashes are in our full-text index, which means we can search for similar content that has moved from one URL to another even if the was never any redirect between them. Studying content migration in this way would allow us to explore how popular content moves around the web.  
 
 I'd also like to extend the same sampling analysis in order to compare our archives with those of other institutions via the Memento protocol.
+
+![Slide26]({{ site.baseurl }}/blog/images/what-have-we-saved-2015/Slide26.jpg)
 
 Thank you, and are there any questions?
 
@@ -187,7 +187,7 @@ Addendum
 If you're interested in this work you can find:
 
 * The video of my presentation ...TBA...
-* The slides ...TBA...
+* The slides [on slideshare](http://www.slideshare.net/andrewnjackson/ten-years-of-the-uk-web-archive-what-have-we-saved) or [on speakerdeck](https://speakerdeck.com/anjackson/what-have-we-saved-iipc-ga-2015).
 * The source code for the data generation, [halflife](https://github.com/ukwa/halflife).
 * The iPython Notebook used to generate the graphs, [half-life.ipynb](http://nbviewer.ipython.org/github/anjackson/keeping-codes/blob/gh-pages/experiments/half-life.ipynb).
 
