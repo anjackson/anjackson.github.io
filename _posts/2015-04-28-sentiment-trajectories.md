@@ -9,9 +9,9 @@ tags: ["Data Mining","Digital Humanities"]
 
 As a computational physicist working in a library, my background and training is quite different to the curators and researchers I now work with. Therefore, I do try to spend some time following developments in the digital humanities more generally, trying to understand the kinds of questions being asked, the techniques that are being used, and the assumptions that lie beneath.
 
-A particularly interesting example came up recently in a blog entry called ["Revealing Sentiment and Plot Arcs with the Syuzhet Package"](http://www.matthewjockers.net/2015/02/02/syuzhet/) by [Matthew L. Jockers](http://www.matthewjockers.net/). 
+A particularly interesting example came up recently in a blog entry called ["Revealing Sentiment and Plot Arcs with the Syuzhet Package"](http://www.matthewjockers.net/2015/02/02/syuzhet/) by [Matthew L. Jockers](http://www.matthewjockers.net/).
 
-<!-- break -->
+<!--break-->
 
 ## Sentiment & Smoothing
 
