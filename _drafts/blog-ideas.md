@@ -13,6 +13,11 @@ layout: post
 >
 > <small>[The new Google Contacts: Bringing everyone together](http://gmailblog.blogspot.nl/2015/03/the-new-google-contacts-bringing.html)</small>
 
+Archivematica
+- http://www.archiveswales.org.uk/projects/digital-preservation/
+- http://digital-archiving.blogspot.co.uk/2015/01/the-first-meeting-of-archivematica-uk.html
+- https://ww.archivematica.org/en/docs/archivematica-1.3/admin-manual/installation/installation/
+- http://www.moma.org/explore/inside_out/2015/04/14/momas-digital-art-vault 
 
 Quelle Surprise, Quelled Surprise
 - You may not be surprised simply because you've already considered it. Would you have also said the same if the exact opposite had been found. There must be a name for this kind of bias. 
@@ -48,6 +53,10 @@ Digital Dark Age
 - http://www.foiman.com/archives/1438
 - Still Looming http://web.archive.org/web/20030110082553/http://www.guardian.co.uk/online/story/0,3605,871091,00.html versus http://www.theguardian.com/technology/2015/feb/13/google-boss-warns-forgotten-century-email-photos-vint-cerf
 - [Managing digital National Archive "a challenge"](http://www.bbc.co.uk/programmes/p02k057y)
+
+
+> "In some instances, it feels like I’m a digital archaeologist, delving into the depths of software applications decades old and long-forgotten on operating systems that have shared the same fate and resurrecting them so that they can become tools for the Digital Preservation team to wield against format, software and hardware obsolescence that threatens every digital object."
+> <small>https://www.nla.gov.au/blogs/behind-the-scenes/2015/04/30/imagine-life-as-a-librarian-0</small>
 
 - CLEAR and archiveready http://link.springer.com/article/10.1007/s00799-015-0144-4/fulltext.html
 
@@ -131,6 +140,11 @@ How much have we saved?
 - ["Only a small proportion of the records---often no mare than two to five percent---has sufficient value for administrative, legal, or research purposes to warrant permanent retention as archives."](http://www.unesco.org/webworld/ramp/html/r8906e/r8906e04.htm)
 - ["Since the files were very voluminous, a sampling was made of them that saved only 3 percent of the total."](http://www.archives.gov/research/alic/reference/archives-resources/appraisal-informational-values.html)
 
+Using ARKs
+- http://www.bnf.fr/en/faq_ark_en/a.faq_ark_en.html
+- https://wiki.ucop.edu/display/Curation/ARK
+- http://ecommons.library.cornell.edu/handle/1813/3688
+- http://www.qdl.qa/en/archive/81055/vdc_100023510136.0x000048
 
 Distributed Web Archives
 - P2P Memento/Wayback§

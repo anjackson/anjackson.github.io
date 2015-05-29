@@ -9,7 +9,9 @@ duration: 30 minutes
 shown: false
 ---
 
-This is the rough script of the presentation I gave on Monday the 26th of April at the [2015 IIPC GA](http://www.netpreserve.org/general-assembly/ga2015-schedule). 
+This is the rough script of the presentation I gave on Monday the 26th of April at the [2015 IIPC GA](http://www.netpreserve.org/general-assembly/ga2015-schedule). If you'd rather watch the presentation, you can see it [here](https://www.youtube.com/watch?v=AwWv96Jl_cY&t=30m03s).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AwWv96Jl_cY&amp;t=30m03s" frameborder="0" allowfullscreen></iframe>
 
 <!--break-->
 
