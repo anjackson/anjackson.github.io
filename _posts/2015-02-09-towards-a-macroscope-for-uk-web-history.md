@@ -5,10 +5,10 @@ title: Towards a Macroscope for UK Web History
 author: anj
 category: Digital Preservation
 tags: ["Web Archives","BUDDAH","webarchive-discovery"]
-shown: false
+shown: true
 ---
 
-First published [on the UK Web Archive blog](http://britishlibrary.typepad.co.uk/webarchive/).
+As published [on the UK Web Archive blog](http://britishlibrary.typepad.co.uk/webarchive/2015/06/towards-a-macroscope-for-uk-web-history.html).
 <!--break-->
 
 ---

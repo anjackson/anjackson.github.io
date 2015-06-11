@@ -9,6 +9,8 @@ duration: 30 minutes
 shown: false
 ---
 
+As published [on the UK Web Archive blog](...).
+
 I gave the following presentation at the [2015 IIPC GA](http://www.netpreserve.org/general-assembly/ga2015-schedule). If you prefer, you can read the rough script with slides (below the fold) rather than watch the video.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AwWv96Jl_cY" frameborder="0" start="1803" allowfullscreen></iframe>

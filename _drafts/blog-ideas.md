@@ -4,6 +4,21 @@ author: anj
 layout: post
 ---
 
+Web Archiving APIs
+------------------
+
+WCT,
+1. Define Target
+2. Get permission to harvest and make available
+3. Create descriptive metadata
+4. Create/modify crawl configuration
+5. Crawl Target
+6. QA Crawled Target Instance
+7. If quality is poor, delete, GOTO 4
+8. Submit to preservation store
+9. Make available
+
+
 * eChums
     * Before MySpace and Facebook, about the same time as Friendster...
 
@@ -70,13 +85,14 @@ Long-winded documents and requirements, decision papers, etc.
 
 The Pitch:
 - Uberconverter
+    - Know-your-files
 - Flatsearch
 
 Single Point Of Failure
 - 
 
 Single Point Of Repair
-- DOI controversy
+- DOI controversy, see also http://blog.martinfenner.org/2015/06/03/persistent-idenfiers-urls/
 - The web as a million points of failure.
 - Interdependence.
 - Bittorrent as a distributed but coordinated system
@@ -90,8 +106,8 @@ Single Point Of Repair
 - Multiple Points Of Repair
 
 BitTorrent Is Not An Archive
-http://academictorrents.com/browse.php?cat=6&page=4
-http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0010071
+- http://academictorrents.com/browse.php?cat=6&page=4
+- http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0010071
 
 Digital Dark Age
 - History, forgotten mistakes.
