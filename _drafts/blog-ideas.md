@@ -7,7 +7,8 @@ layout: post
 Web Archiving APIs
 ------------------
 
-WCT,
+WCT
+
 1. Define Target
 2. Get permission to harvest and make available
 3. Create descriptive metadata
@@ -18,6 +19,12 @@ WCT,
 8. Submit to preservation store
 9. Make available
 
+Then also, multiple sources, manual and various crawlers. Next step, proxification.
+
+Platforms (from https://plus.google.com/+RipRowan/posts/eVeouesvaVX)
+- Separate components communicating over APIs, only.
+- Scale
+- Demand for monitoring, which ends up being automated QA.
 
 * eChums
     * Before MySpace and Facebook, about the same time as Friendster...
