@@ -7,14 +7,14 @@ author: anj
 shown: false
 ---
 
-What do we mean by 'digital object'?
-
-Well, the *official* answer is clear enough:
+What do we mean by 'digital object'? Well, the *official* answer is clear enough:
 
 > Digital Object: An object composed of a set of bit sequences. 
 > <small>[Reference Model for an Open Archival Information System (OAIS) ][1]</small>
 
-and indeed, this is the usual way the term is used, such as:
+and indeed, this is the usual way the term is used.
+
+ such as:
 
 > Regardless of whether one is interacting with digital objects as distinct entities or interacting with representations that aggregate various sources, the process is highly mediated by hardware and software. 
 > <small>[Digital Curation as Communication Mediation][2]</small>
@@ -67,6 +67,9 @@ Is the bitstream still there? No. The thing you are interacting with is not the 
 Right now, all it takes is a power cut to your desktop PC, and the photograph will blink out of existence. And entropy will win.
 
 But it can still be saved -- just press 'Save', and a new bitstream will be written. It might not be *quite* the same as the original, but it might be good enough.
+
+![Ce ne sont pas un objet numérique.]({{site.url}}/blog/images/ll/notado.png)
+
 
 ### Bitstream Considered Optional
 
