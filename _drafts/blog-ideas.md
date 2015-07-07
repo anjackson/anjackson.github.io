@@ -20,6 +20,9 @@ Lessons Learned:
 - The AIP Is Never Finished
 - OAIS Is Not Enough
 
+The Obsolete
+- WAP and other early moble era shims
+
 
 WCT
 
