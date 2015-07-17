@@ -588,3 +588,8 @@ a.title-rss:hover {
 .carousel-caption {
     background-color: rgba(0,0,0,0.5);
 }
+
+ul.series-list {
+	padding-top: 0.25em;
+	padding-left: 1.5em;
+}

@@ -17,6 +17,7 @@ title: <a href="/feed.xml" class="title-rss"><i class="fa fa-rss"></i></a>Blog
         {% if post.description %}{{ post.description }}{% else %}{{ post.content | split:"<!--break-->" | first | truncatewords: 200 }}{% endif %}
       </p>
       <p><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">[Read More]</a></p>
+      {% include _tags.html page=post%}
       <div class="hline"></div>
         
       {% if forloop.last != true %}

@@ -18,6 +18,10 @@ layout: default
 	 		
 	 		<!-- SIDEBAR -->
 	 		<div class="col-xs-12 col-sm-4 col-md-4">
+
+	 			{% if page.sidebar-include %}
+	 			{% include {{page.sidebar-include}} %}
+	 			{% endif %}
 	 		
    		 		{% include _recent_posts_block.html posts=site.posts %}
   

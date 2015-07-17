@@ -21,7 +21,9 @@ description: "An archive of posts sorted by tag."
   {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
   <h2 id="{{ this_word | replace: ' ','' }}" style="padding-top: 70px; margin-top: -70px;">{{ this_word }}</h2>
   <ul class="post-list">
-  {% for post in site.tags[this_word] %}{% if post.title != null %}
+  {% assign tagged_posts = site.tags[this_word] %}
+  {% assign sorted_posts = tagged_posts | sort:"date" %}
+  {% for post in sorted_posts %}{% if post.title != null %}
     <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }} - <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></li>
   {% endif %}{% endfor %}
   </ul>
