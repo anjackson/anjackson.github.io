@@ -1,13 +1,17 @@
 ---
-title: "Formats Define Significant Properties"
+title: "'Load' is not the opposite of 'Save'"
 category: Digital Preservation
 tags: ["Keeping Codes", "Lessons Learned"]
 layout: post
 author: anj
 shown: true
-series-position: 6
+series-position: 20
 sidebar-include: _ll.md
 ---
+
+Asymmetric fundamentals.
+
+Load and Save are always different code, so any physical-logical 'mapping' style model is unable to conceive or describe failure of encoder/decoder pairs.
 
 Another way to describe digital objects is to avoid the more subjective or abstract tactics, and just attempt to point to where, physically, the 'object' resides.
 

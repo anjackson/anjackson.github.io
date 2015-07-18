@@ -5,7 +5,7 @@ tags: ["Keeping Codes", "Lessons Learned"]
 layout: post
 author: anj
 shown: true
-series-position: 1
+series-position: 10
 sidebar-include: _ll.md
 ---
 
