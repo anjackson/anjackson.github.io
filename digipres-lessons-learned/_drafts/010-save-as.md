@@ -17,9 +17,17 @@ Let's start with an experiment...
 
 For this experiment, you will need:
 
-* An USB flash drive of little importance. One of those old 64MB ones you got from that conference.
-* A copy of a  digital file of great importance. Any format will do, as long as it's in a format you can read. I'm going to use this JPEG:
+* An USB flash drive of little importance. One of those old 512MB ones you got from that conference.
+* A copy of a  digital file of great importance. Any format will do, as long as it's in a format you can read. 
 
+
+I'm going to use this drive:
+
+![Test Drive]({{site.url}}/digipres-lessons-learned/images/save-as/save-as-test-drive.jpg)
+
+and this JPEG:
+
+![My father and my son, alike.]({{site.baseurl}}/digipres-lessons-learned/images/save-as/best-test-image.jpg)
 
 ## Method ##
 
@@ -34,9 +42,11 @@ For this experiment, you will need:
 
 In my experiment, the first thing that happened was...
 
-![Disk Not Ejected Properly]({{site.url}}/blog/images/ll/not-ejected-properly-2015.png)
+![Disk Not Ejected Properly]({{site.url}}/digipres-lessons-learned/images/save-as/save-as-oops.jpg)
 
 ...but beside this admonishment, the image was still there.
+
+![But Still There]({{site.url}}/digipres-lessons-learned/images/save-as/save-as-still-there.jpg)
 
 The bitstream was gone (optionally blended into oblivion). But the image was still on the screen. I bet yours is still there too.
 
@@ -46,9 +56,13 @@ Can you press 'Save as...', and get a new bitstream back?
 
 It depends on the sofware. 
 
-When I tried this with Apple Preview, I couldn't save the image, even though I could see it. The rendered image was still stored in some presentation buffer, but the only way to get it seemed to be as a desktop screenshot.
+When I tried this with Apple Preview, I couldn't save the image, even though I could see it. 
 
-But with image editing software, specifically the [GIMP](http://www.gimp.org/), I pressed 'Save as...' and a new bitstream was written. Not *quite* the same as the original, but good enough.
+![Apple Preview Says No]({{site.url}}/digipres-lessons-learned/images/save-as/save-as-preview-says-no.jpg)
+
+The rendered image was still stored in some presentation buffer, but the only way to get it seemed to be as a desktop screenshot.
+
+But with image editing software, specifically the [GIMP](http://www.gimp.org/), I pressed 'Save as...' and a new bitstream was written. Not *quite* the same as the original, but good enough.[^1]
 
 
 ## Conclusion ###
@@ -59,7 +73,8 @@ This is the story of every digital resource. Every single one is born entangled 
 
 Code *always* comes first, and the first act of digital preservation is *always* 'Save as...'
 
-![Save as...]({{site.url}}/blog/images/ll/save-icon.png)
+![Save as...]({{site.url}}/digipres-lessons-learned/images/save-icon.png)
 
+[^1]: The two images were highly similar, with a [PSNR](https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio) of just over 56dB and with a distribution of differences that looks like [this]({{site.url}}/digipres-lessons-learned/images/save-as/difference.png). It is not clear if this is due to small differences in JPEG compression parameters, or if all the parameters are the same but the *implementations* have small difference e.g. rounding errors.
 
 

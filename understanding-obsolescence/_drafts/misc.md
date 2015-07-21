@@ -17,3 +17,8 @@ publish: true
 
 
 
+HFS
+
+http://www.catacombae.org/hfsexplorer/
+https://github.com/unsound/hfsexplorer
+

@@ -127,6 +127,7 @@ Single Point Of Repair
 BitTorrent Is Not An Archive
 - http://academictorrents.com/browse.php?cat=6&page=4
 - http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0010071
+- https://www.kaggle.com/wiki/ANoteOnTorrents
 
 Digital Dark Age
 - History, forgotten mistakes.
