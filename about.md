@@ -33,6 +33,13 @@ This is my personal website, where I [blog]({{ site.baseurl }}/blog/) about geek
 * <http://www2.ph.ed.ac.uk/cmatter/cgi-bin/archive/show.cgi?db=projects&id=2>
 * <http://web.archive.org/web/20150109234140/http://nutshells.anjackson.net/>
 
+* 1983 RoGu in a cafe - weymouth tall ships - see wikipedia
+* VIC-20
+* uncle petes zx spectrum
+* spectrum +2
+* school pets bbcs and acorns
+* a3000 c. 14? 1990?
+
 <script type="text/javascript" src="http://www.linkedin.com/js/public-profile/widget-os.js"></script>
 <a class="linkedin-profileinsider-inline" href="http://www.linkedin.com/in/andrewnjackson">Andrew Jackson</a>
 
