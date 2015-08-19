@@ -7,6 +7,9 @@ status: stub
 publish: false
 ---
 
+text encoding heuristics
+https://github.com/file/file/blob/master/src/encoding.c
+
 - [It starts with Save as...](../010-save-as)
 - ['Load' is not the opposite of 'save'](../020-load-versus-save)
 - [Don't say Digital Object](../030-dont-say-digital-object)
@@ -17,11 +20,16 @@ publish: false
     - What are the significant characteristics of the Mona Lisa?
 - [Formats Define Significant Properties](../060-formats-define-significant-properties)
     - http://www.dpconline.org/events/previous-events/288-significant-properties
+    - http://digitalcontinuity.org/post/125850578993/software-dependent-content
+    - Pretending that software is not central is only possible because of all the work that went into making interoperable formats.
 - Identification Links Bitstreams to Software
     - Formats are behaviours, not properties.
 - Validation is unnecessary
     - Not always possible, Halting Problem etc.
     - Note fast-fail versus linting modes.
+- We need mecha suits
+    - http://tabula.technology/
+    - Film scratch removal and other digital re-mastering tools.
 - Emulation is a type of migration
     - The Migration Line
 - [Format obsolescence is not the biggest risk we face]()
@@ -29,6 +37,7 @@ publish: false
     - Storage isn't solved.
 - [We don't know what we've got]()
     - SCAPE meeting need for better characterisation
+    - https://twitter.com/andrewjbtw/status/625824129585971200
 - The biggest preservation risk: unsustainable investment
 - Obsolescence is obsolete
     - Vendors drive it.
@@ -54,3 +63,30 @@ publish: false
 * We don't need corpora to be annotated to learn something useful
     - https://archive.org/details/ftpsites
     - http://lcamtuf.blogspot.co.uk/2015/01/afl-fuzz-making-up-grammar-with.html
+- We need a format grammar
+    - Text encoding example, codecs etc
+    - MIME is great, missing versions but can be extended.
+- We need to understand the barriers to collaboration 
+    - format registries 
+    - corpora
+- Corpora first
+- No shame in bit-preservation only
+- But keep some renderings, plus software gap and dependencies
+- HTML/A
+    - HTML/A-1 All transclusions embedded, no JavaScript at all, metadata.
+    - HTML/A-2 No JavaScript?, metadata.
+    - Which is more damaging? JavaScript or remote transclusions?
+    - Platform dependencies == none (standard elements only)
+
+-DP Alternative Bibliography
+http://digital-scholarship.org/dcbw/dcbw.htm
+http://blogs.loc.gov/digitalpreservation/2014/01/a-national-agenda-bibliography-for-digital-asset-sustainability-and-preservation-cost-modeling/
+Mechanisms
+MP3
+What happens when you press a key
+What every programmer needs to know about unicode
+DSHR Kryder
+http://www.ariadne.ac.uk/issue46/rusbridge
+Formats over time
+http://www.naa.gov.au/Images/An-approach-Green-Paper_tcm16-47161.pdf
+

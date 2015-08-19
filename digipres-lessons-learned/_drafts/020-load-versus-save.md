@@ -1,5 +1,5 @@
 ---
-title: "'Load' is not the opposite of 'Save'"
+title: "Every format is defined at least twice"
 category: Digital Preservation
 tags: ["Keeping Codes", "Lessons Learned"]
 layout: post
@@ -9,9 +9,9 @@ series-position: 20
 sidebar-include: _ll.md
 ---
 
-Asymmetric fundamentals.
+It's common to assume that the format of digital resources to be a well-defined, singular thing. As in *"this file is in PDF format"*, but taken generally to be a fundemental truth. Formats are something a bitstream has, and one of the most common tasks is to infer the format from a bitstream.
 
-Load and Save are always different code, so any physical-logical 'mapping' style model is unable to conceive or describe failure of encoder/decoder pairs.
+But this model is wrong. When we assume that formats only have a single definition, we ignore the fact that this is impossible. There is a fundemental asymmetry here, and it boils down to the relationship between 'Load' and 'Save'.
 
 Another way to describe digital objects is to avoid the more subjective or abstract tactics, and just attempt to point to where, physically, the 'object' resides.
 
@@ -32,3 +32,15 @@ For location 1, as we saw in the thought experiment above, this is because you c
 But without location 2, you have nothing at all. The software is the process that brings these all together, knitting the traces in the RAM together, responding to the user and projecting the state back out to them again.
 
 The image has been stripped of it's original compression, and the bytes that made up the image file are unrecognizable unless the software intervenes.
+
+
+'Load' and 'Save' are always different code. At the lowest of levels, when simply storing of loading bytes from memory, the relationship is a fairly simple inversion (where we swap all LOAD operations for STORE operations). But as soon as a format gains any kind of complexity, this relatioship becomes much more complex. For example, it is not possible to take the machine code for any given loader and use it to generate software capable of performing the opposite 'save as' operation. 
+
+Therefore, any physical-logical 'mapping' style model is unable to conceive or describe failure of encoder/decoder pairs. Which leaves us unable to describe them.
+
+PDF is an illustrative case.
+
+Formats always have two sides. But standard, interoperable formats are those that have established strong social 'norms' between 'Load' and 'Save as...'.
+
+
+
