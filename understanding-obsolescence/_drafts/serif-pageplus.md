@@ -1,11 +1,15 @@
 ---
 title: Serif PagePlus
-subtitle: .ppp
-layout: default
-category: Formats
+fmt-exts: [".ppp"]
+layout: post
+category: Digital Preservation
+tags: ["Unfashionable Formats"]
 status: stub
 publish: true
+series-position: 30
+sidebar-include: _uf.md
 ---
+
 
 
 files? Pre-X3. OLE2-based

@@ -1,10 +1,12 @@
 ---
 title: Understanding Obsolescence
 subtitle: In the Web Archive
-layout: default
-category: Web Archives
+layout: post
+category: Digital Preservation
+tags: ["Unfashionable Formats"]
 status: stub
-publish: false
+publish: true
+sidebar-include: _uf.md
 ---
 
 Introduction

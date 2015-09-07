@@ -1,10 +1,13 @@
 ---
 title: PDF & FDF
-subtitle: .pdf .fdf
-layout: default
-category: Formats
+fmt-exts: [".pdf",".fdf"]
+layout: post
+category: Digital Preservation
+tags: ["Unfashionable Formats"]
 status: stub
 publish: true
+series-position: 30
+sidebar-include: _uf.md
 ---
 
 From [Smith08].

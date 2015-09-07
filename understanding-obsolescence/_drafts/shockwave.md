@@ -1,11 +1,15 @@
 ---
 title: Shockwave
-subtitle: .dcr
-layout: default
-category: Formats
+fmt-exts: [".dcr"]
+layout: post
+category: Digital Preservation
+tags: ["Unfashionable Formats"]
 status: stub
 publish: true
+series-position: 30
+sidebar-include: _uf.md
 ---
+
 
 http://www.webarchive.org.uk/aadda-discovery/formats?f[0]=content_type_ext%3A%22.dcr%22 = 7235 .dcr
 

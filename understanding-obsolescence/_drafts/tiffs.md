@@ -1,11 +1,15 @@
 ---
 title: TIFF & XIF
-subtitle: .tif .xif
-layout: default
-category: Formats
+fmt-exts: [".tif",".xif"]
+layout: post
+category: Digital Preservation
+tags: ["Unfashionable Formats"]
 status: stub
 publish: true
+series-position: 30
+sidebar-include: _uf.md
 ---
+
 
 ### TIFF (.tif) ###
 

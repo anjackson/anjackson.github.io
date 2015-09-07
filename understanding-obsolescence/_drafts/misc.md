@@ -1,12 +1,14 @@
 ---
 title: Other minor formats
-subtitle: Miscellaneous
-layout: default
-category: Formats
+fmt-exts: [".???"]
+layout: post
+category: Digital Preservation
+tags: ["Unfashionable Formats"]
 status: stub
 publish: true
+series-position: 30
+sidebar-include: _uf.md
 ---
-
 
 
 ### Kodak K25 Images ###

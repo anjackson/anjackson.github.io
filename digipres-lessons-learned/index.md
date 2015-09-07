@@ -7,8 +7,11 @@ status: stub
 publish: false
 ---
 
-text encoding heuristics
-https://github.com/file/file/blob/master/src/encoding.c
+
+- Big metadata is a bad smell
+- Identification changes over time
+- Formats identification is a guessing game
+    - text encoding heuristics [file's encoding.c](https://github.com/file/file/blob/master/src/encoding.c)
 
 - [It starts with Save as...](../010-save-as)
 - ['Load' is not the opposite of 'save'](../020-load-versus-save)

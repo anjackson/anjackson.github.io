@@ -1,11 +1,15 @@
 ---
 title: Spectrum Snapshots & Tapes
-subtitle: .sna, .z80, .tap, .txz
-layout: default
-category: Formats
+fmt-exts: [".sna",".z80",".tap",".txz"]
+layout: post
+category: Digital Preservation
+tags: ["Unfashionable Formats"]
 status: stub
 publish: true
+series-position: 30
+sidebar-include: _uf.md
 ---
+
 
 TODO Embed JSMESS, as playback mechanism.
 http://www.webarchive.org.uk/aadda-discovery/formats?f[0]=content_type_ext%3A%22.tap%22&f[1]=content_ffb%3A%2213000000%22

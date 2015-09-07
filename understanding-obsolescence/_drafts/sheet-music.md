@@ -1,11 +1,15 @@
 ---
 title: Sheet Music
-subtitle: .sib .mus
-layout: default
-category: Formats
+fmt-exts: [".sib",".mus"]
+layout: post
+category: Digital Preservation
+tags: ["Unfashionable Formats"]
 status: stub
 publish: true
+series-position: 30
+sidebar-include: _uf.md
 ---
+
 
 SO, things like Music. 
 We can support extension based search.

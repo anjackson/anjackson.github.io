@@ -1,10 +1,13 @@
 ---
 title: Quattro Pro
-subtitle: .wq1
-layout: default
-category: Formats
+fmt-exts: [".wq1"]
+layout: post
+category: Digital Preservation
+tags: ["Unfashionable Formats"]
 status: stub
 publish: true
+series-position: 30
+sidebar-include: _uf.md
 ---
 
 [Similar to the WKS spreadsheet files, the Quattro Pro spreadsheet files exist...](http://www.fileformat.info/mirror/corion/#WQ1) Borland Quattro Pro

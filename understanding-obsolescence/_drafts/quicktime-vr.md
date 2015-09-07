@@ -1,11 +1,15 @@
 ---
 title: Quicktime VR
-subtitle: .mov
-layout: default
-category: Formats
+fmt-exts: [".mov"]
+layout: post
+category: Digital Preservation
+tags: ["Unfashionable Formats"]
 status: stub
 publish: true
+series-position: 30
+sidebar-include: _uf.md
 ---
+
 
 Quicktime VR (identification challenge)
 

@@ -1,10 +1,13 @@
 ---
 title: eBooks
-subtitle: .epub
-layout: default
-category: Formats
+fmt-exts: [".epub"]
+layout: post
+category: Digital Preservation
+tags: ["Unfashionable Formats"]
 status: stub
 publish: true
+series-position: 30
+sidebar-include: _uf.md
 ---
 
 One (!) .epub, but given the date range...

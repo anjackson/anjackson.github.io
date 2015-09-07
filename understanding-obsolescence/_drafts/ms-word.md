@@ -1,10 +1,13 @@
 ---
 title: MS Word
-subtitle: .doc
-layout: default
-category: Formats
+fmt-exts: [".doc"]
+layout: post
+category: Digital Preservation
+tags: ["Unfashionable Formats"]
 status: stub
 publish: true
+series-position: 30
+sidebar-include: _uf.md
 ---
 
 ### Pre-1995 ###

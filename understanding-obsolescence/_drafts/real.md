@@ -1,10 +1,13 @@
 ---
 title: RealAudio & RealMedia
-subtitle: .ra .ram .rm
-layout: default
-category: Formats
+fmt-exts: [".ra",".ram",".rm"]
+layout: post
+category: Digital Preservation
+tags: ["Unfashionable Formats"]
 status: stub
 publish: true
+series-position: 30
+sidebar-include: _uf.md
 ---
 
 Found in NLA, enquote?

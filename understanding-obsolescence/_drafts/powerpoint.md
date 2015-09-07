@@ -1,3 +1,14 @@
+---
+title: PowerPoint
+fmt-exts: [".ppt", ".pptx"]
+layout: post
+category: Digital Preservation
+tags: ["Unfashionable Formats"]
+status: stub
+publish: true
+series-position: 30
+sidebar-include: _uf.md
+---
 
 
 http://www.webarchive.org.uk/interject/inspect/https://web.archive.org/web/20020313074855/http://ftp.sunet.se/pub/Internet-documents/isoc/charts/presentations/nii.ppt

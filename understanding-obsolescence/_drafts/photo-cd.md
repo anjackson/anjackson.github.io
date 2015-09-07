@@ -1,12 +1,14 @@
 ---
 title: Kodak Photo CD
-subtitle: .pcd
-layout: default
-category: Formats
+fmt-exts: [".pcd"]
+layout: post
+category: Digital Preservation
+tags: ["Unfashionable Formats"]
 status: stub
 publish: true
+series-position: 30
+sidebar-include: _uf.md
 ---
-
 
 * The .pcd from Kodak image CDs to TIF or JPG via ImageMagick.
 

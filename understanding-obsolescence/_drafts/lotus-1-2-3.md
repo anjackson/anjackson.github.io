@@ -1,12 +1,14 @@
 ---
 title: Lotus 1-2-3
-subtitle: .wk1
-layout: default
-category: Formats
+fmt-exts: [".wk1"]
+layout: post
+category: Digital Preservation
+tags: ["Unfashionable Formats"]
 status: stub
 publish: true
+series-position: 30
+sidebar-include: _uf.md
 ---
-
 
 http://fileformats.archiveteam.org/wiki/Lotus_1-2-3
 

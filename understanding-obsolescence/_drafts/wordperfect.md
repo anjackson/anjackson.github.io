@@ -1,11 +1,15 @@
 ---
 title: WordPerfect
-subtitle: .wpd?
-layout: default
-category: Formats
+fmt-exts: [".wpd"]
+layout: post
+category: Digital Preservation
+tags: ["Unfashionable Formats"]
 status: stub
 publish: true
+series-position: 30
+sidebar-include: _uf.md
 ---
+
 
 ### WordPerfect ###
 

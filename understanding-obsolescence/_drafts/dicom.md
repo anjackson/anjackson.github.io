@@ -1,10 +1,13 @@
 ---
 title: DICOM Medical Imaging
-subtitle: .dicm
-layout: default
-category: Formats
+fmt-exts: [".dcim"]
+layout: post
+category: Digital Preservation
+tags: ["Unfashionable Formats"]
 status: stub
 publish: true
+series-position: 30
+sidebar-include: _uf.md
 ---
 
 [application/dicom](mimeExamples/US.28312.dicm), Medical imaging, e.g. MIR CTN software

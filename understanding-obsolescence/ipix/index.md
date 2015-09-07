@@ -1,11 +1,18 @@
 ---
-title: IPIX Walkthrough
+title: IPIX
 subtitle: Getting IPIX working...
-layout: default
-category: Formats
+fmt-exts: [".ipx"]
+layout: post
+category: Digital Preservation
+tags: ["Unfashionable Formats"]
 status: stub
 publish: true
+series-position: 30
+sidebar-include: _uf.md
 ---
+
+Walkthrough
+-----------
 
 http://www.ipix.com/ has broken links, but still gets donwload updates http://www.ipix.com/support/downloads.cfm http://www.ipix.com/img/news/article_slqmptg9ts.pdf security ness
 
