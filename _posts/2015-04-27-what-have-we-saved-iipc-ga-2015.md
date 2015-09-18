@@ -6,10 +6,10 @@ author: anj
 category: Digital Preservation
 tags: ["Web Archives","Digital Preservation"]
 duration: 30 minutes
-shown: false
+shown: true
 ---
 
-As published [on the UK Web Archive blog](...).
+As published [on the UK Web Archive blog](http://britishlibrary.typepad.co.uk/webarchive/2015/09/ten-years-of-the-uk-web-archive-what-have-we-saved.html).
 
 I gave the following presentation at the [2015 IIPC GA](http://www.netpreserve.org/general-assembly/ga2015-schedule). If you prefer, you can read the rough script with slides (below the fold) rather than watch the video.
 
@@ -190,7 +190,7 @@ Addendum
 
 If you're interested in this work you can find:
 
-* The video of my presentation ...TBA...
+* The video of my presentation [on YouTube](https://www.youtube.com/watch?v=AwWv96Jl_cY&t=30m03s)
 * The slides [on slideshare](http://www.slideshare.net/andrewnjackson/ten-years-of-the-uk-web-archive-what-have-we-saved) or [on speakerdeck](https://speakerdeck.com/anjackson/what-have-we-saved-iipc-ga-2015).
 * The source code for the data generation, [halflife](https://github.com/ukwa/halflife).
 * The iPython Notebook used to generate the graphs, [half-life.ipynb](http://nbviewer.ipython.org/github/anjackson/keeping-codes/blob/gh-pages/experiments/half-life.ipynb).

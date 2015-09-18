@@ -1,5 +1,5 @@
 ---
-title: "We Preserve Processes"
+title: "We preserve processes"
 category: Digital Preservation
 tags: ["Keeping Codes", "Lessons Learned"]
 layout: post

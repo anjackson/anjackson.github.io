@@ -17,7 +17,7 @@ Let's start with an experiment...
 
 For this experiment, you will need:
 
-1. An USB flash drive of little importance. One of those old 1GB ones you got from that conference will do.
+1. An USB flash drive of little importance. One of those old 256MB ones you got from that conference will do.
 2. A copy of a  digital file of great importance. Any format will do, as long as it's in a format you can open.
 
 
@@ -68,6 +68,8 @@ But re-running the same experiment with image editing software (specifically the
 ## Conclusion ###
 
 Once your bitstream is loaded, the thing you are interacting with is not the bitstream. What was once a neat, contiguous bitstream has now been spread around and interleaved with the software that loaded it.
+
+Same when created.
 
 This is the story of every digital resource. Every single one is born as *bytes in flight*, entangled with the software that defines it.
 

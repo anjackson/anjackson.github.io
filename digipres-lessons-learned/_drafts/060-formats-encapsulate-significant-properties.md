@@ -1,5 +1,5 @@
 ---
-title: "Formats Encapsulate Significant Properties"
+title: "Formats encapsulate significant properties"
 category: Digital Preservation
 tags: ["Keeping Codes", "Lessons Learned"]
 layout: post

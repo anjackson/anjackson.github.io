@@ -49,6 +49,7 @@ publish: false
     - http://blog.dshr.org/2010/11/half-life-of-digital-formats.html
     - http://www.ariadne.ac.uk/issue46/rusbridge/
 - We can learn from Adobe Lightroom
+- The first AIP should be the SIP (plus just enough provenance to know how/why you have it)
 - The AIP Is Never Finished
 - OAIS Is Not Enough (models a preserving organisation not preservation itself)
     - OAIS Is Still Not Enough (pre-ingest/inner ring - models a repository or an organisation?)
