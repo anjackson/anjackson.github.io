@@ -93,4 +93,7 @@ DSHR Kryder
 http://www.ariadne.ac.uk/issue46/rusbridge
 Formats over time
 http://www.naa.gov.au/Images/An-approach-Green-Paper_tcm16-47161.pdf
+The Problems of Software Conservation
+http://www.cs.man.ac.uk/CCS/res/res07.htm#f
+
 
