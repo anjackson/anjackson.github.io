@@ -26,7 +26,7 @@ Furthermore, we've decided to change the way we handle web archiving records tha
 
 However, as these records don't hold the actual item, our indexing process was not able to properly index these items yet. Over the next few weeks, we shall scan through these 65 million revisit records and 'reduplicate' them. This does mean that, for now, the results from 2013 might be a bit misleading in some cases. We also failed to index the last 11,031 of the 515,031 WARC files that make up this dataset (about 2% of the total, likely affecting the 2010-2013 results only), simply because we ran our of disk space. The index is using up 18.7TB of SSD storage, and if we can find more space, we'll fill in the rest.
 
-In the meantime, please explore our historical archive and tell us what you find! 
+In the meantime, please explore our historical archive and tell us what you find! It might be slow sometimes (maybe 10-20 seconds), so please be patient, but we're pretty confident that it will be stable from now on.
 
 [![Early social media]({{ site.baseurl }}/blog/images/shine-release-two-early-social-media.png)](https://www.webarchive.org.uk/shine/graph?query=%22geocities%22%2C%22friendster%22%2C%22orkut%22&year_start=1996&year_end=2013&action=update)
 
