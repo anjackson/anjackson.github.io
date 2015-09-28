@@ -1,7 +1,7 @@
 ---
 title: Building a historical search engine is no easy thing
 category: Data Mining
-tags: ["Web Archives","BUDDAH","webarchive-discovery", "BUDDAH"]
+tags: ["Web Archives","BUDDAH","webarchive-discovery"]
 status: stub
 layout: post
 author: anj
