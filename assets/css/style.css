@@ -379,7 +379,23 @@ a:focus {
 
 #blue .subtitle, #blue .parent-link {
 	color: white;
-	font-weight: 100;
+	font-weight: 200;
+}
+
+#blue .parent-link, #blue .parent-link a {
+	color: #fff;
+	opacity: 0.6;
+	text-decoration: none;
+	-webkit-transition: all 0.3s ease-in-out 0s;
+    transition: all 0.3s ease-in-out 0s;
+}
+
+#blue .parent-link a:hover {
+	color: #fff;
+	opacity: 1.0;
+	text-decoration: underline;
+	-webkit-transition: all 0.3s ease-in-out 0s;
+    transition: all 0.3s ease-in-out 0s;
 }
 
 .ctitle {
@@ -565,14 +581,6 @@ img.avatar {
 
 .no-outline, .no-outline:hover, .no-outline:focus, .no-outline:active {
 	outline-style: none;
-}
-
-.parent-link, .parent-link a {
-	color: #ddd;
-}
-
-.parent-link a:hover {
-	color: #fff;
 }
 
 a.title-rss {
