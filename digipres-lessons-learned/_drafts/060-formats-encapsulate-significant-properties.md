@@ -20,3 +20,4 @@ Less context dependency...
 Good formats are exactly what we are trying to achieve.
 
 
+http://code.flickr.net/2015/09/25/perceptual-image-compression-at-flickr/

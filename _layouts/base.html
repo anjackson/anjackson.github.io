@@ -72,12 +72,11 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>{% if page.parent %}<span class="parent-link"><a href="{{ page.parent_link }}">{{ page.parent }}</a>&nbsp;<i class="fa fa-angle-right"></i> </span>{% endif %}{{ page.title }}</h3>
+				<h3>{% if page.parent %}<span class="parent-link"><a href="{{ page.parent_link }}">{{ page.parent }}</a>&nbsp;<i class="fa fa-angle-right"></i> </span>{% endif %}{{ page.title }}{% if page.subtitle %}<span class="subtitle"> &mdash; {{ page.subtitle }}</span>{% endif %}</h3>
 			</div><!-- /row -->
 	    </div> <!-- /container -->
 	</div><!-- /blue -->
 {% endif %}
-
 	 
   {{ content }}
 
