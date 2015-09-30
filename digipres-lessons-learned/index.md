@@ -81,6 +81,8 @@ publish: false
     - HTML/A-2 No JavaScript?, metadata.
     - Which is more damaging? JavaScript or remote transclusions?
     - Platform dependencies == none (standard elements only)
+- JPEG is okay
+    - Would you rather have 600dpi JPEG or a 300dpi TIFF?
 
 -DP Alternative Bibliography
 http://digital-scholarship.org/dcbw/dcbw.htm
