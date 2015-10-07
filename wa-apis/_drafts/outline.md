@@ -3,6 +3,8 @@ title: Web Archiving APIs
 author: anj
 layout: post
 shown: true
+sidebar-include: _wapi.md
+tags: ["Web Archive APIs"]
 ---
 
 This is a series of posts describing our evolving web archiving framework and tools. In particular, the aim is to document how our crawl architecture has evolved to become more modular, and to explore the idea of using APIs to make these systems more manageable over the long term.
