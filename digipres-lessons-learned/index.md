@@ -84,18 +84,26 @@ publish: false
 - JPEG is okay
     - Would you rather have 600dpi JPEG or a 300dpi TIFF?
 
--DP Alternative Bibliography
-http://digital-scholarship.org/dcbw/dcbw.htm
-http://blogs.loc.gov/digitalpreservation/2014/01/a-national-agenda-bibliography-for-digital-asset-sustainability-and-preservation-cost-modeling/
-Mechanisms
-MP3
-What happens when you press a key
-What every programmer needs to know about unicode
-DSHR Kryder
-http://www.ariadne.ac.uk/issue46/rusbridge
-Formats over time
-http://www.naa.gov.au/Images/An-approach-Green-Paper_tcm16-47161.pdf
-The Problems of Software Conservation
-http://www.cs.man.ac.uk/CCS/res/res07.htm#f
+
+Impossible Standards
+--------------------
+
+c.f. [DP benchmarking paper](http://ifs.tuwien.ac.at/~duretec/publications/benchmarks_for_digital_preservation.pdf)
+
+Is it possible? i.e.
+- can it cope with lack of concensus over meaning?
+- can it cope with context-dependent nature of identification?
+- can it cope with non-trivial cases? HTML?
+- can it cope with Turing-complete cases?
+
+Even if is possible, it is feasible?
+- We've been saying we need format corpora and registries etc for a decade.
+- We still have PRONOM, but that's it (as shared infrastructure)
+- Work may be done in private, but global FEs committed to working on this are very few.
+- Even thinks like CRISP completely failed. What can we learn from that?
+- And the amount of work is absolutely massive.
+- Who created those benchmarks in other fields? Who paid them to do it? Why?
+- Are they different because the creators also control the meaning whereas we are documenting the meanings of others?
+
 
 

@@ -4,36 +4,9 @@ author: anj
 layout: post
 ---
 
-Web Archiving APIs
-------------------
-
-
 
 The Obsolete
 - WAP and other early moble era shims
-
-
-WCT
-
-1. Define Target
-2. Get permission to harvest and make available
-3. Create descriptive metadata
-4. Create/modify crawl configuration
-5. Crawl Target
-6. QA Crawled Target Instance
-7. If quality is poor, delete, GOTO 4
-8. Submit to preservation store
-9. Make available
-
-Then also, multiple sources, manual and various crawlers. Next step, proxification.
-
-Platforms (from https://plus.google.com/+RipRowan/posts/eVeouesvaVX)
-- Separate components communicating over APIs, only.
-- Scale
-- Demand for monitoring, which ends up being automated QA.
-
-APIs
-- http://kris-sigur.blogspot.co.uk/2015/06/even-though-it-didnt-feature-heavily-on.html
 
 Original manuscript:
 http://www.bl.uk/collection-items/alices-adventures-under-ground-the-original-manuscript-version-of-alices-adventures-in-wonderland
@@ -182,14 +155,7 @@ Using ARKs
 - http://ecommons.library.cornell.edu/handle/1813/3688
 - http://www.qdl.qa/en/archive/81055/vdc_100023510136.0x000048
 
-Distributed Web Archives
-- P2P Memento/Wayback§
-- [Wouldn’t it be fun to build your own Google?](http://radar.oreilly.com/2014/12/wouldnt-it-be-fun-to-build-your-own-google.html)
-- http://tomp2p.net/
-- Cassandra
-
 ## Ideas, briefly:
-- [What happens when you type google.com into your browser's address box and press enter?](https://github.com/alex/what-happens-when/blob/master/README.rst)
 - JP2 et al http://xooyoozoo.github.io/yolo-octo-bugfixes/#mascot&jp2=m&bpg=m
     - https://github.com/ross-spencer/rs-misc-scripts/blob/master/jp2-10-1-compression-artifacts.pdf
     - http://kakadusoftware.com/wp-content/uploads/2014/06/Usage_Examples.txt
@@ -215,8 +181,6 @@ Distributed Web Archives
 - Islands in the UK Domain
 - <http://www.openplanetsfoundation.org/blogs/2014-03-24-arc-warc-migration-how-deal-de-duplicated-records>
 - [This Is For Everyone - (c) All Rights Reserved](http://gty.im/149366163)
-- Integrating International Archives
-    - DHT+Range Queries, [e.g. ExampleDST.java](https://github.com/tomp2p/TomP2P/blob/master/examples/src/main/java/net/tomp2p/examples/ExampleDST.java)?
  - On The Naming Of Things
  - On Preserving Conversations
    - Blog on HTTP v. HTML
