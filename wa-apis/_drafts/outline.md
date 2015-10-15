@@ -1,5 +1,5 @@
 ---
-title: Web Archiving APIs
+title: Web Archiving APIs Outline
 author: anj
 layout: post
 shown: true
@@ -26,21 +26,9 @@ This is not necessarily a bad idea, and it certainly would have been simple to i
 
 But WCT makes that kind of thing really hard.
 
-If you look at the overall workflow, the Web Curator Tool enforces what is essentially, despite the odd loop or dead-end, a linear workflow (figure taken from [here](http://webcurator.sourceforge.net/docs/1.6.1/Web%20Curator%20Tool%20Quick%20Start%20Guide%20%28WCT%201.6%29.pdf).
+[![WCT Overall Workflow]({{ site.baseurl }}/wa-apis/images/WCT-workflow.png)]({{ site.baseurl }}/wa-apis/images/WCT-workflow.svg)
 
-See BIG DIAGRAM:
-
-1. Define Target
-2. Get permission to harvest and make available
-3. Create descriptive metadata
-4. Create/modify crawl configuration
-5. Crawl Target
-6. QA Crawled Target Instance
-7. If quality is poor, delete, GOTO 4
-8. Submit to preservation store
-9. Make available
-
-First you define your Target and it's metadata, then you crawl it (and maybe re-crawl it for QA), then you store it, then you make it available. In that order.
+If you look at the overall workflow, the Web Curator Tool enforces what is essentially, despite the odd loop or dead-end, a linear workflow (figure taken from [here](http://webcurator.sourceforge.net/docs/1.6.1/Web%20Curator%20Tool%20Quick%20Start%20Guide%20%28WCT%201.6%29.pdf)). First you define your Target and it's metadata, then you crawl it (and maybe re-crawl it for QA), then you store it, then you make it available. In that order.
 
 But what if we've already crawled it? Or collected it some other way? What if we want to add metadata to existing Targets? What if we want to store something but not make it available. What if we want to make domain crawl material available via Wayback even if we haven't QA'd it?
 
@@ -52,9 +40,9 @@ So, I made the decision to make a fresh start. Instead of the Web Curator Tool, 
 Driving Crawls Via Annotations
 ==============================
 
-The heart of the idea was simple. Instead of starting with the metadata, we start with the live web. Each 'Target' in WCT is really very similar to a 'bookmark' in an social bookmarking service like [Pinboard](https://pinboard.in/), [Diigo](https://www.diigo.com/) or [Delicious](https://delicious.com/), except that as well as describing the web site, it should also drive the archiving of that site[^1].
+The heart of the idea was simple. Instead of starting with the metadata, we start with the live web. Each 'Target' in WCT is really very similar to a 'bookmark' in an social bookmarking service (like [Pinboard](https://pinboard.in/), [Diigo](https://www.diigo.com/) or [Delicious](https://delicious.com/)), except that as well as describing the web site, it should also drive the archiving of that site[^1].
 
-Once we have instances of those URLs and sites of interest, we can then apply the same annotation model to the material we have crawled. In particular, we can combine one or more targets with a selection of annotated instances to form a collection. 
+Once we have instances of those URLs and sites of interest, we can then apply the same annotation model to the material we have crawled. In particular, we can combine one or more targets with a selection of annotated instances to form a collection. These instance annotations could be quite similar to those supported by 'live web annotation' services like [Hypothes.is](https://hypothes.is/), and indeed this may provide a way for web archives to support and interoperate with services like that.
 
 Thinking in terms of annotations also makes is easier to peel processes apart from their results. For example, metadata that indicates whether we have passed those instances through a QA process can be record as annotations on our archived web, but the actual QA process itself can be done entirely outside of the tool.
 
@@ -66,8 +54,21 @@ This was tactic was very successful, and this more modular architecture looked l
 
 [^1]: Note that this is also [a feature of some bookmarking sites](https://pinboard.in/upgrade/).
 
+
 Building W3ACT
 ==============
+
+Despite the success of the prototype ACT system, it was not sustainable. As we added some of the more specific features we required, the system became more difficult to manage and upgrade. Crucially, Drupal and PHP are not supported development platforms for the British Library. However, Java is supported, and most of the rest of our tools use it, so we set ourselves the task of re-implementing the system Java.
+
+For various unfortunate reasons, this turned out to be a long and difficult road. Not least was that the scope needed to grow in order to encompass the other aspects of WCT and SPT that the ACT prototype did not cover, such as the licensing workflow. We still need this in order to seek permission to make crawled content available openly, and so we need a single system that could hold all of that information in one place.
+
+This new tool, called [W3ACT](https://github.com/ukwa/w3act/), will become the core of our curatorial workflow. As well as directing the frequency of our regular crawling activities, it has also grown to encompass document harvesting functionality. This allows our users to catalogue individual documents from a website, and includes some experimental support for crawling behind paywalls.
+
+But unlike WCT, the crawler is not embedded inside W3ACT. Instead, W3ACT provides an API and a number of 'crawl feeds' that list which websites should be crawled at which frequencies. So the next step is to use these to tell the crawler what to do.
+
+
+Driving the Crawls
+==================
 
 https://github.com/ukwa/python-w3act
 
@@ -83,6 +84,14 @@ Experimenting With Paywalls
 
 Then also, multiple sources, manual and various crawlers. Next step, proxification.
 
+Current Architecture & Issues
+=============================
+
+Diagram showing all the above bits, and outlining basic problems.
+
+Brittleness, state management, space management.
+
+
 
 Towards a Web Archiving Platform
 ================================
@@ -94,15 +103,67 @@ Platforms (from https://plus.google.com/+RipRowan/posts/eVeouesvaVX)
 - Demand for monitoring, which ends up being automated QA.
 
 
-
 Web Archiving APIs
-==================
+------------------
 
 
 - http://blog.dshr.org/2015/06/brief-talk-at-columbia.html
 - http://kris-sigur.blogspot.co.uk/2015/06/even-though-it-didnt-feature-heavily-on.html
+- CDX Service
+    - OpenSearch API a.k.a. [RemoteResourceIndex](http://iipc.github.io/openwayback/2.2.0/apidocs/org/archive/wayback/resourceindex/RemoteResourceIndex.html)
+    - CDX Server API, for [pywb](https://github.com/ikreymer/pywb/wiki/CDX-Server-API) and [OpenWayback](https://github.com/iipc/openwayback/blob/master/wayback-cdx-server-webapp/README.md)
+    - [tinycdxserver](https://github.com/nla/tinycdxserver)
 
-Importance of monitoring-QA continuum.
+Evolving our architecture
+=========================
+
+- CDX server
+- More robust queuing/execution
+- Better storage management.
+- Importance of monitoring and monitoring-QA continuum.
+
+But butts up against crawler problems.
+
+Heritrix Problems
+=================
+
+H3 requirements document.
+
+- Cookie Monster bug.
+- Massive opaque state folder, possible memory leak turn into 60TB of disk space on a 36TB WARC.GZ crawl.
+- Inconsistent behaviour on shutdown - sometimes stops cleanly, usually hangs mysteriously.
+- BDB strange corruption (out of file handles cause but problem is impossibility of recovery.
+
+Trade some flexibility for simplicity.
+Trade some cleverness with brute force. 
+Threads/CPUs/RAM/SSD all fairly cheap now.
+
+Major components
+
+- Seed injection
+- Scoping of URLs
+- Filtering of URLs (already-seen, quotas etc.)
+- URL Queues (usually per host)
+- Crawl delay/politeness
+- Fetching
+- Parsing
+- Link extraction
+- WARC writing
+- Reporting
+- Statistics
+
+- Thread management
+- Parallelism/Scaling out (HashCrawlMapper)
+- Application lifecycle definition and management.
+- Checkpointing (we only need stable restarting, not restarting from three weeks ago)
+
+- Stateful bits
+    - The frontier (includes 'already seen' URI filter, queues, and implements crawl delay)
+    - The server cache (includes DNS lookups, whois, robots.txt(?))
+    - Cookie store.
+    - The persist log (history of URLs seen, used for deduplication)
+    - Statistics tracking
+
 
 Experimenting With New Architectures
 ====================================
@@ -111,12 +172,31 @@ Storm as framework for exploration.
 
 Renderer as candidate for understanding how this works due to scaling issue plus modularity.
 
+i.e. not just modularising the infrastructure around the crawler, but also the crawler itself.
+
 Sketching A Scalable & Modular Crawler
 ======================================
 
 The gnarly chunks of H3.
 
+Frontier (uniq, queues, delay)
+State and deduplication
+Writing
+
+Complexity/power of Springy Everything.
+
+DecideRules
+
+Choices of queues - is this really that big a deal?
+
 Storm, RabbitMQ, proxies, etc.
+
+Monitoring, see
+
+- <https://www.endgame.com/blog/storm-metrics-how>
+- <https://github.com/DigitalPebble/storm-crawler/tree/master/external/elasticsearch>
+- <https://github.com/DigitalPebble/storm-crawler/blob/973e6ed0745bc35555a16651ac88876ee0c93aaf/external/elasticsearch/src/main/java/com/digitalpebble/storm/crawler/elasticsearch/metrics/MetricsConsumer.java>
+- <https://github.com/DigitalPebble/storm-crawler/blob/8c4a1885ad134c46e81c454f016ea024c47cb18b/external/ES_IndexInit.sh>
 
 The Bigger Picture
 ==================
