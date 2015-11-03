@@ -62,13 +62,17 @@ This was tactic was very successful, and this more modular architecture looked l
 Building W3ACT
 ==============
 
-Despite the success of the prototype ACT system, it was not sustainable. As we added some of the more specific features we required, the system became more difficult to manage and upgrade. Crucially, neither Drupal nor PHP are supported development platforms for the British Library. However, most of our other web archiving tools are written in Java, which is supported, and so we set ourselves the task of re-implementing the system in Java.
+Despite the success of the prototype ACT system, it was not sustainable. As we added some of the more specific features we required, the system became more difficult to manage and upgrade. Crucially, neither Drupal nor PHP are supported development platforms for the British Library. Most of our other web archiving tools are written in Java, which is supported officially, and so we set ourselves the task of re-implementing the system in Java.
 
-For various unfortunate reasons, this turned out to be a long and difficult journey. Not least was that the scope needed to grow in order to encompass the other aspects of WCT and SPT that the ACT prototype did not cover, such as the licensing workflow. We still need this in order to seek permission to make crawled content available openly, and so we need a single system that could hold all of that information in one place.
+For various unfortunate reasons, this turned out to be a long and difficult journey. Not least was that the scope needed to grow in order to encompass the other aspects of WCT and SPT that the ACT prototype did not cover, such as the licensing workflow. Although Legal Deposit permits broad crawling, we still need to seek additional permissions to make crawled content available openly, and so we need a single system that could hold all of that information in one place.
 
-This new tool, called [W3ACT](https://github.com/ukwa/w3act/), will become the core of our curatorial workflow. As well as directing the frequency of our regular crawling activities, it has also grown to encompass document harvesting functionality. This allows our users to catalogue individual documents from a website, and includes some experimental support for crawling behind paywalls.
+This new tool, called [W3ACT](https://github.com/ukwa/w3act/), has become the core of our curatorial workflow. 
 
 But unlike WCT, the crawler is not embedded inside W3ACT. Instead, W3ACT provides an API and a number of 'crawl feeds' that list which websites should be crawled at which frequencies. So the next step is to use these to tell the crawler what to do.
+
+
+As well as directing the frequency of our regular crawling activities, it has also grown to encompass document harvesting functionality. This allows our users to catalogue individual documents from a website, and includes some experimental support for crawling behind paywalls.
+
 
 
 Driving the Crawls
