@@ -33,9 +33,9 @@ If you look at the overall architecture, the Web Curator Tool enforces what is e
 
 But what if we've already crawled it? Or collected it some other way? What if we want to add metadata to existing Targets? What if we want to store something but not make it available. What if we want to make domain crawl material available via Wayback even if we haven't QA'd it?
 
-Looking at WCT, the components we needed were there, but tightly integrated in one monolithic application that embodied the expected workflow. I simply could not see how to take it apart and rebuild it in a way that would make sense and enable us to do what we needed.
+Looking at WCT, the components we needed were there, but tightly integrated in one monolithic application that embodied the expected workflow. I simply could not see how to take it apart and rebuild it in a way that would make sense and enable us to do what we needed. Furthermore, we had already built up a rather complex arrangement of additional components around WCT, such as the additional 'Selection and Permission Tool' (SPT) used to manage the licensing process. It therefore made some sense to revisit our architecture as a whole.
 
-So, I made the decision to make a fresh start. Instead of the Web Curator Tool, we would develop a new, more modular archiving architecture built around the concept of annotations.
+So, I made the decision to make a fresh start. Instead of the WCT and SPT, we would develop a new, more modular archiving architecture built around the concept of annotations.
 
 
 Driving Crawls Via Annotations
@@ -62,17 +62,23 @@ This was tactic was very successful, and this more modular architecture looked l
 Building W3ACT
 ==============
 
-Despite the success of the prototype ACT system, it was not sustainable. As we added some of the more specific features we required, the system became more difficult to manage and upgrade. Crucially, neither Drupal nor PHP are supported development platforms for the British Library. Most of our other web archiving tools are written in Java, which is supported officially, and so we set ourselves the task of re-implementing the system in Java.
+Despite the success of the prototype ACT system, it was not sustainable in it's original form. As we added some of the more specific features we required, the system became more difficult to manage and upgrade. Crucially, neither Drupal nor PHP are supported development platforms for the British Library. Most of our other web archiving tools are written in Java, which is supported officially, and so we set ourselves the task of re-implementing the system in Java.
 
-For various unfortunate reasons, this turned out to be a long and difficult journey. Not least was that the scope needed to grow in order to encompass the other aspects of WCT and SPT that the ACT prototype did not cover, such as the licensing workflow. Although Legal Deposit permits broad crawling, we still need to seek additional permissions to make crawled content available openly, and so we need a single system that could hold all of that information in one place.
+For various unfortunate reasons, this turned out to be a long and difficult journey. In part, this was because the scope needed to grow in order to encompass the other aspects of the Web Curator Tool (WCT) and Selection and Permission Tool (SPT) that the ACT prototype did not cover, such as the licensing workflow. Although Legal Deposit permits broad crawling, we still need to seek additional permissions to make crawled content available openly, and so we need a single system that could hold all of that information in one place.
 
-This new tool, called [W3ACT](https://github.com/ukwa/w3act/), has become the core of our curatorial workflow. 
+This new tool, called [W3ACT](https://github.com/ukwa/w3act/), has become the core of our curatorial workflow. Like the earlier prototype, but unlike WCT, the crawler is not embedded inside W3ACT, but simply provides the basic parameters of the crawl as a data feed that is used to run crawls.
 
-But unlike WCT, the crawler is not embedded inside W3ACT. Instead, W3ACT provides an API and a number of 'crawl feeds' that list which websites should be crawled at which frequencies. So the next step is to use these to tell the crawler what to do.
+[img]
 
+Crawl results from QA Wayback, requirement to extend to post-crawl stats.
 
-As well as directing the frequency of our regular crawling activities, it has also grown to encompass document harvesting functionality. This allows our users to catalogue individual documents from a website, and includes some experimental support for crawling behind paywalls.
+As well as directing the frequency of our regular crawling activities, W3ACT has also grown to encompass document harvesting functionality. This allows our users to catalogue individual documents from a website, and includes some experimental support for crawling behind paywalls.
 
+basic intro to how this works
+
+[img]
+
+http://webcurator.cvs.sourceforge.net/viewvc/webcurator/WCTHarvestAgent/src/org/webcurator/core/harvester/agent/HarvestAgentSOAPService.java?view=markup
 
 
 Driving the Crawls
@@ -80,6 +86,7 @@ Driving the Crawls
 
 https://github.com/ukwa/python-w3act
 
+Profiles as the hack/gap.
 
 Improving Crawl Quality
 =======================
