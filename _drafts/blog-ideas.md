@@ -4,6 +4,34 @@ author: anj
 layout: post
 ---
 
+----
+
+About legacy of Shannont and Turing and the active living theory of digital preservation that underpins everything we do.
+
+The bits 
+in the chips
+beneath your fingertips
+don't want to persist
+they want to flip
+to melt
+to dissapate
+succum to the heat
+the entropy
+and be lost as noise and head
+
+But the chips hold the line
+
+Each fine strand of silicon 
+etch by light
+each cell and grain and pit
+designed by a human mind
+to hold back the heat and the darkness
+and keep the signal clear and bright
+
+every microsecond of the bit streams life
+
+
+----
 
 The Obsolete
 - WAP and other early moble era shims

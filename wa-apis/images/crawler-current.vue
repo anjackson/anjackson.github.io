@@ -1,14 +1,14 @@
-<!-- Tufts VUE 3.3.0 concept-map (crawler-current.vue) 2015-10-16 -->
+<!-- Tufts VUE 3.3.0 concept-map (crawler-current.vue) 2015-11-06 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/Applications/VUE.localized/VUE.app/Contents/Resources/Java/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Fri Oct 16 15:35:22 BST 2015 by andy on platform Mac OS X 10.10.5 in JVM 1.8.0_20-b26 -->
+<!-- Do Not Remove: Saved date Fri Nov 06 23:27:53 GMT 2015 by andy on platform Mac OS X 10.10.5 in JVM 1.8.0_20-b26 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built October 8 2015 at 1658 by tomadm on Linux 2.6.32-504.23.4.el6.x86_64 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0"
     label="crawler-current.vue" created="1385670647552" x="0.0" y="0.0"
-    width="768.25" height="399.9375" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1445006122547" size="34934"
+    width="1003.75" height="530.5" strokeWidth="0.0" autoSized="false">
+    <resource referenceCreated="1446852473986" size="34960"
         spec="/Users/andy/Documents/workspace/anjackson.github.io/wa-apis/images/crawler-current.vue"
         type="1" xsi:type="URLResource">
         <title>crawler-current.vue</title>
