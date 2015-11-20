@@ -5,7 +5,7 @@ category: Digital Preservation
 tags: ["Keeping Codes", "Web Archiving", "BUDDAH"]
 layout: post
 author: anj
-shown: false
+shown: true
 ---
 
 Originally published [on the UK Web Archive blog](http://britishlibrary.typepad.co.uk/webarchive/2015/11/the-provenance-of-web-archives.html) on the 20th November 2015.
