@@ -8,6 +8,8 @@ author: anj
 shown: false
 ---
 
+Originally published [on the UK Web Archive blog](http://britishlibrary.typepad.co.uk/webarchive/2015/11/the-provenance-of-web-archives.html) on the 20th November 2015.
+
 Over the last few years, it's been wonderful to see more and more researchers taking an interest in web archives. Perhaps we are even teetering into the mainstream when a publication like Forbes carries an article digging into the gory details of how we should document our crawls in [How Much Of The Internet Does The Wayback Machine Really Archive?](http://www.forbes.com/sites/kalevleetaru/2015/11/16/how-much-of-the-internet-does-the-wayback-machine-really-archive/)
 
 Even before the data-mining [BUDDAH project](http://buddah.projects.history.ac.uk/) raised these issues, we'd spent a long time thinking about this, and we've tried to our best to capture as much of our own crawl context as we can. We don't just store the WARC request and response records (which themselves are much better at storing crawl context than the older ARC format), we also store:
