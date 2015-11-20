@@ -378,13 +378,16 @@ a:focus {
 	margin-left: 15px;
 }
 
-#blue .subtitle, #blue .parent-link {
-	color: white;
+#blue h4.subtitle {
+  margin-left: 20px;
+  opacity: 0.85;
+  font-style: italic;
+  font-size: 1em;
+  line-height: 1em;
 }
 
-#blue .subtitle {
-	opacity: 0.9;
-	font-style: italic;
+#blue .subtitle, #blue .parent-link {
+	color: white;
 }
 
 #blue .parent-link a {
