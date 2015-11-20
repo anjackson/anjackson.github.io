@@ -10,7 +10,7 @@ shown: true
 
 Originally published [on the UK Web Archive blog](http://britishlibrary.typepad.co.uk/webarchive/2015/11/the-provenance-of-web-archives.html) on the 20th November 2015.
 
-Over the last few years, it's been wonderful to see more and more researchers taking an interest in web archives. Perhaps we are even teetering into the mainstream when a publication like Forbes carries an article digging into the gory details of how we should document our crawls in [How Much Of The Internet Does The Wayback Machine Really Archive?](http://www.forbes.com/sites/kalevleetaru/2015/11/16/how-much-of-the-internet-does-the-wayback-machine-really-archive/)
+Over the last few years, it's been wonderful to see more and more researchers taking an interest in web archives. Perhaps we're even teetering into the mainstream when a publication like Forbes carries an article digging into the gory details of how we should document our crawls in [How Much Of The Internet Does The Wayback Machine Really Archive?](http://www.forbes.com/sites/kalevleetaru/2015/11/16/how-much-of-the-internet-does-the-wayback-machine-really-archive/)
 
 Even before the data-mining [BUDDAH project](http://buddah.projects.history.ac.uk/) raised these issues, we'd spent a long time thinking about this, and we've tried to our best to capture as much of our own crawl context as we can. We don't just store the WARC request and response records (which themselves are much better at storing crawl context than the older ARC format), we also store:
 
@@ -30,7 +30,7 @@ For example, the Forbes article brings up the fact that crawl schedules vary, an
 
 [!["Global Financial Crisis"]({{ site.baseurl }}/blog/images/shine-global-financial-crisis.png)](https://www.webarchive.org.uk/shine/graph?query=%22Global+Financial+Crisis%22&year_start=1996&year_end=2013&action=update)
 
-Similarly, notice that Shine show you the percentage of matching resources by year, rather than the absolute number of matching documents.  This is because showing the *fraction* of the crawled web that matches your query is generally more useful than just the number of matching resources because in the latter case the crawl scheduling tends to obscure what's going on (again, it would be even better to be able to switch between the two so you can better understand what any given trend means, although if you download the data for the graph you get the absolute figures as well as the relative ones). 
+Similarly, notice that Shine show you the *percentage* of matching resources by year, rather than the absolute number of matching documents.  This is because showing the fraction of the crawled web that matches your query is generally more useful than just the number of matching resources because in the latter case the crawl scheduling tends to obscure what's going on (again, it would be even better to be able to switch between the two so you can better understand what any given trend means, although if you download the data for the graph you get the absolute figures as well as the relative ones). 
 
 More useful still would be the ability to pick any other arbitrary query to be the normalization baseline, so you could plot matching words against total number of words per year, or matching links per total number of links, and so on. The crucial point is that if your trend is genuine, you can use sampling and normalization techniques to test that, and to [find or rule out particular kinds of biases](https://acerbialberto.wordpress.com/2013/04/14/normalisation-biases-in-google-ngram/) within the data set.
 
@@ -44,7 +44,7 @@ So, while I hope it is clear that I agree with the main thrust of the article, I
 >
 > <small>Kalev Leetaru, [How Much Of The Internet Does The Wayback Machine Really Archive?](http://www.forbes.com/sites/kalevleetaru/2015/11/16/how-much-of-the-internet-does-the-wayback-machine-really-archive/)</small>
 
-The implication that we should not enable access to our collections until we have *deduced it's every bias* is not at all constructive (and if it inhibits other organisations from making their data available, potentially quite damaging).
+The implication that we should not enable access to our collections *until we have deduced their every bias* is not at all constructive (and if it inhibits other organisations from making their data available, potentially quite damaging).
 
 No corpus, digital or [otherwise](http://www.wired.com/2015/10/pitfalls-of-studying-language-with-google-ngram/), is perfect. Every [archival sliver](http://inkdroid.org/2013/11/26/the-web-as-a-preservation-medium/) can only come to be understood through use, and we must open up to and engage with researchers in order to discover what provenance we need and how our crawls and curation can be improved.
 
