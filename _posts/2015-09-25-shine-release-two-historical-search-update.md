@@ -1,6 +1,6 @@
 ---
 title: Updating our historical search service
-subtitle: 3.5 billion fragments of UK web history, from 1996 to 2013.
+subtitle: 3.5 billion fragments of UK web history.
 category: Digital Preservation
 tags: ["Keeping Codes", "Web Archiving", "BUDDAH"]
 layout: post
