@@ -96,6 +96,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
+  enable_coderay: false
   use_coderay: false
 
   coderay:
@@ -110,4 +111,5 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 gems:
   - jekyll-redirect-from
+  - jekyll-paginate
 
