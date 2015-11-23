@@ -13,7 +13,7 @@ As published [on the UK Web Archive blog](http://britishlibrary.typepad.co.uk/we
 
 I gave the following presentation at the [2015 IIPC GA](http://www.netpreserve.org/general-assembly/ga2015-schedule). If you prefer, you can read the rough script with slides (below the fold) rather than watch the video.
 
-<div class="embed-responsive embed-responsive-16by9">
+<div class="embed-responsive embed-responsive-16by9 text-center">
 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/AwWv96Jl_cY" frameborder="0" start="1803" allowfullscreen></iframe>
 </div>
 
