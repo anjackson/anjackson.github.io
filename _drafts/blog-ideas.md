@@ -4,8 +4,6 @@ author: anj
 layout: post
 ---
 
-----
-
 About legacy of Shannont and Turing and the active living theory of digital preservation that underpins everything we do.
 
 The bits 
