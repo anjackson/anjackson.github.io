@@ -17,7 +17,7 @@ parent_link: /work/
 	 		<div class="col-xs-12 col-sm-4 col-md-4">
 	 		
 		 		{% assign catposts = site.categories[page.category] %}
-   		 		{% include _recent_posts_block.html posts=catposts max=1000 %}
+   		 		{% include _recent_posts_block.html posts=catposts all=true %}
 
 			</div>
 
