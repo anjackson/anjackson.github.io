@@ -15,7 +15,7 @@ redirect_from:
 permalink: "/work/websites/"
 tags: []
 projects: websites
-category: websites
+category: Websites
 ---
 
 Over the years, I've been involved in the development of a number of data-driven web sites and services.

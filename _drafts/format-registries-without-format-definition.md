@@ -1,8 +1,9 @@
 ---
 title: Do Format Registries Require Consensus On What A Format Is?
-category: Practice
+category: Digital Preservation
 tags: ["Format Registries"]
 status: stub
+layout: post
 ---
 
 > "Is it problematic for a 'format' registry to not be able to agree on a definition of 'format'?"

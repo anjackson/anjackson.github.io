@@ -3,7 +3,7 @@ layout: project
 type: project
 permalink: "/projects/aadda/"
 category: Data Mining
-tags: [data-mining]
+tags: [data-mining,digital-preservation]
 fa-icon: fa-code-fork
 background: /projects/images/aadda.png
 screenshot: /projects/images/aadda.png

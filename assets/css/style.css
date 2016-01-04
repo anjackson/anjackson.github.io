@@ -514,6 +514,8 @@ article img {
 
 article .category-icon {
 	float: right;
+    font-size: 48px;
+    /*color: #384452;*/
     -webkit-box-shadow: none;
     -moz-box-shadow:    none;
     box-shadow:         none;
@@ -525,8 +527,14 @@ article .google-chart {
 }
 
 .popular-posts .category-icon {
-	max-width: 48px;
-	padding-bottom: 20px;
+    padding-bottom: 30px;
+    float: left;
+    margin-right: 10px;
+    font-size: 24px;
+    /*color: #00B3FE;*/
+    color: #337AB7;
+    /*color: #384452;*/
+    padding-top: 3px;
 }
 
 .img-thumbnail {

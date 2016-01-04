@@ -5,8 +5,14 @@
 {% endif %}
 {% for cat in site.cats %}
 {% if cat.name == curcat %}
-<a href="{{ site.baseurl }}/blog/categories/#{{ cat.name | downcase | replace: ' ','' }}" title="{{ cat.name }}">
-<img src="/assets/category_pictures/{{ cat.picture }}" alt="{{ cat.name }}" class="category-icon"/>
+{% if cat.page %}
+<a href="{{ site.baseurl }}{{ cat.page }}" title="{{ cat.name }}">
+<i class="fa {{ cat.icon }} category-icon"></i>
 </a>
+{% else %}
+<a href="{{ site.baseurl }}/blog/categories/#{{ cat.name | downcase | replace: ' ','' }}" title="{{ cat.name }}">
+<i class="fa {{ cat.icon }} category-icon"></i>
+</a>
+{% endif %}
 {% endif %}
 {% endfor %}

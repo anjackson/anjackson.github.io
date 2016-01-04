@@ -1,8 +1,13 @@
+{% if include.max %}
+ {% assign max=include.max %}
+{% else %}
+ {% assign max=8 %}
+{% endif %}
 <h4>Recent Posts</h4>
 <div class="hline"></div>
 {% if (include.posts | size) > 0 %}
 <ul class="popular-posts">
-  {% for post in include.posts limit:8 %}
+  {% for post in include.posts limit:max %}
   {% if post.shown != false %}
     <li>
       {% include _cat_icon.html cat=post.category %}
@@ -11,7 +16,7 @@
     </li>
   {% endif %}
   {% endfor %}
-  {% if (include.posts | size) > 8 %}
+  {% if include.posts.size > max %}
   <li class="more"><a href="{{ site.url }}/blog/" title="More" class="btn btn-theme">More</a></li>
   {% endif %}
 </ul>

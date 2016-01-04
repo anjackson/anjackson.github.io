@@ -3,7 +3,7 @@ layout: project
 type: project
 permalink: "/projects/webarchive-discovery/"
 category: Development
-tags: [development]
+tags: [development,digital-preservation]
 fa-icon: fa-code-fork
 screenshot: /projects/images/webarchive-indexer-both.png
 title: webarchive-discovery

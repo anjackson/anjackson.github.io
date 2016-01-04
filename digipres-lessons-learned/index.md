@@ -53,6 +53,9 @@ publish: false
 - The AIP Is Never Finished
 - OAIS Is Not Enough (models a preserving organisation not preservation itself)
     - OAIS Is Still Not Enough (pre-ingest/inner ring - models a repository or an organisation?)
+- Pre-Ingest Does Not Exist
+    - Issue with OAIS: SIP AIP DIP are names based on context, and OAIS is a bit fuzzing about the context
+    - Flexible, the Archive might be part of an organisation, or the whole organisation.
 - Provenance does not guarantee trust
 - Digital Preservation Is Not A Science
     - Like the use of the work Tool, the use of the work Theory is confusing.

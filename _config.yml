@@ -56,26 +56,51 @@ subsites:
 cats:
   - name: "Data Mining"
     picture: digitalpreservation-h48.png
+    icon: fa-area-chart
+    page: /work/data-mining/
   - name: "Digital Preservation"
     picture: digitalpreservation-h48.png
+    icon: fa-archive
+    page: /work/digital-preservation/
+  - name: Development
+    picture: geek-arrow-48x48.png
+    icon: fa-code-fork
+    page: /work/development/
   - name: Geek
     picture: geek-arrow-48x48.png
+    icon: fa-mouse-pointer
   - name: General
     picture: aj-logo-48x48.png
+    icon: fa-share-alt
   - name: Procrastination
     picture: smile-48x48.png
+    icon: fa-spinner
   - name: Rants
     picture: thrp-48x48.png
+    icon: fa-warning
   - name: Reviews
     picture: megaphone-48x48.png
+    icon: fa-star-half-o
   - name: Science
     picture: science-48x48.png
+    icon: fa-flask
+    page: /work/physics/
   - name: "Top Links"
     picture: tango-interworld-48x48.png
+    icon: fa-link
   - name: "Top Tips"
     picture: clock-48x48.png
+    icon: fa-thumbs-up
   - name: Travels
     picture: suitecase-48x48.png
+    icon: fa-suitcase
+  - name: Publications
+    icon: fa-file-text-o
+    page: /work/publications/
+  - name: Websites
+    icon: fa-code
+    page: /work/websites/
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London
@@ -97,7 +122,7 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   enable_coderay: false
-  use_coderay: false
+#  use_coderay: false
 
   coderay:
     coderay_line_numbers:
@@ -107,7 +132,12 @@ kramdown:
     coderay_css: class
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "_scripts", "minimal-mistakes-master", "so-simple-theme-master", "solid-theme"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "_scripts", "minimal-mistakes-master", "so-simple-theme-master", "solid-theme", "theme-setup.md"]
+
+collections:
+  digipres_lessons_learned:
+    output: true
+    permalink: /digipres-lessons-learned/:path/
 
 gems:
   - jekyll-redirect-from

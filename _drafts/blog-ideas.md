@@ -4,7 +4,18 @@ author: anj
 layout: post
 ---
 
-About legacy of Shannont and Turing and the active living theory of digital preservation that underpins everything we do.
+Crawler Description
+Seeds
+Scope
+CANDIDATE CHAIN - scoping and quotas
+FETCH CHAIN - includes extractors
+DISPOSITION CHAIN - includes deduplication, updates frontier with found links etc
+Sheets - e.g. allowing configuration to be tweaked for certain hosts.
+Various lifecycle, checkpointing, logging, reporting, stats, monitors, etc.
+
+
+
+About legacy of Shannon and Turing and the active living theory of digital preservation that underpins everything we do.
 
 The bits 
 in the chips

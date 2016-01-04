@@ -14,6 +14,7 @@ redirect_from:
 - "/node/1887/"
 permalink: "/2011/01/13/building_collaborative_format_registry_editor/"
 category: Digital Preservation
+categories: [Digital Preservation, Websites]
 tags:
 - Format Registry
 ---

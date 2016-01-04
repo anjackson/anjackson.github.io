@@ -14,6 +14,7 @@ redirect_from:
 - "/node/3/"
 permalink: "/2004/03/19/getting_there/"
 tags: []
+category: Websites
 ---
 Well, this [Drupal] thing looks like it might just do the trick.  Currently trying to move my preferred web page style over to it - looking good so far but some tweaking required yet.
 

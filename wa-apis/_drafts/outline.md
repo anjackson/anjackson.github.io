@@ -137,7 +137,90 @@ Evolving our architecture
 - Better storage management.
 - Importance of monitoring and monitoring-QA continuum.
 
-But butts up against crawler problems.
+- Replace UniqUriFilter with something forgetful - allow different crawl frequencies.
+- Move WARC writing out to the proxies (requires moving the virus scanning).
+- Move webrender upstream - done *before* H3 and only passing on discovered URLs.
+
+For frequent crawls
+- Cron queues in AMQP, tagged with source, watched-ness, possibly a crawlId like 'daily'.
+- OPTIONAL - Queue is consumed for webrending, and result 'new' URLs passed on to another queue
+- H3 listens to the incoming queue, and processes them as usual.
+- Recently Seen URI filter is used to 'forget' what's been seen after a while.
+
+UNK
+
+- How to watch a file for new surts? Does H3 watch any files for changes?
+    - It doesn't but OWB does: org.archive.wayback.accesscontrol.staticmap.StaticMapExclusionFilterFactory
+- EmbeddedCDXServerIndex is the glue from Wayback to CDXServer.
+- Python watchdog module to watch for new checkpoints? 
+    - Or just lift from org.archive.wayback.resourceindex.WatchedCDXSource to make a Spout?
+- Plan to domain crawl with candidates.seedsRedirectNewSeeds?
+- Why does my crawl keep snoozing for 5 mins? Snooze on error overly sensitive to not-really-errors?
+
+- Persisting Ehcache?
+   - Man, I have to run the GC to get it to shut down. (i.e. close was not called)
+   - So, need to add the Lifecycle hooks to get it to work robustly.
+   - Probably better to not bother. Keep it simple in this implementation, and use a CDX or DB driven version. instead. Maybe tinycdxserver put in underneath.
+- Check checkpointIntervalMinutes plus forgetAllButLatest does what we need.
+   - Nope, as forgetAllButLatest also merges e.g. previous crawl.log into a complete checkpoint
+   - So solution is to remove old checkpoints ourselves.
+   - Without 'forgetAllButLatest', we get a new crawl.log.cp00000-000000000 file for every checkpoint, and the WARCs are also synchronized with this.
+   - Currently, we need to look at the entries and work out which WARCs were involved.
+   - May be possible to get the logger to output the WARC filename instead.
+
+
+QUEUE SEQUENCE
+
+- FC-010-uris-to-render (optional)
+- FC-020-uris-to-crawl
+- FC-030-uris-to-index
+- FC-040-document-to-catalogue
+- FC-050-sips-to-generate
+- FC-060-sips-to-submit
+
+TODO
+
+- Misc crawler changes:
+    - Ensure Docker crawls split state by crawl job name.
+    - Auto checkpoint, keeping only the last X checkpoints.
+    - Pass the crawl feed over to AMQP for CDX updating.
+    - If making new URLs 'forceFetched' is not good enough, switch to the RecenlySeen forgetful filter.
+- RecentlySeenUniqUriFilter needs:
+    - To persist to disk, and be resumable.
+    - To pick up SURT-prefixes-to-TTL mapping file (and notice when it changes).
+    - Optional 'opposite of a bloom filter' update mechanism to keep size down.
+- WatchTargetDocumentExtractor (NEW)
+    - Inspect newly crawled content.
+    - Spot documents and their source.
+    - Send any new documents to a discovered-documents queue.
+- HAR/webrender
+    - Needs to be properly scalable
+    - Needs to run behind warcprox so we can keep the results
+    - Needs to pass on the 'inheritable' CrawlURI metadata (if deployed mid-stream).
+- tinycdxserver
+    - Deploy tinycdxserver
+    - But probably only for frequently-crawled stuff?
+- python-w3act daemons
+    - Needs to emit messages as needed rather than wait for the hour.
+    - Needs up update the SURT-to-cache-forget-time lookup file.
+    - Needs to update the licensed-SURT white-list file.
+    - Can do less in each script, as some post-processing is not needed.
+    - For documents, a separate daemon needs to watch for new documents and post them to W3ACT.
+    - For SIPs, a separate daemon needs to watch for new checkpoints and bundle them for DLS.
+    - For the CrawlFeed, a separate daemon that watches for new content and posts to tinycdxserver.
+    - (Need to subclass AMQPCrawlLogFeed to add MessageProperties.PERSISTENT_TEXT_PLAIN)
+- OpenWayback
+    - Pointing to minimal # CDX indexes
+    - With a cope of the filename-to-DLS_ARK_URL mapping close to hand.
+    - With a list of licensed SURT prefixes.
+    - Aware of all three potential storage locations (crawler disk, HDFS, DLS).
+    - Annoyingly, to pick up resources from warc.gz.open files this needs to use the shortened name rather than the full filename with the '.open' on the end: https://github.com/internetarchive/wayback/blob/master/wayback-core/src/main/java/org/archive/wayback/resourcestore/resourcefile/ResourceFactory.java#L173-L178 because this needs .gz to spot compression https://github.com/iipc/webarchive-commons/blob/master/src/main/java/org/archive/io/warc/WARCReaderFactory.java#L112
+    - GAH also RemoteResourceIndex does not handle de-duplication because that needs an AnnotatingCaptureFilterGroupFactory(). See https://github.com/iipc/openwayback/blob/a277b1cb11ea6e18c478d491023d97de16bd340c/wayback-core/src/main/java/org/archive/wayback/resourceindex/LocalResourceIndex.java versus https://github.com/iipc/openwayback/blob/18a5c1c10900e41be51b313bd8b7f4e3a59e0e19/wayback-core/src/main/java/org/archive/wayback/resourceindex/RemoteResourceIndex.java - I think it assumes the far-end will sort that out. So, could fix tinycdxserver rather than modify Wayback, but modifying Wayback would be a more complete solution.
+    - org.archive.wayback.webapp.AccessPoint logNotInArchive INFO: NotInArchive
+
+
+
+
 
 Heritrix Problems
 =================
@@ -257,6 +340,27 @@ The Bigger Picture
 ==================
 
 Integration with access etc.
+
+Streaming Sources
+=================
+
+Idea of revisiting Twittervane, but extending to Wikipedia, and siphoning links into the crawler ASAP.
+
+Link ingest scoping issues? All 'I' so all will sneak in? Need 'L' etc. so links can go in and be skipped if they don't match the scope.
+
+### Twitter ###
+
+- https://dev.twitter.com/streaming/overview/request-parameters
+- Not actually possible to build a location box > 1 degree, so 'all UK tweets' probably won't work.
+- Need some terms, then, probably? Or language=en and ignore US links? filter_level?
+- http://stackoverflow.com/questions/3300085/twitter-stream-bounding-box-how-to-cover-london-uk
+
+### Wikipedia ###
+
+- https://wikitech.wikimedia.org/wiki/RCStream
+- https://en.wikipedia.org/w/api.php?format=xml&action=query&prop=revisions&rvprop=content&revids=693815208
+- http://mwparserfromhell.readthedocs.org/en/latest/api/mwparserfromhell.html#mwparserfromhell.wikicode.Wikicode.filter_external_links
+
 
 Distributed Web Archives
 ========================

@@ -13,7 +13,7 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/1611/"
 permalink: "/2006/01/20/hacks_plans/"
-category: Procrastination
+category: Websites
 tags: []
 ---
 <div style="float: right;">
