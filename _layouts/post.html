@@ -10,6 +10,42 @@ parent_link: /blog/
   
   {{ content }}
 
+{% assign first_tag = page.tags | first %}
+{% if first_tag %}
+{% assign tagged_posts = site.tags[first_tag] %}
+{% assign sorted_posts = tagged_posts | sort:"path" %}
+
+{% assign go_next = false %}
+{% for post in sorted_posts %}
+
+{% if go_next %}
+<a class="btn btn-theme pull-right" href="{{ post.url }}">Next in this series: {{ post.title }}</a>
+{% assign go_next = false %}
+{% endif %}
+
+{% if post.url == page.url %}
+{% assign go_next = true %}
+{% endif %}
+
+{% endfor %}
+
+{% assign go_next = false %}
+{% for post in sorted_posts reversed %}
+
+{% if go_next %}
+<a class="btn btn-theme pull-left" href="{{ post.url }}">Previously in this series: {{ post.title }}</a>
+{% assign go_next = false %}
+{% endif %}
+
+{% if post.url == page.url %}
+{% assign go_next = true %}
+{% endif %}
+
+{% endfor %}
+
+<div class="clearfix"></div>
+{% endif %}
+
   {% if page.tags.size > 0 %}
   <hr/>
   {% include _tags.html page=page %}

@@ -5,8 +5,10 @@ category: Digital Preservation
 tags: ["Keeping Codes", "Web Archiving", "BUDDAH"]
 layout: post
 author: anj
-shown: false
+shown: true
 ---
+
+Originally published [on the UK Web Archive blog](http://britishlibrary.typepad.co.uk/webarchive/2016/02/updating-our-historical-search-service.html) on the 15th of February 2016.
 
 Earlier this year, as part of the [Big UK Domain Data for the Arts and Humanities][1] project, we released [our first 'historical search engine' service][2]. We've [publicised it][3] at [IDCC15][4], the [2015 IIPC GA][5] and at the [first RESAW conference][6], and it's been very well received. Not only has it lead to some [excellent case studies][7] that we can use to improve our services, but other web archives have shown interest in re-using [the underlying open source code][8]. In particular, some of our Canadian colleagues have successfully launched [webarchives.ca][9], which lets users search ten years worth of archived websites from Canadian political parties and political interest groups (see [here][10] for more details). 
 

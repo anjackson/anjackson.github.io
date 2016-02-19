@@ -35,4 +35,3 @@ Looking at WCT, the components we needed were there, but tightly integrated in o
 
 So, I made the decision to make a fresh start. Instead of the WCT and SPT, we would develop a new, more modular archiving architecture built around the concept of annotations.
 
-[Next in this series: {{ page.next.title }}]({{ page.next.url }})

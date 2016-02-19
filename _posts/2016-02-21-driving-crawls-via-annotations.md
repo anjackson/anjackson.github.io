@@ -9,8 +9,7 @@ category: Digital Preservation
 tags: ["Web Archive APIs"]
 ---
 
-
-The heart of the idea was simple. Rather than starting with a Target and adding collection metadata, we think in terms of annotating the (live) web. From this perspective, each Target in WCT is really very similar to a bookmark on an social bookmarking service (like [Pinboard](https://pinboard.in/), [Diigo](https://www.diigo.com/) or [Delicious](https://delicious.com/)), except that as well as describing the web site, the annotations also drive the archiving of that site[^1].
+The heart of the idea was simple. Rather than starting with a Target and adding collection metadata, we think in terms of annotating the live web, and how we would use those annotations to drive the web archiving process. From this perspective, each Target in WCT is really very similar to a bookmark on an social bookmarking service (like [Pinboard](https://pinboard.in/), [Diigo](https://www.diigo.com/) or [Delicious](https://delicious.com/)), except that as well as describing the web site, the annotations also drive the archiving of that site[^1].
 
 Some annotations may just highlight a specific site or URL at some point in time, using descriptive metadata, tags and collections to help ensure important resources are captured and made discoverable for our users. Others might more explicitly drive the crawling process, by describing how often the site should be re-crawled, whether robots.txt should be obeyed, and so on. Crucially, where a particular website cannot be ruled as in-scope for UK legal deposit automatically, the annotations can be used to record any additional evidence that permits us to crawl the site. Any permissions we have sought in order to make a archived web site available under open access can also be recorded in much the same way.
 
@@ -26,5 +25,3 @@ This was tactic was very successful, and this more modular architecture looked l
 
 [^1]: Note that this is also [a feature of some bookmarking sites](https://pinboard.in/upgrade/).
 [^2]: I'm not yet sure how this might work, but some combination of the [Open Annotation Specification](http://www.openannotation.org/) and [Memento](http://timetravel.mementoweb.org/about/) might be a good starting point.
-
-[Next in this series: {{ page.next.title }}]({{ page.next.url }})
