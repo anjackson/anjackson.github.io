@@ -5,58 +5,12 @@ author: anj
 layout: post
 shown: true
 sidebar-include: _wapi.md
+category: Digital Preservation
 tags: ["Web Archive APIs"]
 ---
 
-This is a series of posts describing our evolving web archiving framework and tools. In particular, the aim is to document how our crawl architecture has evolved to become more modular, and to explore the idea of using APIs to make these systems more manageable over time.
-
-Tools for Legal Deposit
-=======================
-
-When I joined the [UK Web Archive](http://www.webarchive.org.uk/) team, the preparations for [Non-Print Legal Deposit](http://www.bl.uk/aboutus/legaldeposit/introduction/) were already under way. Before that time, only selected websites were being archived by explicit permission, using the [Web Curator Tool](http://webcurator.sourceforge.net/) (WCT) to manage almost the whole life-cycle of the material. The final playback was via a separate instance of Wayback, but WCT drove the rest of the process.
-
-The problem was that WCT isn't a good match for a domain crawl. In particular, the [old version of Heritrix](https://webarchive.jira.com/wiki/display/Heritrix/Heritrix#Heritrix-Heritrix1.14.4%28May2010%29) embedded inside WCT was not considered very scalable, was not expected to be supported for much longer, and was difficult to re-use because of the way it was baked inside WCT. Even ignoring those issues, the workflow and data model that supports selective archiving just doesn't make much sense when applied to a domain crawl.
-
-The chosen solution was to use [Heritrix 3](https://github.com/internetarchive/heritrix3) to perform the domain crawl separately from the selective harvesting process. While this was rather different to Heritrix 1, requiring incompatible methods of set-up and configuration, it scales very efficiently, allowing us to perform a full domain crawl on a single server.
-
-But as I began to work on the domain crawl project, a number of other issues came up. What about going behind paywalls? What about capturing dynamic dependencies arising from JavaScript or complex CSS? What about integrating pre-HTML5 videos? What about adding in additional (large) content submitted via hard-disk to avoid network costs? What if we have to use some kind of archiving web proxy so that we can drive the capture manually for some of these tricky cases? Surely we will need to capture our web archives through a shifting and growing range of tools and mechanisms, and our management processes need to cope with that?
-
-As things stood, following the onset of the Non-Print Legal Deposit regulations, the domain crawls and the WCT crawls would continue side by side, but would in effect be separate collections. It would be possible to move between them by following links in Wayback, but no more.
-
-This is not necessarily a bad idea, and it may have been simpler to implement, but it seemed to be a terrible shame largely because it made it very difficult to effectively re-use material that had been collected as part of the domain crawl.  For example, what if we found we'd missed an important website that should have been in one of our high-profile collections, but because we didn't know about it, it's only been captured under the domain crawl? Well, we'd want to go and add those old instances to that collection, of course.
-
-But WCT makes that kind of thing really hard.
-
-If you look at the overall architecture, the Web Curator Tool enforces what is essentially (despite the odd loop or dead-end) a linear workflow (figure taken from [here](http://webcurator.sourceforge.net/docs/1.6.1/Web%20Curator%20Tool%20Quick%20Start%20Guide%20%28WCT%201.6%29.pdf)). First you define your Target and it's metadata, then you crawl it (and maybe re-crawl it for QA), then you store it, then you make it available. In that order.
-
-[![WCT Overall Workflow]({{ site.baseurl }}/wa-apis/images/WCT-workflow.png)]({{ site.baseurl }}/wa-apis/images/WCT-workflow.svg)
-
-But what if we've already crawled it? Or collected it some other way? What if we want to add metadata to existing Targets? What if we want to store something but not make it available. What if we want to make domain crawl material available via Wayback even if we haven't QA'd it?
-
-Looking at WCT, the components we needed were there, but tightly integrated in one monolithic application that embodied the expected workflow. I simply could not see how to take it apart and rebuild it in a way that would make sense and enable us to do what we needed. Furthermore, we had already built up a rather complex arrangement of additional components around WCT, such as the additional 'Selection and Permission Tool' (SPT) used to manage the licensing process. It therefore made some sense to revisit our architecture as a whole.
-
-So, I made the decision to make a fresh start. Instead of the WCT and SPT, we would develop a new, more modular archiving architecture built around the concept of annotations.
 
 
-Driving Crawls Via Annotations
-==============================
-
-The heart of the idea was simple. Rather than starting with a Target and adding collection metadata, we think in terms of annotating the (live) web. From this perspective, each Target in WCT is really very similar to a bookmark on an social bookmarking service (like [Pinboard](https://pinboard.in/), [Diigo](https://www.diigo.com/) or [Delicious](https://delicious.com/)), except that as well as describing the web site, the annotations also drive the archiving of that site[^1].
-
-Some annotations may just highlight a specific site or URL at some point in time, using descriptive metadata, tags and collections to help ensure important resources are captured and made discoverable for our users. Others might more explicitly drive the crawling process, by describing how often the site should be re-crawled, whether robots.txt should be obeyed, and so on. Crucially, where a particular website cannot be ruled as in-scope for UK legal deposit automatically, the annotations can be used to record any additional evidence that permits us to crawl the site. Any permissions we have sought in order to make a archived web site available under open access can also be recorded in much the same way.
-
-Once we have crawled and captured instances of those URLs and sites of interest, we can then apply the same annotation model to the archival material itself. In particular, we can combine one or more targets with a selection of annotated instances to form a collection. These instance annotations could be quite similar to those supported by 'live web annotation' services like [Hypothes.is](https://hypothes.is/), and indeed this may provide a way for web archives to support and interoperate with services like that.[^2]
-
-Thinking in terms of annotations also makes is easier to peel processes apart from their results. For example, metadata that indicates whether we have passed those instances through a QA process can be recorded as annotations on our archived web, but the actual QA process itself can be done entirely outside of the tool that records the annotations.
-
-To test out this approach, I built a prototype Annotation & Curation Tool (ACT) based on [Drupal](https://www.drupal.org/). Drupal makes it easy to create web UIs for [custom content types](https://www.drupal.org/node/21947), and as I know Drupal quite well I was able to create an simplistic but acceptable interface very quickly.  This allowed users to register URLs and specify the additional metadata we needed -- most crucially, the crawl permissions, schedules and frequencies. But how do we use the to drive the crawl?
-
-Our solution was to configure Drupal so that it provided a 'crawl feed' in a machine readable format. But rather than attempting to modify Heritrix itself, we use a separate scripted process that requests the latest crawl feeds and restarts the daily/weekly/monthly crawls via the [Heritrix 3 API](https://webarchive.jira.com/wiki/display/Heritrix/Heritrix+3.x+API+Guide).
-
-This was tactic was very successful, and this more modular architecture looked like being much more manageable. The 'prototype' rapidly morphed into the production system, and the emphasis shifted to working out how to make this approach more maintainable, and extending it to make it capable to taking over fully from WCT.
-
-[^1]: Note that this is also [a feature of some bookmarking sites](https://pinboard.in/upgrade/).
-[^2]: I'm not yet sure how this might work, but some combination of the [Open Annotation Specification](http://www.openannotation.org/) and [Memento](http://timetravel.mementoweb.org/about/) might be a good starting point.
 
 
 Building W3ACT
@@ -107,6 +61,17 @@ Diagram showing all the above bits, and outlining basic problems.
 Brittleness, state management, space management.
 
 
+I think this reflects the deeper issue. H3 is a more a ‘crawl kit’ than a crawler solution, and you need to understand Java and H3’s innards very well to:
+
+-   Know which stats you should turn off.
+-   Know what and how to query what’s in BDB via the console.
+-   Customise H3, e.g. modify the Frontier implementation.
+-   Use a different crawled-url DB (e.g. HQ).
+-   Scale out over multiple crawlers.
+-   Use JMX for monitoring.
+
+And so the issue is that this doesn’t really fit the operating model we’re supposed to work under – i.e. a stable ‘service’ that requires developer knowledge to monitor/manage.
+
 
 Towards a Web Archiving Platform
 ================================
@@ -117,10 +82,11 @@ Platforms (from https://plus.google.com/+RipRowan/posts/eVeouesvaVX)
 - Scale
 - Demand for monitoring, which ends up being automated QA.
 
+c.f. <http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html>
+
 
 Web Archiving APIs
 ------------------
-
 
 - http://blog.dshr.org/2015/06/brief-talk-at-columbia.html
 - http://kris-sigur.blogspot.co.uk/2015/06/even-though-it-didnt-feature-heavily-on.html
@@ -175,8 +141,12 @@ QUEUE SEQUENCE
 - FC-020-uris-to-crawl
 - FC-030-uris-to-index
 - FC-040-document-to-catalogue
+- FC-050-uris-to-check (optional)
+- FC-060-uris-to-auto-qa (optional)
+
 - FC-050-sips-to-generate
 - FC-060-sips-to-submit
+
 
 TODO
 

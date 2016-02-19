@@ -4,6 +4,12 @@ author: anj
 layout: post
 ---
 
+Why not emulation?
+It's been proven for decades? So what's the objection?
+Bearman? Nope.
+
+ArchiMate, response to training course.
+
 Crawler Description
 Seeds
 Scope
@@ -12,7 +18,6 @@ FETCH CHAIN - includes extractors
 DISPOSITION CHAIN - includes deduplication, updates frontier with found links etc
 Sheets - e.g. allowing configuration to be tweaked for certain hosts.
 Various lifecycle, checkpointing, logging, reporting, stats, monitors, etc.
-
 
 
 About legacy of Shannon and Turing and the active living theory of digital preservation that underpins everything we do.
