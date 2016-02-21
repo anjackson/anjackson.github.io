@@ -1,8 +1,13 @@
 {% assign sortedcats = site.categories | sort:0.to_i %}
 <h4>Categories</h4>
 <div class="hline"></div>
-{% for category in sortedcats limit: 3 %}
-	<p><a href="{{ site.baseurl }}/blog/categories/#{{ category[0] | replace: ' ','' }}"><i class="fa fa-angle-right"></i> {{ category[0] }}</a> <span class="badge badge-theme pull-right"> {{ category[1] | size }}</span></p>
+{% for category in sortedcats limit: 50 %}
+	<p>
+	{% assign catname = category[0] %}
+	<i class="fa fa-angle-right"></i>&nbsp;
+	{% include _cat_link.html cat=catname %}
+	<span class="badge badge-theme pull-right"> {{ category[1] | size }}</span>
+	</p>
 {% endfor %}
 <div class="spacing"></div>
 

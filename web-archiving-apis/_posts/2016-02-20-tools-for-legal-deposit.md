@@ -1,12 +1,12 @@
 ---
 title: Tools for Legal Deposit
-subtitle: Shifting toward domain-scale web archives
+subtitle: Shifting toward domain scale
 author: anj
 layout: post
 shown: true
 sidebar-include: _wapi.md
-category: Digital Preservation
-tags: ["Web Archive APIs"]
+category: web-archiving-apis
+tags: ["Digital Preservation"]
 ---
 
 Between 2003 and 2013, the [UK Web Archive](http://www.webarchive.org.uk/) only archived selected websites by explicit permission. During this time, the [Web Curator Tool](http://webcurator.sourceforge.net/) (WCT) was used to manage almost the entire life-cycle of the material in the archive. The final playback was via a separate instance of Wayback, but WCT drove the rest of the process.
@@ -27,7 +27,7 @@ But WCT makes these kind of things really hard.
 
 If you look at the overall architecture, the Web Curator Tool enforces what is essentially (despite the odd loop or dead-end) a linear workflow (figure taken from [here](http://webcurator.sourceforge.net/docs/1.6.1/Web%20Curator%20Tool%20Quick%20Start%20Guide%20%28WCT%201.6%29.pdf)). First you define your Target and it's metadata, then you crawl it (and maybe re-crawl it for QA), then you store it, then you make it available. In that order.
 
-[![WCT Overall Workflow]({{ site.baseurl }}/wa-apis/images/WCT-workflow.png)]({{ site.baseurl }}/wa-apis/images/WCT-workflow.svg)
+[![WCT Overall Workflow]({{ site.baseurl }}/web-archiving-apis/images/WCT-workflow.png)]({{ site.baseurl }}/wa-apis/images/WCT-workflow.svg)
 
 But what if we've already crawled it? Or collected it some other way? What if we want to add metadata to existing Targets? What if we want to store something but not make it available. What if we want to make domain crawl material available via Wayback even if we haven't QA'd it?
 
