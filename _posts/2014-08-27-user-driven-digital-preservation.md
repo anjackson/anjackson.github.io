@@ -3,7 +3,7 @@ layout: post
 type: blog
 title: User-Driven Digital Preservation
 author: anj
-category:
+category: digital-dark-age
 tags:
 - Digital Preservation
 - Preservation Actions

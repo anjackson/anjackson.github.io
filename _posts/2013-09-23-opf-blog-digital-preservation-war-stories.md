@@ -7,7 +7,6 @@ category:
 tags:
 - Digital Preservation
 - War Stories
-- Keeping Codes
 ---
 <p>
 A new OPF blog entry: <a href="http://openpreservation.org/knowledge/blogs/2013/09/23/digital-preservation-war-stories/">Digital Preservation War Stories</a>. Reproduced below...

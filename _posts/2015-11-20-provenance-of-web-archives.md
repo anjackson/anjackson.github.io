@@ -2,7 +2,7 @@
 title: The provenance of web archives
 subtitle: Why did they archive this, but not that?!
 category: mining-web-archives
-tags: ["Keeping Codes", "Web Archives", "BUDDAH","Digital Preservation","Data Mining"]
+tags: ["Web Archives", "BUDDAH", "Data Mining", "Digital Preservation"]
 layout: post
 author: anj
 shown: true

@@ -23,6 +23,12 @@ The following animation shows a brief simulation of a 'sticky hard disk fluid', 
 </div>
 </div>
 
+<style type="text/css">
+#replayAnimation:hover {
+	cursor: pointer;
+}	
+</style>
+
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 <script>
 $(function() {

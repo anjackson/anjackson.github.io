@@ -4,6 +4,8 @@
 "Digital Preservation":
     icon: fa-archive
     page: /work/digital-preservation/
+"Web Archives":
+    icon: fa-archive
 "Development":
     icon: fa-code-fork
     page: /work/development/
