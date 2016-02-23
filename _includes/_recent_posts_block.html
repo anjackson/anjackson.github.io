@@ -10,7 +10,7 @@
   {% for post in include.posts limit:max %}
   {% if post.shown != false %}
     <li>
-      {% include _cat_icon.html cat=post.category %}
+      {% include _tag_icon.html post=post %}
       <p><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title | truncate: 52 }}</a></p>
       <em>Posted: {{ post.date | date:"%Y-%m-%d" }}</em>
     </li>

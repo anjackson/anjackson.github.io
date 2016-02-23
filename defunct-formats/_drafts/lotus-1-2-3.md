@@ -2,7 +2,7 @@
 title: Lotus 1-2-3
 fmt-exts: [".wk1"]
 layout: post
-category: Digital Preservation
+category:
 tags: ["Unfashionable Formats"]
 status: stub
 publish: true

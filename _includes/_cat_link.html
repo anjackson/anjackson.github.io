@@ -1,20 +1,13 @@
 {% if include.cat %}
- {% assign curcat=include.cat | downcase %}
+ {% assign curcat=include.cat %}
 {% else %}
  {% assign curcat="general" %}
 {% endif %}
-{% assign failed=true %}
-{% for cat in site.cats %}
-{% assign testcat = cat.name | downcase %}
-{% if curcat == testcat %}
-{% assign failed=false %}
+
+{% assign cat = site.data.cats[curcat] %}
+
 {% if cat.page %}
-<a href="{{ site.baseurl }}{{ cat.page }}" title="{{ cat.name }}">{{ cat.name }}</a>
+<a href="{{ site.baseurl }}{{ cat.page }}" title="{{ curcat }}">{{ curcat }}</a>
 {% else %}
-<a href="{{ site.baseurl }}/blog/categories/#{{ cat.name | downcase | replace: ' ','' }}" title="{{ cat.name }}">{{ cat.name }}</a>
-{% endif %}
-{% endif %}
-{% endfor %}
-{% if failed == true %}
-{{ curcat }}
+<a href="{{ site.baseurl }}/blog/categories/#{{ curcat }}" title="{{ curcat }}">{{ curcat }}</a>
 {% endif %}

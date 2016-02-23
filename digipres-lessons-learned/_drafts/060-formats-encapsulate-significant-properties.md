@@ -1,6 +1,6 @@
 ---
 title: "Formats encapsulate significant properties"
-category: Digital Preservation
+category:
 tags: ["Keeping Codes", "Lessons Learned"]
 layout: post
 author: anj

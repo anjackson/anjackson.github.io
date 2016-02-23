@@ -2,7 +2,7 @@
 title: Understanding Obsolescence
 subtitle: In the Web Archive
 layout: post
-category: Digital Preservation
+category:
 tags: ["Unfashionable Formats"]
 status: stub
 publish: true
@@ -36,28 +36,9 @@ However, it's worth noting that
 Formats Found
 -------------
 
-* [VRML](vrml.html)
-* [RealAudio & RealMedia](real.html)
-* [Shockwave](shockwave.html)
-* [Quicktime VR](quicktime-vr.html)
-* [IPIX](ipix/)
-* [Geometric description language](gsm.html)[^1]
-* [DICOM Medical Imaging](dicom.html)[^1]
-* [TIFF & XIF](tiffs.html)[^1]
-* [PDF & FDF](pdfs.html)[^1]
-* [Spectrum Snapshots & Tapes](spectrum.html)
-* [Others](misc.html)
-* [AppleWorks](appleworks.html)
-* [eBooks](ebooks.html)
-* [Lotus 1-2-3](lotus-1-2-3.html)
-* [MIDI](midi.html)
-* [MS Word](ms-word.html)
-* [Quattro Pro](quattro-pro.html)
-* [Serif PagePlus](serif-pageplus.html)
-* [Sheet music](sheet-music.html)
-* [Windows MetaFile](wmf.html)
-* [Lotus 1-2-3](wordperfect.html)
-* [WordStar](wordstar.html)
+{% for post in site.categories['defunct-formats'] | sort:'path' %}{% if post.path != page.path %}
+* [{{post.title}}]({{post.url}}){% endif %}{% endfor %}
+
 
 Notes
 -----

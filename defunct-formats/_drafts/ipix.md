@@ -3,7 +3,7 @@ title: IPIX
 subtitle: Getting IPIX working...
 fmt-exts: [".ipx"]
 layout: post
-category: Digital Preservation
+category:
 tags: ["Unfashionable Formats"]
 status: stub
 publish: true

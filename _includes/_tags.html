@@ -3,9 +3,3 @@
   <a href="{{ site.baseurl}}/blog/tags/#{{ tag | replace: ' ','' }}" class="btn btn-default">{{ tag }}</a>{% if forloop.last != true %}&nbsp;{% endif %}
   {% endfor %}
   </csmall></p>
-
-  <p><csmall>
-  {% for tag in include.page.categories %}
-  <a href="{{ site.baseurl}}/blog/categories/#{{ tag | replace: ' ','' }}" class="btn btn-theme">{{ tag }}</a>{% if forloop.last != true %}&nbsp;{% endif %}
-  {% endfor %}
-  </csmall></p>

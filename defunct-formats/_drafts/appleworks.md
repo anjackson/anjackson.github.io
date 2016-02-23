@@ -2,7 +2,7 @@
 title: AppleWorks
 fmt-exts: [".cwk"]
 layout: post
-category: Digital Preservation
+category:
 tags: ["Unfashionable Formats"]
 status: stub
 publish: true

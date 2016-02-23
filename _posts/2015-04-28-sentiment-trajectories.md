@@ -3,7 +3,7 @@ layout: post
 type: blog
 title: Sentiment Trajectories
 author: anj
-category: digital-humanities
+category: 
 tags: ["Data Mining","Digital Humanities"]
 ---
 

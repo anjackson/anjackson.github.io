@@ -1,17 +1,25 @@
-{% if include.cat %}
- {% assign curcat=include.cat %}
+{% if include.post %}
+ {% assign tagstr=include.post.tags | first %}
 {% else %}
- {% assign curcat="general" %}
+ {% assign tagstr="General" %}
 {% endif %}
 
-{% assign cat = site.data.cats[curcat] %}
+{% assign cat = site.data.tags[tagstr] %}
 
 {% if cat.page %}
 <a href="{{ site.baseurl }}{{ cat.page }}" title="{{ cat.name }}">
+{% if cat.icon %}
 <i class="fa {{ cat.icon }} category-icon"></i>
+{% else %}
+<i class="fa fa-share-alt category-icon"></i>
+{% endif %}
 </a>
 {% else %}
 <a href="{{ site.baseurl }}/blog/categories/#{{ cat.name | downcase | replace: ' ','' }}" title="{{ cat.name }}">
+{% if cat.icon %}
 <i class="fa {{ cat.icon }} category-icon"></i>
+{% else %}
+<i class="fa fa-share-alt category-icon"></i>
+{% endif %}
 </a>
 {% endif %}

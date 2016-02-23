@@ -1,0 +1,32 @@
+"Data Mining":
+    icon: fa-area-chart
+    page: /work/data-mining/
+"Digital Preservation":
+    icon: fa-archive
+    page: /work/digital-preservation/
+"Development":
+    icon: fa-code-fork
+    page: /work/development/
+"Science":
+    icon: fa-flask
+    page: /work/physics/
+"Publications":
+    icon: fa-file-text-o
+    page: /work/publications/
+"Websites":
+    icon: fa-code
+    page: /work/websites/    
+"Geek":
+    icon: fa-mouse-pointer
+"Procrastination":
+    icon: fa-spinner
+"Rants":
+    icon: fa-warning
+"Reviews":
+    icon: fa-star-half-o
+"Top Links":
+    icon: fa-link
+"Top Tips":
+    icon: fa-thumbs-up
+"Travels":
+    icon: fa-suitcase

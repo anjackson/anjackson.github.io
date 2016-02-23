@@ -3,7 +3,7 @@ layout: post
 type: blog
 title: 'OPF Blog: Economical Access via Normalisation'
 author: anj
-category: understanding-obsolescence
+category: digital-dark-age
 tags:
 - Digital Preservation
 ---

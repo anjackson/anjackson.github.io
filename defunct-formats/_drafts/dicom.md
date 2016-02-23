@@ -2,7 +2,7 @@
 title: DICOM Medical Imaging
 fmt-exts: [".dcim"]
 layout: post
-category: Digital Preservation
+category:
 tags: ["Unfashionable Formats"]
 status: stub
 publish: true

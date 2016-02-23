@@ -2,7 +2,7 @@
 title: Windows MetaFile
 fmt-exts: [".wmf"]
 layout: post
-category: Digital Preservation
+category:
 tags: ["Unfashionable Formats"]
 status: stub
 publish: true

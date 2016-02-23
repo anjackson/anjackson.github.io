@@ -1,6 +1,6 @@
 ---
 title: "Every format is defined at least twice"
-category: Digital Preservation
+category:
 tags: ["Keeping Codes", "Lessons Learned"]
 layout: post
 author: anj

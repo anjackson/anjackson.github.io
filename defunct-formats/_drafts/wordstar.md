@@ -2,7 +2,7 @@
 title: WordStar
 fmt-exts: [".wsd",".wsw"]
 layout: post
-category: Digital Preservation
+category:
 tags: ["Unfashionable Formats"]
 status: stub
 publish: true

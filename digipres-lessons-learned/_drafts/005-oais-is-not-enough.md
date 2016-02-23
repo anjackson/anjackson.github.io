@@ -1,6 +1,6 @@
 ---
 title: "OAIS is not enough"
-category: Digital Preservation
+category:
 tags: ["Keeping Codes", "Lessons Learned"]
 layout: post
 author: anj

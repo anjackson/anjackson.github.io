@@ -53,54 +53,6 @@ subsites:
   - title: Keeping Codes
     url: /keeping-codes/
 
-cats:
-  - name: "Data Mining"
-    icon: fa-area-chart
-    page: /work/data-mining/
-  - name: "mining-web-archives"
-    icon: fa-area-chart
-    page: /work/data-mining/mining-web-archives/
-  - name: "digital-preservation"
-    icon: fa-archive
-    page: /work/digital-preservation/
-  - name: "digipres-lessons-learned"
-    icon: fa-archive
-    page: /work/digital-preservation/lessons-learned/
-  - name: "understanding-obsolescence"
-    icon: fa-archive
-    page: /work/digital-preservation/understanding-obsolescence/
-  - name: "web-archiving-apis"
-    icon: fa-archive
-    page: /work/digital-preservation/web-archive-apis/
-  - name: "development"
-    icon: fa-code-fork
-    page: /work/development/
-  - name: "Geek"
-    icon: fa-mouse-pointer
-  - name: "General"
-    icon: fa-share-alt
-  - name: "Procrastination"
-    icon: fa-spinner
-  - name: "Rants"
-    icon: fa-warning
-  - name: "Reviews"
-    icon: fa-star-half-o
-  - name: "science"
-    icon: fa-flask
-    page: /work/physics/
-  - name: "Top Links"
-    icon: fa-link
-  - name: "Top Tips"
-    icon: fa-thumbs-up
-  - name: "travels"
-    icon: fa-suitcase
-  - name: "publications"
-    icon: fa-file-text-o
-    page: /work/publications/
-  - name: "websites"
-    icon: fa-code
-    page: /work/websites/
-
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London

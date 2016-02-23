@@ -13,7 +13,7 @@ changed: '2009-08-11'
 redirect_from:
 - "/node/1813/"
 permalink: "/2008/06/27/science_digital_preservation/"
-category: digital-preservation
+category:
 tags: ["Digital Preservation"]
 ---
 > 

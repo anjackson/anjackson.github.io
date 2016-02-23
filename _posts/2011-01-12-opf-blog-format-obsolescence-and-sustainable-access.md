@@ -13,7 +13,7 @@ changed: '2011-01-13'
 redirect_from:
 - "/node/1886/"
 permalink: "/2011/01/12/opf_blog_format_obsolescence_and_sustainable_access/"
-category: understanding-obsolescence
+category: digital-dark-age
 tags:
 - Digital Preservation
 ---

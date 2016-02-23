@@ -3,7 +3,7 @@ layout: post
 type: blog
 title: 'OPF Blog: In the room'
 author: anj
-category: digital-preservation
+category:
 tags: ["Development", "Digital Preservation"]
 ---
 <p>

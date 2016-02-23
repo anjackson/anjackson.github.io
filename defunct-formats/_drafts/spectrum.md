@@ -2,7 +2,7 @@
 title: Spectrum Snapshots & Tapes
 fmt-exts: [".sna",".z80",".tap",".txz"]
 layout: post
-category: Digital Preservation
+category:
 tags: ["Unfashionable Formats"]
 status: stub
 publish: true

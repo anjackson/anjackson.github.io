@@ -2,7 +2,7 @@
 title: VRML
 fmt-exts: [".wrl"]
 layout: post
-category: Digital Preservation
+category:
 tags: ["Unfashionable Formats"]
 status: stub
 publish: true

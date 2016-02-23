@@ -2,7 +2,7 @@
 title: PowerPoint
 fmt-exts: [".ppt", ".pptx"]
 layout: post
-category: Digital Preservation
+category:
 tags: ["Unfashionable Formats"]
 status: stub
 publish: true

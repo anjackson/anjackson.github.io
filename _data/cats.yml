@@ -1,0 +1,25 @@
+"mining-web-archives":
+    icon: fa-area-chart
+"digital-preservation":
+    icon: fa-archive
+    page: /work/digital-preservation/
+"digipres-lessons-learned":
+    icon: fa-archive
+    description: "This is part of my <i>Lessons Learned series</i>, covering aspects of digital preservation that I've been forced to reconsider over the years. So far, the posts published in this series are:"
+"format-registries":
+    icon: fa-archive
+"digital-dark-age":
+    icon: fa-archive
+    page: "/2010/12/22/opf_blog_obsolescence_overrated/"
+    description: "This is part of my <i>Digital Dark Age</i> series, where I explore the nature and severity of format obsolescence."
+"defunct-formats":
+    icon: fa-archive
+    description: "This is part of my <i>Defunct Formats</i> series &mdash; a collection of stories gathered while hunting for obsolete formats. So far, the posts published in this series are:"
+"web-archiving-apis":
+    icon: fa-archive
+    description: "This is part of my <i>Web Archiving APIs series</i>, describing our evolving web archiving framework and tools. In particular, the aim is to document how our crawl architecture has evolved to become more modular, and to explore the idea of using APIs to make these systems more manageable over time."
+"travels":
+    icon: fa-suitcase
+"physics":
+    icon: fa-flask
+    page: /work/physics/

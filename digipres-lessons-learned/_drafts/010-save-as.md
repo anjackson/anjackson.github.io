@@ -1,6 +1,6 @@
 ---
 title: "It starts with 'Save as...'"
-category: Digital Preservation
+category:
 tags: ["Keeping Codes", "Lessons Learned"]
 layout: post
 author: anj

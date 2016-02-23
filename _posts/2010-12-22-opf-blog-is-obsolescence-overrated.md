@@ -13,7 +13,7 @@ changed: '2010-12-22'
 redirect_from:
 - "/node/1885/"
 permalink: "/2010/12/22/opf_blog_obsolescence_overrated/"
-category: understanding-obsolescence
+category: digital-dark-age
 tags:
 - Digital Preservation
 ---

@@ -2,7 +2,7 @@
 title: Quicktime VR
 fmt-exts: [".mov"]
 layout: post
-category: Digital Preservation
+category:
 tags: ["Unfashionable Formats"]
 status: stub
 publish: true

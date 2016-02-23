@@ -1,6 +1,6 @@
 ---
 title: "We preserve processes"
-category: Digital Preservation
+category:
 tags: ["Keeping Codes", "Lessons Learned"]
 layout: post
 author: anj

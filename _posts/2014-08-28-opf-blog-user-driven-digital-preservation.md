@@ -3,7 +3,7 @@ layout: post
 type: blog
 title: 'OPF Blog: User-Driven Digital Preservation'
 author: anj
-category: digital-preservation
+category:
 tags:
 - Digital Preservation
 - Preservation Actions
