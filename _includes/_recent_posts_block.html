@@ -3,6 +3,9 @@
 {% else %}
  {% assign max=8 %}
 {% endif %}
+{% if include.max %}
+ {% assign max=include.max %}
+{% endif %}
 <h4>Recent Posts</h4>
 <div class="hline"></div>
 {% if (include.posts | size) > 0 %}
@@ -11,7 +14,7 @@
   {% if post.shown != false %}
     <li>
       {% include _tag_icon.html post=post %}
-      <p><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title | truncate: 52 }}</a></p>
+      <p><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title | truncate: 45 }}</a></p>
       <em>Posted: {{ post.date | date:"%Y-%m-%d" }}</em>
     </li>
   {% endif %}
@@ -20,6 +23,7 @@
   <li class="more"><a href="{{ site.url }}/blog/" title="More" class="btn btn-theme">More</a></li>
   {% endif %}
 </ul>
+<div class="clearfix"></div>
 {% else %}
 <p>No posts here yet.</p>
 {% endif %}

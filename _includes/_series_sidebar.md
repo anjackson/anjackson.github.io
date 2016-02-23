@@ -1,20 +1,21 @@
 {% assign series = site.data.cats[include.series] %}
 {% if series.description %}
-<div class="panel panel-default" style="margin-bottom: 1.5em;">
-  <div class="panel-body">
+<h4>Blog Series: {{ series.title }}</h4>
+<div class="hline"></div>
 <p>
 {{ series.description }}
 </p>
-<ul class="series-list">
-  {% assign tagged_posts = site.categories[include.series] %}
-  {% if tagged_posts %}
-  {% assign sorted_posts = tagged_posts | sort:"path" %}
-  {% for post in sorted_posts %}{% if post.title != null and post.shown != false %}
-    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endif %}{% endfor %}
+{% assign tagged_posts = site.categories[include.series] %}
+<ul class="popular-posts">
+  {% for post in tagged_posts %}
+  {% if post.shown != false %}
+    <li>
+      {% include _tag_icon.html post=post %}
+      <p><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title | truncate: 45 }}</a></p>
+      <em>Posted: {{ post.date | date:"%Y-%m-%d" }}</em>
+    </li>
   {% endif %}
+  {% endfor %}
 </ul>
-
-  </div>
-</div>
+<div class="clearfix"></div>
 {% endif %}

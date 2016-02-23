@@ -110,6 +110,17 @@ But add concept of agent-driven negociation. Turns out interjection is already i
 * See too ['Reactive' content negotiation: Empirical evidence that its status should be reconsidered in HTTPbis](http://www.ltg.ed.ac.uk/~ht/reactive_conneg.html)
 > it calls "proactive negotiation" (formerly "server-driven negotiation"), but it intensifies its description of these from "disadvantages" to "serious disadvantages".
 
+Note also Google Charts embed problem
+
+~~~
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/static/modules/gviz/1.0/chart.js"> {"chartType":"ColumnChart","chartName":"Chart1","dataSourceUrl":"//spreadsheets.google.com/tq?key=0AsZzGhlaygesdGVrYVhUU1lQRG5OTUd5aXBtZzJ6MWc&range=A1%3AB10&gid=0&transpose=0&headers=1&pub=1","options":{"displayAnnotations":true,"showTip":true,"reverseCategories":false,"titleY":"Count","dataMode":"markers","maxAlternation":1,"pointSize":"0","colors":["#3366CC","#DC3912","#FF9900","#109618","#990099","#0099C6","#DD4477","#66AA00","#B82E2E","#316395"],"smoothLine":false,"lineWidth":"2","labelPosition":"right","is3D":false,"logScale":false,"hasLabelsColumn":true,"wmode":"opaque","title":"10 Most Popular MIME Types","legend":"none","allowCollapse":true,"reverseAxis":false,"isStacked":false,"mapType":"hybrid","width":600,"height":371},"packages":"corechart","refreshInterval":5}
+</script>
+~~~
+
+~~~
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1a8RgOQ2LGEsI-a77EOf8Svc-oznIOwYSRU-wUZxKsRQ/pubchart?oid=1&amp;format=interactive"></iframe>
+~~~
+
 Formats By Volume
 ---------
 text/html (256325571) 

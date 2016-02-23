@@ -19,11 +19,13 @@ layout: default
 	 		<!-- SIDEBAR -->
 	 		<div class="col-xs-12 col-sm-4 col-md-4">
 
+	 			{% if page.category %}
 	 			{% include _series_sidebar.md series=page.category %}
-	 		
-   		 		{% include _recent_posts_block.html posts=site.posts %}
-  
+   		 		{% endif %}
+
    		 		{% include _categories_block.html %}
+
+   		 		{% include _recent_posts_block.html posts=site.posts max=5 %}
 
    		 		{% include _tags_block.html %}
 

@@ -73,9 +73,9 @@
 	    <div class="container">
 			<div class="row">
 				<h3>{% if page.parent %}<span class="parent-link"><a href="{{ page.parent_link }}">{{ page.parent }}</a>&nbsp;<i class="fa fa-angle-right"></i> </span>{% endif %}{{ page.title }}</h3>
-        {% if page.subtitle %}
+        {% if page.subtitle or page.date %}
         <h4 class="subtitle">
-        {{ page.subtitle }}
+        {% if page.date %}{{ page.date | date:"%Y-%m-%d" }}{% endif %}{% if page.subtitle and page.date %} | {% endif %}{{ page.subtitle }}
         </h4>
         {% endif %}
 			</div><!-- /row -->

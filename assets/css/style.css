@@ -458,8 +458,8 @@ csmall2 {
 	
 .popular-posts li {
 	list-style: none; 
-	margin-bottom: 20px; 
-	min-height: 50px;
+	margin-bottom: 2px; 
+	clear: both;
 }
 .popular-posts li a, 
 .popular-posts li a:hover {
@@ -527,7 +527,6 @@ article .google-chart {
 }
 
 .popular-posts .category-icon {
-    padding-bottom: 30px;
     float: left;
     margin-right: 10px;
     font-size: 24px;
