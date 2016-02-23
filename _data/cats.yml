@@ -1,31 +1,35 @@
 "mining-web-archives":
     icon: fa-area-chart
     title: "Mining Web Archives"
-    description: "This is part of my <i>Mining Web Archives</i> series."
+    description: "Using data-mining techniques to explore, understand and utilise large-scale web archives."
+    page: "/2015/02/09/towards-a-macroscope-for-uk-web-history/"
 "digital-preservation":
     icon: fa-archive
     title: "Digital Preservation"
     page: /work/digital-preservation/
+    description: "Posts on digital preservation in general."
 "digipres-lessons-learned":
     icon: fa-archive
     title: "Digital Preservation Lessons Learned"
-    description: "This is part of my <i>Lessons Learned series</i>, covering aspects of digital preservation that I've been forced to reconsider over the years. So far, the posts published in this series are:"
+    description: "Posts exploring the mistakes I've made and the things I've learned about digital preservation over the years."
 "format-registries":
     icon: fa-archive
     title: "Format Registries"
+    description: "Posts on my experiments with format registries."
+    page: "/2010/12/09/opf_blog_breaking_down_format_registry/"
 "digital-dark-age":
     icon: fa-archive
     title: Digital Dark Age
     page: "/2010/12/22/opf_blog_obsolescence_overrated/"
-    description: "This is part of my <i>Digital Dark Age</i> series, where I explore the nature and severity of format obsolescence."
+    description: "Will there be a Digital Dark Age because of format obsolescence? Or are there bigger risks to digital preservation."
 "defunct-formats":
     icon: fa-archive
     title: "Defunct Formats"
-    description: "This is part of my <i>Defunct Formats</i> series &mdash; a collection of stories gathered while hunting for obsolete formats. So far, the posts published in this series are:"
+    description: "A collection of stories gathered while hunting for obsolete formats."
 "web-archiving-apis":
     icon: fa-archive
     title: "Web Archiving APIs"
-    description: "This is part of my <i>Web Archiving APIs series</i>, describing our evolving web archiving framework and tools. In particular, the aim is to document how our crawl architecture has evolved to become more modular, and to explore the idea of using APIs to make these systems more manageable over time."
+    description: "Describing our evolving web archiving framework and tools. In particular, the aim is to document how our crawl architecture has evolved to become more modular, and to explore the idea of using APIs to make these systems more manageable over time."
 "travels":
     icon: fa-suitcase
     title: Travels
