@@ -11,7 +11,7 @@ title: <a href="/feed.xml" class="title-rss"><i class="fa fa-rss"></i></a>Blog
       <p><img class="img-responsive" src="{{ site.baseurl }}/{{ page.images[0]['src'] }}"></p>
     {% endif %}
       <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><h3 class="ctitle">{{ post.title }}</h3></a>
-      {% include _cat_icon.html cat=post.category %}
+      {% include _tag_icon.html post=post %}
       <p>
         {% if post.description %}{{ post.description }}{% else %}{{ post.content | split:"<!--break-->" | first | truncatewords: 200 }}{% endif %}
       </p>
