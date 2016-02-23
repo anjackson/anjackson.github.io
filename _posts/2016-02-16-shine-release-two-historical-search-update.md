@@ -2,7 +2,7 @@
 title: Updating our historical search service
 subtitle: 3.5 billion fragments of UK web history.
 category: mining-web-archives
-tags: ["Keeping Codes", "Web Archives", "BUDDAH", "Data Mining"]
+tags: ["Data Mining", "Web Archives", "BUDDAH"]
 layout: post
 author: anj
 shown: true

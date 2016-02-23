@@ -13,7 +13,7 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/724/"
 permalink: "/2004/06/25/bored_hills_bring_islands_updated/"
-category: personal
+category:
 tags: [Travels]
 ---
 {% include _image.html nid="725" align="left" hspace="10" vspace="5" width="" %}I've enjoyed relaxing in Chiang Mai, and some of the temples are really very fine indeed.  Doi Suthep lived up to most of my expectations, even though it was not quite as isolated as I'd hoped.  Anyways, I've got just over two weeks left, and I'm still in the wrong country.  Here's the plan...

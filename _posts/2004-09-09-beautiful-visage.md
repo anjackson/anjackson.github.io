@@ -13,7 +13,7 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/1422/"
 permalink: "/2004/09/09/beautiful_visage/"
-category: personal
+category:
 tags:
 - Travels
 ---

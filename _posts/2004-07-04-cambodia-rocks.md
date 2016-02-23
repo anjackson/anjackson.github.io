@@ -13,7 +13,7 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/730/"
 permalink: "/2004/07/04/cambodia_rocks/"
-category: personal
+category:
 tags: [Travels]
 ---
 After three days of fairly hectic travelling about, I've made to to Siem Reap in Cambodia, close to the famous [temples of Angkor Wat](http://www.angkorwat.org/) (which is the main thing I want to see in Cambodia).  I'm generally enjoying things much more than in Thailand.  I'm not saying that no-one is trying to scam me anymore, but at least everyone is more polite, almost apologetic, about it!  A rough outline of the last few days follows...

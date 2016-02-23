@@ -573,8 +573,18 @@ img.avatar {
 	padding: 8px;
 	width: 100%;
 	background-color: #00B3FE;
+	background-color: #384452;
+    border-color: #384452;
 	color: white;
+	-webkit-transition: background-color 200ms ease-out;
+	-moz-transition: background-color 200ms ease-out;
+	transition: background-color 200ms ease-out;
+}
 
+.project-box:hover .project-box-title, .image-box:hover .image-box-title {
+  color: #fff;
+  background-color: #00b3fe;
+  border-color: #00b3fe;
 }
 
 .project-box-title {

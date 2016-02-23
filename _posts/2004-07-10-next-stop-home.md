@@ -13,7 +13,7 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/732/"
 permalink: "/2004/07/10/next_stop_home/"
-category: personal
+category:
 tags: [Travels]
 ---
 I've had a fine couple of days in Phenom Penh, zooming around on the back of motorcycles driven almost too fast and almost too close to the oncoming traffic - where the 'oncoming' traffic comes at you from at least four different directions. It's good fun, and I discovered that my travelling hat stays in place at 80kph!  Being driven around this city should probably be classed as an adrenaline sport.  But my time here is almost over, and I can hear the Deuchars 80 Shilling calling my name...

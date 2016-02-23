@@ -13,7 +13,7 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/721/"
 permalink: "/2004/06/20/year_firsts/"
-category: personal
+category:
 tags: [Travels]
 ---
 

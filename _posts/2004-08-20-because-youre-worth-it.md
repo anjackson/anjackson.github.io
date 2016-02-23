@@ -13,7 +13,7 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/1416/"
 permalink: "/2004/08/20/because_youre_worth_it/"
-category: personal
+category:
 tags:
 - Travels
 ---

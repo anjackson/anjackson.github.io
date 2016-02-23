@@ -57,7 +57,7 @@ subsites:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London
 future:      true
-highlighter: pygments
+highlighter: rouge
 markdown:    kramdown
 
 # Enable pagination
@@ -74,7 +74,6 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   enable_coderay: false
-#  use_coderay: false
 
   coderay:
     coderay_line_numbers:

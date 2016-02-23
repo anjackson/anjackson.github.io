@@ -13,7 +13,7 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/533/"
 permalink: "/2004/04/14/buying_pies_rainman/"
-category: personal
+category:
 tags: [Travels]
 ---
 Great quotes during this trip...
