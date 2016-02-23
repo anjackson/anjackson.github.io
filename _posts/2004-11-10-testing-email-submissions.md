@@ -12,7 +12,7 @@ created: '2004-11-10'
 changed: '2004-11-10'
 redirect_from: []
 permalink: "/node/1446/"
-category: General
+category: 
 tags: []
 ---
 

@@ -13,8 +13,9 @@ changed: '2010-07-24'
 redirect_from:
 - "/node/1835/"
 permalink: "/2008/12/22/science_commons_video/"
-category: Science
+category: 
 tags:
+- Science
 - Open Access
 ---
 <a href="http://sciencecommons.org/about/science-commons-dylan-video/">Science commons, the video</a>, explaining all about how the <a href="http://sciencecommons.org/">science commons</a> works.

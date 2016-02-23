@@ -3,8 +3,9 @@ layout: post
 type: blog
 title: 'OPF Blog: Digital Preservation War Stories'
 author: anj
-category: Digital Preservation
+category: war-stories
 tags:
+- Digital Preservation
 - War Stories
 - Keeping Codes
 ---

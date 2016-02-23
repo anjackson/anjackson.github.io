@@ -13,8 +13,8 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/716/"
 permalink: "/2004/06/13/excited_scared_sad_hopeful/"
-category: Travels
-tags: []
+category: personal
+tags: [Travels]
 ---
 Well, crikey, my last night in Wellington.  Tomorrow morning I fly to Singapore for a few days, then most of a month in Thailand, Cambodia and, hopefully, Vietnam.  Rather mixed feelings at present, but I'm looking forward to being back home and catching up with everyone again.
 

@@ -13,8 +13,8 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/1611/"
 permalink: "/2006/01/20/hacks_plans/"
-category: Websites
-tags: []
+category: 
+tags: [Websites]
 ---
 <div style="float: right;">
 <object style="width:250px; height:204px;" id="VideoPlayback" align="middle" type="application/x-shockwave-flash" data="http://video.google.com/googleplayer.swf?videoUrl=http%3A%2F%2Fvp.video.google.com%2Fvideodownload%3Fversion%3D0%26secureurl%3DhgAAADZswMqLe7XGOJy83VyYGcexXb3jO8zyrbop1MXhr5FyUUVqfD6K0wiwpq0_jIRwi0z3Ve1_rYC1zHsGs5rYkYBqX0TljmWVUdGf19BrswBFvu1hceadwOB718k9j0ALkywm4XR5X8bbJ-kyHFBdmEGrVWsyMu2F2BS_OdZhXw7BodllzCzQfIQBmDlANmmylg%26sigh%3DAyuZuQhG2IdR_NLNDnHprkER7hY%26begin%3D0%26len%3D33098&thumbnailUrl=http%3A%2F%2Fvideo.google.com%2FThumbnailServer%3Fcontentid%3D14341ac4628862f%26second%3D5%26itag%3Dw320%26urlcreated%3D1137765248%26sigh%3DIxgrm0EXwl3h6ejOmb1NHJ2OMxk&playerId=7502458538500026068&playerMode=embedded"> <param name="allowScriptAccess" value="sameDomain" /> <param name="movie" value="http://video.google.com/googleplayer.swf?videoUrl=http%3A%2F%2Fvp.video.google.com%2Fvideodownload%3Fversion%3D0%26secureurl%3DhgAAADZswMqLe7XGOJy83VyYGcexXb3jO8zyrbop1MXhr5FyUUVqfD6K0wiwpq0_jIRwi0z3Ve1_rYC1zHsGs5rYkYBqX0TljmWVUdGf19BrswBFvu1hceadwOB718k9j0ALkywm4XR5X8bbJ-kyHFBdmEGrVWsyMu2F2BS_OdZhXw7BodllzCzQfIQBmDlANmmylg%26sigh%3DAyuZuQhG2IdR_NLNDnHprkER7hY%26begin%3D0%26len%3D33098&thumbnailUrl=http%3A%2F%2Fvideo.google.com%2FThumbnailServer%3Fcontentid%3D14341ac4628862f%26second%3D5%26itag%3Dw320%26urlcreated%3D1137765248%26sigh%3DIxgrm0EXwl3h6ejOmb1NHJ2OMxk&playerId=7502458538500026068&playerMode=embedded"/> <param name="quality" value="best" /> <param name="bgcolor" value="#ffffff" /> <param name="scale" value="noScale" /> <param name="wmode" value="window" /> <param name="salign" value="TL" /> </object>

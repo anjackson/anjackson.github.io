@@ -13,8 +13,8 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/569/"
 permalink: "/2004/05/11/blah_blah_blah/"
-category: Science
-tags: []
+category: computational-physics
+tags: ["Science"]
 ---
 Well, crikey, gave a first-year lecture today.  My boss couldn't be there, so he asked me to cover for him.  It was all a bit scary, and I fluffed it at the end, but I think it went reasonably okay.  It was good talk practice at any rate.  Bit of a mumbly bumbler though.
 

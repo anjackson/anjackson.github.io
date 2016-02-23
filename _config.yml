@@ -55,49 +55,49 @@ subsites:
 
 cats:
   - name: "Data Mining"
-    picture: digitalpreservation-h48.png
     icon: fa-area-chart
     page: /work/data-mining/
-  - name: "Digital Preservation"
-    picture: digitalpreservation-h48.png
+  - name: "mining-web-archives"
+    icon: fa-area-chart
+    page: /work/data-mining/mining-web-archives/
+  - name: "digital-preservation"
     icon: fa-archive
     page: /work/digital-preservation/
-  - name: Development
-    picture: geek-arrow-48x48.png
+  - name: "digipres-lessons-learned"
+    icon: fa-archive
+    page: /work/digital-preservation/lessons-learned/
+  - name: "understanding-obsolescence"
+    icon: fa-archive
+    page: /work/digital-preservation/understanding-obsolescence/
+  - name: "web-archiving-apis"
+    icon: fa-archive
+    page: /work/digital-preservation/web-archive-apis/
+  - name: "development"
     icon: fa-code-fork
     page: /work/development/
-  - name: Geek
-    picture: geek-arrow-48x48.png
+  - name: "Geek"
     icon: fa-mouse-pointer
-  - name: General
-    picture: aj-logo-48x48.png
+  - name: "General"
     icon: fa-share-alt
-  - name: Procrastination
-    picture: smile-48x48.png
+  - name: "Procrastination"
     icon: fa-spinner
-  - name: Rants
-    picture: thrp-48x48.png
+  - name: "Rants"
     icon: fa-warning
-  - name: Reviews
-    picture: megaphone-48x48.png
+  - name: "Reviews"
     icon: fa-star-half-o
-  - name: Science
-    picture: science-48x48.png
+  - name: "science"
     icon: fa-flask
     page: /work/physics/
   - name: "Top Links"
-    picture: tango-interworld-48x48.png
     icon: fa-link
   - name: "Top Tips"
-    picture: clock-48x48.png
     icon: fa-thumbs-up
-  - name: Travels
-    picture: suitecase-48x48.png
+  - name: "travels"
     icon: fa-suitcase
-  - name: Publications
+  - name: "publications"
     icon: fa-file-text-o
     page: /work/publications/
-  - name: Websites
+  - name: "websites"
     icon: fa-code
     page: /work/websites/
 

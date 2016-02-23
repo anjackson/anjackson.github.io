@@ -14,8 +14,8 @@ redirect_from:
 - "/node/1836/"
 - "/work/digitalpreservation/"
 permalink: "/work/digital-preservation/"
-category: "Digital Preservation"
-tags: []
+tags: ["Digital Preservation"]
+category: digital-preservation
 projects: digital-preservation
 ---
 

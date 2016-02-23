@@ -13,8 +13,9 @@ changed: '2011-03-30'
 redirect_from:
 - "/node/1888/"
 permalink: "/2011/03/04/opf_blog_normalisation_strategies_trimming_access_stack/"
-category: Digital Preservation
+category: digital-preservation
 tags:
+- Digital Preservation
 - Access
 - Format Obsolescence
 ---

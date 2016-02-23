@@ -13,7 +13,7 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/1630/"
 permalink: "/2006/07/02/aint_no_stopping_us_now/"
-category: General
+category: 
 tags: []
 ---
 We both sat our driving tests last week (my 1st one and Eilidh's 4th).  Unfortunately I was a little too nervous and incurred two serious faults and a noteworthy 15 minors.  The serious faults were for speeding and mounting the pavement (although not at the same time I hasten to add).  Since then I've had a couple more lessons and I have another test soon, so fingers crossed...

@@ -13,8 +13,8 @@ changed: '2008-12-04'
 redirect_from:
 - "/node/1817/"
 permalink: "/2008/07/06/three_strikes_and_youre_offline/"
-category: Rants
-tags: []
+category: 
+tags: [Rants]
 ---
 I noticed this [boingboing article](http://www.boingboing.net/2008/07/05/europeans-you-have-u.html) and despaired.  [This](http://www.openrightsgroup.org/2008/07/02/write-to-your-mep-say-no-to-3-strikes-through-the-backdoor/) ridiculous legislation, which [has already been explicitly](http://www.infoworld.com/article/08/04/10/Europe-rejects-plan-to-criminalize-file-sharing_1.html) [rejected by the EU](http://www.openrightsgroup.org/2008/04/10/european-parliament-condemns-3-strikes-approach/), attempts to enforce a "three strikes and you're out" approach to copyright infringement.  Those pushing for these rules have now tried to attach them to another, otherwise reasonable piece of telecoms legislation. Whether or not you agree with this in principle, the legislation on offer is hopelessly broken...
 <!--break-->

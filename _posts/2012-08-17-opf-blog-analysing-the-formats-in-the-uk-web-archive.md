@@ -3,9 +3,9 @@ layout: post
 type: blog
 title: 'OPF Blog: Analysing the formats in the UK Web Archive'
 author: anj
-category: Digital Preservation
+category: mining-web-archives
 tags:
-- Format Identification
+- Data Mining
 - Digital Preservation
 - Web Archives
 - webarchive-discovery

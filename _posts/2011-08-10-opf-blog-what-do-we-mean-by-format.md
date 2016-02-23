@@ -3,9 +3,8 @@ layout: post
 type: blog
 title: 'OPF Blog: What do we mean by format?'
 author: anj
-category: Digital Preservation
+category: format-registries
 tags:
-- Format Registry
 - Digital Preservation
 ---
 <p>

@@ -13,8 +13,8 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/1563/"
 permalink: "/2004/12/13/getting_grips_nearly_everything/"
-category: Science
-tags: []
+category: 
+tags: [Science]
 ---
 I've recently finished reading Bill Bryson's [A Short History of Nearly Everything](http://www.randomhouse.com/features/billbryson/bb_title/display.pperl?0-7679-0818-X), and I must say I was very impressed.  I've read quite a few pop science books, and it's probably the best one I've seen.  The early parts were related to physics, and I found this quite satisfying as the things I know something about were covered well - the analogies never jarred and the explanations always rang true.  Generally it was eloquently simplified, always managing to retain the essence of the science...
 <!--break-->

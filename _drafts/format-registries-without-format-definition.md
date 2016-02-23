@@ -1,7 +1,7 @@
 ---
 title: Do Format Registries Require Consensus On What A Format Is?
-category: Digital Preservation
-tags: ["Format Registries"]
+category: format-registries
+tags: ["Format Registries", "Digital Preservation"]
 status: stub
 layout: post
 ---

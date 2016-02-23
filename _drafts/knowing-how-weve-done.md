@@ -1,7 +1,7 @@
 ---
 title: Knowing
-category: Digital Preservation
-tags: ["Web Archives"]
+category: 
+tags: ["Web Archives","Digital Preservation"]
 status: stub
 layout: post
 ---

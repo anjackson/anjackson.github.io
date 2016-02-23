@@ -13,7 +13,7 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/1790/"
 permalink: "/2008/01/24/it_must_be_hereditary/"
-category: Geek
+category: 
 tags: []
 ---
 After threatening it for a number of years, my Dad has finally set up his own web site.   Find out more at <a href="http://ronald.ron0.googlepages.com/">Ron Jackson - Now & Then 1939-2006</a>. 

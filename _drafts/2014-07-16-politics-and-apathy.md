@@ -2,7 +2,7 @@
 layout: post
 title: "Politics &amp; Apathy"
 modified: 2014-07-16 22:55:56 +0100
-tags: [Rant]
+tags: [Rants]
 image:
   feature: 
   credit: 

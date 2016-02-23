@@ -3,9 +3,10 @@ layout: post
 type: blog
 title: 'OPF Blog: A Format Registry for SCAPE'
 author: anj
-category: Digital Preservation
-categories: [Digital Preservation, Websites]
+category: format-registries
 tags:
+- Digital Preservation
+- Websites
 - Format Registry
 - Representation Information
 - SCAPE

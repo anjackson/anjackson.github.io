@@ -13,7 +13,7 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/690/"
 permalink: "/2004/05/13/kiwi_tunes/"
-category: General
+category: personal
 tags: []
 ---
 {% include _image.html nid="688" align="left" hspace="5" vspace="5" width="" %}{% include _image.html nid="689" align="left" hspace="5" vspace="5" width="" %}

@@ -3,10 +3,11 @@ layout: post
 type: blog
 title: 'OPF Blog: Biodiversity and the registry ecosystem'
 author: anj
-category: Digital Preservation
+category: format-registries
 tags:
-- Format Registry
 - Digital Preservation
+- Websites
+- Format Registry
 ---
 <p>
 A new OPF blog entry: <a href="http://openpreservation.org/knowledge/blogs/2012/07/06/biodiversity-and-registry-ecosystem/">Biodiversity and the registry ecosystem</a>. Reproduced below...

@@ -13,7 +13,7 @@ changed: '2009-08-10'
 redirect_from:
 - "/node/552/"
 permalink: "/work/publications/"
-tags: []
+tags: ["Publications"]
 projects: publications
 category: publications
 ---

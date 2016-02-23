@@ -13,8 +13,8 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/1871/"
 permalink: "/2010/07/22/digital_preservation_news_aggregation/"
-category: Digital Preservation
-tags: []
+category: digital-preservation
+tags: ["Digital Preservation"]
 ---
 Inspired by the excellent <a href="http://twitter.com/dhnow">@dhnow</a> <a href="http://digitalhumanitiesnow.org/about/">social news service</a>, I've set up a news aggregator for digital preservation. The <a href="http://twitter.com/digipresnews">@digipresnews</a> account follows people involved in digital preservation, and I use the <a href="http://twittertim.es/digipresnews">Twitter Tim.es</a> service to extract the top links of interest. This also provides an RSS feed, which is piped back into the Twitter account via <a href="http://twitterfeed.com/">twitterfeed</a>.
 

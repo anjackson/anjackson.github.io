@@ -3,8 +3,8 @@ layout: post
 type: blog
 title: Towards a Macroscope for UK Web History
 author: anj
-category: Digital Preservation
-tags: ["Web Archives","BUDDAH","webarchive-discovery"]
+category: mining-web-archives
+tags: ["Web Archives","BUDDAH","webarchive-discovery","Data Mining"]
 shown: true
 ---
 

@@ -13,8 +13,8 @@ changed: '2010-12-09'
 redirect_from:
 - "/node/1883/"
 permalink: "/2010/12/09/opf_blog_breaking_down_format_registry/"
-category: Digital Preservation
-tags: [Format Registry]
+category: format-registries
+tags: ["Digital Preservation"]
 ---
 A new OPF blog entry: <a href="http://openpreservation.org/knowledge/blogs/2010/12/08/breaking-down-format-registry/">Breaking Down The Format Registry</a>. Reproduced below the fold.
 <!--break-->

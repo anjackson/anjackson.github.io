@@ -1,6 +1,6 @@
 ---
 title: <strike>Digital</strike> Humanities
-category: Data Mining
+category: 
 tags: 
 layout: post
 author: anj

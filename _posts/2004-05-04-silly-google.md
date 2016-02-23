@@ -13,7 +13,7 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/549/"
 permalink: "/2004/05/04/silly_google/"
-category: Procrastination
+category: personal
 tags: []
 ---
 {% include _image.html nid="547" align="left" hspace="10" vspace="5" width="" %}I rather like this image, taken from [Google News](http://news.google.com/).  Their news pages are generated automagically, which is bound to cause mismatches between images and text sometimes...  I guess I'm just not difficult to amuse.

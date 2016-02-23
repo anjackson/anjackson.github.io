@@ -13,8 +13,8 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/532/"
 permalink: "/2004/04/07/next_journey/"
-category: Travels
-tags: []
+category: personal
+tags: [Travels]
 ---
 Well, I'm off to Taupo with Stewart (my flatmate) and Kim (a visitor to the lab) this weekend.  Should be good.  It's Stewart's birthday on Sunday, and he's going to bungy-jump and then get very drunk.  My Dad suggested that this was the wrong way around.
 

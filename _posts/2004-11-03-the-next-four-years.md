@@ -13,8 +13,8 @@ changed: '2008-12-04'
 redirect_from:
 - "/node/1438/"
 permalink: "/2004/11/02/next_four_years/"
-category: Rants
-tags: []
+category: 
+tags: [Rants]
 ---
 I doubt I am alone right now.  Just one of millions of non-U.S. citizens pounding various election result webpages (e.g. the [BBC](http://news.bbc.co.uk/2/shared/spl/hi/americas/04/vote_usa/map/html/default.stm) and [CNN](http://www.cnn.com/ELECTION/2004/pages/results/president/)), hoping to find out that Kerry has won.  I've been following the voting histories, predictions and pre-election polls, and on the basis of that the results so far (Bush ahead 211 to 188, with the important swing states still to declare) are not that surprising - no states have change hands yet.  The fact that the outcome depends on so few states is a little depressing, and one wonders what on earth Bush would have had to have done to earn the wrath of the people. Having said that, the relatively high turnout is very welcome indication that perhaps the U.S. public is taking this election as seriously as the rest of the world.
 

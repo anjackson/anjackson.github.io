@@ -13,9 +13,9 @@ changed: '2011-01-13'
 redirect_from:
 - "/node/1886/"
 permalink: "/2011/01/12/opf_blog_format_obsolescence_and_sustainable_access/"
-category: Digital Preservation
+category: understanding-obsolescence
 tags:
-- Format Obsolescence
+- Digital Preservation
 ---
 A new OPF blog entry: <a href="http://openpreservation.org/knowledge/blogs/2011/01/12/format-obsolescence-and-sustainable-access/">Format Obsolescence and Sustainable Access</a>. Reproduced below...
 

@@ -13,8 +13,8 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/1801/"
 permalink: "/2008/07/04/flat_white_please/"
-category: Travels
-tags: []
+category: travels
+tags: [Travels]
 ---
 One of the minor pleasures of New Zealand was the [Flat White](http://en.wikipedia.org/wiki/Flat_white).  It's essentially a cappuccino, but with a finer, creamer [foam](http://en.wikipedia.org/wiki/Microfoam) and a stronger mix than you get in Britain. I've missed them, but I may have found an alternative source...
 <!--break-->

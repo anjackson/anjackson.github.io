@@ -13,8 +13,8 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/727/"
 permalink: "/2004/06/30/yes_you_can_hate_me_now/"
-category: Travels
-tags: []
+category: personal
+tags: [Travels]
 ---
 {% include _image.html nid="728" align="left" hspace="10" vspace="5" width="" %}Well, I've made it to the island of Ko Chang.  Spend last night drinking beer and chatting to some locals on the beach, in the shade of palm trees, with the warm sea churning a few feet away.  Bit stormy, with occasional rain, but it really is very nice here.  The only place I've been where the sea is warmer than the showers.  Planning to chill out here for two more nights, then head to Trat and on to Cambodia and Phenom Penh.
 <!--break-->

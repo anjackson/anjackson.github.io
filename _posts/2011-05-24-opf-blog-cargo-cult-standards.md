@@ -3,8 +3,9 @@ layout: post
 type: blog
 title: 'OPF Blog: Cargo Cult Standards'
 author: anj
-category: Digital Preservation
+category: understanding-obsolescence
 tags:
+- Digital Preservation
 - Representation Information
 ---
 <p>

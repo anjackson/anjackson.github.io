@@ -13,8 +13,8 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/1637/"
 permalink: "/2009/08/14/random_stuff/"
-category: Top Links
-tags: []
+category: 
+tags: [Top Links]
 ---
 Clearing my back-log of random things on the internet I wanted to share...
 <!--break-->

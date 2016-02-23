@@ -3,9 +3,8 @@ layout: post
 type: blog
 title: 'OPF Blog: Economical Access via Normalisation'
 author: anj
-category: Digital Preservation
+category: understanding-obsolescence
 tags:
-- Normalisation
 - Digital Preservation
 ---
 <p>

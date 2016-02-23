@@ -3,8 +3,8 @@ layout: post
 type: blog
 title: 'OPF Blog: OPF Year 1 - Visualisation of development activity'
 author: anj
-category: Development
-tags: [Open Source Development, development]
+category: 
+tags: [Development]
 ---
 <p>
 A new OPF blog entry: <a href="http://openpreservation.org/knowledge/blogs/2011/06/24/opf-year-1-visualisation-development-activity/">OPF Year 1: Visualisation of development activity</a>. Reproduced below...

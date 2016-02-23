@@ -3,8 +3,8 @@ title: Web Archiving In The JavaScript Age
 layout: post
 type: blog
 author: anj
-category: Digital Preservation
-tags: ["Web Archives"]
+category: mining-web-archives
+tags: ["Web Archives","Digital Preservation", "Data Mining"]
 ---
 
 First published [on the UK Web Archive blog](http://britishlibrary.typepad.co.uk/webarchive/2014/08/web-archiving-in-the-javascript-age.html).

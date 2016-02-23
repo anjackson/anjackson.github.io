@@ -3,8 +3,9 @@ layout: post
 type: blog
 title: User-Driven Digital Preservation
 author: anj
-category: Digital Preservation
+category: digital-preservation
 tags:
+- Digital Preservation
 - Preservation Actions
 - SCAPE
 - Web Archives

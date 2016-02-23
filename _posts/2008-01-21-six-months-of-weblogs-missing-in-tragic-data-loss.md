@@ -13,7 +13,7 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/1809/"
 permalink: "/2008/01/21/six_months_weblogs_missing_tragic_data_loss/"
-category: General
+category: 
 tags: []
 ---
 The Prime Minister just appeared on television to apologise for the loss of the web log entries that should have been posted here.  The blogs were eventually found <a href="http://news.bbc.co.uk/2/hi/uk_news/england/devon/7198043.stm">on a roundabout in Exeter</a>, but  have since been lost in the post while being posted back to the place they were originally posted from. 

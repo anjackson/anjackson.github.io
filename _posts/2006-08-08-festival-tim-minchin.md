@@ -14,7 +14,7 @@ redirect_from:
 - "/2006/08/07/festival_tim_minchin/"
 - "/node/1679/"
 permalink: "/2006/08/08/festival_tim_minchin/"
-category: Top Tips
+category:
 tags:
 - Reviews
 ---

@@ -13,7 +13,7 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/1585/"
 permalink: "/2005/01/02/happy_new_year/"
-category: General
+category: 
 tags: []
 ---
 {% include _image.html nid="1583" align="right" hspace="5" vspace="5" width="" %}Just a quick entry to say _Happy New Year_ to you all, and wish you all a grand 2005. I've not made any resolutions, at least none that I can speak of here, and any of the usual resolution suspects are, I suspect, only made in order to get that guilty thrill when they are vigorously cast aside within the first week or so.  

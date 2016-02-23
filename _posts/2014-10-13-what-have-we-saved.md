@@ -3,7 +3,7 @@ layout: post
 type: blog
 title: What Have We Saved?
 author: anj
-category: Digital Preservation
+category: mining-web-archives
 tags: ["Web Archives","Digital Preservation"]
 ---
 

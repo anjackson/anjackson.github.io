@@ -13,7 +13,7 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/1564/"
 permalink: "/2004/12/19/winging_it/"
-category: General
+category: 
 tags: []
 ---
 Well, I finally went over to [Industrial Research Limited](http://www.irl.cri.nz/) and gave them a mildy re-written version of the talk I gave to the group here a wee while ago.  It seemed to go well, and I only got myself confused once, which is pretty good seeing as I now insist on _not_ working out what I'm going to say ahead of time.  I always used to try to script things, but that just seemed to end up with me rushing through the material far too fast...

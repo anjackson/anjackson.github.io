@@ -15,8 +15,8 @@ parent_link: /work/
 	 		</div>
 
 	 		<div class="col-xs-12 col-sm-4 col-md-4">
-	 		    {% assign catstr = page.category | downcase %}
-		 		{% assign catposts = site.categories[catstr] %}
+	 		    {% assign catstr = page.tags | first | downcase %}
+		 		{% assign catposts = site.tags[catstr] %}
    		 		{% include _recent_posts_block.html posts=catposts all=true %}
 
 			</div>

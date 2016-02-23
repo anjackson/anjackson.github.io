@@ -1,7 +1,7 @@
 ---
 title: Let Them Emulate!
-category: Digital Preservation
-tags: ["Keeping Codes"]
+category: digital-preservation
+tags: ["Keeping Codes","Digital Preservation"]
 layout: post
 author: anj
 ---

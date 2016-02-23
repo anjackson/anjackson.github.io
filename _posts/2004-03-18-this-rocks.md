@@ -13,7 +13,7 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/12/"
 permalink: "/2004/03/18/rocks/"
-category: Procrastination
+category: 
 tags: []
 ---
 I mean, this really is rather fine...

@@ -13,8 +13,8 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/544/"
 permalink: "/2004/04/22/more_jam_man/"
-category: Travels
-tags: []
+category: personal
+tags: [Travels]
 ---
 {% include _image.html nid="543" align="right" hspace="10" vspace="5" width="" %}Milford Sound, with clear blue skies.  I am clearly too lucky by half.  It was just _so beautiful_ - awe inspiring.  Long day, but very very very much worth it.
 

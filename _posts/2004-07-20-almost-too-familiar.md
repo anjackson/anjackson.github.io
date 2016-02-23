@@ -13,8 +13,8 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/738/"
 permalink: "/2004/07/20/almost_too_familiar/"
-category: Travels
-tags: []
+category: personal
+tags: [Travels]
 ---
 I guess it's fair to say that the travelling is over now.  Back to my old job, in my old office, with a new mix of old office-mates.  I'm working on the admin software for [HPCx](http://www.hpcx.ac.uk/), which should be a nice size project for the time that I'm here.  Generally enjoying being back, while trying not to bore people senseless by banging on about all the things I've done since I went away.  Not necessarily succeeding, but definately trying...
 <!--break-->

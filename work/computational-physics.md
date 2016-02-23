@@ -13,8 +13,8 @@ changed: '2009-08-10'
 redirect_from:
 - "/node/565/"
 permalink: "/work/physics/"
-category: Science
-tags: []
+category: computational-physics
+tags: ["Science"]
 projects: computational-physics
 ---
 

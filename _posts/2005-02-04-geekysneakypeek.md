@@ -13,8 +13,8 @@ changed: '2011-09-07'
 redirect_from:
 - "/node/1594/"
 permalink: "/2005/02/04/geekysneakypeek/"
-category: Science
-tags: []
+category: 
+tags: [Science]
 ---
 {% include _image.html nid="1593" align="right" hspace="" vspace="" width="" %}Well, it's been a hectic couple of weeks, but the work has come along quite well.  We've even managed to finish the poster for the [AMN-2](http://www.elec.canterbury.ac.nz/AMN-2/) conference in [Queenstown](http://www.queenstownnz.co.nz/).  I've placed a copy of the poster here, so if you really are terribly bored (or are coming to the conference and want a geeky sneaky peek at the work, which is about as long a long shot as I can imagine) then you can click the on the thumbnail image thar....
 

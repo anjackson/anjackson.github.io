@@ -13,10 +13,10 @@ changed: '2011-01-14'
 redirect_from:
 - "/node/1887/"
 permalink: "/2011/01/13/building_collaborative_format_registry_editor/"
-category: Digital Preservation
-categories: [Digital Preservation, Websites]
+category: format-registries
 tags:
-- Format Registry
+- Digital Preservation
+- Websites
 ---
 <p>
 New OPF Blog: <a href="http://openpreservation.org/knowledge/blogs/2011/01/14/building-collaborative-format-registry-editor/">Building A Collaborative Format Registry Editor</a>. Reproduced below...

@@ -3,10 +3,10 @@ layout: post
 type: blog
 title: 'OPF Blog: The Registries We Need'
 author: anj
-category: Digital Preservation
+category: format-registries
 tags:
-- Format Registry
 - Digital Preservation
+- Format Registry
 ---
 <p>
 A new OPF blog entry: <a href="http://openpreservation.org/knowledge/blogs/2013/09/13/registries-we-need/">The Registries We Need</a>. Reproduced below...

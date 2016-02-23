@@ -13,10 +13,10 @@ changed: '2008-12-22'
 redirect_from:
 - "/node/1834/"
 permalink: "/2008/12/22/zoetrope_interactive_time_machine_web/"
-category: Digital Preservation
+category: visualisation
 tags:
-- Web Archive
-- Visualization
+- Digital Preservation
+- Web Archives
 ---
 Adobe have been working on a cool user interface for visualising how web pages have changed over time, called <a href="http://www.cond.org/zoetrope.html">Zoetrope</a>.  
 

@@ -13,8 +13,8 @@ changed: '2010-07-23'
 redirect_from:
 - "/node/1765/"
 permalink: "/2007/01/20/christmas_los_angeles/"
-category: Travels
-tags: []
+category: 
+tags: [Travels]
 ---
 There haven't been many updates to the site lately, and that's because we've been very busy.  Now it's time to catch up and to let you all know what we've been up to.  Read on for the first instalment...
 <!--break-->

@@ -13,7 +13,7 @@ changed: '2009-08-10'
 redirect_from:
 - "/node/8/"
 permalink: "/work/websites/"
-tags: []
+tags: [ Websites ]
 projects: websites
 category: Websites
 ---

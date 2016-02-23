@@ -13,10 +13,9 @@ changed: '2010-12-22'
 redirect_from:
 - "/node/1885/"
 permalink: "/2010/12/22/opf_blog_obsolescence_overrated/"
-category: Digital Preservation
+category: understanding-obsolescence
 tags:
-- Format Obsolescence
-- Preservation Risks
+- Digital Preservation
 ---
 <p>
 A new OPF blog entry: <a href="http://openpreservation.org/knowledge/blogs/2010/12/22/obsolescence-overrated/">Is obsolescence overrated?</a>. Reproduced below...
