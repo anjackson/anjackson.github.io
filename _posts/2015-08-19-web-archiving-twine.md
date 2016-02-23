@@ -1,7 +1,7 @@
 ---
 title: Playing at Web Archiving
 category: 
-tags: ["Keeping Codes", "Web Archives", "Digital Preservation"]
+tags: ["Keeping Codes", "Web Archives", "Digital Preservation", "Publications"]
 layout: post
 author: anj
 ---

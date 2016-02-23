@@ -6,7 +6,7 @@ layout: post
 shown: true
 sidebar-include: _wapi.md
 category:
-tags: ["Web Archive APIs"]
+tags: ["Web Archives", "Digital Preservation"]
 ---
 
 The heart of the idea was simple. Rather than starting with a Target and adding collection metadata, we think in terms of annotating the live web, and how we would use those annotations to drive the web archiving process. From this perspective, each Target in WCT is really very similar to a bookmark on an social bookmarking service (like [Pinboard](https://pinboard.in/), [Diigo](https://www.diigo.com/) or [Delicious](https://delicious.com/)), except that as well as describing the web site, the annotations also drive the archiving of that site[^1].

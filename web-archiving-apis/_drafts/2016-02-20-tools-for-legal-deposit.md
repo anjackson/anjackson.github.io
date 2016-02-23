@@ -6,7 +6,7 @@ layout: post
 shown: true
 sidebar-include: _wapi.md
 category: web-archiving-apis
-tags: ["Digital Preservation"]
+tags: ["Web Archives","Digital Preservation"]
 ---
 
 Between 2003 and 2013, the [UK Web Archive](http://www.webarchive.org.uk/) only archived selected websites by explicit permission. During this time, the [Web Curator Tool](http://webcurator.sourceforge.net/) (WCT) was used to manage almost the entire life-cycle of the material in the archive. The final playback was via a separate instance of Wayback, but WCT drove the rest of the process.

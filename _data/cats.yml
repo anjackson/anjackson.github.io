@@ -1,5 +1,6 @@
 "mining-web-archives":
     icon: fa-area-chart
+    description: "This is part of my <i>Mining Web Archives</i> series."
 "digital-preservation":
     icon: fa-archive
     page: /work/digital-preservation/

@@ -4,7 +4,7 @@ type: blog
 title: "Ten years of the UK web archive: what have we saved?"
 author: anj
 category: mining-web-archives
-tags: ["Web Archives","Digital Preservation","Data Mining"]
+tags: ["Web Archives","Digital Preservation","Data Mining", "Publications"]
 duration: 30 minutes
 shown: true
 ---

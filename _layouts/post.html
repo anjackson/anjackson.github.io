@@ -19,7 +19,7 @@ parent_link: /blog/
 {% for post in sorted_posts %}
 
 {% if go_next %}
-<a class="btn btn-theme pull-right" href="{{ post.url }}">Next in this series: {{ post.title }}</a>
+<a class="btn btn-theme pull-right" href="{{ post.url }}">Next in this series: {{ post.title }} &raquo;</a>
 {% assign go_next = false %}
 {% endif %}
 
@@ -33,7 +33,7 @@ parent_link: /blog/
 {% for post in sorted_posts reversed %}
 
 {% if go_next %}
-<a class="btn btn-theme pull-left" href="{{ post.url }}">Previously in this series: {{ post.title }}</a>
+<a class="btn btn-theme pull-left" href="{{ post.url }}">&laquo; Previously in this series: {{ post.title }}</a>
 {% assign go_next = false %}
 {% endif %}
 

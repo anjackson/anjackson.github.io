@@ -4,7 +4,7 @@ type: blog
 title: Towards a Macroscope for UK Web History
 author: anj
 category: mining-web-archives
-tags: ["Web Archives","BUDDAH","webarchive-discovery","Data Mining"]
+tags: ["Web Archives","BUDDAH","webarchive-discovery","Data Mining", "Publications"]
 shown: true
 ---
 

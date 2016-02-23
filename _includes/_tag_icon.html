@@ -7,7 +7,7 @@
 {% assign cat = site.data.tags[tagstr] %}
 
 {% if cat.page %}
-<a href="{{ site.baseurl }}{{ cat.page }}" title="{{ cat.name }}">
+<a href="{{ site.baseurl }}{{ cat.page }}" title="{{ tagstr }}">
 {% if cat.icon %}
 <i class="fa {{ cat.icon }} category-icon"></i>
 {% else %}
@@ -15,7 +15,7 @@
 {% endif %}
 </a>
 {% else %}
-<a href="{{ site.baseurl }}/blog/categories/#{{ cat.name | downcase | replace: ' ','' }}" title="{{ cat.name }}">
+<a href="{{ site.baseurl }}/blog/tags/#{{ tagstr }}" title="{{ tagstr }}">
 {% if cat.icon %}
 <i class="fa {{ cat.icon }} category-icon"></i>
 {% else %}
