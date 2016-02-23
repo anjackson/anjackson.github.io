@@ -7,7 +7,7 @@
 {% assign cat = site.data.cats[curcat] %}
 
 {% if cat.page %}
-<a href="{{ site.baseurl }}{{ cat.page }}" title="{{ curcat }}">{{ curcat }}</a>
+<a href="{{ site.baseurl }}{{ cat.page }}" title="{{ cat.title }}">{{ cat.title }}</a>
 {% else %}
-<a href="{{ site.baseurl }}/blog/categories/#{{ curcat }}" title="{{ curcat }}">{{ curcat }}</a>
+<a href="{{ site.baseurl }}/blog/categories/#{{ curcat }}" title="{{ cat.title }}">{{ cat.title }}</a>
 {% endif %}
