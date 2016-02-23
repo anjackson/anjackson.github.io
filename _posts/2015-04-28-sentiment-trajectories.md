@@ -4,7 +4,7 @@ type: blog
 title: Sentiment Trajectories
 author: anj
 category: 
-tags: ["Data Mining","Digital Humanities"]
+tags: ["Visualisation", "Data Mining","Digital Humanities"]
 ---
 
 As a computational physicist working in a library, my background and training is quite different to the curators and researchers I now work with. Therefore, I do try to spend some time following developments in the digital humanities more generally, trying to understand the kinds of questions being asked, the techniques that are being used, and the assumptions that lie beneath.

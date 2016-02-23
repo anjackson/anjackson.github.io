@@ -1,5 +1,5 @@
   <p><csmall>
   {% for tag in include.page.tags %}
-  <a href="{{ site.baseurl}}/blog/tags/#{{ tag | replace: ' ','' }}" class="btn btn-default">{{ tag }}</a>{% if forloop.last != true %}&nbsp;{% endif %}
+  <a href="{{ site.baseurl}}/blog/tags/#{{ tag | replace: ' ','' }}" class="btn btn-default" title="{{ tag }}">{{ tag }}</a>{% if forloop.last != true %}&nbsp;{% endif %}
   {% endfor %}
   </csmall></p>
