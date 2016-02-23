@@ -1,5 +1,6 @@
 ---
 title: Building a historical search engine is no easy thing
+subtitle: 
 category: mining-web-archives
 tags: ["Web Archives","BUDDAH","webarchive-discovery","Data Mining"]
 status: stub
@@ -8,10 +9,7 @@ author: anj
 shown: true
 ---
 
-Originally published [on the UK Web Archive blog](http://britishlibrary.typepad.co.uk/webarchive/2015/02/building-a-historical-search-engine-is-no-easy-thing.html), and reproduced below, with a few minor tweaks.
-<!--break-->
-
-----
+As published <a href="http://britishlibrary.typepad.co.uk/webarchive/2015/02/building-a-historical-search-engine-is-no-easy-thing.html">on the UK Web Archive blog</a>.
 
 Over the last year, we have been a part of the [Big UK Domain Data for the Arts and Humanities](http://buddah.projects.history.ac.uk/) project, with the ambitious goal of building a 'historical search engine' covering the early history of the UK web. This continues the work of the [Analytical Access to the Domain Dark Archive](http://domaindarkarchive.blogspot.co.uk/) project but at a greater scale, and moreover, with a much more challenging range of use cases.
 <!--break-->

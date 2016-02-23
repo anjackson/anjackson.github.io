@@ -386,8 +386,11 @@ a:focus {
   line-height: 1em;
 }
 
-#blue .subtitle, #blue .parent-link {
+#blue .subtitle, #blue .parent-link, #blue .subtitle a {
 	color: white;
+}
+#blue .subtitle a {
+	text-decoration: underline;
 }
 
 #blue .parent-link a {

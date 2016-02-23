@@ -2,16 +2,15 @@
 layout: post
 type: blog
 title: Towards a Macroscope for UK Web History
+subtitle: 
 author: anj
 category: mining-web-archives
 tags: ["Web Archives","BUDDAH","webarchive-discovery","Data Mining", "Publications"]
 shown: true
 ---
 
-As published [on the UK Web Archive blog](http://britishlibrary.typepad.co.uk/webarchive/2015/06/towards-a-macroscope-for-uk-web-history.html).
-<!--break-->
+As published <a href="http://britishlibrary.typepad.co.uk/webarchive/2015/06/towards-a-macroscope-for-uk-web-history.html">on the UK Web Archive blog</a>.
 
----
 _This is the rough script of the demonstration I gave at [IDCC15][6], with a few extra notes and details._
 <!--break-->
 
@@ -158,3 +157,6 @@ Other interesting searches:
 [^1]: Even now, as you'll see, our search response times are fairly slow (at least compared to something like a Google search) and, more problematically, the search service can be a little flaky under load. Which you may also soon see!
 [^2]: In particular,the way Tim Hitchcock presented the Macroscope at a recent presentation called [Big Data, Small Data and Meaning][3], here at the British Library Labs, has influenced how we frame our approach to this problem.
 [^3]: Users can also save their queries, and to create corpora based on those queries which can then be fine-tuned, weeding out the irrelevant hits. These corpora can be annotated and further queries can be restricted to those subsets alone.
+
+
+
