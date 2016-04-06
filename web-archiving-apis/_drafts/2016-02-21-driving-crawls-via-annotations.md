@@ -4,8 +4,6 @@ subtitle: Bringing domain and focussed crawling together
 author: anj
 layout: post
 shown: true
-sidebar-include: _wapi.md
-category:
 tags: ["Web Archives", "Digital Preservation"]
 ---
 

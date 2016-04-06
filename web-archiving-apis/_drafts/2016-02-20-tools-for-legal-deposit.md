@@ -4,8 +4,6 @@ subtitle: Shifting toward domain scale
 author: anj
 layout: post
 shown: true
-sidebar-include: _wapi.md
-category: web-archiving-apis
 tags: ["Web Archives","Digital Preservation"]
 ---
 

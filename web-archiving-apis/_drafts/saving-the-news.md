@@ -4,11 +4,31 @@ subtitle: Testing browser-based archiving to the limit
 author: anj
 layout: post
 shown: true
-sidebar-include: _wapi.md
-category:
 tags: ["Web Archive APIs"]
 ---
 
+Break
+<!--break-->
+
+Context, NPLD, news as a major resource, H3 crawl system. Requirement to harvest documents too.
+
+One problem, we were running daily stop-start crawls, carried over from 'focussed crawl' approach.  Big sites with frequently changing content need different tactics - we need a way to balance depth and frequency. Also applies to document heavy sites.
+
+Second problem was manageability of tools and process given staffing changes and available resources. Need much higher quality, but also the monitoring and manageability in place to know that it's working.
+
+Third, bigger problem was the final, utter failure of tools. We've been warning about this for long time, but it finally happened.
+
+The change at the BBC:
+
+This was fine :https://www.webarchive.org.uk/act/wayback/20150320152832/http://www.bbc.co.uk/news
+
+This was not fine: https://www.webarchive.org.uk/act/wayback/20150324131847/http://www.bbc.co.uk/news
+
+Responsive design, optimised for mobile first, but using JavaScript to enhance e.g. load in desktop stylesheets, higher resolution images, etc.
+
+Similar problems with The Guardian, 28/230 requests were served from Wayback. JavaScript for responsive behaviour or delayed loads is extremely common.
+
+responsive loads, JS, manual load balancing
 
 From PhantomJS rendered form:
 

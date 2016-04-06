@@ -4,12 +4,9 @@ subtitle: Outline
 author: anj
 layout: post
 shown: true
-sidebar-include: _wapi.md
-category:
+category: web-archiving-apis
 tags: ["Web Archive APIs"]
 ---
-
-
 
 
 Building W3ACT
@@ -67,7 +64,7 @@ I think this reflects the deeper issue. H3 is a more a ‘crawl kit’ than a cr
 -   Customise H3, e.g. modify the Frontier implementation.
 -   Use a different crawled-url DB (e.g. HQ).
 -   Scale out over multiple crawlers.
--   Use JMX for monitoring.
+-   Use JMX or similar tools for monitoring.
 
 And so the issue is that this doesn’t really fit the operating model we’re supposed to work under – i.e. a stable ‘service’ that requires developer knowledge to monitor/manage.
 
@@ -80,8 +77,20 @@ Platforms (from https://plus.google.com/+RipRowan/posts/eVeouesvaVX)
 - Separate components communicating over APIs, only.
 - Scale
 - Demand for monitoring, which ends up being automated QA.
+- [Choose Boring Technology](http://mcfunley.com/choose-boring-technology)
 
 c.f. <http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html>
+
+
+Crawler Description
+Seeds
+Scope
+CANDIDATE CHAIN - scoping and quotas
+FETCH CHAIN - includes extractors
+DISPOSITION CHAIN - includes deduplication, updates frontier with found links etc
+Sheets - e.g. allowing configuration to be tweaked for certain hosts.
+Various lifecycle, checkpointing, logging, reporting, stats, monitors, etc.
+
 
 
 Web Archiving APIs

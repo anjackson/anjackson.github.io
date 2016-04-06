@@ -31,6 +31,10 @@ All the approaches outlined here share a common assumption -- that the bitstream
 
 Kirshenbaum's perpertual re-creation is much closer to the National Archives of Australia's [performance model][8], which avoids the term 'digital object' altogether. Rather, it describes the digital record as a something performed by a process, built from a source.
 
+
+I really don’t like the term Digital Object and tend to stay away from it myself. Although most usage defines it as the bitstream(s), others use it to refer to the ‘performance’ (either directly or implicitly, by saying we preserve Digital Objects and then doing so by e.g. migrating the format, thus changing the bitstream) .  It also collides somewhat uncomfortably with the Digital Object as defined by the more widely known DOI system. To be honest, I’m really not clear what concrete advantage using the term Digital Object brings over the more accessible ‘digital files’, apart from (mere) compliance with preservation specifications.
+
+
 primacy such as:
 
 > Regardless of whether one is interacting with digital objects as distinct entities or interacting with representations that aggregate various sources, the process is highly mediated by hardware and software. 
