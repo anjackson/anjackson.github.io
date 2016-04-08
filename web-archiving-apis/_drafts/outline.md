@@ -91,6 +91,19 @@ DISPOSITION CHAIN - includes deduplication, updates frontier with found links et
 Sheets - e.g. allowing configuration to be tweaked for certain hosts.
 Various lifecycle, checkpointing, logging, reporting, stats, monitors, etc.
 
+Large chunks
+
+- Frontier
+- Persist Log
+- recentlySeen (if caching)
+- serverCache (caching DNS, robots.txt, and ???)
+
+80M     /heritrix/state/frequent/cookies
+263G    /heritrix/state/frequent/frontier
+455G    /heritrix/state/frequent/persist
+4.6G    /heritrix/state/frequent/recentlySeen
+2.9G    /heritrix/state/frequent/serverCache
+4.1M    /heritrix/state/frequent/statistics
 
 
 Web Archiving APIs
