@@ -69,8 +69,12 @@ We knew the growth in mobile browsing would change web archiving, and in this ca
 
 [![The Guardian on 31th March 2015]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/the-guardian-clipped.png)]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/the-guardian.png)
 
-
 We found similar problems with many sites, like The Guardian, even though their responsive design was more 'standard' and used e.g. the ```srcset``` attribute on images to provide different resolution versions.  Although the srcset image attribute [has been around since 2012][3] and [implemented widely since 2014][4], it's still not supported by Heritrix out-of-the-box and has only just become supported by OpenWayback ([in version 2.3.1][5]).
+
+[![Example of srcset from the HTML 5 standard]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/srcset-standard-example.png)]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/srcset-standard-example.png)
+
+[![Can I Use srcset?]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/can-i-use-srcset.png)]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/can-i-use-srcset.png)
+
 
 In summary, we needed a new crawl process that:
 
@@ -167,11 +171,7 @@ As the name implies, the first step in each crawl is now a browser-based rending
 
 Our long-running Heritrix crawl is configured to pull messages off this queue and push the URLs into the crawl frontier. At this point, we have broken our rule of having small, simple processes, and we're using Heritrix in quite a similar way to our earlier crawls. The way it runs and the way it queues and prioritises URLs has been modified to suite this continuous approach, but it's still a rather uncomfortably monolithic chunk that manages a lot of crawl state in a rather difficult to monitor way.
 
-Apart from the WARCs themselves, the main output of the crawler is the crawl log, and where we've adopted the so-called ELK stack (ElasticSearch, Logstash and Kibana), an off-the-shelf open source log indexing and visualisation system that lets us keep an eye on the overall crawl behaviour (been Monitrix in the past): <ICK
-
-...kibana...
-
-To complement these live statistics, we also configured Heritrix to push a message onto a further 'uris-to-index' queue after each resource is crawled. 
+To complete the workflow, we also configured Heritrix to push a message onto a further 'uris-to-index' queue after each resource is crawled. 
 
 [![Crawl System Crawl Stage 4]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/crawl-agents-4.png)]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/crawl-agents-4.png)
 
@@ -214,7 +214,7 @@ Overall, this more modular architecture is working well. Smaller components are 
 
 Unfortunately, although adding the render step has improved things, it's not good enough.
 
-...bbc...
+[![BBC News - wider but with missing images]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/bbc-news-improved.png )]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/bbc-news-improved.png)
 
 To really solve these issues, we need to capture the resources precisely as the web browser received them, rather than downloading them once from and then passing the URLs to Heritrix to be downloaded again. We also need to be able to run more pages through browser engines, which means we need to find a way of making Heritrix itself more modular and scaleable.
 
