@@ -74,6 +74,16 @@ H3
 - Queues out to ElasticSearch or some sorted key-value engine.
 - Extract H3 'brain' for separate stages and embed in a off-the-shelf framework
 
+To cope, we need crawl system that:
+
+- Scalable continuous crawling and re-crawling:
+    - *Delegate WARC writing to archiving proxies*
+    - *Push more pages through browser rendering engines*
+    - *Move complex state our of Heritrix and into separate scalable systems where possible*
+    - *Decompose Heritrix components and embed them in a standard distributed computing framework*
+    - *Make development and testing of new features easier*
+
+
 This presentation will revisit those challenges and explore the degree to which we have met or failed to meet them in the three years since then.  We will look at some of the problems the UK Web Archive found when crawling the dynamic, responsive web, and discuss our current tactics where we blend browser-based crawling with more traditional Heritrix crawls. Our approach will also be compared against the approaches used by other organisations.  We will then look at potential options for future development of our shared crawl capability, and call for coordinated effort among the web archiving community to prevent our tools falling even further behind.
 
 To give you an idea of the scale of the problem, out of 230 requests made when playing back this page, only 28 went through OpenWayback. The other 202 request leaked out into the live web.
