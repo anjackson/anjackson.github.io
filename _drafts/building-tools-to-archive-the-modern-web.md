@@ -29,11 +29,11 @@ Four years ago, during the 2012 IIPC General Assembly, we came together to discu
 
 I wish I could stand here and tell you how much great progress we've made in the last four years, ticking entries off this list, but I can't. Although we've made some progress, our crawl development resources have been consumed by more fundamental needs. We new moving to domain crawling under Legal Deposit would bring big changes in scale, but I'd underestimated how much the *dynamics* of the crawl workflow would need to change. 
 
-News websites are a great example. Under selective archiving, we would generally only archive specific articles, relating to themes or events. For example, since 2008, we had captured just 271 snapshots of BBC News pages.
+News websites are a great example. Under selective archiving, we would generally only archive specific articles, relating to themes or events. For example, since 2008, we had captured just 13 snapshots of BBC News home page.
 
 [![BBC News under selective archiving]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/bbc-news-visits-open-ukwa.png)]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/bbc-news-visits-open-ukwa.png)
 
-Under Legal Deposit, we expect to archive *every single news article*. This means we need to visit at least once a day, and ideally more frequently than that, while also going back and re-crawling everything at least once every few months in case the contents or presentation is changed.
+Under Legal Deposit, we expect to archive *every single news article*. This means we need to visit each news site at least once a day, and ideally more frequently than that, while also going back and re-crawling everything at least once every few months in case the contents or presentation is changed.
 
 [![BBC News under Legal Deposit]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/bbc-news-visits-ld-ukwa.png)]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/bbc-news-visits-ld-ukwa.png)
 
@@ -41,13 +41,13 @@ Our first large-scale 'frequent crawler' worked by re-starting the whole crawl j
 
 [![Daily crawl pulse]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/daily-pulse.png)]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/daily-pulse.png)
 
-One approach would have been to create many different crawl jobs for different combinations of sites, depths and frequencies, but this ran into our second problem - the poor manageability of our tools and workflows. Managing multiple overlapping jobs in Heritrix has proven to be awkward, needing a lot of manual intervention to move different jobs around in order to balance out resource usage over time.[^1] Multiple jobs are also more difficult to monitor effectively.
+One approach would have been to create many different crawl jobs for different combinations of sites, depths and frequencies, but this ran into our second problem - the poor manageability of our tools and workflows. Managing multiple overlapping jobs in Heritrix has proven to be awkward, needing a lot of manual intervention to move different jobs around in order to balance out resource usage over time.[^1] As well as being difficult to fully automate, multiple jobs are also more difficult to monitor effectively.
 
-We've learned that *everything* that can be scripted and automated *must* be done that way, in order to make the process explicit and repeatable.  We've also learned that *everything* must be able to be *seen* to be working. This is not just monitoring uptime or resources, but runs all the way up to automating quality assurance wherever possible.
+We've learned that *everything* that can be scripted and automated *must* be done that way, in order to make the process explicit and repeatable, and *everything* must be able to be *seen* to be working. This is not just monitoring uptime or resources, but runs all the way up to automating quality assurance wherever possible.
 
-However, while exploring how to improve our automated QA, we met the third problem. Our tools were failing us. Not only are they difficult to configure, manage and monitor, but they have fallen too far behind current web development practices. 
+However, while exploring how to improve our automated QA, we met the third problem. Our tools were failing to archive the web, making automated QA irrelevant. Not only are they difficult to configure, manage and monitor, but they have fallen too far behind current web development practices. 
 
-Those 'future web challenges' are now here.
+Many of those 'future web challenges' we talked about in 2012, are here, now.
 
 Here's the BBC News homepage on the 20th of March last year:
 
@@ -69,7 +69,7 @@ We knew the growth in mobile browsing would change web archiving, and in this ca
 
 [![The Guardian on 31th March 2015]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/the-guardian-clipped.png)]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/the-guardian.png)
 
-We found similar problems with many sites, like The Guardian, even though their responsive design was more 'standard' and used e.g. the ```srcset``` attribute on images to provide different resolution versions.  Although the srcset image attribute [has been around since 2012][3] and [implemented widely since 2014][4], it's still not supported by Heritrix out-of-the-box and has only just become supported by OpenWayback ([in version 2.3.1][5]).
+Changes in web design due to mobile usage appears to be common across the UK web. A more representative example comes from The Guardian, even though their responsive design was more 'standard' and used e.g. the ```srcset``` attribute on images to provide different resolution versions.  Although the srcset image attribute [has been around since 2012][3] and [implemented widely since 2014][4], it's still not supported by Heritrix out-of-the-box and has only just become supported by OpenWayback ([in version 2.3.1][5]).
 
 [![Example of srcset from the HTML 5 standard]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/srcset-standard-example.png)]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/srcset-standard-example.png)
 
@@ -92,7 +92,7 @@ To do this, we've changed our crawling process away from being based on crawl jo
 
 This architectural pattern, with relatively simple processes joined together with queues acting as buffers, is fairly common in mainstream distributed computing systems. As long as clear APIs are defined that describe how each microservice talks to the next, the individual components and be restarted, upgraded or replaced without bringing down the whole system. This chain of messages also provides a handy way of monitoring the overall progress of the crawler. This mindset also encourages a more modular design, where each component has a clear role and function, so that it's easier to understand what's happening and bring new developers up to speed.
 
-[![Crawl System Crawl Stage 1]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/crawl-agents-1.png)]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/crawl-agents-1.png)
+[![W3ACT BBC News Crawl Schedule]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/act-bbc-example.png)]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/act-bbc-example.png)
 
 The process starts with our annotation and curation tool. This is used by our staff to configure which sites should be visited on which frequencies, but unlike its predecessor, the Web Curator Tool, none of the more complex crawl logic is tightly bound to it. All it does is provide a crawl feed, which looks like this:
 
@@ -123,6 +123,8 @@ The process starts with our annotation and curation tool. This is used by our st
     ...
 ~~~
 
+[![Crawl System Crawl Stage 1]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/crawl-agents-1.png)]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/crawl-agents-1.png)
+
 A separate launcher process runs every hour, downloads this feed, and checks if any crawls should be launched in the next hour. If so, it posts the seeds of the crawl onto a message queue called 'uris-to-render'. It also posts a message to the 'uris-to-check' queue, which will be used to check if the crawl launched successfully.
 
 ~~~
@@ -145,7 +147,7 @@ A separate launcher process runs every hour, downloads this feed, and checks if 
 
 [![Crawl System Crawl Stage 2]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/crawl-agents-2.png)]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/crawl-agents-2.png)
 
-As the name implies, the first step in each crawl is now a browser-based rending step. Before we do anything else, we run the seeds through PhantomJS and attempt to capture a good rendering of the original site. We keep the rendered pages, and extract the embedded resources and the navigational links we can find. These are then passed on to a 'uris-to-crawl' queue.
+As the name implies, the first actual crawl activity is now a browser-based rending step. Before we do anything else, we run the seeds through an embedded web browser and attempt to capture a good rendering of the original site. We keep the rendered pages, and extract the embedded resources and the navigational links we can find. These are then passed on to a 'uris-to-crawl' queue.
 
 ~~~
 {
@@ -200,13 +202,13 @@ To complete the workflow, we also configured Heritrix to push a message onto a f
 
 This is very similar to the Heritrix crawl log, but in the form of a stream of crawl event messages, which are then submitted to a dedicated CDX server. This standalone component developed by the National Library of Australia provides a clear API for both adding as well as querying CDX data, and can cope with the submission of hundreds of URLs per second.
 
-[![Crawl System Crawl Stage 5]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/crawl-agents-5.png)]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/crawl-agents-5.png)
-
 Our QA Wayback is configured to use this real-time CDX server, and to be able to look at the WARC files that are currently being written as well as the older ones. This means that crawled resources become available in Wayback almost instantly. 
 
-Under our previous crawl procedure, we were only able to update the CDX index overnight, so this live feedback is a big improvement. It also allows the part of the workflow that extracts documents from the crawl to check that those documents are available before passing them back to W3ACT for cataloguing.
+[![Crawl System Crawl Stage 5]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/crawl-agents-5.png)]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/crawl-agents-5.png)
 
-Putting it all together, we have a robust crawl system where, depending on the complexity of the web site, the whole archiving process can complete in seconds.
+Under our previous crawl procedure, we were only able to update the CDX index overnight, so this live feedback is a big improvement for us. It also allows the part of the workflow that extracts documents from the crawl to check that they are available before passing them back to W3ACT for cataloguing.
+
+Putting it all together, we have a more robust crawl system where, depending on the complexity of the page, the whole process of rendering, archiving and making a seed available can complete in seconds.
 
 [![Live to Archived in 20 seconds]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/success-kid-archived-in-20-seconds.jpg)]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/success-kid-archived-in-20-seconds.jpg)
 
@@ -216,12 +218,12 @@ Unfortunately, although adding the render step has improved things, it's not goo
 
 [![BBC News - wider but with missing images]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/bbc-news-improved.png )]({{ site.baseurl }}/web-archiving-apis/images/iipc-ga-2016/bbc-news-improved.png)
 
-To really solve these issues, we need to capture the resources precisely as the web browser received them, rather than downloading them once from and then passing the URLs to Heritrix to be downloaded again. We also need to be able to run more pages through browser engines, which means we need to find a way of making Heritrix itself more modular and scaleable.
+To really solve these issues, we need to capture the resources precisely as the embedded web browser received them, rather than downloading them once from and then passing the URLs to Heritrix to be downloaded again. We also need to be able to run more pages through browser engines, which means we need to find a way of making Heritrix itself more modular and scaleable.
 
 To summarise, out of that big list of "future challenges" from 2012, the most critical ones we are facing right now are:
 
 - Rich, streamed media
-    - *Can often by captured, but tools are not integrated and storage and playback are problematic*
+    - *Can often by captured, but tools are not integrated and storage and playback are problematic and unstandardised*
 - Incremental display mechanisms
     - *Especially multi-platform 'responsive design'*
     - *The ```srcset``` attribute is still not supported by Heritrix3 out-of-the-box*
@@ -233,15 +235,17 @@ To summarise, out of that big list of "future challenges" from 2012, the most cr
 
 And I'd now add to the list:
 
-- SSL (almost) Everywhere
+- SSL more and more common
     - *OpenWayback support for SSL is poor out-of-the-box*
     - *and what of HTTP/2 around the corner?*
 
-We need a big push to improve our tools, and we are running out of time. Fortunately, my organisation is willing to put some funding behind solving this problem over the next two years. But we'd really rather not do this alone. 
+I know many of you have already face many or all of these issues in various ways, and I'd love to hear about the different tactics that you've been using.
+
+Because the we (the British Library) need a big push to improve our tools, and we are running out of time. Fortunately, my organisation is willing to put some funding behind solving this problem over the next two years. But we'd really rather not do this alone. 
 
 Whatever we do will be open source, but I'd really much rather be part of an *open source project*. Our tools and our results will be much better if we can find ways of pooling our resources, but more importantly, I think many of us enjoy working with our peers in other organisations. Simply put, open source projects are more fun, especially when you're working in a complex niche, like web archiving. Almost all of us are working in small teams or as individuals in much larger organisations, and I believe we can work best when work together.
 
-I'm hoping APIs and a more modular crawler architecture might make these collaborations easier to get off the ground. With this kind of collaboration in mind, the IIPC has dedicated some time for exploration and discussion of these issues tomorrow. Please do come along if you're interested in building tools together.
+I'm hoping APIs and a more modular crawler architecture might make these collaborations easier to get off the ground. There are two sessions tomorrow morning where we can explore the ways this kind of collaboration might work. Please do come along if you're interested in building tools together.
 
 Thank you.
 
