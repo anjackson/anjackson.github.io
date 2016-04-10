@@ -31,6 +31,59 @@ basic intro to how this works
 http://webcurator.cvs.sourceforge.net/viewvc/webcurator/WCTHarvestAgent/src/org/webcurator/core/harvester/agent/HarvestAgentSOAPService.java?view=markup
 
 
+The Dynamics
+============
+
+Last year, I showed you this graph. Is shows how much has been lost from the web over the years, and how much we've saved. 
+
+But that was last year, when I was the good cop.
+
+This year, I'm here to play the bad cop.
+
+In the old days, before Legal Deposit, and powered by the Web Curator Tool, we archived a few thousand websites, and the archiving activity was generally focussed around themes or events. Very long running crawls were rare. But under Legal Deposit, we don't just need to collect more sites, but we need to collect them more frequently as well as completely.
+
+News publications are an important part of the library's collections, and maintaining good coverage of the news is an important goal for us. As news has gone from print to broadcast, and then online, we have had to adapt in order to fulfil the reasonable expectation that we will preserve this important stream of information.
+
+Similarly, we need to capture official publications in new ways. Documents we used to get as regular and well-defined submissions in paper formats are now moving online, and so we need to find those documents to allow them to be catalogued and merged into the libraries collections. These documents need to be picked up shortly after publications, and these sites are often large and need to be captured completely.
+
+It's not just a way of coping with the scale of the work - it goes deeper than that - it's about ensuring the knowledge we need to run the system is made explicit.
+
+
+However, the Heritrix crawler itself remains difficult to manage and scale. We can add more parallel threads to a single Heritrix job, but we're finding this gets more brittle as we scale up. Of course, Heritrix does come with some distributed crawling support (the HashCrawlMapper, which we've used for domain crawls), but this does not allow the number of crawlers to be tuned up and down over time during a single crawl. We can live with this situation for now, but it prevents us from bringing significant improvements to the crawl process.
+
+More seriously, although running the renderer to capture the URLs has definitely improved the crawl quality, we're still not getting the results we want, due to differences between rendered form and archived capture. 
+
+...bbc...
+
+It is unfortunately rather common to embed session identifiers or other transient information in HTML pages and URLs, and this means the version of a page downloaded by Heritrix requires different URLs to the one the renderer saw. It's possible to counteract this by adding lots of brittle, site-specific crawl canonicalisation rules, but this is messy, complicates playback, and will break over time. The only solution that is manageable over the long term is to run the renderer behind an archiving proxy, and capture the resources precisely as the browser saw them.
+
+...with a proxy...
+
+If we're going to the trouble of having a scalable archiving proxy that can write our WARCs, then rather than maintain two separate stacks that do the same job, it makes more sense to move all the WARC writing out to the proxy and run Heritrix behind it too. This would allow us to snip a significant chunk of complexity out of Heritrix and reduce the amount of crawl status information being managed by the one process.[^1]
+
+...all with a proxy...
+
+To try to break the monolith down further, we are considering ways to move the frontier queues themselves out of Heritrix and into a standard database engine. If we can do this, it would them make sense to break Heritrix down into it's major components and look at ways of transplanting them into a standard distributed processing framework.  Multi-process and multi-threaded code is difficult to write and maintain, so it makes sense to use a proven system rather that write our own.
+
+
+Sketch ways H3 could be decoupled.
+
+H3
+- AlreadySeen cache -> redis, 
+- AlreadySeen and persistLog -> HBase/warcbase and/or Wayback?
+- Queues out to ElasticSearch or some sorted key-value engine.
+- Extract H3 'brain' for separate stages and embed in a off-the-shelf framework
+
+This presentation will revisit those challenges and explore the degree to which we have met or failed to meet them in the three years since then.  We will look at some of the problems the UK Web Archive found when crawling the dynamic, responsive web, and discuss our current tactics where we blend browser-based crawling with more traditional Heritrix crawls. Our approach will also be compared against the approaches used by other organisations.  We will then look at potential options for future development of our shared crawl capability, and call for coordinated effort among the web archiving community to prevent our tools falling even further behind.
+
+To give you an idea of the scale of the problem, out of 230 requests made when playing back this page, only 28 went through OpenWayback. The other 202 request leaked out into the live web.
+
+It's important to emphasis that this kind of thing does not only cause problems when playing-back the material in OpenWayback. Most of the time we never get these additional resource at all, and you can't play back what you don't have. Although H3 includes a module to perform smarter JavaScript extraction, we've not found them reliable, and using it has caused web site owners to block us.
+
+[^1]: Having said that, the warc-writing proxy itself becomes fairly complex, as it would also need to handle de-duplication and (for us at least) virus scanning too (because we prefer to scan mid-crawl and redirect the suspected viruses into a separate stream of WARC files). 
+
+
+
 Driving the Crawls
 ==================
 
