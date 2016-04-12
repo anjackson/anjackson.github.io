@@ -4,6 +4,9 @@ author: anj
 layout: post
 ---
 
+
+
+
 Why not emulation?
 It's been proven for decades? So what's the objection?
 Bearman? Nope.
