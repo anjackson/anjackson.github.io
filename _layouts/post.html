@@ -10,8 +10,6 @@ parent_link: /blog/
   
   {{ content }}
 
-{{ page.categories }}
-
 {% assign first_tag = page.categories | first %}
 {% if first_tag %}
 {% assign tagged_posts = site.categories[first_tag] %}

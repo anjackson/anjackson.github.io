@@ -28,3 +28,14 @@ May be possible to extract and re-export
     * Have to pull from web archive...
     * http://web.archive.org/web/20120324184958/http://www.clickheredesign.com.au/cubicconverter/
 * http://www.ptgui.com/
+
+
+https://support.apple.com/en-gb/HT201288
+
+QT 7 supports it, but not later versions.
+https://support.apple.com/kb/DL923?locale=en_GB
+"QuickTime Player 7 supports older media formats, such as QTVR, interactive QuickTime movies, and MIDI files on Snow Leopard and OS X Lion."
+
+https://www.webarchive.org.uk/shine/search?query=content_type_ext%3A%22qtvr%22&tab=results&action=search
+
+Also ID problem as sometimes just use .mov, e.g. the lounge examples.

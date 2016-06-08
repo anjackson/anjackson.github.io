@@ -8,6 +8,51 @@ category: web-archiving-apis
 tags: ["Web Archive APIs"]
 ---
 
+The Hammer and the Grain
+========================
+
+
+> “She taught me what her uncle once taught her:
+> How easily the biggest coal block split
+> If you got the grain and hammer angled right.”
+> <small>from [Clearances, Seamus Heaney](http://www.poetryfoundation.org/poem/247818)</small>
+
+This about SH mother, but reminds me of my father.
+Never great at it, but he taught me to understand the grain and the twist, and to look out for knotholes.
+Coding like scultpure
+Potential but unrealised, infinite space.
+Each character, cadence, line and block cuts through that space, chopping of possibilities, but making what remains more real.
+This is sculpting a processs, a practice, 
+And it becomes intangled with the processes around it, the users of it and of what it produces, for us, our catalogures, curators readersa nd researchers.
+
+But as the process becomes more real and more entangled, it's grain grows heavier and more twisted. It get's harder to find the lines where we can slice apart the complicit machines and repair, reform, transform. This dynamic underlies many of the problems many of our long-standing organisations face every day. Legacy systems, tangles of monoliths, all run through with human patterns and expectations.
+
+How does the carpenter cope with the grain of the wood? The joint. The clever interface that neatly knits divergent grain. And the sculpter, the textile-person(?!), the programmer all find their ways of working with the grain.
+
+WARC itself is a clever cleaving along a natural line.
+
+For technologists, one of these ways of working is the API. 
+
+What I've tried to do is to explore and understand the way many of the IIPC members use the web crawling tools. I've been trying to understand the grain, twist, and the knotholes of our tools and the processes they are embedded in within our institutions. Where should we place the chisel? At what angle should the hammer blow fall?
+
+Existing:
+- Wayback
+- H3 REST API
+- ...
+
+Bad APIs:
+- Conflict in crawling methodologies. Jobs, styles of jobs, continuous crawling, etc. Knots and twists, a lack of common practice in the details. It's not the place to strike, for now.
+
+Good API candidates:
+- PROXY
+- CDX SERVER
+- ...
+
+
+
+But software is a but different, again, we're making processes, not state, so we can make machines that make machines.
+
+and there is no better way to share practive than as code.
 
 Building W3ACT
 ==============
