@@ -5,6 +5,9 @@ layout: post
 ---
 
 
+> "Each network node stores only content it is interested in, ..."
+> https://ipfs.io/
+
 Why not emulation?
 It's been proven for decades? So what's the objection?
 Bearman? Nope.

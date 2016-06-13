@@ -30,6 +30,8 @@ Comparing these two sets of results, you immediately get a flavour for the share
 
 I believe routinely and systematically sharing this kind of information would be extremely useful, encouraging a more data-driven approach to tool development, and helping us to explore the relative strengths and weaknesses of various tools. As [Nick Krabbenhöft indicated](https://twitter.com/nkrabben/status/740649460804521988), there are some tools being developed in this area, and it would be good to see this kind of summary information being shared[^1].
 
+**UPDATE:** See also [this excellent comment](https://gist.github.com/bitsgalore/96423db2e3cb48e3c5d0cbc1bd41a85e) from [Johan van der Knijff](https://twitter.com/bitsgalore) that includes links to format profile results from the KB e-Depot.
+
 
 ## Aggregating format registries ##
 
