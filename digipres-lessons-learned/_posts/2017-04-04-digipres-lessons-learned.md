@@ -1,5 +1,6 @@
 ---
 title: "Digital Preservation: Lessons Learned?"
+subtitle: Ranting on Twitter never helped anybody, so let's try something different.
 category: digipres-lessons-learned
 tags: ["Digital Preservation", "Keeping Codes", "Lessons Learned"]
 layout: post
