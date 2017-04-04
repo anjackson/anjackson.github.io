@@ -19,7 +19,7 @@ parent_link: /blog/
 {% for post in sorted_posts %}
 
 {% if go_next %}
-<a class="btn btn-theme pull-right" href="{{ post.url }}" title="Next post in this series: {{ post.title }}">Next: {{ post.title  | truncate: 50 }} &raquo;</a>
+<a class="btn btn-theme pull-right" href="{{ post.url }}" title="Next post in this series: {{ post.title }}">Next post in this series: {{ post.title  | truncate: 50 }} &raquo;</a>
 {% assign go_next = false %}
 {% endif %}
 
@@ -33,7 +33,7 @@ parent_link: /blog/
 {% for post in sorted_posts reversed %}
 
 {% if go_next %}
-<a class="btn btn-theme pull-left" href="{{ post.url }}" title="Previous post in this series: {{ post.title }}">&laquo; Previous: {{ post.title  | truncate: 50 }}</a>
+<a class="btn btn-theme pull-left" href="{{ post.url }}" title="Previous post in this series: {{ post.title }}">&laquo; Previous post in this series: {{ post.title  | truncate: 50 }}</a>
 {% assign go_next = false %}
 {% endif %}
 
@@ -66,7 +66,7 @@ parent_link: /blog/
         <div class="pull-right">
         {% if page.next.url %}
         {% if page.next.shown != false %}
-                <a href="{{page.next.url}}" title="next Post: {{page.next.title}}">{{page.next.title}} &raquo; </a>
+                <a href="{{page.next.url}}" title="Next Post: {{page.next.title}}">{{page.next.title}} &raquo; </a>
         {% endif %}
         {% endif %}
         </div>

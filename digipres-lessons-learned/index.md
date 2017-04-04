@@ -8,8 +8,72 @@ publish: false
 ---
 
 
+Learned
+- object is performance 
+- format is interpretation 
+- format identification links bitstreams to the software and people that understand them
+- format is communication
+- format grammar is not is
+- format language can be built: http://anjackson.net/keeping-codes/practice/talking-about-formats.html
+    - Hence, PREMIS uses its own definition: a specific, preestablished
+    - structure for the organization of a digital file or bitstream. 
+    - https://www.loc.gov/standards/premis/v3/premis-3-0-final.pdf
+- PRONOM can be embedded in mime tree
+- ways to help tools
+- non-consumptive datasets for signatures 
+- registries don't overlap much
+- The bottleneck is (almost) always the disk
+- Sometimes MD5 is faster than SHA256
+- We don't know what we are:
+    - Springing from e.g. newcomer not being aware of NLA Performance model.
+    - Poor coherence of reading/background/established work
+    - Disagreement between iPres attendees
+    - Do ug/pg courses act to bring coherence? Can textbooks?
+- NLA were right (pretty much)
+- The DP/IT interface is fraught but critical.
+    - Some digipres requirements can seem insane, but others are insane.
+
+
+
+It's also been interesting to compare the web archiving community with the broader digital preservation community. There's many familiar faces due to the strong overlap between the fields, but there's also a stronger sense of a unified vision, a preference for practical results, and a more constructive colllaboration between researchers and content-holding organisations. On the flip-side, there is something of a silo effect, where web archive material is often poorly integrating into the bigger picture, both in the abstract (e.g. the bigger picture of digital preservation) and the concrete (e.g. we're only just learning how to integrate web archives with our other holdings).
+
+
+- Architects and Engineers
+    - Environment, neutral/abstract versus specific
+    - Lingia Franca - No-ones language versus language of work. Esperanto or English.
+    - Structured data verses entensible+free form.
+    - Waterfall versus Agile/Ingest and Iterate.
+    - 
+
+
+ - PDF encryption is weird
+
+ - how fast can you hash?
+
+```
+dd if=/dev/zero bs=1M count=1000 | openssl dgst -sha512
+ 
+# dd if=/dev/zero bs=1M count=1000 | openssl dgst -sha512
+1000+0 records in
+1000+0 records out
+1048576000 bytes (1.0 GB) copied, 3.94019 s, 266 MB/s
+(stdin)= a7d483bb9af2ca4b064420d1911d9116b6b609ca312fd7ed919fc1b8be7d1eb57c46f2a6f13380b6dc38f024d17442b4c7b8ecb8c121dc88227d588fc2e04297
+# hdparm -tT /dev/sda1
+/dev/sda1:
+ Timing cached reads:   17696 MB in  2.00 seconds = 8861.16 MB/sec
+ Timing buffered disk reads: 332 MB in  3.01 seconds = 110.42 MB/sec
+[root@crawler06 python-shepherd]# dd if=/dev/zero bs=1M count=1000 > /dev/null
+1000+0 records in
+1000+0 records out
+1048576000 bytes (1.0 GB) copied, 0.0997883 s, 10.5 GB/s
+```
+
+- Intros to using [PDFDebugger](https://pdfbox.apache.org/2.0/commandline.html#pdfdebugger) and iText RUPS
+- Backwards and forwards compatibility and validation.
+    - http://anjackson.net/keeping-codes/experiments/does-jhove-validate-pdfa-files.html
+    - http://www.pdfa.org/wp-content/uploads/2014/12/PDF_A_JHOVE_Friese_28112014_en1.pdf http://www.pdfa.org/2014/12/ensuring-long-term-access-pdf-validation-with-jhove/
 - Big metadata is a bad smell
-- Identification changes over time
+- Identification changes over time, PUIDs are not forever
 - Formats identification is a guessing game
     - text encoding heuristics [file's encoding.c](https://github.com/file/file/blob/master/src/encoding.c)
 

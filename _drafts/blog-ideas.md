@@ -4,6 +4,218 @@ author: anj
 layout: post
 ---
 
+WARC extract one file:
+- If you are on a Mac, The Unarchiver supports WARCs: https://unarchiver.c3.cx/formats
+- Alternatively, the jwattools extract command lets you extract the payload for a particular URI: https://sbforge.org/display/JWAT/JWAT-Tools Run 'jwattools help extract' to see how it works.
+- Or, use Python Wayback (https://github.com/ikreymer/pywb) to set up a local service that plays the WARC content back.
+- [r/Archiveteam - How to extract warc files?](https://www.reddit.com/r/Archiveteam/comments/5mdv4u/how_to_extract_warc_files/)
+
+Fake News
+- http://www.dailymail.co.uk/news/article-4120970/Opera-star-Andrea-Bocelli-backs-singing-Trump-s-inauguration-receiving-death-threats.html (unidentified source)
+- https://www.nytimes.com/2016/12/20/arts/andrea-bocelli-wont-be-singing-at-the-trump-inauguration.html?_r=1 (much older)
+- https://www.google.co.uk/search?hl=en&q=bocelli+death+threat (generated from the Mail's report)
+
+ATI System Research Agenda 2.0
+
+Agenda: http://www.cl.cam.ac.uk/~jac22/ati-systems-2.0.txt
+
+- Tension between custom HW/FPGA arrays and Intel Phi Throw More CPU At IT.
+- iPython notebooks or growing their own.
+- Some minority interest in sharing results, reproducibility and a hint of long-term preservation concerns.
+
+Boris Grut, Edinburgh Informatics
+- Much data, e.g. sensor data volumes (amenable to specialised compression?)
+- Moore's Law is dead (either physics or economics will kill it)
+- End of Dennard scaling (i.e. power consumption no longer going down)
+- Argues for specialised vertical stacks.
+- Every system different, poor portability across stacks.
+- But each stack can be heavily optimised to a domain.
+- DSL -> Transistors
+- e.g. Oracle Project RAPID. DB appliance, DB ops in hardware, querying 10TB/s.
+- Project 'Catapult'? FPGA board, hard to program.
+- Google Tensor Processing Unit - slightly mysterious dedicated HW accellerator.
+- (GPU as an old example)
+
+Andrew Mallinson, Intel
+- Xeon Phi.
+- (see EPCC blog)
+- Performance future is in parallelism.
+- Serial portion of code needs to be minimised.
+- Audience - Big Data is usually as parallel as the data is big. (not quite convinced - tail wagging dog?)
+- Pitching a propriatary 'child of Infiniband' which they bought.
+- Big fat chips, no more density (or rather, slowing rate of adoption of lower nm process)
+- But lots more on a 'package', more specialised RAM on/near the chip, dedicated fast near I/O to network stuff.
+
+Maxeler Dataflow Computing
+- Memory Wall? Power Wall.
+- Idea remixed from Shannon, fix the power envelope, how much performance can we get out?
+- A vertical, from maths down to transistors.
+- Not focused on the acceleration/optimisation, but on the question, e.g. is there a cow in this picture.
+- See OpenSPL
+- Some properitary (possibly sub-Turing complete) language that compiles to hardware, presumably FPGA.
+- General smell of snake oil/BS. Especially the 8 hours to 2 mins financial risk analysis example. (likely Excel to code).
+
+Christophe Dubeata, Edinburgh Informatics
+- Programming appproaches for heterogenous architectures
+- Accellerators come and go
+- Want a small language that compiles down to parallel/accellerator HW.
+- Their approach auto-optimises by random-walking the possible implementation space.
+- Heirarchy of tactics to make exploring the space more efficient.
+- Symbolic manipulation used to refactor code without changing semantics
+- DSL for dataflow/functional data processing.
+- Cache geometries for particular problems
+- (Q Can FPGAs model cache?)
+- Q on 'what happens when place-and-route fails' i.e. you run out of FPGA space. 
+- (Akin to the old days where you run out of RAM. I content this will not go mainstream until there is ample FPGA so that 'running out' is rare, OR we get the hang of semi-auto-selecting the subset of a code that should be shifted onto the FPGA.)
+- Q raising general problem of data affinity/topology optimisation.
+- 'Abstraction is the opposite of performace'
+- Discussion on removing laters of abstraction.
+- e.g. compiler picking the right abstration layer
+- e.g. multi-node synthesis of code, i.e. large FGPA array programming as an problem to be attacked.
+- (HTTP-over-UDP and that binary-transfer-over-UCP protocol are examples of removing a layer of abstraction in order to increase performance)
+
+Anton Lokhmotov of dividiti.com
+- e.g. Convolutional Neural Nets in cars.
+- Need to deploy model and weights on a range of HW.
+- Jupyter notebook sighted.
+- Comparing AlexNet, GoogleNet, SqueezeNet implementations.
+- reuse of intermediates needed
+- ctuning/ck on GitHub.
+- experimental results and analyssis, reearch more efficient.
+- cknowledge.org
+- (Sharing via Jupyter is a good DigiPres plan).
+- Q notes workshop on Debugging and Debunking at a CS conference. Open working noted as a less confrontational tactic, which may work better in a small community that debunking.
+- see also 'The Incredibles' - a debunking paper on network benchmarking.
+- ATI students starting on reproduction.
+- See also, artefact evaluation committee.
+
+Intel (second presenter)
+- Si/Ge transition, c. 2019-2022.
+- 3D scaling as new direction.
+- Looking at Top 500 customers.
+
+Pure Storage
+- 4U 16TB
+- Backup does not scale - need replication.
+- Isilon/traditional systems hard to scale, lots of cable mess. Cables/TB as complexity metric.
+- They offer extremely dense storage.
+- Essentially a very large SSD with an Object Store API.
+- 15 blades in a chassis, 4 power and 8 QSFP network cables.
+- Flash sounds awful, need to re-write to keep data.
+- e.g. 1KB of EEC per 1/2KB of data!
+- 16TB * 3 per blade, this only gets you to 840TB so I'm missing something.
+- Moves SSD controler complexity up to the server layer, with a big dumb flash array underneath.
+- Apparently 100 USD/GB.
+- Erasure coding, can lose two blades.
+- Custom code that does the replication etc. (of course)
+- Optimistic two-phase-commit-but-only-checked-if-something-goes-awry.
+
+James Cheney
+- PL for DS
+- fairly close to maths
+- SQL API to modern DSLs. querycert compiling to Scala/Spark
+- Concern about long-term preservation
+- Reproducibility problem, 36% AC/m 2012 artefact evaluation committee result.
+- http://osf.io/bcef5/
+- (note sharing/network effects are key to preservation)
+- 'Big' provenance - Analysing stream of system audit events, looking for signals of e.g. hacks.
+- Puppet, heavily inherited configurations, difficult to analyse.
+- Notes difficulty in hiring PL+Systems+DB skills needed (looks like a Unicorn problem to me).
+- Others not 'detectic brokenness' as high-priority skill.
+- Note of history of error correction in the ALU/processing layer.
+- Suggest expert evaluation of DSL.
+
+Philip Walker
+- On "Quoted Domain Specific Languages"
+- SQL example ported into F#
+
+Day 2
+=====
+
+NOTE Heath data has restricted terminals, ask John? Maybe not as this implies I'm listening.
+ATI student model means research agenda is a bit confused at present.
+Docker, but with specialised code unikernels i.e. discarding the OS.
+Very high performance, but very small scale.
+Parallel to specialised HW versus general.
+Worse is better?
+Director: Trying to pin down a tighter research program.
+
+Desire for advances in CS that make this more secure.
+
+Peter Pietzuch on SCONE
+- More secure cloud applications, esp microservices in containers.
+- Can SGX be used to secure these containers.
+- Just accepted as OSDI'16.
+- Enclaves, regions of memory dedicated to a particular process.
+- Userspace process, not priviledged, so kernel etc is not affected.
+- Even with physical access to the machine, Enclave RAM is encrypted and hard to access.
+- Cryptographically signed images are used to bootstrap into the enclave.
+- No system calls?! (Kernel is untrusted)
+- Performance overhead.
+- Entering/leaving the enclave is costly.
+- Haven approach, applied to Linux via Linux Kernel Library which runs the kernel in userspace. Very heavy (make a big 'TCB')
+- Alternative approach with a specialised libc, much more lightweight, but every system call crosses the enclave boundary.
+- Large (>92MB) memory, encryption overhead explodes.
+- 32MB read performance drop something to do with the non-Enclave baseline?
+- SCONE inserts a layer underneath a vanilla libc, managing the raw POSIX API calls.
+- Trusted Computing Base
+- Proof-carrying code 
+- SCONE:
+    - User-level M:N threading done inside the enclave, reduce enclave boundary crossings.
+    - Batches system calls for asynchronous execution (some user-code waits of course, Thread WAIT)
+    - Also adds TLS wrapping when the process opens a socket, so can link enclaves to clients securely.
+    - Also compatible with Docker containers, sign the docker image, then can use untrusted Docker tools and hosting.
+- Can get decent performance, but very dependent on system call frequency and memory movements.
+- Yesterdays point about 'synthetic benchmarks' versus 'application benchmarks'.
+- ARM has TrustZone which is very similar, I imagine iOS uses this.
+
+Manuel Costa - MS Research Cambridge
+- VC3 protects MapReduce computations from untristed cloud
+- Integrity and confidentiallty.
+- Intel SGX again.
+- Not sure how to to minimise the TCB.
+- How to guarentee integrity of whole computation. Integrity.
+- Map and Reduce functions are what goes in the enclave, encrypted and bound to small amount of public code.
+- Public code binds secure code to the untrusted Hadoop framework.
+- Compilers that instrument memory access so we can tell if secrets leak, backed up by static verifier that analyses the binary.
+- Fine-grained memory access control inside the enclave.
+
+
+----
+
+ATI Meeting For Adam
+--------------------
+
+- DLS about 600TB but 3PB waiting...
+- Lots of JP2, ALTO, all sorts of stuff. 40+40+70+70
+- Comparison of holdings via catalogue against what's digitised. Some old analogue catalogue records too, that need work.
+- Cataloguing standards have shifted and changed over time.
+- These days also catalogue remote accessible material.
+- Purchase of additional copies of NPLD material also common.
+- Getting to stuff:
+    - Copyright, can't copy some stuff. 10% as a policy/rule of thumb.
+    - Data protection, esp. personal archives.
+    - Embargoed content, not much.
+    - Legal deposit material. Print constraints have been mapped to digital.
+    - Orphan works, creates uncertainty about our liabilities. 
+    - Unpublished manuscripts are in (c) even if very old, until 2039.
+    - Substitability, N-Grams, etc.
+- ATI counts as on-site!
+- Does an authors code running on-site count? Does VPNing in count? Adam proposes we build-up case studies rather than wait for the lawyers.
+- Use cases
+    - CNNs on images
+    - Similar techniques to analyse music, needs GPUs for accelleration. So dropped a server on site for it! Probably still on site! Needed to shift content over on disks. 
+        - Can we shift over pre-processed down-sampled images?
+    - 
+
+
+- WARCs only c. 310TB...
+- James Ravenscroft, Maria Liakata's PhD student, on Impact traces in web data c. 2013.
+
+
+----
+
+----
 
 > "Each network node stores only content it is interested in, ..."
 > https://ipfs.io/

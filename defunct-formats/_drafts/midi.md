@@ -35,7 +35,7 @@ SO. wax not marked as isSpecializationOf in Tika sig file, so identification fai
 
 http://web.archive.org/web/*/http://merlin.legend.org.uk/~simeond/*
 
-UADE http://zakalwe.fi/uade/download.html
+uade http://zakalwe.fi/uade/download.html
 
 > Looking it up, it seems it’s the latter - js is the guy who sequenced it, and he put that line in other songs he covered in MOD.
 > https://twitter.com/mistydemeo/status/568553636504080384

@@ -26,39 +26,39 @@ But the one I get is the one in the page...
 
 ## Walkthrough: Enabling the IPIX Java Plug-In ###
 
-![IPIX]({{site.baseurl}}/understanding-obsolescence/ipix/Screen Shot 2014-08-26 at 11.53.34.png)
+![IPIX]({{site.baseurl}}/defunct-formats/ipix/Screen Shot 2014-08-26 at 11.53.34.png)
 
-![IPIX]({{site.baseurl}}/understanding-obsolescence/ipix/Screen Shot 2014-08-26 at 11.53.51.png)
+![IPIX]({{site.baseurl}}/defunct-formats/ipix/Screen Shot 2014-08-26 at 11.53.51.png)
 
-![IPIX]({{site.baseurl}}/understanding-obsolescence/ipix/Screen Shot 2014-08-26 at 11.53.59.png)
+![IPIX]({{site.baseurl}}/defunct-formats/ipix/Screen Shot 2014-08-26 at 11.53.59.png)
 
-![IPIX]({{site.baseurl}}/understanding-obsolescence/ipix/Screen Shot 2014-08-26 at 11.54.01.png)
+![IPIX]({{site.baseurl}}/defunct-formats/ipix/Screen Shot 2014-08-26 at 11.54.01.png)
 
-![IPIX]({{site.baseurl}}/understanding-obsolescence/ipix/Screen Shot 2014-08-26 at 11.54.07.png)
+![IPIX]({{site.baseurl}}/defunct-formats/ipix/Screen Shot 2014-08-26 at 11.54.07.png)
 
-![IPIX]({{site.baseurl}}/understanding-obsolescence/ipix/Screen Shot 2014-08-26 at 11.54.16.png)
+![IPIX]({{site.baseurl}}/defunct-formats/ipix/Screen Shot 2014-08-26 at 11.54.16.png)
 
-![IPIX]({{site.baseurl}}/understanding-obsolescence/ipix/Screen Shot 2014-08-26 at 11.54.58.png)
+![IPIX]({{site.baseurl}}/defunct-formats/ipix/Screen Shot 2014-08-26 at 11.54.58.png)
 
-![IPIX]({{site.baseurl}}/understanding-obsolescence/ipix/Screen Shot 2014-08-26 at 11.55.09.png)
+![IPIX]({{site.baseurl}}/defunct-formats/ipix/Screen Shot 2014-08-26 at 11.55.09.png)
 
-![IPIX]({{site.baseurl}}/understanding-obsolescence/ipix/Screen Shot 2014-08-26 at 11.55.13.png)
+![IPIX]({{site.baseurl}}/defunct-formats/ipix/Screen Shot 2014-08-26 at 11.55.13.png)
 
-![IPIX]({{site.baseurl}}/understanding-obsolescence/ipix/Screen Shot 2014-08-26 at 11.55.20.png)
+![IPIX]({{site.baseurl}}/defunct-formats/ipix/Screen Shot 2014-08-26 at 11.55.20.png)
 
-![IPIX]({{site.baseurl}}/understanding-obsolescence/ipix/Screen Shot 2014-08-26 at 11.55.25.png)
+![IPIX]({{site.baseurl}}/defunct-formats/ipix/Screen Shot 2014-08-26 at 11.55.25.png)
 
-![IPIX]({{site.baseurl}}/understanding-obsolescence/ipix/Screen Shot 2014-08-26 at 11.55.47.png)
+![IPIX]({{site.baseurl}}/defunct-formats/ipix/Screen Shot 2014-08-26 at 11.55.47.png)
 
-![IPIX]({{site.baseurl}}/understanding-obsolescence/ipix/Screen Shot 2014-08-26 at 11.56.01.png)
+![IPIX]({{site.baseurl}}/defunct-formats/ipix/Screen Shot 2014-08-26 at 11.56.01.png)
 
-![IPIX]({{site.baseurl}}/understanding-obsolescence/ipix/Screen Shot 2014-08-26 at 11.56.05.png)
+![IPIX]({{site.baseurl}}/defunct-formats/ipix/Screen Shot 2014-08-26 at 11.56.05.png)
 
-![IPIX]({{site.baseurl}}/understanding-obsolescence/ipix/Screen Shot 2014-08-26 at 11.56.07.png)
+![IPIX]({{site.baseurl}}/defunct-formats/ipix/Screen Shot 2014-08-26 at 11.56.07.png)
 
-![IPIX]({{site.baseurl}}/understanding-obsolescence/ipix/Screen Shot 2014-08-26 at 11.56.11.png)
+![IPIX]({{site.baseurl}}/defunct-formats/ipix/Screen Shot 2014-08-26 at 11.56.11.png)
 
-![IPIX]({{site.baseurl}}/understanding-obsolescence/ipix/Screen Shot 2014-08-26 at 11.56.15.png)
+![IPIX]({{site.baseurl}}/defunct-formats/ipix/Screen Shot 2014-08-26 at 11.56.15.png)
 
-![IPIX]({{site.baseurl}}/understanding-obsolescence/ipix/Screen Shot 2014-08-26 at 11.56.51.png)
+![IPIX]({{site.baseurl}}/defunct-formats/ipix/Screen Shot 2014-08-26 at 11.56.51.png)
 

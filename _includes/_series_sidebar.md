@@ -10,7 +10,7 @@
 {% for post in sorted_posts reversed %}
 
 {% if go_next %}
-<a class="btn btn-theme" href="{{ post.url }}" style="width:49%" title="Previous post in this series: {{ post.title }}">&laquo; Previous in this series</a>
+<a class="btn btn-theme" href="{{ post.url }}" style="width:49%" title="Previous post in this series: {{ post.title }}">&laquo; Previously in this series</a>
 {% assign go_next = false %}
 {% endif %}
 

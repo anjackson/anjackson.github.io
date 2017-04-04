@@ -1,8 +1,11 @@
 ---
 title: Frontiers in Format Identification
 category: digipres-lessons-learned
+tags: ["Format Registry", "Digital Preservation", "Collaboration"]
 layout: post
 author: anj
+shown: true
+sidebar-include: _ll.md
 ---
 
 I came to work on digital preservation through [the PLANETS project](http://www.planets-project.eu/), and later [the SCAPE project](http://scape-project.eu/) (for the first year) before moving over to web archiving. These were inspiring projects which achieved a great deal, but we were left with lessons to be learned.
