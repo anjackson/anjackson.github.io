@@ -1,5 +1,6 @@
 ---
-title: "Don't say 'Digital Object'"
+title: "Don't say Digital Object"
+subtitle: We preserve processes
 category:
 tags: ["Keeping Codes", "Lessons Learned"]
 layout: post
@@ -8,6 +9,8 @@ shown: true
 series-position: 30
 sidebar-include: _ll.md
 ---
+
+[particularly from 0:24s in, as the loading screen loads](https://youtu.be/V0EfycbDhiw?t=24s)
 
 What do we mean by 'digital object'? 
 
@@ -31,6 +34,9 @@ All the approaches outlined here share a common assumption -- that the bitstream
 
 Kirshenbaum's perpertual re-creation is much closer to the National Archives of Australia's [performance model][8], which avoids the term 'digital object' altogether. Rather, it describes the digital record as a something performed by a process, built from a source.
 
+> ???
+> <small>[‘Nothing is the same as something else’: significant properties and notions of identity and originality](http://discovery.ucl.ac.uk/1318039/3/1318039.pdf)</small>
+
 
 I really don’t like the term Digital Object and tend to stay away from it myself. Although most usage defines it as the bitstream(s), others use it to refer to the ‘performance’ (either directly or implicitly, by saying we preserve Digital Objects and then doing so by e.g. migrating the format, thus changing the bitstream) .  It also collides somewhat uncomfortably with the Digital Object as defined by the more widely known DOI system. To be honest, I’m really not clear what concrete advantage using the term Digital Object brings over the more accessible ‘digital files’, apart from (mere) compliance with preservation specifications.
 
@@ -47,6 +53,8 @@ Behind the 'performance', the bytes in flight.
 Any model that seeks to describe digital resources as they are, rather than as we might wish them to be, must understand the distinction. Otherwise, we are left with a framework that cannot describe the most basic acts of digital preservation: 'Save as..' and 'Load...'. Only the NAA performance model comes close.
 
 ![Ce ne sont pas un objet numérique.]({{site.url}}/blog/images/ll/notado.png)
+
+
 
 
 [1]: http://public.ccsds.org/publications/archive/650x0m2.pdf

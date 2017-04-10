@@ -1,7 +1,7 @@
 ---
-title: "It started with a glitch"
+title: "Unsafe Device Removal"
 subtitle: "An experiment in digital destruction"
-category:
+category: digipres-lessons-learned
 tags: ["Digital Preservation", "Keeping Codes", "Lessons Learned"]
 layout: post
 author: anj
@@ -16,8 +16,8 @@ Let's start with an experiment...
 
 For this experiment, you will need:
 
-1. An USB flash drive of little importance. One of those old 256MB ones you got from that conference will do.
-2. A copy of a  digital file of great importance. Any format will do, as long as it's in a format you can open.
+1. An USB flash drive of little importance. One of those old sub-GB ones you got from that conference will do.
+2. A copy of a digital file of great importance. Any format will do, as long as it's in a format you can open.
 
 
 I'm going to use this drive:
@@ -31,10 +31,10 @@ I'm going to use this drive:
 ## Method ##
 
 1. Copy the test file to the USB flash drive. *Do not use your only copy of the precious file!*
-2. Open up the test file from the USB drive, as you usually would.
+2. Open up the test file from the USB drive, as you usually would (i.e. using the usual app for that format).
 3. Pull out the USB flash drive. *Do Not Eject It Properly!* **Just yank it right out!**[^1]
     * **Optional:** [Throw the USB drive into a blender and destroy it utterly](https://www.youtube.com/watch?v=y2eNhPC8wCQ).
-4. Observe what happens next.
+4. Observe what happens.
 
 
 ## Results ##
@@ -57,14 +57,14 @@ When I [tried this with Apple Preview](https://www.flickr.com/photos/anjacks0n/s
 
 ![Apple Preview Says No]({{site.url}}/digipres-lessons-learned/images/save-as/save-as-preview-says-no.png)
 
-It seems the rendered image was still stored in somewhere in the computer's memory, but the only way to save it seemed to be as a desktop screenshot.
+The only way to save it seemed to be as a desktop screenshot, which I would then need to crop to get back an acceptable image.
 
 But re-running the same experiment with image editing software (specifically the [GIMP](http://www.gimp.org/)), I could press 'Save as...' and a new bitstream was written. Not *exactly* the same as the original, but good enough.[^3]
 
 
 ## Over to you ##
 
-I'd be fascinated to know what happens on other platforms and with other software, so please get in touch if you've tried this. I'd also be curious to know how the format alters the results. For example, I'd expect document formats to generally be save-as-able, but audio or video generally not. If anyone has any results to share, I'll collect them together into a follow-up post.
+I'd be fascinated to know what happens on other platforms and with other software, so please get in touch if you've tried this. I'd also be curious to know how the choice of format affects the outcome. If anyone has any results to share, I'll collect them together in a follow-up post.
 
 ----
 

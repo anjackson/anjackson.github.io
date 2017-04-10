@@ -7,18 +7,31 @@ status: stub
 publish: false
 ---
 
+Lessons Learned
+- Unsafe Device Removal: an experiment in digital destruction
+- Access starts with 'Loading...': What a performance!
+    - jetpac is loading - the closest I can get to a digital object
+- Don't say Digital Object: We preserve processes
+- It starts with Save As...
 
-Learned
-- object is performance 
-- format is interpretation 
+- Spectrum load music and in-band signalling. Out of band signalling and tape covers.
+    - http://faqwiki.zxnet.co.uk/wiki/Spectrum_tape_interface
+
+- Format is interpretation - multi-format files - format grammar 'is' is not enough
+- No digital object necessary: The Australians had the right idea all along
 - format identification links bitstreams to the software and people that understand them
-- format is communication
-- format grammar is not is
+- format is communication Communicating with the Future
 - format language can be built: http://anjackson.net/keeping-codes/practice/talking-about-formats.html
     - Hence, PREMIS uses its own definition: a specific, preestablished
     - structure for the organization of a digital file or bitstream. 
     - https://www.loc.gov/standards/premis/v3/premis-3-0-final.pdf
 - PRONOM can be embedded in mime tree
+
+- Preservation without access is like a backup you've never tested
+    - Preservation Copies are like backups you never test
+    - Access is what we are preserving
+    - Mocking up/thinking through how access might work is necessary. Say staff-access for spot-checking.
+- Closed tools are dead provenance
 - ways to help tools
 - non-consumptive datasets for signatures 
 - registries don't overlap much

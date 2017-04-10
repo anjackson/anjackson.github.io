@@ -18,3 +18,16 @@ But surely the latter is closer to what we really mean to preserve? Who cares wh
 This confusion peaks when it comes to defining the 'significant properties' of these objects, and in the worst cases, lead to property models built on a mish-mash of bitstream properties and properties observed during use.
 
 
+
+[1]: http://public.ccsds.org/publications/archive/650x0m2.pdf
+[2]: http://www.ils.unc.edu/callee/p507-lee.pdf
+[3]: http://www.clir.org/pubs/reports/pub107/thibodeau.html
+[4]: http://www.digitalhumanities.org/dhq/vol/7/1/000151/000151.html
+[5]: http://firstmonday.org/ojs/index.php/fm/article/view/3033/2564
+[6]: https://twitter.com/digitalfay/status/604202789846302720
+[7]: http://www.bitcurator.net
+[8]: http://www.naa.gov.au/Images/An-approach-Green-Paper_tcm16-47161.pdf
+[9]: http://digitalpowrr.niu.edu/
+[10]: http://www.facetpublishing.co.uk/title.php?id=049580#.VYnU4-ds6N4
+[11]: http://www.dlib.org/dlib/july00/eppard/07eppard.html
+[12]: http://www.dpconline.org/advice/preservationhandbook/introduction/definitions-and-concepts
