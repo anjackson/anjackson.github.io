@@ -19,7 +19,7 @@ I'd like you to watch the following video. Please, listen to the sweet 'music' o
 
 I particularly like the bit from [about 0:24s in, as the loading screen loads](https://youtu.be/V0EfycbDhiw?t=24s). First, we can see a monochrome image being loaded, section-by-section with individual pixels flowing in, row after row. The ones and zeros you can see are the same one as the ones you can hear, but they are being passed from the tape, through the computers [CPU](https://en.wikipedia.org/wiki/Central_processing_unit), and being stored in a special part of the [machine's](https://en.wikipedia.org/wiki/ZX_Spectrum) memory, called the [screen memory](http://whatnotandgobbleaduke.blogspot.co.uk/2011/07/zx-spectrum-screen-memory-layout.html).
 
-This screen memory is special because another bit of hardware (called the [ULA](http://www.worldofspectrum.org/faq/reference/48kreference.htm#Contention)) can see what's there, and uses it to compose the signal that is sent to the television screen. As well as forming the pixels, it also uses the last chunk of memory to define what colours should be used, and mashes these two sets of information together to make the final image appear. You can see this as the final part of the loading screen loading process happens, and the monochrome image suddenly fills with colour.
+This screen memory is special because another bit of hardware called the [ULA](http://www.worldofspectrum.org/faq/reference/48kreference.htm#Contention) can see what's there, and uses it to compose the signal that is sent to the television screen. As well as forming the pixels, it also uses the last chunk of memory to define what colours should be used, and mashes these two sets of information together to make the final image appear. You can see this as the final part of the loading screen loading process happens, and the monochrome image suddenly fills with colour.
 
 After that, the tape moves on and we have to wait even longer while the actual game loads, but constant work is required to generate the illusion of a stable image. Fifty times a second, the ULA reads the screen memory and sends the result out to the television screen, and this process is interlaced with the data loading as the whole thing hums along at 3.5MHz.
 
@@ -31,7 +31,7 @@ However, based on my results, it seems Apple Preview works differently. It's lik
 
 No-one interacts *directly* with the bitstreams we identify as 'Digital Objects'.
 
+----
 
 [^1]: Sometimes, this gap has been reduced using a technique called [memory mapping](https://en.wikipedia.org/wiki/Memory-mapped_file). This allows some or all of a given file to be treated as if it were part of the computers memory, which is more efficient than having to copy chunks of data into memory before being able to interact with them[^1]. LIKE SCREEN FORMAT SAMENESS This only works with [random-access media]() - again, we rarely iteract with literal 'streams' of bits.
-
 

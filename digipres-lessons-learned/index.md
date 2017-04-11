@@ -14,6 +14,8 @@ Lessons Learned
 - Don't say Digital Object: We preserve processes
 - It starts with Save As...
 
+- Serialisation, marshalling, pickling, ...
+
 - Spectrum load music and in-band signalling. Out of band signalling and tape covers.
     - http://faqwiki.zxnet.co.uk/wiki/Spectrum_tape_interface
 
