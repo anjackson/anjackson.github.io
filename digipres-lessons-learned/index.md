@@ -11,10 +11,20 @@ Lessons Learned
 - Unsafe Device Removal: an experiment in digital destruction
 - Access starts with 'Loading...': What a performance!
     - jetpac is loading - the closest I can get to a digital object
+    - Loading is always there, so what's the relationship?
+- This is not a Digital Object: You can't touch this
 - Don't say Digital Object: We preserve processes
 - It starts with Save As...
 
-- Serialisation, marshalling, pickling, ...
+- Serialisation, marshalling, pickling, parsing, 
+Language as critical as it/dp boundsary is tense
+Format obsolescence is not as urgent and terrible as advertised
+Bit preservation is not solved
+We don't need registries for truth
+We don't need registries for what to do, we need each other. It takes a village...
+
+
+
 
 - Spectrum load music and in-band signalling. Out of band signalling and tape covers.
     - http://faqwiki.zxnet.co.uk/wiki/Spectrum_tape_interface

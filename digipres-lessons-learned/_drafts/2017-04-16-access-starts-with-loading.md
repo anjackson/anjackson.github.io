@@ -8,7 +8,7 @@ author: anj
 shown: true
 ---
 
-So what was going on in [our little experiment in data destruction?](/2017/04/08/unsafe-device-removal/)  Well, to understand what happens when we open up digital files, I want to take you back to my childhood, back when 'Loading...' really meant something.
+So what was going on in [our little experiment in data destruction?](/2017/04/10/unsafe-device-removal/) Well, to understand what happens when we open up digital files, I want to take you back to my childhood, back when 'Loading...' really meant something.
 <!--break-->
 
 I'd like you to watch the following video. Please, listen to the sweet 'music' of the bits of the bitstream as they stream off the tape and into the memory of the machine. And no skipping to the end! Sit through the whole *damn* thing and experience the frequent (and I fear formative) frustration of my early life, awaiting the end of the loading screen.

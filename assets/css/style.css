@@ -515,6 +515,11 @@ article img {
     box-shadow:         1px 1px 2px 2px #eee;
 }
 
+article table td, article table th {
+	border: 1px solid #384452;
+	padding: 0.1em 0.5em;
+}
+
 article .category-icon {
 	float: right;
     font-size: 48px;
