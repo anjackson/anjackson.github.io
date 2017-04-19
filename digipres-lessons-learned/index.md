@@ -12,7 +12,24 @@ Lessons Learned
 - Access starts with 'Loading...': What a performance!
     - jetpac is loading - the closest I can get to a digital object
     - Loading is always there, so what's the relationship?
+
 - This is not a Digital Object: You can't touch this
+
+In the case of the ZX Spectrum loading screen they are almost identical: the data loaded from the tape just has to be unpacked and streamed into the right place in memory in order to produce the image. However, as shown by our experimental results, this is not generally the case. The software we use, and the assumptions it embodies, define this relationship.
+
+
+The lesson I've learned is this: it's not always clear which one we're trying to preserve.
+
+We already say that the software interprets to digital object, but it's a bit more than that. The format and it's data model are different to the 'format' and data model of the loaded form, and so you're interacting with something that has different behaviours.
+
+, but also by the software you are using, and that this is true even for standardised formats like JPEG or PDF.
+    Access always starts with "Loading...", and the relationship between the 
+ interacts *directly* with the bitstreams we identify as 'Digital Objects'.
+
+But constant work is required to generate the illusion of a stable image. Fifty times a second, the ULA reads the screen memory and sends the result out to the television screen, and this process is interlaced with the data loading as the whole thing hums along at 3.5MHz (about a thousand times slower than a modern machine).
+
+GIMP: This also means I can re-save it in a wide range of formats, translating the in-memory representation of the image into any of the bitstream formats GIMP supports.
+
 - Don't say Digital Object: We preserve processes
 - It starts with Save As...
 
@@ -24,6 +41,8 @@ We don't need registries for truth
 We don't need registries for what to do, we need each other. It takes a village...
 
 
+
+[^1]: Sometimes, this gap has been reduced using a technique called [memory mapping](https://en.wikipedia.org/wiki/Memory-mapped_file). This allows some or all of a given file to be treated as if it were part of the computers memory, which is more efficient than having to copy chunks of data into memory before being able to interact with them. LIKE SCREEN FORMAT SAMENESS This only works with [random-access media]() - again, we rarely iteract with literal 'streams' of bits.
 
 
 - Spectrum load music and in-band signalling. Out of band signalling and tape covers.

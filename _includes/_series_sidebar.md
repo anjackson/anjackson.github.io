@@ -10,7 +10,7 @@
 {% for post in sorted_posts reversed %}
 
 {% if go_next %}
-<a class="btn btn-theme" href="{{ post.url }}" style="width:45%" title="Previous post in this series: {{ post.title }}">&laquo; Previously in this series&nbsp;</a>
+<a class="btn btn-theme" href="{{ post.url }}" style="width:45%" title="Previous post in this series: {{ post.title }}">&laquo; Previous in series&nbsp;</a>
 {% assign go_next = false %}
 {% endif %}
 
@@ -24,7 +24,7 @@
 {% for post in sorted_posts %}
 
 {% if go_next %}
-<a class="btn btn-theme" href="{{ post.url }}" style="width:45%" title="Next post in this series: {{ post.title }}">&nbsp;Next in this series&raquo;</a>
+<a class="btn btn-theme" href="{{ post.url }}" style="width:45%" title="Next post in this series: {{ post.title }}">&nbsp;Next in series&nbsp;&raquo;</a>
 {% assign go_next = false %}
 {% endif %}
 
