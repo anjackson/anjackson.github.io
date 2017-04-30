@@ -8,32 +8,20 @@ publish: false
 ---
 
 Lessons Learned
+
 - Unsafe Device Removal: an experiment in digital destruction
 - Access starts with 'Loading...': What a performance!
     - jetpac is loading - the closest I can get to a digital object
     - Loading is always there, so what's the relationship?
 
-- This is not a Digital Object: You can't touch this
-
-In the case of the ZX Spectrum loading screen they are almost identical: the data loaded from the tape just has to be unpacked and streamed into the right place in memory in order to produce the image. However, as shown by our experimental results, this is not generally the case. The software we use, and the assumptions it embodies, define this relationship.
-
-
-The lesson I've learned is this: it's not always clear which one we're trying to preserve.
-
-We already say that the software interprets to digital object, but it's a bit more than that. The format and it's data model are different to the 'format' and data model of the loaded form, and so you're interacting with something that has different behaviours.
-
-, but also by the software you are using, and that this is true even for standardised formats like JPEG or PDF.
-    Access always starts with "Loading...", and the relationship between the 
- interacts *directly* with the bitstreams we identify as 'Digital Objects'.
-
-But constant work is required to generate the illusion of a stable image. Fifty times a second, the ULA reads the screen memory and sends the result out to the television screen, and this process is interlaced with the data loading as the whole thing hums along at 3.5MHz (about a thousand times slower than a modern machine).
-
-GIMP: This also means I can re-save it in a wide range of formats, translating the in-memory representation of the image into any of the bitstream formats GIMP supports.
-
+- This is not a Digital Object: More than just a copy
 - Don't say Digital Object: We preserve processes
 - It starts with Save As...
 
+- Google Doc does not fit in OAIS
+
 - Serialisation, marshalling, pickling, parsing, 
+
 Language as critical as it/dp boundsary is tense
 Format obsolescence is not as urgent and terrible as advertised
 Bit preservation is not solved
@@ -41,12 +29,38 @@ We don't need registries for truth
 We don't need registries for what to do, we need each other. It takes a village...
 
 
-
 [^1]: Sometimes, this gap has been reduced using a technique called [memory mapping](https://en.wikipedia.org/wiki/Memory-mapped_file). This allows some or all of a given file to be treated as if it were part of the computers memory, which is more efficient than having to copy chunks of data into memory before being able to interact with them. LIKE SCREEN FORMAT SAMENESS This only works with [random-access media]() - again, we rarely iteract with literal 'streams' of bits.
+
+But constant work is required to generate the illusion of a stable image. Fifty times a second, the ULA reads the screen memory and sends the result out to the television screen, and this process is interlaced with the data loading as the whole thing hums along at 3.5MHz (about a thousand times slower than a modern machine).
+
+
+A light-weight pre-premis/mets would be very useful.
+Extend bagit with orthogonal data in linewise files
+
+Open source and digital preservation
+
+Poor cohesion of reading lists 
+
+More automation possibilities e.g. UI script Acrobat Reader to test, I.e. Simulate user interactions in 
+
+Validation, nope
+Validation, fast and thorough
+
+How to help practitioners help?!
+http://anjackson.net/2016/06/08/frontiers-in-format-identification/#comment-2723081343
+
+Re-deriving significant properties
+Note that OAIS
+Ingest as odd notion
+Normalisation as prejudice
+
 
 
 - Spectrum load music and in-band signalling. Out of band signalling and tape covers.
     - http://faqwiki.zxnet.co.uk/wiki/Spectrum_tape_interface
+- ZX Spectrum walkthrough:
+    - http://www.old-computers.com/museum/photos.asp?t=1&c=223&st=1
+    - https://upload.wikimedia.org/wikipedia/commons/8/85/ZXspectrum_mb.jpg
 
 - Format is interpretation - multi-format files - format grammar 'is' is not enough
 - No digital object necessary: The Australians had the right idea all along
@@ -195,6 +209,14 @@ dd if=/dev/zero bs=1M count=1000 | openssl dgst -sha512
 - JPEG is okay
     - Would you rather have 600dpi JPEG or a 300dpi TIFF?
 
+MP3 
+
+- https://www.theregister.co.uk/2001/06/26/mp3_owners_get_stroppy/
+- https://madfileformatscience.garymcgath.com/2017/04/15/mp3-freedom-matters/
+- https://twitter.com/GaryM03062/status/853218170072698881
+- https://en.wikipedia.org/wiki/MP3#Licensing.2C_ownership_and_legislation
+- http://lame.cvs.sourceforge.net/viewvc/lame/lame/doc/html/history.html
+- https://madfileformatscience.garymcgath.com/2017/04/20/mp3-april-23/
 
 Impossible Standards
 --------------------

@@ -10,7 +10,6 @@ series-position: 30
 sidebar-include: _ll.md
 ---
 
-[particularly from 0:24s in, as the loading screen loads](https://youtu.be/V0EfycbDhiw?t=24s)
 
 What do we mean by 'digital object'? 
 
@@ -18,6 +17,8 @@ Well, the *official* answer is clear enough:
 
 > Digital Object: An object composed of a set of bit sequences. 
 > <small>[Reference Model for an Open Archival Information System (OAIS) ][1]</small>
+
+![Ce ne sont pas un objet numérique.]({{site.url}}/digipres-lessons-learned/images/notado.png)
 
 Other treatments have attempted to draw more attention to the layers of interpretation around bitstreams -- to the software. For example, [Kenneth Thibodeau's tripartite model][3] teases the digital object into physical, logical and conceptual layers.  The team behind [BitCurator][7] tease the notion of a digital object into even more layers:
 
@@ -48,12 +49,9 @@ primacy such as:
 
 In other words, the bitstream is the fundamental element, the atom of both preservation and use. Moreover, we interact with the digital object via the appropriate software and hardware.
 
-Behind the 'performance', the bytes in flight.
-
 Any model that seeks to describe digital resources as they are, rather than as we might wish them to be, must understand the distinction. Otherwise, we are left with a framework that cannot describe the most basic acts of digital preservation: 'Save as..' and 'Load...'. Only the NAA performance model comes close.
 
-![Ce ne sont pas un objet numérique.]({{site.url}}/blog/images/ll/notado.png)
-
+Digital preservation publications often included phrases like "software makes digital objects accessible", but it's a bit more than that. 
 
 
 
