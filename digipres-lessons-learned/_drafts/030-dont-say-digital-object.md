@@ -10,7 +10,6 @@ series-position: 30
 sidebar-include: _ll.md
 ---
 
-
 What do we mean by 'digital object'? 
 
 Well, the *official* answer is clear enough:
