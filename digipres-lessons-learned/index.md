@@ -33,6 +33,12 @@ We don't need registries for what to do, we need each other. It takes a village.
 
 But constant work is required to generate the illusion of a stable image. Fifty times a second, the ULA reads the screen memory and sends the result out to the television screen, and this process is interlaced with the data loading as the whole thing hums along at 3.5MHz (about a thousand times slower than a modern machine).
 
+OODT is closest thing to ref impl of OAIS
+- https://pdfs.semanticscholar.org/3948/3ebe4da227c0e380046d7a0e0274e6e99a28.pdf
+- http://lipade.math-info.univ-paris5.fr/lops/wp-content/uploads/2014/04/PDS-A-Model-Driven-Planetary-Science-Data-Architecture-for-Long-Term-Preservation-.pdf
+- http://www.iso16363.org/ptab/
+- https://cwe.ccsds.org/sea/docs/Work%20Completed%20(Closed%20WGs)/Information%20Architecture%20Working%20Group/Draft%20Documents/IA%20Reference%20Model/ccsds_rasim_20060308.pdf 
+- https://www.bl.uk/aboutus/stratpolprog/collectioncare/publications/reports/wigan_digital_preservation.pdf
 
 A light-weight pre-premis/mets would be very useful.
 Extend bagit with orthogonal data in linewise files
