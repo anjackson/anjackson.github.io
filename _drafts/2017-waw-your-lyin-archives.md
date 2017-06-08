@@ -18,6 +18,8 @@ Published date versus crawl date.
 
 Bias by ommission. Either technical, or more subtly, by unintended curatorial bias. 
 
+Not getting it at all, because scope/size. Twitter.
+
 But can it just lie? 
 
 Mistakes, and hacks.
@@ -26,4 +28,6 @@ When building large, distributed computer systems, you have to engineer for fail
 
 When we build large, long-lived information systems, we have to take the same approach. It's not just about preventing ourselves from being hacked. If that's out only answer we've just given ourselves yet another single point of failure. We have to work out how to ensure the historical record is accurate, even if our instution is hacked. 
 
-As our digital libraries and archives become more and more important as historical record, we're going to have to find ways to work together to support eachother in this.
+A hacker may be able to hack one organisation, but simultanously and consistently hacking multiple independent organisations is much, much harder.
+
+As our historical record becomes born-digital, the libraries and archives of the world are going to have to find ways to support each other, and build a chain of care that is so wide and so entangled, it simply can't be hacked without a trace. 

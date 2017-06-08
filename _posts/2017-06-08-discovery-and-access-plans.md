@@ -8,6 +8,8 @@ author: anj
 shown: false
 ---
 
+*Originally published [on the UK Web Archive blog](http://blogs.bl.uk/webarchive/2017/06/revitalising-the-uk-web-archive.html).*
+
 It's been over a year since we made [our historical search system available][1], and it's proven itself to be stable and useful. Since then, we've been largely focussed on changes to our crawl system, but we've also been planning how to take what we learned in the [Big UK Domain Data for the Arts and Humanities][2] project and use it to re-develop [the UK Web Archive](https://www.webarchive.org.uk/ukwa/).
 
 Our current website has not changed much since 2013, and doesn't describe [who we are](http://www.bl.uk/aboutus/legaldeposit/introduction/) and [what we do](http://britishlibrary.typepad.co.uk/webarchive/2015/06/ten-years-of-archiving-the-web.html) now that the [UK Legal Deposit regulations](http://www.bl.uk/aboutus/legaldeposit/websites/) are in place. It only describes the sites we have crawled by permission, and does not reflect the tens of thousands of sites and URLs that we have curated and categorised under Legal Deposit, nor the billions of web pages in the full collection. To try to address these issues, we're currently developing a new website that will open-up and refresh our archives.
