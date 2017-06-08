@@ -8,7 +8,7 @@ author: anj
 shown: false
 ---
 
-*Originally published [on the UK Web Archive blog](http://blogs.bl.uk/webarchive/2017/06/revitalising-the-uk-web-archive.html).*
+*Originally published [on the UK Web Archive blog](http://blogs.bl.uk/webarchive/2017/06/revitalising-the-uk-web-archive.html) on the 8th of June 2017.*
 
 It's been over a year since we made [our historical search system available][1], and it's proven itself to be stable and useful. Since then, we've been largely focussed on changes to our crawl system, but we've also been planning how to take what we learned in the [Big UK Domain Data for the Arts and Humanities][2] project and use it to re-develop [the UK Web Archive](https://www.webarchive.org.uk/ukwa/).
 
