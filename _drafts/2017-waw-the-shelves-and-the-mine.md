@@ -20,30 +20,31 @@ Introduction
 
 This year, I'll have worked for the British Library for ten years. But it's only in this last year that I've finally had to get to grips with the terrifying behemoth that is... The Catalogue.
 
-Last year we were looking at the way the library has reacted to the shifting of traditional print publications to online forms, particularly government publications. We learned that the curation and cataloging teams that handle printed material had started manually downloading these publications from the web, processing them and submitting them into our digital library system, and recording this all in the catalogue. But these very same publications were being downloaded and stored through our regular web archiving activities. This duplication of content reflected a significant duplication of effort across teams, and so we set out to resolve it by building a document harvester on top of the web archive. 
-
-To achieve this, we needed to bring the catalogue and the web archive closer together, linking the traditional cataloguing process to the content from the web. I won't get into the more technical details here. If you're interested in that, I'll be giving a longer presentation on that subject tomorrow morning where I'll talk about how the implementation worked and how I'm coping with the psychological scarring caused by being exposed to MARC metadata.
+We needed to bring the catalogue and the web archive closer together, linking the traditional cataloguing process to the content from the web. I won't get into the more technical details here. If you're interested in that, I'll be giving a longer presentation on that subject tomorrow morning where I'll talk about how the implementation worked and how I'm coping with the psychological scarring caused by being exposed to MARC metadata.
 
 Instead, today I want to compare the overall architecture of the two systems, because the web archive and the catalogue manage their data in fundamentally different ways.
 
 The Catalogue
 -------------
 
-This video shows the journey of a print collection item, from being posted to us, through acquisition, cataloguing, finishing and to the shelf. Then, when a reader requests it, from the shelf and out to the reading room. These processes represent a very large proportion of the day-to-day work of the British Library, and much of the library is built around supporting the efficient ingest and delivery of printed material. I don't just mean the work of the teams involved, but the very existence of those teams, the roles they hold and the management hierarchies that knit them together. Even the physical structure of our buildings, and the way they are connected, are all shaped by this chain of operations. 
+(journey)
+
+These are some still frames from a British Library video that shows the journey of a print collection item, from being posted to us, through acquisition, cataloguing, finishing and to the shelf. Then, when a reader requests it, from the shelf and out to the reading room. These processes represent a very large proportion of the day-to-day work of the British Library, and much of the library is built around supporting the efficient ingest and delivery of printed material. I don't just mean the work of the teams involved, but the very existence of those teams, the roles they hold and the management hierarchies that knit them together. Even the physical structure of our buildings, and the way they are connected, are all shaped by this chain of operations. 
 
 At the heart of this process sits the catalogue. At every step, the catalogue is updated to reflect this workflow, with the record of each item being created and updated along the way.  The British Library catalogue is not just a collection of bibliographic metadata, it's also a process management system.
 
+This is a very natural and sensible way to manage the chain of events that must occur in order to deal with print material, and we've been doing it like this for a very long time. 
+
+(OAIS+life2)
+
+Consequently, this approach has become deeply embedded in our thinking, and reappears elsewhere.
+
 (document processing chain of events image with catalogue at the centre)
 
-This is a very natural and sensible way to manage the chain of events that must occur in order to deal with print material, and we've been doing it like this for a very long time. Consequently, this approach has become deeply embedded in our thinking, and reappears elsewhere.
+Last year we were looking at the way the library has reacted to the shifting of traditional print publications to online forms, particularly government publications. We learned that the curation and cataloging teams that handle printed material had started manually downloading these publications from the web, processing them and submitting them into our digital library system, and recording this all in the catalogue. But these very same publications were being downloaded and stored through our regular web archiving activities. This duplication of content reflected a significant duplication of effort across teams, and so we set out to resolve it by building a document harvester on top of the web archive. 
 
-(life2)
 
-It turns up in the LIFE2 model.
 
-(OAIS)
-
-It's appears in OAIS too.
 
 
 The Web Archive

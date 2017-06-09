@@ -5,7 +5,7 @@ category: mining-web-archives
 tags: ["Data Mining", "Web Archives", "BUDDAH"]
 layout: post
 author: anj
-shown: false
+shown: true
 ---
 
 *Originally published [on the UK Web Archive blog](http://blogs.bl.uk/webarchive/2017/06/revitalising-the-uk-web-archive.html) on the 8th of June 2017.*
