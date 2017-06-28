@@ -20,12 +20,12 @@ As an increasing number of government and other publications move towards online
 Outline
 -------
 
-- Present the chain and the layers
+- Start with the print workflow
 - DPT workflow for online publications.
 - Note web archive duplication.
 - Document Harvester and cataloguing what's there
+- Metadata extractions
 - one to one- one to many
-- metadata extractions.
 - metadata association.
 - Resolution issues.
 - Linear workflow again!
