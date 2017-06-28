@@ -13,7 +13,7 @@ Abstract
 
 The British Library has a long tradition of preserving the heritage of the United Kingdom, and processes for handling and cataloguing print-based media are deeply ingrained in the organisations structure and thinking. However, as an increasing number of government and other publications move towards online-only publication, we are force to revisit these processes and explore what needs to be changed in order to avoid the web archive becoming an massive, isolated silo, poorly integrated with other collection material. We have started this journey by looking at how we collect official documents, like government publications and e-journals. As we are already tasked with archiving UK web publications, the question is not so much 'how to we collect these documents?' rather 'how to we find the documents we've already collected?'. Our current methods for combining curatorial expertise with machine-generated metadata will be discussed, leading to an outline of the lessons we have learned. Finally, we will explore how the ability to compare the library's print catalogue data with the web archive enables us to study the steps institutions and organisations have taken as they have moved online.
 
-<!-- break -->
+<!--break-->
 
 _This is the script for the presentation I gave as part of [Web Archiving Week 2017](https://archivedweb.blogs.sas.ac.uk/), on [Wednesday 14th of June](http://netpreserve.org/wac2017/wednesday-14-june/)._
 
