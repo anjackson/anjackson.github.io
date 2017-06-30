@@ -2,7 +2,7 @@
 title: Revitalising the UK Web Archive
 subtitle: Updating our discovery and access services
 category: mining-web-archives
-tags: ["Data Mining", "Web Archives", "BUDDAH"]
+tags: ["Data Mining", "Web Archives", "BUDDAH", "webarchive-discovery"]
 layout: post
 author: anj
 shown: true
