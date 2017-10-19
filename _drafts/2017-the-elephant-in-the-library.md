@@ -1,6 +1,6 @@
 ---
 title: The Elephant in the Library
-subtitle Applying data-mining techniques beyond the UK Web Archive
+subtitle: "Applying data-mining techniques beyond the UK Web Archive"
 category: mining-web-archives
 tags: ["Data Mining"]
 layout: post

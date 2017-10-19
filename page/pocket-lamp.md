@@ -31,15 +31,15 @@ Note that this package MUST be installed to a proper linuxy filesystem - the FAT
 * Backup your databases - including the 'mysql' one that holds your user info.
 * Uninstall any previous mysql package.
 * Transfer the 3.23 ipk to the Z and install it.  It must be installed on a proper linux filing system (see note above).
-* Ensure the database files in {{/var/lib/mysql}} are writable by user '{{daemon}}'.
-* Start up the server with a {{mysqlstart}}.
-* Run {{mysql_install_db}} to initialise the database.
-* Restart the server with a {{mysqlstop}} and then a {{mysqlstart}}.
+* Ensure the database files in `/var/lib/mysql` are writable by user '`daemon`'.
+* Start up the server with a `mysqlstart`.
+* Run `mysql_install_db` to initialise the database.
+* Restart the server with a `mysqlstop` and then a `mysqlstart`.
 * Update you're database tables from your backup.
 * If you are running low on space...
-    * Move your database files from {{/var/lib/mysql}} to some other storage like SD or CF, and symlink them back to the original location.
+    * Move your database files from `/var/lib/mysql` to some other storage like SD or CF, and symlink them back to the original location.
     * Delete extra localization/language files that you don't need.
-    * Delete any binaries you don't need.  I think only {{mysqlstart}},{{mysqlstop}},{{mysqld}},{{safe_mysqld}} and {{mysql}} are _absolutely_ required, but YMMV.  DO NOT remove any of the dynamic libraries - they are all required.
+    * Delete any binaries you don't need.  I think only `mysqlstart`,`mysqlstop`,`mysqld`,`safe_mysqld` and `mysql` are _absolutely_ required, but YMMV.  DO NOT remove any of the dynamic libraries - they are all required.
 
 I've tested the package on my SL-5500 with the v3.1 Sharp ROM, and I know someone got it working on a C750.  Please get [in touch](http://anjackson.net/contact) if you have any questions, or if you can confirm that the package works on other Zaurii/ROMs.
 

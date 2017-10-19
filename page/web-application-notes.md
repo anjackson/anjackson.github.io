@@ -39,6 +39,7 @@ Now, when you run Tomcat, it will connect to this virtual screen and not grumble
 
 # Servlet Mappings
 Older versions of Tomcat automatically took classes in the default package of a web application (./WEB-INF/classes/*.class) and presented them as servlets at context-path/servlets/*.  Later versions appear to have this behaviour switched off (commented out of conf/web.xml) by default.  The servlet-mapping should be placed in your applications web.xml if you need it.
+
       &lt;!-- The mapping for the invoker servlet -->
       &lt;servlet-mapping>
           &lt;servlet-name>invoker&lt;/servlet-name>
@@ -102,7 +103,7 @@ For our PHP install we need the GD graphics library, which in turn requires the 
     mkdir /opt/local/packages/apache_2.0.50/modules_build
 
 #  The FreeType Library
-Freetype configure needs a GNU-compatible {{egrep}} and so had to be run an a machine other than amethyst as the GNU Utils cannot be found there.  I used {{garnet}}
+Freetype configure needs a GNU-compatible `egrep` and so had to be run an a machine other than amethyst as the GNU Utils cannot be found there.  I used `garnet`
 
     cd ~/apache2/
     gtar xvfz freetype-2.1.9.tar.gz
@@ -114,7 +115,7 @@ Freetype configure needs a GNU-compatible {{egrep}} and so had to be run an a ma
 There was some linking problem with the general zlib library, so I had to use the --without-zlib flag to get the package to use it's own internal zlib.
 
 #  The GD Graphics Library
-Back on {{amethyst}}.
+Back on `amethyst`.
 
     cd ~/apache2/
     gtar xvfz gd-2.0.28.tar.gz
@@ -173,7 +174,7 @@ I added this to httpd.conf:
 
     LoadModule jk2_module modules/mod_jk2.so
 
-And also added this file {{apache_2.0.50/conf/workers2.properties}} 
+And also added this file `apache_2.0.50/conf/workers2.properties` 
 
     [[channel.socket:localhost:11809]
     port=11809
@@ -186,7 +187,7 @@ And also added this file {{apache_2.0.50/conf/workers2.properties}}
     worker=ajp13:localhost:11809
 
 ###  Tomcat
-I unpacked the latest 4.1.x distribution of Tomcat into {{/opt/local/packages/jakarta-tomcat-4.1.30/}}.  The main configuration actions are to switch off everything but the AJP (JK2) connector in server.xml (i.e. switching off the 8080 HTTP and any other connectors) and to configure it to use non-standard ports to avoid port clashes.  I used 11809 for the AJP connector and 11805 for the shutdown port.
+I unpacked the latest 4.1.x distribution of Tomcat into `/opt/local/packages/jakarta-tomcat-4.1.30/`.  The main configuration actions are to switch off everything but the AJP (JK2) connector in server.xml (i.e. switching off the 8080 HTTP and any other connectors) and to configure it to use non-standard ports to avoid port clashes.  I used 11809 for the AJP connector and 11805 for the shutdown port.
 
 ###  General Apache Configuration
 This is mainly a case of chugging through the old httpd.conf for the external website and adding all the info into the relavent places in a copy of the http.conf in the newer version of Apache.  And then doing the same thing all over again for the internal website.
@@ -203,7 +204,7 @@ I chose a passphrase.
     mkdir ../ssl.crt
     cd ../ssl.crt
 
-I created {{openssl.ca.cnf}} which looks like this:
+I created `openssl.ca.cnf` which looks like this:
 
     # 
     # SSLeay example configuration file. 

@@ -27,9 +27,9 @@
     icon: fa-archive
     title: "Defunct Formats"
     description: "A collection of stories gathered while hunting for obsolete formats."
-"web-archiving-apis":
+"building-web-archives":
     icon: fa-archive
-    title: "Web Archiving APIs"
+    title: "Building Web Archives"
     description: "Describing our evolving web archiving framework and tools. In particular, the aim is to document how our crawl architecture has evolved to become more modular, and to explore the idea of using APIs to make these systems more manageable over time."
 "travels":
     icon: fa-suitcase

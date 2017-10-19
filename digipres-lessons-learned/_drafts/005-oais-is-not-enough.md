@@ -28,3 +28,18 @@ It doesn't deal with what digital preservation actually is, and indeed it should
 
 
 
+OAIS Implementations/Building Robust Information Systems/Building for failure
+
+Principle of Least Movement -- avoid moving data around, i.e. copies are fine, copy-and-delete is always more risky.
+
+Scale issue. Where manual intervention doesn't scale, handing exceptions can start to dominate the workflow.
+
+EDIT-style
+
+Message-chain style
+
+https://en.wikipedia.org/wiki/Non-destructive_editing
+https://en.wikipedia.org/wiki/Data_integrity
+https://en.wikipedia.org/wiki/Copy-on-write
+https://en.wikipedia.org/wiki/Reliability_engineering
+https://en.wikipedia.org/wiki/Defensive_programming

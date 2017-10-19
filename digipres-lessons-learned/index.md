@@ -28,6 +28,17 @@ Bit preservation is not solved
 We don't need registries for truth
 We don't need registries for what to do, we need each other. It takes a village...
 
+Prescriptive v Descriptive Linguistics
+If we only accept valid PDFs, we are saying. We know best. We understand PDF and we know what's worth preserving. In this analogy: We know what's best. We understand the Queen's English and any documents will need to be translated before we archive them HERE.
+Speculation on easy/'preservable' formats and correlated use with different social/economic subgroups.
+
+Every format has two faces/parsing is hard
+
+When you press save, what happens? Lots of decision. It's not just the document. What about the undo buffer? What about the window position? What about the language? These can be installation/user/file level, it depends.
+
+Format standardisation is precisely a designated community coming together to determine which properties of a Digital (Performance) Object they want to preserve over time.
+
+
 
 [^1]: Sometimes, this gap has been reduced using a technique called [memory mapping](https://en.wikipedia.org/wiki/Memory-mapped_file). This allows some or all of a given file to be treated as if it were part of the computers memory, which is more efficient than having to copy chunks of data into memory before being able to interact with them. LIKE SCREEN FORMAT SAMENESS This only works with [random-access media]() - again, we rarely iteract with literal 'streams' of bits.
 
