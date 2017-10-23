@@ -2,11 +2,9 @@
 title: Understanding Obsolescence
 subtitle: In the Web Archive
 layout: post
-category:
 tags: ["Unfashionable Formats"]
 status: stub
 publish: true
-sidebar-include: _uf.md
 ---
 
 Introduction
@@ -36,7 +34,7 @@ However, it's worth noting that
 Formats Found
 -------------
 
-{% for post in site.categories['defunct-formats'] | sort:'path' %}{% if post.path != page.path %}
+{% for post in site.categories['defunct-formats'] | sort:path %}{% if post.path != page.path %}
 * [{{post.title}}]({{post.url}}){% endif %}{% endfor %}
 
 
