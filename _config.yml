@@ -84,7 +84,7 @@ kramdown:
     coderay_css: class
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "_scripts", "minimal-mistakes-master", "so-simple-theme-master", "solid-theme", "theme-setup.md"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "_scripts", "minimal-mistakes-master", "so-simple-theme-master", "solid-theme", "theme-setup.md", "defunct-formats/the-ultimate-commodore-64-talk/The Ultimate Commodore 64 Talk.zip", "defunct-formats/the-ultimate-commodore-64-talk/The Ultimate Commodore 64 Talk - iWork 6.5 - PPTX.zip", "defunct-formats/the-ultimate-commodore-64-talk/The Ultimate Commodore 64 Talk - iWork 6.5 - KEY.zip"]
 
 collections:
   digipres_lessons_learned:
