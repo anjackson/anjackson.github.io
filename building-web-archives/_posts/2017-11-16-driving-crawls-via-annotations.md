@@ -3,9 +3,11 @@ title: Driving Crawls With Web Annotations
 subtitle: Without competing with Pinboard
 author: anj
 layout: post
-shown: false
+shown: true
 tags: ["Web Archives", "Digital Preservation"]
 ---
+
+*Originally published [on the UK Web Archive blog](http://blogs.bl.uk/webarchive/2017/11/driving-crawls-with-web-annotations.html) on the 10th of November 2017.*
 
 The heart of the idea was simple. Rather than [our traditional linear harvesting process](/2017/10/19/tools-for-legal-deposit), we would think in terms of annotating the live web, and imagine how we might use those annotations to drive the web-archiving process. From this perspective, each Target in the Web Curator Tool is really very similar to a bookmark on an social bookmarking service (like [Pinboard](https://pinboard.in/), [Diigo](https://www.diigo.com/) or [Delicious](https://delicious.com/)[^1]), except that as well as describing the web site, the annotations also drive the archiving of that site[^2].
 
