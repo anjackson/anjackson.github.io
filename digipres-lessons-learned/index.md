@@ -7,6 +7,10 @@ status: stub
 publish: false
 ---
 
+Story of a bad deed
+
+
+
 Lessons Learned
 
 - Unsafe Device Removal: an experiment in digital destruction
@@ -20,7 +24,20 @@ Lessons Learned
 
 - Google Doc does not fit in OAIS
 
+- DigiPres and the big niches - 3D, maths, ?
+
 - Serialisation, marshalling, pickling, parsing, 
+
+- Data formats and schema and composition, separate files FTW.
+
+What a good file format looks like (from a preservation perspective):
+- Signature/magic - predicable location, unique, human-readable ideally
+- No soft edges - PDF vaguaries over header location and tail.
+- Versioning and profiles - clarity of methodology, part of header when necessary, etc.
+- Principle of least power - sub-Turing complete please
+- Standard base format - writing parsers is hard, yeah
+
+Web Packging Exists!
 
 Language as critical as it/dp boundsary is tense
 Format obsolescence is not as urgent and terrible as advertised
@@ -38,6 +55,28 @@ When you press save, what happens? Lots of decision. It's not just the document.
 
 Format standardisation is precisely a designated community coming together to determine which properties of a Digital (Performance) Object they want to preserve over time.
 
+Compression is Fraught: I wonder if some of those opposed to compression also avoid using databases as master stores for critical metadata?
+
+Sheridan Code, versus the Models. Man made, use the language of what it is. No (further) abstraction necessary and in fact it gets in the way. NLA model only good because it gets closer.
+
+Herbert CNI talk. Scholarly communication fragments. Atmosphere at iDCC? How physics worked at different places. How biology worked. Thoughts on adoption. Thoughts on costs.
+
+OAIS is for talking about digital preservation, not for doing it.‬ 
+I think OAIS is better suited to talking about doing digital preservation than helping get preservation done. It deliberately floats above ‬
+
+Flexibility versus the principle of least power
+
+SIPs as DIPs etc 
+https://twitter.com/euanc/status/922520776384962560
+But it's not a DIP if it's not leaving your org
+
+‪
+MPLP and layers?
+
+- Beyond Cyberpunk Hypercard zine
+- Media Maker? https://twitter.com/beet_keeper/status/928127010559242240
+- See screenshots of it working...
+- Appears to be 512 0x200 byte application-specific header.
 
 
 [^1]: Sometimes, this gap has been reduced using a technique called [memory mapping](https://en.wikipedia.org/wiki/Memory-mapped_file). This allows some or all of a given file to be treated as if it were part of the computers memory, which is more efficient than having to copy chunks of data into memory before being able to interact with them. LIKE SCREEN FORMAT SAMENESS This only works with [random-access media]() - again, we rarely iteract with literal 'streams' of bits.

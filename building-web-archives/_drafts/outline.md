@@ -13,12 +13,49 @@ When I joined the team in 2012 and began to work on the domain crawl project, a 
 - WCT
 - WCT + H3
 - (ingest differences and scaling)
-- ACT + H3 (+ WCT) - frequency problems and too-many crawls (likely our setting didn't help)
-- ACT + H3 + PhantomJS - Umbra/our version and the problems
-- Streaming RAbbitMQ and revert
+
+- ACT + H3 (+ WCT) - frequency problems and too-many crawls (likely our setting didn't help) but stable, shifted to quality
+- ACT + H3 + PhantomJS - Umbra/our version and the problems we saw. 
+
+shifted to wider environment. Wayback?
+- Streaming RabbitMQ and revert, lifecycle management versus inline.
+
+Current production:
+- synchronous and warcprox 
 - Docker + Inline Web Render
-- Streaming with Kafka
-- PhantomJS to Brozzler
+- DC still painful
+- Bloom filter problem
+- Too brittle lifecycle stuff
+
+Currently in testing:
+- state management 
+- Streaming with Kafka, continuous crawler, monitoring 
+- move more to Luigi
+
+- future:?
+- PhantomJS to Brozzler?
+- Separating the annotations
+
+
+IIPC 2018
+=========
+
+
+Continuous, Incremental, Scalable, Higher-Quality Web Crawls with Heritrix
+--------------------------------------------------------------------------
+
+Under Legal Deposit, our crawl capacity needs grew from a few hundred time-limited snapshot crawls to the continous crawling of hundreds of sites every day, plus annual domain crawling. We have struggled to make this transition, as our Heritrix3 setup was cumbersome to work with when running large numbers of separate crawl jobs, and the way it managed the crawl process and crawl state made it difficult to gain insight into what was going on and harder still to augment the process with automated quality checks.  To attempt to address this, we have combined three main tactics; we have moved to containerised deployment, reduced the amount of crawl state exclusively managed by Heritrix, and switched to a continous crawl model where hundreds of sites can be crawled independently in a single crawl.
+
+The containerised deployment makes adding new crawl instances trivial, so almost no manual setup is required if we need to scale up our crawl activity, but this only works because we have ensured critical crawl state can be managed ourside of Heritrix itself. The index of what has already been seen -- used to avoid re-crawling URLs prematurely and for deduplication -- is now held entirely ourside the crawl engine, using an instance of the OutbackCDX server from the National Library of Austrailia. The crawl frontier still uses the standard Heritrix implementation for URL prioritisation, but crucially, discovered URLs are not immediately enqueued locally. Instead they are posted to a scalable, distributed external log service powered by Apache Kafka. A custom Heritrix3 module consumes discovered URLs from this event log, and Apache Kafka ensures each Heritrix3 instance gets a separate subset of the whole URL stream, based on the queue key.
+
+Unlike traditional queue systems, Apache Kafka allows us to keep the log of crawl events, enabling us to 'replay' the stream of discovered URLs at any time. Consequently, if an issue with the Heritrix crawlers means we need to restart them, each can rebuild it's internal crawl frontier by re-consuming the stream of discovered URLs.  Furthermore, holding the URL stream outside Heritrix allows easy inspection by automated QA processes, making it possible to perform systematic checks like determining what fraction of discovered URLs were crawled within a reasonable time-frame, or spotting when seeds fail to crawl.
+
+Finally, we leverage the time-of-last-crawl information we can glean from the OutbackCDX service to allow us to run multiple crawls asynchronously within the same crawl job. For example, if a crawl seed should be recrawled daily, this information is included when the crawl request is injected into the URL stream. When the URLs are recieved by Heritrix3, it uses the requested recrawl frequency and the information from OutbackCDX to determine whether a re-crawl is needed, and only enqueues the item into it's internal frontier if so. This means we can visit many different seeds at many different frequencies in the same crawl. We can also force the recrawl of specific URLs if we wish, allowing us to perform incremental crawls by refreshing homepages or RSS/Atom feeds to look for newly-published URLs
+
+Working together, these changes have siginificantly improved the quality and robustness of our crawl processes, while requiring minimal changes to Heritrix3 itself. We will present seme results from this improved crawl engine, and explore some of the lessons learned along the way.
+
+
+
 
 
 The Hammer and the Grain

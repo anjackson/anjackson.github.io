@@ -1,6 +1,6 @@
 ---
 title: The Elephant in the Library
-subtitle: "Applying data-mining techniques beyond the UK Web Archive"
+subtitle: "How the tools of data science can transform the way we work"
 category: mining-web-archives
 tags: ["Data Mining"]
 layout: post
@@ -8,9 +8,14 @@ author: anj
 shown: true
 ---
 
+1. WA:TNG
+2. Curation for web archives
+3. ACT/DDHAPT
+4. Researcher Engagement
 
+https://swap.stanford.edu/19940102000000/http://slacvm.slac.stanford.edu/FIND/slac.html
 
-
+http://oldweb.today/nslinux/19940308213009/http://slacvm.slac.stanford.edu/FIND/slac.html
 
 The Hadoop file system is a great basis to work from. It can be used to store petabytes of content, it has built-in checksumming, and it replicates the data in a way that protects it against most likely causes of loss. At scale, failure is expected. Networks drop during operations. Disks die. Servers die. Power supplies die. The way you store data and the way you run operations on data is all set up to expect the common forms of failure and recover from them.
 But there's one thing about the Hadoop file system, or HDFS, that can come as something of a surprise. You can't edit files on HDFS.

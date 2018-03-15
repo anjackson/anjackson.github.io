@@ -91,7 +91,7 @@ collections:
     output: true
     permalink: /digipres-lessons-learned/:path/
 
-gems:
+plugins:
   - jekyll-redirect-from
   - jekyll-paginate
 

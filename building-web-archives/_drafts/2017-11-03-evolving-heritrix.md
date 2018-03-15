@@ -7,7 +7,14 @@ shown: false
 tags: ["Web Archives", "Digital Preservation"]
 ---
 
+https://swap.stanford.edu/19940102000000/http://slacvm.slac.stanford.edu/FIND/slac.html
+
+http://oldweb.today/nslinux/19940308213009/%20http://slacvm.slac.stanford.edu/FIND/slac.html
+
+
+
 [](/2017/10/30/driving-crawls-via-annotations)
+
 Rather than attempting to modify Heritrix itself, we use a separate scripted process that requests the latest crawl feeds and restarts the crawls for each crawl frequency via the [Heritrix 3 API](https://webarchive.jira.com/wiki/display/Heritrix/Heritrix+3.x+API+Guide). The question was, how many separate crawl jobs should we run?
 
 The intent of the curators is clearly that each Target should have it's own crawl job, with it's own launch time and scope. We'd managed this before, but the change to Legal Deposit meant we were now attempting to archive far more Targets, and the majority of those would be ongoing crawls. For example, in the past, we would tend to harvest only those news stories associated with a particular event or collection. Now we needed to archive all the news sites all the time, at least daily.
@@ -21,3 +28,4 @@ Moreover, the modular, API-based architecture looked like being much more manage
 ----
 
 [^1]: 
+
