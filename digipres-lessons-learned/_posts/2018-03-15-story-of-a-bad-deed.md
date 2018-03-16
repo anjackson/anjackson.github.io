@@ -67,7 +67,7 @@ $ hexdump -C nii.ppt | head -1
 00000000  ed de ad 0b 03 00 00 00  45 17 00 00 3f 01 31 17  |........E...?.1.|
 ```
 
-Both the first and second four bytes match, but are reversed! Welcome to the confusing world of [endianness](https://en.wikipedia.org/wiki/Endianness) (see also [Apple's docs on byte ordering](https://developer.apple.com/library/content/documentation/CoreFoundation/Conceptual/CFMemoryMgmt/Concepts/ByteOrdering.html)).[^1]
+Both the first and second four bytes match, but are reversed! Welcome to the confusing world of [endianness](https://en.wikipedia.org/wiki/Endianness) (see also [Apple's docs on byte ordering](https://developer.apple.com/library/content/documentation/CoreFoundation/Conceptual/CFMemoryMgmt/Concepts/ByteOrdering.html))[^1].
 
 Most computers use a byte-ordering called 'little-endian', but the older Mac used an alternative ordering called 'big-endian'. This is just two different conventions for storing data, and I can't look at `0x0baddeed` and know which ordering it is. However, the discovery of `ppt` files starting with either `0x0baddeed` or `0xeddead0b` is consistent with the same type of data being stored in different endian-orders.
 
