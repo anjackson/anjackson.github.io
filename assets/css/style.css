@@ -636,3 +636,9 @@ ul.series-list {
 	padding-top: 0.25em;
 	padding-left: 1.5em;
 }
+
+
+.mastodon-embed {
+    border: 1px solid #999;
+    box-shadow: 3px 3px #eee;
+}
