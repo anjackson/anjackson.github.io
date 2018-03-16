@@ -23,7 +23,7 @@ Poking around in [the underlying data](https://gist.github.com/anjackson/1cb69ae
 
 A [search of PRONOM](http://www.nationalarchives.gov.uk/PRONOM/Format/proFormatSearch.aspx?status=new) showed two separate records for [Microsoft PowerPoint for Macintosh 4.0](http://www.nationalarchives.gov.uk/PRONOM/Format/proFormatSearch.aspx?status=detailReport&id=885) and [Microsoft Powerpoint Presentation 4.0](http://www.nationalarchives.gov.uk/PRONOM/Format/proFormatSearch.aspx?status=detailReport&id=133), but no earlier versions. In this case, [Wikipedia faired better](https://en.wikipedia.org/wiki/Microsoft_PowerPoint), [linking to](https://en.wikipedia.org/wiki/Microsoft_PowerPoint#cite_note-early-file-compatibility-252) this [nice overview of the format compatability between PowerPoint versions](https://web.archive.org/web/20130510103008/http://www.bitbetter.com/powerfaq.htm#versions).
 
-While the [File Format Wiki](http://justsolve.archiveteam.org/wiki/PPT) did not have much detail for the early versions of PowerPoint, it did [link](http://justsolve.archiveteam.org/wiki/PPT#Sample_files) to [a source of sample files](https://web.archive.org/web/20020313074855/http://ftp.sunet.se/pub/Internet-documents/isoc/charts/presentations/). This proved to be very fortunate indeed...
+While the [File Format Wiki](http://justsolve.archiveteam.org/wiki/PPT) did not have much detail for the early versions of PowerPoint, it did [link](http://justsolve.archiveteam.org/wiki/PPT#Sample_files) to [a source of sample files](https://web.archive.org/web/20020313074855/http://ftp.sunet.se/pub/Internet-documents/isoc/charts/presentations/)[^2]. This proved to be very fortunate indeed...
 
 I downloaded some of the old sample files from there, and compared them against the `0x0baddeed` files. Here's the start of one of the sample file:
 
@@ -84,3 +84,4 @@ But why `0x0baddeed`? Well, I started to speculate that this was a statement fro
 ----
 
 [^1]: I remain frustrated that I still find endianness confusing. In the past, I managed to cobble together a port of a [little-endian platform emulation](https://www.marutan.net/rpcemu/) that ran on my big-endian Mac, and despite the fact I got it working I never felt like I really understood it properly!
+[^2]: Thanks to [Nick Krabbenhöft](https://twitter.com/NKrabben) for [pointing out](https://twitter.com/NKrabben/status/974386913464537099) that I'd mis-remembered where I'd got these samples from. This updated blog post should now be accurate!
