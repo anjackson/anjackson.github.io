@@ -10,6 +10,13 @@ publish: false
 Story of a bad deed
 
 
+The CMX 600 of Digital Content Management
+
+In 1971 the [CMX 600](https://en.wikipedia.org/wiki/CMX_600) began a revolution by being the very first [non-linear video editing system](https://en.wikipedia.org/wiki/Non-linear_editing_system). 
+
+(see snapshots on desktop)
+
+
 
 Lessons Learned
 
