@@ -7,7 +7,7 @@ layout: post
 author: anj
 shown: true
 series-position: 30
-sidebar-include: _ll.md
+sidebar-include: ll.md
 ---
 
 What do we mean by 'digital object'? 

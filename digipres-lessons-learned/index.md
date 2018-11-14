@@ -7,8 +7,104 @@ status: stub
 publish: false
 ---
 
-Story of a bad deed
 
+# Experimenting with Frontera
+
+The processes starts when we load seeds in using the Strategy Worker:
+
+    python -m frontera.worker.strategy  --config huntsman.config.sw --add-seeds --seeds-url file:///Users/andy/absolute-path/seeds.txt
+
+This scores the seed URLs and places them on the `frontier-score` queue. A DB worker processes these incoming, scored URLs:
+
+    python -m frontera.worker.db  --config huntsman.config.dbw --partitions 0 1 --no-batches
+
+This reads the `frontier-score` queue and pushes the content into the `queue` table of the database. A separate DB worker:
+
+    python -m frontera.worker.db  --config huntsman.config.dbw --partitions 0 1 --no-incoming
+
+...reads the `queue` table and breaks the prioritised queue down into batches to be sent to the crawlers, posting them onto the `frontier-todo` queue. For each partition we have a crawler instance:
+
+     scrapy crawl crawl-test-site -L INFO -s SPIDER_PARTITION_ID=0
+
+The spiders download the URLs and extract the links. The results are posted onto the `frontier-done` queue, as a stream of different events. There are `page-crawled` events, `links-extracted` events (where one message lists all the URLs from one response), and `offset` events that indicate where the spiders have got to in the queue partition they are processing.
+
+(AFIACT) the DB workers and the Strategy Worker:
+
+    python -m frontera.worker.strategy  --config huntsman.config.sw --partitions 0 1
+
+...all read the `frontier-done` queue, and update the state they are responsible for accordingly. Tasks that get done are:
+
+- The crawled items update(?) the `metadata` table to refect that they've been downloads. (Incoming DB worker?)
+- The `offset` events are used to keep track of where the spiders have got to (Batching DB worker)
+- The extracted links are scored and enqueued in the `frontier-score` queue, and the cycle continues.
+
+Overall, Frontera has lots of good ideas to learn from, but is also somewhat confusing and the documentation appears to be out of date (probably just by one release).  Using different message types in a single single stream is rather clumsy -- Kafka's design (e.g keys and compaction) and my preference leans towards having separate queues for different message types.
+
+
+# Office Hours: Supporting Open Source
+
+Here at the UK Web Archive, we're very fortunate to be able to work in the open, with almost all code on [GitHub](https://github.com/ukwa/). Some of our work has been taken up and re-used by others, which is great. We’d like to encourage more collaboration, but we've had trouble dedicating time to open project management, and our overall management process and our future plans are unclear. For example, we've experimented with so many different technologies over the years that our [list of repositories](https://github.com/ukwa) give little insight into where we're going next. There are also problems with how issues and pull-requests have been managed, often languished waiting for us to get around to looking at them. This also applies to the [IIPC repositories](https://github.com/iipc) and other projects we are involved in, as well as the projects we lead.
+
+I wanted to block out some time to deal with these things promptly, but also to find a way of making it a bit more, well, a bit more fun. A bit more social. Some forum where we can chat about our process and plans without the formality of having to write things up.
+
+Taking inspiration from [Jason Scott live-streamed CD-ripping sessions](https://twitter.com/textfiles/status/964642009142235138), we came up with the idea of [Open Source Office Hours](https://twitter.com/anjacks0n/status/991769159246675971) -- some kind open open video conference or live stream, where we'll share our process, discuss issues relating to open source projects and have a forum where anyone can ask questions about what we’re up to. This should raise the profile of our open source work both inside and outside our organisation, and encourage greater adoption of, and collaboration around, open source tools.
+
+All welcome, from lurkers to those brimming with burning questions. Just remember that being *kind* beats being right.
+
+Anyone else who manages open source projects like ours is also welcome to join and take the lead for a while! I can only cover the projects we’re leading, but there’s many more.
+
+The plan is to launch the first Office Hours session on the 22nd of May, and then hold regular weekly slots every Tuesday from then on. We may not manage to run it every single week, but if it’s regular and frequent that should mean we can cope more easily with missing the odd one or two.
+
+On the 22nd, we will run two sessions - one in the morning (for the west-of-GMT time-zones) and one in the evening (for the eastern half). Following that, we intend to switch between the two slots, making each a.m. and p.m. slot a fortnightly occurance.
+
+For more details, see [the IIPC Trello Board card](https://trello.com/c/imFyJ6wr/28-office-hours-supporting-open-source)
+
+
+# Online Hours: An ongoing experiment in building tools together
+
+At the UK Web Archive, we believe in [working in the open](https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open/), and that organisations like ours can achieve more by working together and pooling our knowledge though shared practices and open source tools. However, we've come to realise that simply working in the open is not enough -- it's relatively easy to share the technical details, but less clear how to build real collaborations (particularly when not everyone is able to release their work as open source).
+
+To help us work together (and maintain some momentum in the long gaps between conferences or workshops) we were keen to try something new, and hit upon the idea of [Online Hours](http://blogs.bl.uk/webarchive/2018/05/online-hours.html). It's simply a regular web conference slot (organised and hosted by the IIPC, but open to all) which can act as a forum for anyone interested in collaborating on open source tools for web archiving.  We've been running for a while now, and have settled on a rough agenda:
+
+- Full-text indexing:
+    - Mostly focussing on our [Web Archive Discovery](https://github.com/ukwa/webarchive-discovery) toolkit so far.
+- Heritrix3:
+    - Like [Heritrix 3 release management](https://trello.com/c/Inb8MW5w/29-establish-offical-heritrix-releases), and the migration of Heritrix3 documentation to the GitHub wiki.
+- Playback:
+   - Covering e.g. [SolrWayback](https://github.com/netarchivesuite/solrwayback) as well as [OpenWayback](https://github.com/iipc/openwayback/) and [pywb](https://github.com/webrecorder/pywb).
+- AOB/SOS:
+    - For Any Other Business, and for anyone to ask for help if they need it.
+
+This gives the meetings some structure, but is really just a starting point. If you look at the [notes from the meetings](https://docs.google.com/document/d/1WVw4rxPp1gBbYmWq2mZClasz-cEV70wf9BWp2r6QnYY/edit), you'll see we've talked about a wide range of technical topics, e.g.
+
+* [OutbackCDX](https://github.com/nla/outbackcdx) features and documentation, including it's [API](https://nla.github.io/outbackcdx/api.html)
+* Web archive analysis, e.g. via the [Archives Unleashed Toolkit](https://archivesunleashed.org/aut/).
+* [Summary of technologies](https://docs.google.com/document/d/1YqYbHNyOlDcSPm29ENM6dd9ErsODNfSERsSq4RzLJyk/edit) so we can compare how we do things in our organisations, to find out which tools and approaches are shared and so might benefit from more collaboration.
+* Coming up with ideas for possible new tools that meet a shared need in a modular, reusable way.
+
+The meeting is weekly, but we've attempted to make the meetings inclusive by alternating the specific time between 10am and 4pm (GMT). This doesn't catch everyone who might like to attend, but at the moment I'm personally not able to run the call at a time that might tempt those of you on Pacific Standard Time. Of course, I'm more than happy to pass the baton if anyone else wants to run one or more calls at a more suitable time.
+
+If you can't make the calls, please conider:
+
+- Reviewing [the notes from the calls](https://docs.google.com/document/d/1WVw4rxPp1gBbYmWq2mZClasz-cEV70wf9BWp2r6QnYY/edit) and adding any questions or comments.
+- Joining the [#oh-sos channel](https://iipc.slack.com/messages/CAHNKM0UU) on the [IIPC Slack](https://iipc.slack.com/) to join the discussion around the meetings.
+- Reviewing [our Trello board](https://trello.com/b/BojRfzFt/supporting-tool-development), and commenting on/voting for items of interest.
+- Contributing to the [Awesome Web Archiving List](https://github.com/iipc/awesome-web-archiving).
+
+My thanks go to everyone who as come along to the calls so far, and to IIPC for supporting us while still keeping it open to non-members.
+
+Maybe see you online?
+
+
+
+---
+
+Technology Strategy
+
+
+
+
+https://www.iota.org/research/meet-the-tangle Blockchains etc
 
 The CMX 600 of Digital Content Management
 
@@ -16,7 +112,12 @@ In 1971 the [CMX 600](https://en.wikipedia.org/wiki/CMX_600) began a revolution 
 
 (see snapshots on desktop)
 
+> There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors.
+> (@codinghorror)[https://twitter.com/codinghorror/status/506010907021828096?lang=en]
 
+PDF encryption as a 'lessons learned' blog post
+
+I wonder if some of those opposed to compression also avoid using databases as master stores for critical metadata?
 
 Lessons Learned
 
