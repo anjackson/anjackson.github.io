@@ -3,7 +3,7 @@ title: Continuous, incremental, scalable, higher-quality web crawls with Heritri
 subtitle: IIPC conference 2018
 author: anj
 layout: post
-shown: false
+shown: true
 tags: ["Web Archives", "Digital Preservation"]
 ---
 
@@ -24,7 +24,7 @@ Since we shifted to crawling under Legal Deposit in 2013, the size and complexit
 - Stable domain crawls
 - Continuous crawling
 
-Our highest priority is automation of any and all automatable tasks, and where necessary, changing Heritrix to make common tasks easier to automate. Automate error recovery
+Our highest priority is automation of any and all automatable tasks, and where necessary, changing Heritrix to make common tasks easier to automate. Crucially, this includes automating recovery from common errors and outages, such as network outages, server maintenance, etc.
 
 However, when we can't resolve issues automatically, we need to be able to tell what's going on.  The means we need to be able to monitor progress easily, and be able to inspect what the crawler has been doing so we can debug problems. With this in mind, we've done quite a lot of work modifying Heritrix to be less of a 'black box' by moving or cloning data usually managed by Heritrix into external systems.
 
@@ -89,7 +89,7 @@ A capture index is precisely what any web archive playback system needs. We used
 OutbackCDX
 ----------
 
-OutbackCDX is a dedicated CDX service built for web archives. It stores just what you need for playback, and is easy to integrate with playback tools. It's fast, efficient, and because it's a real database it can be updated and queried in real time, rather than relying on batch updates.  In short, it's awesome, and as there's likely a few NLA staff members here I'd like to take this opportunity to thank the National Library of Australia for making OutbackCDX openly available.
+[OutbackCDX](https://github.com/nla/outbackcdx) is a dedicated CDX service built for web archives. It stores just what you need for playback, and is easy to integrate with playback tools. It's fast, efficient, and because it's a real database it can be updated and queried in real time, rather than relying on batch updates.  In short, it's awesome, and as there's likely a few NLA staff members here I'd like to take this opportunity to thank the National Library of Australia for making OutbackCDX openly available.
 
 [![That's a CDX index]({{ site.baseurl }}/building-web-archives/images/thats-not-a-cdx.jpg)]({{ site.baseurl }}/building-web-archives/images/thats-not-a-cdx.jpg)
 
