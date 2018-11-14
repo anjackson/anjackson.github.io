@@ -140,14 +140,11 @@ Better still, because we're also running Python Wayback which support HTTPS in p
 
 For example, here's a page from the main UK Government publications site, with a strange little difference in the ordering of the entries between the original and the archived version. 
 
-[![GOV.UK Original]({{ site.baseurl }}/building-web-archives/images/gov-original.png)]({{ site.baseurl }}/building-web-archives/images/gov-original.png)
-[![GOV.UK Archived]({{ site.baseurl }}/building-web-archives/images/gov-archived.png)]({{ site.baseurl }}/building-web-archives/images/gov-archived.png)
+[![GOV.UK Comparison]({{ site.baseurl }}/building-web-archives/images/gov-comparison.png)]({{ site.baseurl }}/building-web-archives/images/gov-comparison.png)
 
 And here's a BBC News page, showing that we capture full-length screenshots. Here the archived version is extremely similar apart from a couple of minor dynamic changes.  It's not all roses though. If we look at the same page using the usual re-written mode rather than our embedded browser, we start to see some gaps arising from the difference in how the two browsers render the page. So, there's more work to be done, but nevertheless the quality is much better than it used to be, and we've got a way to evaluate the quality of the crawled version, and a better understanding of where the problems are coming from.
 
-[![BBC News Original]({{ site.baseurl }}/building-web-archives/images/bbc-original.png)]({{ site.baseurl }}/building-web-archives/images/bbc-original.png)
-[![BBC News Archived]({{ site.baseurl }}/building-web-archives/images/bbc-archived.png)]({{ site.baseurl }}/building-web-archives/images/bbc-archived.png)
-[![BBC News Archived, Re-written]({{ site.baseurl }}/building-web-archives/images/bbc-archived-rewritten.jpg)]({{ site.baseurl }}/building-web-archives/images/bbc-archived-rewritten.jpg)
+[![BBC Comparison]({{ site.baseurl }}/building-web-archives/images/bbc-comparison.png)]({{ site.baseurl }}/building-web-archives/images/bbc-comparison.png)
 
 Conclusion
 ----------
