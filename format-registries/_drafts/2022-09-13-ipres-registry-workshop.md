@@ -75,7 +75,7 @@ Changes, and adding to the aggregator.
 
 ## Reminders and Refreshers
 
-- Test Corpora TDD, project?
+- Test Corpora TDD, project? Routine addtions? Secret Library?
 - Re-vitalize digipres.org
 
 ## Funding Gaps
@@ -89,3 +89,25 @@ Changes, and adding to the aggregator.
 In the workshop, we talked mostly about format registries. 
 
 PAR, and WikiData/EASII
+
+
+
+# LATER
+
+Community 6 
+- how do we discover tools?
+- presenter aware of tools in context
+- OS GUIs are #1 need!
+- Link case studies to COPTR?
+- Ask The Community is a good answer but how to make it last?
+- THEN Wikibase is good, move COPTR.
+- Combine the above? Case studies encoded in WB COPTR and explore for patterns?
+
+2022-09-15 Edith DPMS TO READ
+- Contact James about the model?
+
+R2 Thompson security vs preservation v good example.
+R2 Dragan, an excellent performance WB (sig prop example).
+R2 Natasha, remote sandboxes, similar access pattern accessibility issues not mentioned.
+
+Ask Seamus about the lack of Theory and the Theory/Practice split (and the benefits).
