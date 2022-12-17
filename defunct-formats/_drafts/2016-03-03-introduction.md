@@ -34,8 +34,8 @@ However, it's worth noting that
 Formats Found
 -------------
 
-{% for post in site.categories['defunct-formats'] | sort:path %}{% if post.path != page.path %}
-* [{{post.title}}]({{post.url}}){% endif %}{% endfor %}
+{ % for post in site.categories['defunct-formats'] | sort:path % }{ % if post.path != page.path % }
+* [{{post.title}}]({{post.url}}){ % endif % }{ % endfor % }
 
 
 Notes
