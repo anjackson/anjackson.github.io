@@ -9,11 +9,14 @@ tags:
 layout: post
 author: anj
 shown: true
-showtoc: true
+showtoc: false
 ---
 This is a summary of what’s been going on since [the update at the start of the autumn](https://blogs.bl.uk/webarchive/2022/10/uk-web-archive-technical-update-autumn-2022.html).
 
 <!--break-->
+
+* TOC
+{:toc}
 
 ## 2022 Domain Crawl Completion
 
