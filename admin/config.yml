@@ -14,11 +14,12 @@ collections:
   label: "General Blog Post"
   folder: _posts
   create: true
-  path: "{{year}}-{{month}}-{{day}}-{{slug}}"
-  preview_path: "{{year}}/{{month}}/{{day}}/{{slug}}"
+  slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+  preview_path: "{{year}}/{{month}}/{{day}}/{{title}}"
   fields:
   - {label: 'Title', name: 'title', widget: 'string'}
   - {label: 'Sub-title', name: 'subtitle', widget: 'string'}
+  - {label: 'Date', name: 'date', widget: 'date' }
   - {label: 'Blog series', name: 'category', widget: 'select', options: ["building-web-archives","mining-web-archives", "defunct-formats"], required: false}
   - {label: 'Tags', name: 'tags', widget: 'select', options: ["Websites","Reports"], multiple: true, required: false}
   - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
