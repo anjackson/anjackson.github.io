@@ -19,8 +19,8 @@ collections:
   fields:
   - {label: 'Title', name: 'title', widget: 'string'}
   - {label: 'Sub-title', name: 'subtitle', widget: 'string'}
-  - {label: 'Category', name: 'category', widget: 'select', options: ["mining-web-archives"]}
-  - {label: 'Tags', name: 'tags', widget: 'select', options: ["Websites"], multiple: true}
+  - {label: 'Category', name: 'category', widget: 'select', options: ["building-web-archives","mining-web-archives", "defunct-formats"], required: false}
+  - {label: 'Tags', name: 'tags', widget: 'select', options: ["Websites","Reports"], multiple: true, required: false}
   - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
   - {label: "Author", name: "author", widget: "hidden", default: "anj"}
   - {label: "Shown", name: "shown", widget: "boolean", default: true}
