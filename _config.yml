@@ -2,7 +2,7 @@ title:            andrew.n.jackson
 description:      Fighting entropy since 1993
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 baseurl:          
-url:              http://anjackson.net
+url:              https://anjackson.net
 disqus_shortname: anjackson
 repository:       anjackson/anjackson.github.io
 
@@ -46,7 +46,7 @@ links:
   - title: Tags
     url: /tags/
 #  - title: anjackson.net
-#    url: http://anjackson.net
+#    url: https://anjackson.net
 #    external: true
 
 # Links to include in 'sub-site' navigation
@@ -57,7 +57,7 @@ subsites:
     url: /keeping-codes/
 
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London
 future:      true
 highlighter: rouge
