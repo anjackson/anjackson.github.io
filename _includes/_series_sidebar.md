@@ -7,7 +7,7 @@
 {% assign sorted_posts = tagged_posts | sort:"path" %}
 
 {% assign go_next = false %}
-{% for post in sorted_posts reversed %}
+{% for post in sorted_posts %}
 
 {% if go_next %}
 <a class="btn btn-theme" href="{{ post.url }}" style="width:45%" title="Previous post in this series: {{ post.title }}">&laquo; Previous in series&nbsp;</a>
@@ -21,7 +21,7 @@
 {% endfor %}
 
 {% assign go_next = false %}
-{% for post in sorted_posts %}
+{% for post in sorted_posts reversed %}
 
 {% if go_next %}
 <a class="btn btn-theme" href="{{ post.url }}" style="width:45%" title="Next post in this series: {{ post.title }}">&nbsp;Next in series&nbsp;&raquo;</a>
