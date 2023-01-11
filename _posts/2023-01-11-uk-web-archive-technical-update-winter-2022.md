@@ -45,7 +45,7 @@ There was also an issue with how W3ACT data was used, meaning the subdomains of 
 
 From the 12th of December onwards, the Document Harvester had stopped picking up GOV.UK documents properly. This appears to have stemmed from some edits carried out in W3ACT, where the Watched Target that covered the GOV.UK document publication service was merged with the main GOV.UK Target (which was not *Watched*). This meant the crawler was no longer looking for documents from GOV.UK.
 
-We made the GOV.UK Target into a Watched Target, and then cleared all the crawl logs since the 12th of December for re-processing.  Those logs have now been processed and the missed documents have been identified.
+We made the GOV.UK Target into a Watched Target, and then cleared the relevant crawl logs for re-processing.  Those logs have now been processed and the missed documents have been identified.
 
 We're looking at how this happened and will take steps to prevent this happening in the future.
 
@@ -53,23 +53,23 @@ We're looking at how this happened and will take steps to prevent this happening
 
 The Application Support team has been working with Networks team and our Legal Deposit Library partners to start to roll out an initial 'alpha' service across all sites. This will help all library staff to try out the system and lay the foundations for a 'beta' service in reading rooms. The Project Manager has also been working hard to understand the likely timeline for the project and communicate this to all stakeholders, while keeping the [project management triangle](https://en.wikipedia.org/wiki/Project_management_triangle) in mind.
 
-We're also working on setting up a suitable [Continuous Deployment](https://en.wikipedia.org/wiki/Continuous_deployment) pipeline for this service using [GitLab CI/CD](https://docs.gitlab.com/ee/ci/). This will allow us to safely test and deploy new versions of the access service without having to manually maintain the system.
+Additionally, we're working on setting up a suitable [Continuous Deployment](https://en.wikipedia.org/wiki/Continuous_deployment) pipeline for this service using [GitLab CI/CD](https://docs.gitlab.com/ee/ci/). This will allow us to analyse, test and safely deploy new versions of the access service without having to manage the system by hand.
 
 ## CDX Backfill
 
 One of the critical components of the web archive is the content index (CDX), which is an index of all the URLs we have archived, and is required for playback to work. Ours runs on [OutbackCDX](https://github.com/nla/outbackcdx) (from the National Library of Australia), and a subset of it's functionality is available via [our API](https://www.webarchive.org.uk/api/docs#/Archived%20URLs/lookup_url_mementos_cdx_get).
 
-In the past, we've had problems running large CDX indexing jobs, and this had left us in an unfortunate situation where the 2016, 2018 and 2019 domain crawls were not indexed. Over the last few months, we set the the indexing process to (re)process our WARCs and 'backfill' the index, which has filled in those gaps.  
+In the past, we've had problems running large CDX indexing jobs, and this had left us in an unfortunate situation where the 2016, 2018 and 2019 domain crawls were not indexed. During the last few months, we modified the the indexing process to (re)process our WARCs and 'backfill' the index, which has filled in those gaps.  
 
-This also showed that we could process our entire collection (i.e. over 1PB) in a reasonable time (about three months), which is reassuring. It will likely be necessary to re-build indexes from time to time, and it's good to know it should be possible to do so in a reasonable amount of time. Also, the act of reading every byte of every WARC is an explicit additional proof that the files have been kept safe over all these years!
+This also showed that we could process our entire collection (i.e. over 1PB) in a reasonable time (roughly three months depending on the precise workload), which is reassuring. It will likely be necessary to re-build indexes from time to time, and it's good to know it should be possible to do so in a reasonable amount of time. Also, the act of reading every byte of every WARC is an additional explicit proof that the files have been kept safe over all these years! We know HDFS has been systematically monitoring the files over time, but it's nice to run an independent check.
 
 The 2020, 2021 and 2022 domain crawls will have to wait a little longer, as they are stored on Amazon Web Services and need transferring to the British Library before they can be indexed.
 
 ## Browsertrix-Cloud
 
-We're part of the IIPC project *[Browser-based Crawling For All](https://netpreserve.org/projects/browser-based-crawling/)*, contributing the the development of [Browsertrix Cloud](https://browsertrix.cloud/) by supporting it's development and attempting to ensure IIPC members can take advantage of it. As part of this, we proposed two sessions for [next years' IIPC conference](https://netpreserve.org/ga2023/), both of which have been accepted:
+Finally, we're proud to be part of the IIPC project *[Browser-based Crawling For All](https://netpreserve.org/projects/browser-based-crawling/)*, which contributes to the development of [Browsertrix Cloud](https://browsertrix.cloud/) and attempts to ensure IIPC members can take advantage of it. As part of this, we proposed two sessions for [next years' IIPC conference](https://netpreserve.org/ga2023/), both of which have been accepted:
 
-* A workshop called *Browser-Based Crawling For All: Getting Started with Browsertrix Cloud*, aimed at helping attendees take advantage of Browsertrix Cloud.
+* A workshop called *Browser-Based Crawling For All: Getting Started with Browsertrix Cloud*, aimed at helping attendees take advantage of Browsertrix Cloud. We're particularly interested in uncovering barriers that might prevent adoption.
 * A panel called *Browser-Based Crawling For All: The Story So Far*, giving an insight into the current state of the project and of Browsertrix Cloud (including any feedback from the workshop).
 
 Hoping to see you there!
