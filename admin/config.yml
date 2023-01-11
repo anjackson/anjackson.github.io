@@ -20,5 +20,5 @@ collections:
   - {label: 'Tags', name: 'tags', widget: 'select', options: ["Websites"], multiple: true}
   - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
   - {label: "Author", name: "author", widget: "hidden", default: "anj"}
-  - {label: "Shown", name: "author", widget: "boolean", default: true}
+  - {label: "Shown", name: "shown", widget: "boolean", default: true}
   - {label: 'Body', name: 'body', widget: 'markdown'}
