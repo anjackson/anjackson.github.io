@@ -25,5 +25,6 @@ collections:
   - {label: 'Tags', name: 'tags', widget: 'select', options: ["Websites", "Reports", "Web Archives", "Digital Preservation", "Data Mining"], multiple: true, required: false}
   - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
   - {label: "Author", name: "author", widget: "hidden", default: "anj"}
-  - {label: "Shown", name: "shown", widget: "boolean", default: true}
+  - {label: "Show in homepage/feeds", name: "shown", widget: "boolean", default: true}
+  - {label: "Show table of contents", name: "showtoc", widget: "boolean", default: false}
   - {label: 'Body', name: 'body', widget: 'markdown'}
