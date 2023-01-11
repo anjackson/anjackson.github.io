@@ -77,6 +77,7 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   syntax_highlighter: true
+  parse_block_html: true
 
   syntax_highlighter_opts:
     coderay_line_numbers:
