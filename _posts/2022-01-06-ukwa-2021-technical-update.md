@@ -1,5 +1,5 @@
 ---
-title: UK Web Archive Technical Update - Spring 2021
+title: UK Web Archive Technical Update - Winter 2022
 subtitle: 2021 Q4 Summary Report
 date: 2022-01-06T19:28:12.985Z
 category: building-web-archives
@@ -12,6 +12,8 @@ shown: true
 showtoc: false
 ---
 During the last quarter of 2021, the technical services that make up the web archive underwent lot of changes behind the scenes. These changes should help us to improve our services, so it's worth explaining a little about what's been going on.
+
+<!--break-->
 
 ## Starting the Hadoop 3 Migration
 
