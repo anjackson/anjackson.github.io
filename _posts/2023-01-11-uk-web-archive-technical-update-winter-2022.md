@@ -1,9 +1,9 @@
 ---
 title: UK Web Archive Technical Update - Winter 2022
 subtitle: 2022 Q4 Summary Report
-category: mining-web-archives
+category: building-web-archives
 tags:
-  - Websites
+  - Reports
 layout: post
 author: anj
 shown: true
