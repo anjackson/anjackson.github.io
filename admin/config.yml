@@ -2,6 +2,9 @@ backend:
   name: git-gateway
   repo: anjackson/anjackson.github.io
   branch: master
+  
+# Use the editorial workflow, for working on long posts:
+publish_mode: editorial_workflow
 
 media_folder: assets/images/uploads
 public_folder: /assets/images/uploads
