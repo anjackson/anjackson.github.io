@@ -15,7 +15,10 @@
 
     <!-- Custom styles for this template -->
     <link href="{{ site.baseurl }}/assets/css/style.css" rel="stylesheet">
-    <link href="{{ site.baseurl }}/assets/css/font-awesome.min.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/assets/fonts/fontawesome-free-6.2.0-web/css/fontawesome.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/assets/fonts/fontawesome-free-6.2.0-web/css/solid.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/assets/fonts/fontawesome-free-6.2.0-web/css/brands.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/assets/fonts/fontawesome-free-6.2.0-web/css/v4-shims.css" rel="stylesheet">
 
 
     <!-- Just for debugging purposes. Don't actually copy this line! -->
@@ -72,11 +75,11 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>{% if page.parent %}<span class="parent-link"><a href="{{ page.parent_link }}">{{ page.parent }}</a>&nbsp;<i class="fa fa-angle-right"></i> </span>{% endif %}{{ page.title }}</h3>
+				<h1>{% if page.parent %}<span class="parent-link"><a href="{{ page.parent_link }}">{{ page.parent }}</a>&nbsp;<i class="fa fa-angle-right"></i> </span>{% endif %}{{ page.title }}</h2>
         {% if page.subtitle or page.date %}
-        <h4 class="subtitle">
+        <h2 class="subtitle">
         {% if page.date %}Posted: {{ page.date | date:"%Y-%m-%d" }}{% endif %}{% if page.subtitle and page.date %} | {% endif %}{{ page.subtitle }}
-        </h4>
+        </h2>
         {% endif %}
 			</div><!-- /row -->
 	    </div> <!-- /container -->
@@ -101,22 +104,21 @@
 		 			<h4>Elsewhere</h4>
 		 			<div class="hline-w"></div>
 		 			<p>
-            <a href="https://github.com/{{ site.owner.github }}" title="GitHub"><i class="fa fa-github"></i></a>
-            <a href="http://qanda.digipres.org/user/anjackson" title="DigiPres Q&amp;A"><i class="fa fa-question-circle"></i></a>
-            <a href="http://stackoverflow.com/users/{{ site.owner.stackoverflow }}" title="StackOverflow"><i class="fa fa-stack-overflow"></i></a>
-            <a href="http://www.slideshare.net/andrewnjackson" title="SlideShare"><i class="fa fa-slideshare"></i></a>
-            <a href="https://speakerdeck.com/anjackson" title="Speaker Deck"><i class="fa fa-caret-square-o-right"></i></a>
+            <a href="https://github.com/{{ site.owner.github }}" rel="me" title="GitHub"><i class="fa fa-github"></i></a>
+            <a href="http://qanda.digipres.org/user/anjackson" rel="me" title="DigiPres Q&amp;A"><i class="fa fa-question-circle"></i></a>
+            <a href="http://stackoverflow.com/users/{{ site.owner.stackoverflow }}" rel="me" title="StackOverflow"><i class="fa fa-stack-overflow"></i></a>
+            <a href="http://www.slideshare.net/andrewnjackson" rel="me" title="SlideShare"><i class="fa fa-slideshare"></i></a>
+            <a href="https://speakerdeck.com/anjackson" rel="me" title="Speaker Deck"><i class="fa fa-caret-square-o-right"></i></a>
 		 			</p>
 		 		</div>
         <div class="col-md-4 col-sm-6 col-xs-12">
 		 			<h4>Contact</h4>
 		 			<div class="hline-w"></div>
 		 			<p>
-            <a href="https://twitter.com/{{ site.owner.twitter }}" title="Twitter"><i class="fa fa-twitter"></i></a>
-            <a href="mailto:{{ site.owner.email }}" title="Email"><i class="fa fa-pencil-square-o"></i></a>
-            <a href="skype:{{ site.owner.skype }}?chat&amp;topic=Hello" title="Skype"><i class="fa fa-skype"></i></a>
-            <a href="http://uk.linkedin.com/in/{{ site.owner.linkedin }}/" title="LinkedIn"><i class="fa fa-linkedin"></i></a>
-            <a href="https://plus.google.com/+{{ site.owner.google_plus }}"><i class="fa fa-google-plus"></i></a>
+            <a href="{{ site.owner.mastodon }}" rel="me" title="Mastodon"><i class="fa-brands fa-mastodon"></i></a>
+            <a href="https://twitter.com/{{ site.owner.twitter }}" rel="me" title="Twitter"><i class="fa fa-twitter"></i></a>
+            <a href="http://uk.linkedin.com/in/{{ site.owner.linkedin }}/" rel="me" title="LinkedIn"><i class="fa fa-linkedin"></i></a>
+            <a href="mailto:{{ site.owner.email }}" rel="me" title="Email"><i class="fa fa-pencil-square-o"></i></a>
 		 			</p>
 		 		</div>
 		 	

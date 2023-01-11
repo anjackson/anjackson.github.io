@@ -12,11 +12,17 @@ hide_title: true
 			<div class="row">
 				<div class="col-lg-8 col-lg-offset-2">
 				    <h3>
-            		  <a href="https://twitter.com/{{ site.owner.twitter }}" title="Twitter - {{ site.owner.twitter }}" style="color:white"><i class="fa fa-twitter"></i></a>
+					  <a href="{{ site.owner.mastodon }}" 
+					  title="Mastodon" rel="me"
+					  style="color:white"><i class="fa-brands fa-mastodon"></i></a>
+					  &nbsp;
+            		  <a href="https://twitter.com/{{ site.owner.twitter }}" title="Twitter - {{ site.owner.twitter }}" rel="me" 
+					  style="color:white"><i class="fa fa-twitter"></i></a>
  		 	          &nbsp;
- 		 	          <a href="https://github.com/{{ site.owner.github }}" title="GitHub - {{ site.owner.github }}" style="color:white"><i class="fa fa-github"></i></a>
+ 		 	          <a href="https://github.com/{{ site.owner.github }}" title="GitHub - {{ site.owner.github }}" rel="me" 
+					  style="color:white"><i class="fa fa-github"></i></a>
  		 	          &nbsp;
- 		 	          <a href="mailto:{{ site.owner.email }}" title="Email {{ site.owner.email }}" style="color:white"><i class="fa fa-pencil-square-o"></i></a>
+ 		 	          <a href="mailto:{{ site.owner.email }}" title="Email {{ site.owner.email }}" rel="me" style="color:white"><i class="fa fa-pencil-square-o"></i></a>
  		 	        </h3>
 					<h1>Dr.&nbsp;Andrew Jackson</h1>
 					<h5><a title="Geek" style="color:white">Data Science &mdash; Digital Preservation &mdash;Technical Architecture</a></h5>
