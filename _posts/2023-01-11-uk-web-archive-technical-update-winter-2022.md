@@ -11,6 +11,8 @@ shown: true
 ---
 This is a summary of what’s been going on since [the update at the start of the autumn](https://blogs.bl.uk/webarchive/2022/10/uk-web-archive-technical-update-autumn-2022.html).
 
+{:toc}
+
 ## 2022 Domain Crawl Completion
 
 As in previous years, the 2022 Domain Crawl continued to run right up until the end of the year. Overall, things ran smoothly, with only brief outages for upgrading the virtual server over time as the size of the frontier grew.
@@ -37,15 +39,21 @@ The public version of the API is in the final stages of development, and should 
 
 Just a few days ago, W3ACT 2.3.4 was released. This included a number of minor tweaks and fixes, including fixing the CSV export feature and adding more export formats (TSV and JSON). For more details, please take a look at [the associated release milestone](https://github.com/ukwa/w3act/milestone/41?closed=1).
 
-Accidental subdomain accesx Fix subdomain access
+There was also an issue with how W3ACT data was used, meaning the subdomains of sites with open access licences were being given the same licence as the 'parent' domain. This has now been resolved and access is consistent with the data in W3ACT.
 
 ## Document Harvester Outage
 
-DDHAPT Outage
+The Document Harvester had stopped picking up GOV.UK documents properly, from the 12th of December onwards. This appears to have stemmed from some changes in W3ACT, where the Watched Target that covered the GOV.UK document publication service was merged with the main GOV.UK Target. This meant the crawler was no longer looking for documents from GOV.UK.
+
+We made the GOV.UK Target into a Watched Target, and then cleared all the crawl logs since the 12th of December for re-processing.  Those logs have now been processed and we've caught back up with outselves.
+
+We're looking at how this happened and will take steps to prevent this happening in the future.
 
 ## Legal Deposit Access Solution
 
-Ericom Replacement
+The Application Support team has been working with networks teams and our Legal Deposit Library partners to try to start to roll out an initial 'alpha' service across all sites. This will help all library staff to try out the system and lay the foundations for a 'beta' service in reading rooms. The Project Manager has also been working hard to outline the likely timeline and communicate this to all stakeholders.
+
+We're also working on setting up a suitable [Continuous Deployment](https://en.wikipedia.org/wiki/Continuous_deployment) pipeline for this service using [GitLab CI/CD](https://docs.gitlab.com/ee/ci/). This will allow us to safely test and deploy new versions of the access service without having to manually maintain the system.
 
 ## CDX Backfill
 
