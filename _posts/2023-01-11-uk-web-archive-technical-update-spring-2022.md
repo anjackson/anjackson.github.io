@@ -21,17 +21,18 @@ The Legal Deposit libraries have worked together to fund this additional, indepe
 
 As there is a petabyte of content to replicate, we were initially concerned that the process of migrating the data would take an extremely long time, and possibly put an unsustainable load on our internal network infrastructure. Happily, these worries were unfounded: over the last six weeks, we've replicated about 300TB of WARCs, and this has not caused any noticeable network capacity problems. We've also been able to start running cluster jobs that calculate checksums for the files on both ends of the replication, so we can verify everything is working.
 
+![Server rack and cables](/assets/images/uploads/server-rack-back.jpg "Server rack and cables")
+
 ## LD Access Solution
 
 The current system for accessing Non-Print Legal Deposit material in our reading rooms has accessibility problems, and is being replaced with two components:
 
-- An [enhanced version of PyWB](https://github.com/ukwa/ukwa-pywb/issues/74) that can render PDFs and ePubs.
-- An ['NPLD Player' app](https://github.com/ukwa/npld-player) that will allow the content to be accessed from reading room PCs that have not been set up to prevent copies of items being accidentally taken away.
+* An [enhanced version of PyWB](https://github.com/ukwa/ukwa-pywb/issues/74) that can render PDFs and ePubs.
+* An ['NPLD Player' app](https://github.com/ukwa/npld-player) that will allow the content to be accessed from reading room PCs that have not been set up to prevent copies of items being accidentally taken away.
 
 With both components being developed through a contract with Webrecorder.
 
 This quarter has mostly been about laying the groundwork for this (like writing [deployment documentation](https://github.com/ukwa/ukwa-services/tree/master/access/rrwb#readme), so we might make more progress next quarter.
-
 
 ## Crawlers
 
@@ -45,13 +46,12 @@ For the core W3ACT service, the only changes have been to fix the [links to QA W
 
 However, we have been working on embedding [additional services behind the W3ACT login](https://github.com/ukwa/ukwa-services/issues/39). These include:
 
- - A way to [view the logs from the W3ACT crawls](https://www.webarchive.org.uk/act/grafana/d/67xk-317z/recent-crawler-activity?orgId=1&refresh=1m).
- - An instance of [SolrWayback](https://github.com/netarchivesuite/solrwayback/), configured to [search full text indexes from the W3ACT crawls](https://www.webarchive.org.uk/act/solrwayback/).
+* A way to [view the logs from the W3ACT crawls](https://www.webarchive.org.uk/act/grafana/d/67xk-317z/recent-crawler-activity?orgId=1&refresh=1m).
+* An instance of [SolrWayback](https://github.com/netarchivesuite/solrwayback/), configured to [search full text indexes from the W3ACT crawls](https://www.webarchive.org.uk/act/solrwayback/).
 
 Our Danish colleagues have been very helpful, collaborating with us to augment SolrWayback so it could be run with our systems.  There are still some gaps (e.g. the internal playback part does not work reliably as our old Solr indexes do not provide all the fields SolrWayback needs) but it's still very valuable as a way of exploring and evaluating how we might work in the future.
 
 One gap, however, is that we haven't yet updated the Storage Report with one that is up-to-date and runs across both clusters ([ukwa-notebook-apps#12](https://github.com/ukwa/ukwa-notebook-apps/issues/12)). That should be done early in April.
-
 
 ## Website
 
