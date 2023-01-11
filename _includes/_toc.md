@@ -8,3 +8,5 @@
 </div>
 </section><!-- /#table-of-contents -->
 
+* TOC
+{:toc}

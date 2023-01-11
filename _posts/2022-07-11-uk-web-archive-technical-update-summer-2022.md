@@ -9,11 +9,13 @@ tags:
 layout: post
 author: anj
 shown: true
-showtoc: false
 ---
 Following on from [the last quarterly update](https://blogs.bl.uk/webarchive/2022/05/uk-web-archive-technical-update-spring-2022.html), we've been able to make some good progress despite being understaffed during this period.
 
 <!--break-->
+
+* TOC
+{:toc}
 
 ## Hadoop storage and replication
 

@@ -26,5 +26,4 @@ collections:
   - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
   - {label: "Author", name: "author", widget: "hidden", default: "anj"}
   - {label: "Show in homepage/feeds", name: "shown", widget: "boolean", default: true}
-  - {label: "Show table of contents", name: "showtoc", widget: "boolean", default: false}
   - {label: 'Body', name: 'body', widget: 'markdown'}

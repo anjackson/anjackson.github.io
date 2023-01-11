@@ -9,11 +9,13 @@ tags:
 layout: post
 author: anj
 shown: true
-showtoc: false
 ---
 This is a summary of what's been going on since [the update at the start of the summer](https://blogs.bl.uk/webarchive/2022/07/uk-web-archive-technical-update-summer-2022.html).
 
 <!--break-->
+
+* TOC
+{:toc}
 
 ## Website Refresh
 
