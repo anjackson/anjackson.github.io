@@ -22,7 +22,7 @@ collections:
   - {label: 'Sub-title', name: 'subtitle', widget: 'string'}
   - {label: 'Date', name: 'date', widget: 'date'}
   - {label: 'Blog series', name: 'category', widget: 'select', options: ["building-web-archives","mining-web-archives", "defunct-formats"], required: false}
-  - {label: 'Tags', name: 'tags', widget: 'select', options: ["Websites","Reports"], multiple: true, required: false}
+  - {label: 'Tags', name: 'tags', widget: 'select', options: ["Websites", "Reports", "Web Archives", "Digital Preservation", "Data Mining"], multiple: true, required: false}
   - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
   - {label: "Author", name: "author", widget: "hidden", default: "anj"}
   - {label: "Shown", name: "shown", widget: "boolean", default: true}
