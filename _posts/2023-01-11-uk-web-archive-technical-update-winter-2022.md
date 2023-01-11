@@ -15,12 +15,11 @@ This is a summary of what’s been going on since [the update at the start of th
 
 The 2022 Domain Crawl continued to run right up until the end of the year.
 
-
 H3 space saving
 2020 45TB for Heritrix State, and deleting old checkpoints did very little.
 Then:
-https://github.com/ukwa/ukwa-services/blame/012d9b194560ca4143238f575eaa3622e05870ec/ingest/dc/dc-crawl/docker-compose.yml#L40-L42
-https://github.com/ukwa/ukwa-services/blob/012d9b194560ca4143238f575eaa3622e05870ec/ingest/dc/dc-crawl/docker-compose.yml#L40-L42
+
+[c﻿onfigure the internal database to run more clean-up processes at the same time](https://github.com/ukwa/ukwa-services/blame/012d9b194560ca4143238f575eaa3622e05870ec/ingest/dc/dc-crawl/docker-compose.yml#L40-L42)
 
 2021 15TB, and deleting old checkpoints has a more significant effect. Significantly cheaper.
 
