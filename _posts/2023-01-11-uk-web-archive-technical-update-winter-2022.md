@@ -29,28 +29,37 @@ As there is still a little uncertainty as to how this will affect other network 
 
 ## Internal Collections API
 
-W3ACT api-json-including-unpublished
+Working with the Archives of Tomorrow project to understand he requirements, we now have an internal API where W3ACT metadata can be downloaded for entire collections, including all sub-collections and target site metadata. Authenticated W3ACT users can retrieve these full collection extracts (including unpublished collections), which are updated daily. The JSON files are available at <https://www.webarchive.org.uk/act/static/api-json-including-unpublished/collection/> for logged-in users.
 
-Authenticated w3act users can now retrieve full collection extracts (including unpublished collections) from our static directory which is updated regularly:
+The public version of the API is in the final stages of development, and should be released early in 2023. Unlike the internal API, this will not include collections that are not yet ready for publication.
 
-Example:
+## W3ACT 2.3.4
 
-https://www.webarchive.org.uk/act/static/api-json-including-unpublished/collection/4028.json
+Just a few days ago, W3ACT 2.3.4 was released. This included a number of minor tweaks and fixes, including fixing the CSV export feature and adding more export formats (TSV and JSON). For more details, please take a look at [the associated release milestone](https://github.com/ukwa/w3act/milestone/41?closed=1).
 
-You need to be logged in as normal through w3act for authentication.
+Accidental subdomain accesx Fix subdomain access
 
-https://www.webarchive.org.uk/act/login
+## Document Harvester Outage
 
-The public API access for unauthenticated extraction (i.e. excluding published collections) is undergoing integration and testing for deployment; we will notify you when it is available.
+DDHAPT Outage
 
-Browsertrix-Crawler and Cloud maaan
-
-CDX Backfill
-
-Fix subdomain access
-
-DDHAPT
+## Legal Deposit Access Solution
 
 Ericom Replacement
 
-W3ACT 2.3.4 - not yet released
+## CDX Backfill
+
+One of the critical components of the web archive is the content index (CDX), which is an index of all the URLs we have archived, and is required for playback to work. Ours runs on [OutbackCDX](https://github.com/nla/outbackcdx) (from the National Library of Australia), and a subset of it's functionality is available via [our API](https://www.webarchive.org.uk/api/docs#/Archived%20URLs/lookup_url_mementos_cdx_get).
+
+In the past, we've had problems running large CDX indexing jobs, and this had left us in an unfortunate situating where the 2016, 2018 and 2019 domain crawls were not indexed. Over the last few months, we set the the indexing process to 'backfill' the index and (re)process our WARCs, and filled in those gaps.  This also showed that we could process our entire collection (over 1PB) in a reasonable time (about three months), which is reassuring. It will likely be necessary to re-build various indexes from time to time, and it's good to know it should be possible to do so in a reasonable amount of time. Also, the act of reading every byte of every WARC is an explicit additional proof that the files have been kept safe over all these years!
+
+The 2020, 2021 and 2022 domain crawls will have to wait a little longer, as they are stored on Amazon Web Services and need transferring to the British Library before they can be indexed.
+
+## Browsertrix-Cloud
+
+We're part of the IIPC project *[Browser-based Crawling For All](https://netpreserve.org/projects/browser-based-crawling/)*, contributing the the development of [Browsertrix Cloud](https://browsertrix.cloud/) by supporting it's development and attempting to ensure IIPC members can take advantage of it. As part of this, we proposed two sessions for [next years' IIPC conference](https://netpreserve.org/ga2023/), both of which have been accepted:
+
+* A workshop called *Browser-Based Crawling For All: Getting Started with Browsertrix Cloud*, aimed at helping attendees take advantage of Browsertrix Cloud.
+* A panel called *Browser-Based Crawling For All: The Story So Far*, giving an insight into the current state of the project and of Browsertrix Cloud (including any feedback from the workshop).
+
+Hoping to see you there!
