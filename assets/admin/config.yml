@@ -5,15 +5,15 @@ backend:
 media_folder: assets/images/uploads
 public_folder: /assets/images/uploads
 
-collections:      
-  - name: "main-blog"
-    label: "General Blog Posts"
-    folder: _posts
-    create: true
-    slug: {{year}}-{{month}}-{{day}}-{{slug}}
-    preview_path: "blog/{{slug}}"
-    fields:
-      - {label: 'Title', name: 'title', widget: 'string'}
-      - {label: 'Body', name: 'body', widget: 'markdown'}
+collections:
+- name: "main-blog"
+  label: "General Blog Posts"
+  folder: _posts
+  create: true
+  slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+  preview_path: "blog/{{slug}}"
+  fields:
+  - {label: 'Title', name: 'title', widget: 'string'}
+  - {label: 'Body', name: 'body', widget: 'markdown'}
     
 
