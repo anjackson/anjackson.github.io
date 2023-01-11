@@ -13,6 +13,8 @@ showtoc: false
 ---
 Following on from [the last quarterly update](https://blogs.bl.uk/webarchive/2022/05/uk-web-archive-technical-update-spring-2022.html), we've been able to make some good progress despite being understaffed during this period.
 
+<!--break-->
+
 ## Hadoop storage and replication
 
 We are still in the process of replicating content onto a second Hadoop cluster, to be moved to the National Library of Scotland.  The cluster capacity is 1PB, and it's now about 70% full. Next steps will involve double-checking the files have been replicated correctly, and planning the relocation of the servers.
