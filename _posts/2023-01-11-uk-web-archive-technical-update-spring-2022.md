@@ -11,6 +11,8 @@ author: anj
 shown: true
 showtoc: false
 ---
+This is a summary of what’s been going on since [the last update, at the start of the year](https://blogs.bl.uk/webarchive/2022/01/ukwa-2021-technical-update.html).
+
 ## Hadoop storage and replication
 
 With the live services happily running off both the old and new Hadoop clusters, we have been focusing on setting up and populating our third Hadoop cluster, destined for the National Library of Scotland.
