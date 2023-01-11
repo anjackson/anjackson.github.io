@@ -1,0 +1,19 @@
+backend:
+  name: git-gateway
+  repo: anjackson/anjackson.github.io
+
+media_folder: assets/images/uploads
+public_folder: /images/uploads
+
+collections:      
+  - name: "main-blog"
+    label: "General Blog Posts"
+    folder: _posts
+    create: true
+#    path: "{{slug}}"
+#    preview_path: "en/ukwa/info/{{dirname}}"
+    fields:
+      - {label: 'Title', name: 'title', widget: 'string'}
+      - {label: 'Body', name: 'body', widget: 'markdown'}
+    
+
