@@ -1,0 +1,16 @@
+/* editor.css */
+
+html,
+body {
+  color: #444;
+  font-size: 14px;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+body {
+  padding: 20px;
+}
+
+body img {
+    max-width: 100%;
+}

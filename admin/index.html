@@ -9,6 +9,10 @@
 <body>
   <!-- Include the script that builds the page and powers Netlify CMS -->
   <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+  <!-- Modify editor preview as per https://www.netlifycms.org/docs/customization/#registerpreviewstyle -->
+  <script>
+    CMS.registerPreviewStyle("/admin/editor.css");
+  </script>
 
 <script>
   if (window.netlifyIdentity) {
