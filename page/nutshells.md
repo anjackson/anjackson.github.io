@@ -25,7 +25,7 @@ My RISC OS wiki and link directory can be found at <a href="http://nutshells.anj
 
 <p style="text-align: center;">
 <a href="http://nutshells.anjackson.net/">
-<img src="http://nutshells.anjackson.net/sites/nutshells.anjackson.net/themes/nutshell/images/nutlogoRsml.png" alt="nutshells logo"/>
+<img src="https://nutshells.anjackson.net/sites/nutshells.anjackson.net/themes/nutshell/images/nutlogoRsml.png" alt="nutshells logo"/>
 </a>
 </p>
 

@@ -22,12 +22,12 @@ For a while now, I've wondered what the prime numbers look like in binary, that 
 <!--break-->
 <div style="float: right; background-color: #888; width: 50px; height: 600px; overflow: scroll; margin: 1em;">
 <img  style="float: left; background-color: transparent; margin: 0; padding: 0; border: none;" 
-src="http://anjackson.net/sites/anjackson.net/files/images/primes.png"/>
+src="/image/images/primes.png"/>
 <img  style="float: left; background-color: transparent; margin: 0; padding: 0; border: none;" 
-src="http://anjackson.net/sites/anjackson.net/files/images/not-primes.png"/>
+src="/image/images/not-primes.png"/>
 </div>
 
-<img  style="display: block; margin: 0.5em auto; padding: 0; border: none;" src="http://anjackson.net/sites/anjackson.net/files/images/PrimePlotIllustration.png"/>
+<img  style="display: block; margin: 0.5em auto; padding: 0; border: none;" src="/image/images/PrimePlotIllustration.png"/>
 
 <p>
 The above image illustrates how the plot works.  Horizontally we have the 'units of twos' - i.e. the columns from right to left corresponds to increasing powers of 2.  You've seen this before in decimal, where the columns are units, tens, hundreds, thousands and so on, but instead of the number 13 being made up by adding one ten and three units, we indicate the number thirteen as a sum of powers of two, i.e. 13 = 8 + 4 + 1.  So, in this case, the 8,4 and 1 columns are white, and the others are black/blank.

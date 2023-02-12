@@ -49,7 +49,7 @@ Migrations that convert between metadata formats, mapping elements of one into t
 
 ## References ##
 
-* This book is quite good: <a href="http://www.amazon.co.uk/gp/product/1843343010?ie=UTF8&tag=anjacksonnet-21&linkCode=as2&camp=1634&creative=6738&creativeASIN=1843343010">Metadata for Digital Resources: Implementation, Systems Design and Interoperability</a><img src="http://www.assoc-amazon.co.uk/e/ir?t=anjacksonnet-21&l=as2&o=2&a=1843343010" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+* This book is quite good: <a href="http://www.amazon.co.uk/gp/product/1843343010?ie=UTF8&tag=anjacksonnet-21&linkCode=as2&camp=1634&creative=6738&creativeASIN=1843343010">Metadata for Digital Resources: Implementation, Systems Design and Interoperability</a><img src="https://www.assoc-amazon.co.uk/e/ir?t=anjacksonnet-21&l=as2&o=2&a=1843343010" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 * [A Standards Primer - Understanding Technology Standardization Efforts](http://stephesblog.blogs.com/my_weblog/2008/04/a-standards-pri.html).
 

@@ -15,7 +15,7 @@ redirect_from:
 permalink: "/2007/06/21/keep_calm_and_carry_on/"
 tags: []
 ---
-<a href="http://www.flickr.com/photos/ilike/90613276/" title="photo sharing"><img src="http://farm1.static.flickr.com/38/90613276_672465ce23_m.jpg" alt="" style="border: solid 2px #000000;" /></a>
+<a href="http://www.flickr.com/photos/ilike/90613276/" title="photo sharing"><img src="https://farm1.static.flickr.com/38/90613276_672465ce23_m.jpg" alt="" style="border: solid 2px #000000;" /></a>
 <br />
 <span style="font-size: 0.9em; margin-top: 0px;"><a href="http://www.flickr.com/photos/ilike/90613276/">Keep Calm and Carry On</a> 
 <br />

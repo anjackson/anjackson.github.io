@@ -25,7 +25,7 @@ Firstly, [Flanders and Swann: A Brand GNew AfterGNoon](http://www.edfringe.com/t
 After the gig, we got to hang about with Tim for a couple of beers.  It was great to catch up, and to hear that his writing appears to be going well.  Last year, I bought a copy of his book 'In The Bath', which tells the story of Tim rowing across the channel in a bathtub. It has now been released as a paperback under the name "All At Sea: One man. One bathtub. One very bad idea."
 
 <div style="text-align: center;">
-<a href="http://www.amazon.co.uk/gp/product/1848090269?ie=UTF8&tag=anjacksonnet-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=1848090269"><img border="0" src="http://ecx.images-amazon.com/images/I/51msp-AXpfL._SL160_.jpg"/></a><img src="http://www.assoc-amazon.co.uk/e/ir?t=anjacksonnet-21&l=as2&o=2&a=1848090269" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.amazon.co.uk/gp/product/1848090269?ie=UTF8&tag=anjacksonnet-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=1848090269"><img border="0" src="https://ecx.images-amazon.com/images/I/51msp-AXpfL._SL160_.jpg"/></a><img src="http:s//www.assoc-amazon.co.uk/e/ir?t=anjacksonnet-21&l=as2&o=2&a=1848090269" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <br/>
 Conquering the Channel in a Piece of Plumbing.
 <br/>

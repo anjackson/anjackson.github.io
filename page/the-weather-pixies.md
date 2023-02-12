@@ -22,13 +22,13 @@ tags: []
 </tr>
 <tr>
 <td>
-<a href="http://weatherpixie.com/" target="_blank"><img src="http://weatherpixie.com/displayimg.php?place=NZWN&trooper=12&type=C" width=124 height=175 border=0 alt="The WeatherPixie"></a>
+<a href="http://weatherpixie.com/" target="_blank"><img src="https://weatherpixie.com/displayimg.php?place=NZWN&trooper=12&type=C" width=124 height=175 border=0 alt="The WeatherPixie"></a>
 </td>
 <td>
-<a href="http://weatherpixie.com/" target="_blank"><img src="http://weatherpixie.com/displayimg.php?place=EGLC&trooper=r&type=C" width=124 height=175 border=0 alt="The WeatherPixie"></a>
+<a href="http://weatherpixie.com/" target="_blank"><img src="https://weatherpixie.com/displayimg.php?place=EGLC&trooper=r&type=C" width=124 height=175 border=0 alt="The WeatherPixie"></a>
 </td>
 <td>
-<a href="http://weatherpixie.com/" target="_blank"><img src="http://weatherpixie.com/displayimg.php?place=EGPH&trooper=r&type=C" width=124 height=175 border=0 alt="The WeatherPixie"></a>
+<a href="http://weatherpixie.com/" target="_blank"><img src="https://weatherpixie.com/displayimg.php?place=EGPH&trooper=r&type=C" width=124 height=175 border=0 alt="The WeatherPixie"></a>
 </td>
 </tr>
 </table>
