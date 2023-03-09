@@ -40,15 +40,19 @@ Even emulators like [JSSpeccy](https://jsspeccy.zxdemo.org/) or [The Emularity](
 
 ## Use Case: Tool Registries
 
-https://quinndombrowski.com/projects/project-bamboo/
+The history of format and tool registries has shown us the limits of using time-limited project funding to try to establish community resources. And while the choice of technical implementation can only ever be a minor part of the overall sustainability story, I still think it's worth thinking about. What implementations might buy us the most time? Or might leave enough behind to be rebuilt into something new?
 
-https://rd-alliance.org/system/files/filedepot/136/Lit%20Linguist%20Computing-2014-Dombrowski-llc-fqu026.pdf
-
-https://web.archive.org/web/20131101102611/http://dirt.projectbamboo.org/
-
-http://web.archive.org/web/20140127150038/https://wikihub.berkeley.edu/display/pbamboo/How+to+build+a+site+like+Bamboo+DiRT+using+the+Drupal+content+management+system Drpual and a lot of modules, 
+As concrete example, I'm going to look beyond my usual digital preservation examples and look at the [DiRT registry of digital research tools for scholarly use](https://web.archive.org/web/20131101102611/http://dirt.projectbamboo.org/) that was created by the [Bamboo Project](https://quinndombrowski.com/projects/project-bamboo/). The paper 
+[What Ever Happened to Project
+Bamboo?](https://rd-alliance.org/system/files/filedepot/136/Lit%20Linguist%20Computing-2014-Dombrowski-llc-fqu026.pdf) by [Quinn Dombrowski](https://quinndombrowski.com/) provides an excellent analysis of the overall project, but here I'm going to focus on the technical minutae.
 
 
+[How to build a site like Bamboo DiRT](http://web.archive.org/web/20140127150038/https://wikihub.berkeley.edu/display/pbamboo/How+to+build+a+site+like+Bamboo+DiRT+using+the+Drupal+content+management+system) Drpual and a lot of modules, 
+
+
+<https://www.digitalstudies.org/article/id/7352/>
+
+<https://gitlab.gwdg.de/sshoc/data-ingestion/-/issues/7>
 
 ## HTML & Javascript as a Preservation Platform
 
