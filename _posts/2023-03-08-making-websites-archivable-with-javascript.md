@@ -50,9 +50,9 @@ Bamboo?](https://rd-alliance.org/system/files/filedepot/136/Lit%20Linguist%20Com
 [How to build a site like Bamboo DiRT](http://web.archive.org/web/20140127150038/https://wikihub.berkeley.edu/display/pbamboo/How+to+build+a+site+like+Bamboo+DiRT+using+the+Drupal+content+management+system) Drpual and a lot of modules, 
 
 
-<https://www.digitalstudies.org/article/id/7352/>
+[Absorbing DiRT](https://www.digitalstudies.org/article/id/7352/>)
 
-<https://gitlab.gwdg.de/sshoc/data-ingestion/-/issues/7>
+[TAPOR to SSHOC](https://gitlab.gwdg.de/sshoc/data-ingestion/-/issues/7>)
 
 ## HTML & Javascript as a Preservation Platform
 
