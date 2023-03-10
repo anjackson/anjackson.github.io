@@ -1,7 +1,7 @@
 ---
 title: Making websites archivable with JavaScript
 subtitle: It's not always evil
-date: 2023-03-08T20:00:06.910Z
+date: 2023-03-10T20:00:06.910Z
 category: building-web-archives
 tags:
   - Websites
@@ -16,7 +16,7 @@ A [recent comment](https://mstdn.social/@quinnanya/109982604342822356) from the 
 
 W﻿hich made me laugh. But it also made me think about how we archive websites now, and I realized this isn't necessarily true anymore.
 
-<﻿!-- break -->
+<﻿!--break-->
 
 ## Dynamic Dependencies
 
