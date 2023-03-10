@@ -22,12 +22,12 @@ W﻿hich made me laugh. But it also made me think about how we archive websites 
 
 T﻿he established view is pretty much that *JavaScript is bad*. More precisely, as the [UK National Archives compliance guidelines](https://www.nationalarchives.gov.uk/webarchive/archive-a-website/how-to-make-your-website-compliant/#Link6) puts it:
 
-> Dynamically-generated page content using client-side scripting cannot be captured.
+> Dynamically-generated page content using client-side scripting cannot be captured.\
 > <small>[How to make your website archive compliant: Dynamically-generated content and scripts](https://www.nationalarchives.gov.uk/webarchive/archive-a-website/how-to-make-your-website-compliant/#Link6)</small>
 
 T﻿his is certainly true in general, but it is also a reflection of the common ways websites are created. [Many websites use a content management system](https://almanac.httparchive.org/en/2021/cms) like Wordpress or Drupal, where the same system is used for editing and for access, where pages are stored in a database, and where the web pages are usually generated on demand.  These systems are often used to provide rich interfaces for searching and browsing, and those are heavily dependent on the back-end database to generate the vast number of possible views. 
 
-> If your site uses databases to support its functions, these can only be captured in a limited fashion.
+> If your site uses databases to support its functions, these can only be captured in a limited fashion.\
 > <small>[How to make your website archive compliant: Database and lookup functions](https://www.nationalarchives.gov.uk/webarchive/archive-a-website/how-to-make-your-website-compliant/#Link9)</small>
 
 The addition of client-side JavaScript usually makes this kind of thing worse. Design patterns like the [JAM Stack](https://almanac.httparchive.org/en/2021/cms) move a lot of the page generation complexity into the client browser as JavaScript, which talks to a back-end API to generate the page content. This gives us two problems, the complex JavaScript and the infinite possibilities of API calls.
@@ -46,7 +46,9 @@ There's a lot of long-dead data-driven sites. Like wikis, tool directories, form
 
 The idea of [Minimal Computing](https://go-dh.github.io/mincomp/about/) can help here, particularly static website tools like the [WAX digital exhibitions system](https://minicomp.github.io/wax/). WAX takes simple inputs (CSV files and images) and generates static HTML pages, along with a ElasticLunr client-side search system. The search feature require a JSON file, <https://minicomp.github.io/wax/search/index.json>, which contains the index data. As things are, a web crawler would probably not manage to spot that automatically, but that's the only problem from a web archiving point of view.
 
-This model, using HTML + JavaScript as a sustainable platform, is a very appealling one.  Both HTML and Javascript are likely to remain a backward compatible platform for many years, and even if the JavaScript breaks, we only lose the search functionality.
+This model, using HTML + JavaScript as a sustainable platform, is a very appealing one.  Both HTML and JavaScript are likely to remain a backward-compatible platform for many years, and even if the JavaScript breaks, we only lose the search functionality.
+
+This point was also explored as a small part of [Ed Summer's](https://inkdroid.org/about/) excellent post on [The Web as a Preservation Medium](https://inkdroid.org/2013/11/26/the-web-as-a-preservation-medium/).
 
 ## Rich Static Sites
 
@@ -56,12 +58,14 @@ Which all leaves me wondering if it would be useful to build on the WAX approach
 
 By bringing in tools like the aforementioned _Datasette-lite_, or similar systems like [sql.js](https://sql.js.org/), it would be possible to embed a full copy of the underlying database as a static asset (e.g. an sqlite file).  This could be used to power more complex interfaces, like faceted browsing, but could also be downloaded and used directly.
 
+### Data Published
+
+Each item from the underlying database could also be published in machine-readable format as well as HTML pages. e.g. a JSON URL for every page, acting as an API making the raw data easier to access and re-use.
+
 ### Dependencies Declared
 
 With the WAX example, the only thing preventing easy web archiving was that the `index.json` dependency wasn't explicitly declared in the HTML.  It would be great to design and promote a standard practice for declaring such dependencies, e.g. as 
 [pre-fetch link directives](https://developer.mozilla.org/en-US/docs/Web/HTTP/Link_prefetching_FAQ). With those in place, even simple web crawlers would be able to find everything we need to archive the site.
 
-
-
-
+But then, perhaps that's beside the point. If more people made more sites using techniques that last longer and cost less to sustain, we might hope for a web that needs less archiving.
 
