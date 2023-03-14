@@ -76,9 +76,14 @@
 	    <div class="container">
 			<div class="row">
 				<h1>{% if page.parent %}<span class="parent-link"><a href="{{ page.parent_link }}">{{ page.parent }}</a>&nbsp;<i class="fa fa-angle-right"></i> </span>{% endif %}{{ page.title }}</h2>
-        {% if page.subtitle or page.date %}
+        {% if page.date %}
+          {% assign date_field = page.date %}
+        {% elsif page.created %}
+          {% assign date_field = page.created %}
+        {% endif %}
+        {% if page.subtitle or date_field %}
         <h2 class="subtitle">
-        {% if page.date %}Posted: {{ page.date | date:"%Y-%m-%d" }}{% endif %}{% if page.subtitle and page.date %} | {% endif %}{{ page.subtitle }}
+        {% if date_field %}Posted: {{ date_field | date:"%Y-%m-%d" }}{% endif %}{% if page.subtitle and date_field %} | {% endif %}{{ page.subtitle }}
         </h2>
         {% endif %}
 			</div><!-- /row -->
