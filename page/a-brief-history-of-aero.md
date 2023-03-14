@@ -21,24 +21,30 @@ tags: []
 
 # Covering Letter
 
-> 1315171A                     9 June 2004
-> 
-> Dear Andrew
-> 
-> Thank you for your recent enquiry concerning Aero.
-> 
-> As I am sure you will appreciate, we receive many requests for information and we are not always able to go into great detail on the varied and specific points raised.  However, we enclose some leaflets which we hope you will find helpful.
-> 
-> If you have access to the internet please see our website www.nestle.co.uk where you will find more information which may be of help.
-> 
-> Thank you once again for taking the trouble to contact us and for the interest you have shown in our company.
-> 
-> Yours sincerely
-> 
-> Careline Advisor
-> Consumer Services
+----
+
+1315171A                     9 June 2004
+
+Dear Andrew
+
+Thank you for your recent enquiry concerning Aero.
+
+As I am sure you will appreciate, we receive many requests for information and we are not always able to go into great detail on the varied and specific points raised.  However, we enclose some leaflets which we hope you will find helpful.
+
+If you have access to the internet please see our website www.nestle.co.uk where you will find more information which may be of help.
+
+Thank you once again for taking the trouble to contact us and for the interest you have shown in our company.
+
+Yours sincerely
+
+Careline Advisor
+Consumer Services
+
+----
 
 # Enclosed Literature
+
+----
 
 <div align="center">
 <img src="/image/images/aerobar-736.jpg" border="0"/>
@@ -204,4 +210,4 @@ If the labels have not been printed correctly, they cannot be sold!
 * Aero Mousse
 * Aero Ice Cream (Peppermint Aero Ice Cream Chocolate Bar launched in 1996)
 
-
+----
