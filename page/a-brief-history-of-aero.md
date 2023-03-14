@@ -19,36 +19,32 @@ tags: []
 {% include _image.html nid="713" align="left" hspace="10" vspace="5" width="" %}To settle [an argument I was embroiled in](http://anjackson.net/node/714), I wrote to Nestle to ask them about the history of Aero chocolate.  They decided to send me a letter rather than an email (how quaint!), so while I was home and scanned and OCR'd it (so there may be a few character recognition errors).  Here's what they said....
 <!--break-->
 
-----
+# Covering Letter
 
-    Covering Letter
+> 1315171A                     9 June 2004
+> 
+> Dear Andrew
+> 
+> Thank you for your recent enquiry concerning Aero.
+> 
+> As I am sure you will appreciate, we receive many requests for information and we are not always able to go into great detail on the varied and specific points raised.  However, we enclose some leaflets which we hope you will find helpful.
+> 
+> If you have access to the internet please see our website www.nestle.co.uk where you will find more information which may be of help.
+> 
+> Thank you once again for taking the trouble to contact us and for the interest you have shown in our company.
+> 
+> Yours sincerely
+> 
+> Careline Advisor
+> Consumer Services
 
-1315171A                     9 June 2004
-
-Dear Andrew
-
-Thank you for your recent enquiry concerning Aero.
-
-As I am sure you will appreciate, we receive many requests for information and we are not always able to go into great detail on the varied and specific points raised.  However, we enclose some leaflets which we hope you will find helpful.
-
-If you have access to the internet please see our website www.nestle.co.uk where you will find more information which may be of help.
-
-Thank you once again for taking the trouble to contact us and for the interest you have shown in our company.
-
-Yours sincerely
-
-Careline Advisor
-Consumer Services
-
-----
-
-    Enclosed Literature
+# Enclosed Literature
 
 <div align="center">
-<img src="http://anjackson.net/system/files/images/aerobar-736.jpg" border="0"/>
+<img src="/image/images/aerobar-736.jpg" border="0"/>
 </div>
 
-# History
+## History
 Aero was launched as 'the new chocolate' by Rowntree in October
 1935, at a cost of 2d.(old pennies).  Initially it was available only in
 the North of England, distribution expanding throughout the UK
@@ -80,7 +76,7 @@ also the new strap line for Aero.  It is reflected in improved pack
 graphics which feature an enlarged 'O' with a stream of chocolate
 bubbles issuing from it.
 
-# Production
+## Production
 Aero bars, eggs and Christmas pies are all produced at the Nestle'
 Rowntree factory in York.  There are ten members and one shift
 leader in each production team and three shifts per day.  Each shift
@@ -149,7 +145,7 @@ blows of the hammer due to its extra strength!  The bars are now
 released and the moulds return to the very beginning of the
 production process.
 
-# Wrapping and packing
+## Wrapping and packing
 
 Approximately three hundred and thirty Aero bars are wrapped per
 minute.  The wrappers are then gummed and coded.  The bars are
@@ -168,21 +164,17 @@ have, entered the Aero products at any stage of the production
 process.  The coding machine must be checked every fifteen minutes.
 If the labels have not been printed correctly, they cannot be sold!
 
-# Chronology
-1935 Launch of Aero in the North of England in October 1935.
+## Chronology
 
-1936 Aero launched across the UK and exported to New York.
+- 1935 Launch of Aero in the North of England in October 1935.
+- 1936 Aero launched across the UK and exported to New York.
+- 1937 Acrobats used to advertise the new Nut Milk and Fruit & Nut Milk varieties of Aero.
+- 1950s Television advertising launched for Aero.
+- 1982 Aero countline bar introduced.
+- 1999 Major relaunch of Aero
 
-1937 Acrobats used to advertise the new Nut Milk and Fruit &
-Nut Milk varieties of Aero.
+## Packs and varients
 
-1950s Television advertising launched for Aero.
-
-1982 Aero countline bar introduced.
-
-1999 Major relaunch of Aero
-
-# Packs and varients
 * Aero Milk Chunky
 * Aero Milk Medium
 * Aero Peppermint Medium
@@ -191,7 +183,8 @@ Nut Milk varieties of Aero.
 * Aero Peppermint Giant
 * Aero Mini Hanging Bags
 
-# Limited Editions
+## Limited Editions
+
 * Aero White (launched 1999)
 * Aero Cappuccino
 * Aero Mint Egg (Easter; debut in 1996)
@@ -200,11 +193,13 @@ Nut Milk varieties of Aero.
 * Strawberry Aero
 * Lime Aero
 
-# Special Editions
+## Special Editions
+
 * Peppermint Aero (launched 1973)
 * Orange Aero (launched 1974)
 
-# Extensions of Brand
+## Extensions of Brand
+
 * Aero Milk Drinks
 * Aero Mousse
 * Aero Ice Cream (Peppermint Aero Ice Cream Chocolate Bar launched in 1996)
