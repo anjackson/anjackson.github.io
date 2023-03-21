@@ -92,11 +92,11 @@ produced with ten people in a team than previously with 20 people
 in the team.
 
 Output of Peppermint Aero tends to be greater than Milk Aero.  The
-pepperinint chocolate is harder and breaks less frequently than the
+peppermint chocolate is harder and breaks less frequently than the
 softer, milk variety.
 
 As well as seasonal products such as Aero Nflnt Eggs, approximately
-two to three times a year limited edition 3OOg and 6OOg Milk Aero
+two to three times a year limited edition 300g and 600g Milk Aero
 and Peppermint Aero bars are produced.
 
 The factory at York also produces Aero for the overseas market.
@@ -104,7 +104,7 @@ This year has seen an increase in exports to Canada and Australia.
 Interestingly, the chocolate used to produce Aero for Australia is
 different from the UK market chocolate.  To change from UK
 production to Australian production takes approximately four to
-rive hours.  It is acceptable to allow Australian chocolate to flow into
+five hours.  It is acceptable to allow Australian chocolate to flow into
 UK chocolate, but not vice versa.
 
 The Aero moulds automatically regulate production.  If a solid bar is
@@ -143,7 +143,7 @@ of the bar can now be added.  The third and final cooling process
 ensures the back casing becomes hard.  The chocolate is now
 tempered and will not turn white.
 
-Vften the bars leave the final cooler, they are twisted to ensure they
+Often the bars leave the final cooler, they are twisted to ensure they
 are loose.  A number of hammers are added to the twister to lift the
 bars from the moulds.  Milk Aero bars which are soft must only be
 hammered once.  But Peppermint Aero can take two or even three
@@ -166,7 +166,7 @@ produced in quantities of sixteen to seventeen moulds per minute.
 
 Once the bars have been wrapped and stamped, they must pass
 through a metal detector.  This is to ensure that no foreign bodies
-have, entered the Aero products at any stage of the production
+have entered the Aero products at any stage of the production
 process.  The coding machine must be checked every fifteen minutes.
 If the labels have not been printed correctly, they cannot be sold!
 
@@ -177,7 +177,7 @@ If the labels have not been printed correctly, they cannot be sold!
 - 1937 Acrobats used to advertise the new Nut Milk and Fruit & Nut Milk varieties of Aero.
 - 1950s Television advertising launched for Aero.
 - 1982 Aero countline bar introduced.
-- 1999 Major relaunch of Aero
+- 1999 Major relaunch of Aero.
 
 ## Packs and varients
 
