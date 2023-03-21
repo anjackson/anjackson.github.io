@@ -103,6 +103,8 @@ Whereas the magic of Siegfried goes something (roughly) like:
 - Otherwise, if there's one or more extension matches, use those.
 - Otherwise, no match.
 
-The fact that container matching begins immediately during the binary signature scan, together with the decision to stop scanning if a container match is found, means that Siegfried will always run much faster than DROID.
+The fact that container matching begins immediately during the binary signature scan, together with the decision to stop scanning if a container match is found, means that Siegfried will usually run _much_ faster than DROID for container formats.
+
+Fortunately, the TNA team had a great idea: they are looking at whether it's possible to [drop the wildcard binary signatures for formats that can be identified using container signatures](https://github.com/digital-preservation/droid/issues/906#issuecomment-1478342546).  This won't match all of Siegfried's magic, but will bring a big boost to DROID's performance on container formats.
 
 I await my visit from the Magic Circle's Secret Enforcement Agency.
