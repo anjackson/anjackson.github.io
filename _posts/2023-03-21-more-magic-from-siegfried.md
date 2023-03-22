@@ -10,6 +10,8 @@ shown: true
 ---
 Following on from [the previous post](/2023/03/21/speeding-up-format-identification/), I was experimenting with [Siegfried](https://www.itforarchivists.com/siegfried) and found it to be even faster than I was expecting!
 
+_UPDATED: 2023-03-22_
+
 <!--break-->
 
 I'd constructed a large ZIP file for testing:
@@ -84,6 +86,7 @@ I asked Richard Lehane about it and [he confirmed](https://twitter.com/richardle
 
 In DROID/Nanite, the scan works something (roughly) like:
 
+- _Drop any binary signatures for formats that have container signatures. (ADDED 2023-03-22)_
 - Scan all binary signatures, and record all matches.
 - Drop any lower-priority matches.
 - If one of the matches is a container format, run container signature matching.
@@ -103,8 +106,8 @@ Whereas the magic of Siegfried goes something (roughly) like:
 - Otherwise, if there's one or more extension matches, use those.
 - Otherwise, no match.
 
-The fact that container matching begins immediately during the binary signature scan, together with the decision to stop scanning if a container match is found, means that Siegfried will usually run _much_ faster than DROID for container formats.
+The fact that container matching begins immediately during the binary signature scan, together with the decision to stop scanning if a container match is found, means that Siegfried will run _much_ faster than DROID for container formats _that have no container signature_.
 
-Fortunately, the TNA team had a great idea: they are looking at whether it's possible to [drop the wildcard binary signatures for formats that can be identified using container signatures](https://github.com/digital-preservation/droid/issues/906#issuecomment-1478342546).  This won't match all of Siegfried's magic, but will bring a big boost to DROID's performance on container formats.
+Fortunately, the TNA team had a great idea: they are looking at whether it's possible to [drop the wildcard binary signatures for formats that can be identified using container signatures](https://github.com/digital-preservation/droid/issues/906#issuecomment-1478342546).  This won't match all of Siegfried's magic, but will bring a big boost to DROID's performance on container formats. _BUT I think [the container signature initialisation logic already does this](https://github.com/digital-preservation/droid/blob/a977e74b3ad791af2cefce43ea797aafd81c490f/droid-container/src/main/java/uk/gov/nationalarchives/droid/container/ContainerIdentifierInit.java#L79), so I think it's more a case of ensuring all container-based formats are moved over to using container signatures._
 
 I await my visit from the Magic Circle's Secret Enforcement Agency.
