@@ -10,6 +10,8 @@ shown: true
 ---
 In the last few days, I've been going through the process of updating my [Nanite wrapper for DROID](https://github.com/openpreserve/nanite#readme), which I built to make it easier to re-use DROID's identification engine in other contexts -- especially in large-scale Hadoop jobs where we want to [process every record in our WARCs](https://github.com/ukwa/webarchive-discovery).
 
+_UPDATED: 2023-03-22_
+
 <!--break-->
 
 ## Keeping Up To Date
@@ -32,6 +34,10 @@ This is because PRONOM supports unlimited wildcard pattern matches, like this on
 
 That `*` can match any number of bytes of any value, so if a file matches the bit before the `*`, DROID will keep scanning the rest of the file looking for the `4d45...` bit.  Unfortunately, that first bit (`504B0304`) is the binary signature of [x-fmt/263 - ZIP Format](https://www.nationalarchives.gov.uk/PRONOM/x-fmt/263). This means every ZIP which is _not_ a JAR will be scanned all the way to the end. As DROID [_always_ runs _all_ valid signatures over each file](https://github.com/digital-preservation/droid/blob/6.6.1/droid-core/src/main/java/uk/gov/nationalarchives/droid/core/signature/droid6/InternalSignatureCollection.java#L87-L108), it will re-scan the whole file for _every_ signature that follows this pattern (like [fmt/161 - SIARD](https://www.nationalarchives.gov.uk/PRONOM/fmt/161)).
 
+_UPDATED: 2023-03-22: Additionally, further discussions on the issue have made me realise I'd missed a part of the container signature logic.  If container signatures are enabled, [the initialisation code explicitly drops any binary signatures for which container signatures are provided](https://github.com/digital-preservation/droid/blob/a977e74b3ad791af2cefce43ea797aafd81c490f/droid-container/src/main/java/uk/gov/nationalarchives/droid/container/ContainerIdentifierInit.java#L79). As JAR has a container signature, the wildcard binary signature is not used. However, SIARD has no container signature, so in that case the analysis above still stands, and a full scan will be performed on ZIP files that are not SIARD files._
+
+_The issue thread also made me realize I'd forgotten about 'Variable position' signatures, e.g. [fmt/1649 - AGS 4 Data Format](https://www.nationalarchives.gov.uk/PRONOM/fmt/1649). Variable matches can occur anywhere in a file, and unless there is an additional BOF/EOF signature, a full file scan will be performed (unless the file matches). The PRONOM/DROID team are looking at avoiding any binary signature matches that are on this form._
+
 This is why the DROID tools allow you to set a maximum number of bytes to scan. This prevents DROID from scanning every byte of each file, at the cost a possible drop in accuracy.
 
 The bug report made it clear that the reporter was operating with _no_ limit set on the number of bytes to be scanned. So rather than wondering why a fast process suddenly seems to be running slower, I'm left wondering why a process that *should* be slow ever managed to appear fast at all.
@@ -53,12 +59,14 @@ Based on this, my suspicion is that the bug report is not a problem with DROID, 
 
 But, having said all that, it's perfectly possible that I've simply not understood how DROID _actually_ works. Please [let me know](https://digipres.club/@anj) if I'm mistaken!
 
+_UPDATED: 2023-03-22: It looks like the issue isn't RAM caching, but is more related to modifications that were being made to the signature files to avoid some of the issues discussed above. See [the original thread](https://github.com/digital-preservation/droid/issues/906) for details._
+
 ## Alternative Matching Algorithms
 
 Finally, I want to highlight [the different approach taken by the Siegfried tool](https://www.itforarchivists.com/#changes-to-the-matching-algorithm). This makes some pretty reasonable assumptions that allow it to avoid scanning _all_ the signatures. It also uses explicit memory-mapped I/O where possible, which should be a bit faster than DROID's approach, and should help ensure the identification process can continue without the RAM cache of the current file getting dropped.
 
 Finally, I wonder if it's possible to compile a large set of format signatures down into a single finite state machine (along the lines of e.g. [the Ragel State Machine Compiler](http://www.colm.net/open-source/ragel/)). This would be like a single massive regular expression, with multiple possible end states corresponding to different formats (and combinations of formats?!).
 
-If such a thing is possible, then it would always complete in a single pass, and shoud only require caching the current 'chunk' of file being scanned. But frankly, even if it is possible, I'm not sure it would be worth the effort in terms of implementation complexity and maintenance load.
+If such a thing is possible, then it would always complete in a single pass, and should only require caching the current 'chunk' of file being scanned. But frankly, even if it is possible, I'm not sure it would be worth the effort in terms of implementation complexity and maintenance load.
 
 Just buy more RAM!
