@@ -10,13 +10,11 @@
 <div class="col-xs-6 col-sm-4 col-md-4 project-container">
 {% endif %}
 <div class="project-box">
-<a href="{{ site.baseurl }}{{ page.url }}" title="{{ page.summary }}">
 <div class="project-box-bg" style="width: 100%; height: 200px; background-image: url('{{ site.baseurl }}{{ page.screenshot }}');">
 </div>
 <div class="project-box-title">
-<h5><i class="fa {{ page.fa-icon }}"></i> {{ page.title }}</h5>
+<h5><a href="{{ site.baseurl }}{{ page.url }}" title="{{ page.summary | escape_once }}"><i class="fa {{ page.fa-icon }}"></i> {{ page.title }}</a></h5>
 </div>
-</a>
 </div>
 </div>
 
