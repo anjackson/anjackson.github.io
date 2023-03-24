@@ -2,6 +2,7 @@
 title: Speeding Up Format Identification
 subtitle: Fast versus fastidious?
 date: 2023-03-21T09:38:12.447Z
+category: format-identification
 tags:
   - Digital Preservation
 layout: post
