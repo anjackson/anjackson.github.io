@@ -2,6 +2,7 @@
 title: More Magic From Siegfried
 subtitle: ...and Roy!
 date: 2023-03-21T22:49:49.990Z
+category: format-identification
 tags:
   - Digital Preservation
 layout: post
