@@ -2,6 +2,7 @@
 title: My Format Identification Misunderstandings
 subtitle: Those were not the DROID descriptions I was looking for.
 date: 2023-03-22T20:53:45.363Z
+category: format-identification
 tags:
   - Digital Preservation
 layout: post
