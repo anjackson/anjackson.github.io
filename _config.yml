@@ -5,6 +5,7 @@ baseurl:
 url:              https://anjackson.net
 disqus_shortname: anjackson
 repository:       anjackson/anjackson.github.io
+theme:            jekyll-theme-so-simple
 
 # Owner/author information
 owner:
