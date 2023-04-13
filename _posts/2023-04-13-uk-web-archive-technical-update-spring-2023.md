@@ -39,7 +39,7 @@ The [BETA version of the website](https://beta.webarchive.org.uk/en/ukwa/) has b
 
 ## Web Archive Discovery tool updates
 
-One long-standing issue we have is that our full-text search does not contain recent material, and over the next year we hope to revisit the scaling prioblems we've seen and try to improve the situation.
+One long-standing issue we have is that our full-text search does not contain recent material, and over the next year we hope to revisit the scaling problems we've seen and try to improve the situation.
 
 As an initial step towards this, we spent some time updating our search tools. The [webarchive-discovery](https://github.com/ukwa/webarchive-discovery#readme) indexer has been updated to use version 2 of [Apache Tika](<>), along with other upgrades to other dependencies like the [Nanite](https://github.com/openpreserve/nanite#readme) wrapper that makes is possible for us to use  National Archive's PRONOM/DROID format identification engine. This changes are quite significant, so the version number has been bumped from `3.3.x` to `3.4.x`.
 
@@ -55,7 +55,7 @@ Add some updated seed lists from Nominet and from our curators, and we are ready
 
 ## Addendum - 13th April 2023
 
-Due to staff holidays, we are only now published this quartely report, so we can add some notes on the launch of the 2023 domain crawl.
+Due to staff holidays, we are only now publishing this quarterly report, so we can add some notes on the launch of the 2023 domain crawl.
 
 The crawl was set up on the 11th, and loaded with the 11 million seed URLs from Nominet and the 27,059 domain crawl seeds from W3ACT (including 13,460 non-UK seeds). On the morning of the 12th, the crawl was launched, and seems to be running well, at around 400 URLs per second. If the system can sustain this rate, which corresponds to around one billion URLs per month, the whole crawl should complete in 2-3 months time.
 
