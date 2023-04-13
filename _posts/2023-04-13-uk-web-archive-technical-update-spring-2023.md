@@ -53,7 +53,7 @@ Add some updated seed lists from Nominet and from our curators, and we are ready
 
 - - -
 
-## Addendum - 14th April 2023
+## Addendum - 13th April 2023
 
 Due to staff holidays, we are only now published this quartely report, so we can add some notes on the launch of the 2023 domain crawl.
 
