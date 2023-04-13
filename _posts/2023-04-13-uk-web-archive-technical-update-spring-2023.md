@@ -21,7 +21,7 @@ While it doesn't get updated automatically, there's also an older copy of the no
 
 ## Legal Deposit Access Solution
 
-The new system for Reading Room access to Non-Print Legal Deposit material has also made steady progress. An _alpha_ version of the system has been rolled out across all LDLs so staff can access the service for testing, and a _beta_ service is being rolled out to run alongside the current system in reading rooms.  The deployment of the services themselves has also been automated, using [GitLab CI/CD](https://docs.gitlab.com/ee/ci/) to updated the systems rather than relying on updating them by hand. 
+The new system for Reading Room access to Non-Print Legal Deposit material has also made steady progress. An *alpha* version of the system has been rolled out across all LDLs so staff can access the service for testing, and a *beta* service is being rolled out to run alongside the current system in reading rooms.  The deployment of the services themselves has also been automated, using [GitLab CI/CD](https://docs.gitlab.com/ee/ci/) to updated the systems rather than relying on updating them by hand. 
 
 Staff testing raised some additional requirements to be met before the service roll-out can proceed.  Working with Webrecorder to meet these requirements will be the focus for the next quarter.
 
@@ -35,11 +35,13 @@ Finally, we've found a lot of queries are better answered by direct URL search t
 
 The [BETA version of the website](https://beta.webarchive.org.uk/en/ukwa/) has been updated to include these changes, and is now available For review. If you have any feedback, please let us know.
 
+![The BETA homepage for the UK Web Archive, offering URL or Full Text search.](/assets/images/uploads/2023-05-13-ukwa-beta-search.png "The BETA homepage for the UK Web Archive, offering URL or Full Text search.")
+
 ## Web Archive Discovery tool updates
 
 One long-standing issue we have is that our full-text search does not contain recent material, and over the next year we hope to revisit the scaling prioblems we've seen and try to improve the situation.
 
-As an initial step towards this, we spent some time updating our search tools. The [webarchive-discovery](https://github.com/ukwa/webarchive-discovery#readme) indexer has been updated to use version 2 of [Apache Tika](), along with other upgrades to other dependencies like the [Nanite](https://github.com/openpreserve/nanite#readme) wrapper that makes is possible for us to use  National Archive's PRONOM/DROID format identification engine. This changes are quite significant, so the version number has been bumped from `3.3.x` to `3.4.x`.
+As an initial step towards this, we spent some time updating our search tools. The [webarchive-discovery](https://github.com/ukwa/webarchive-discovery#readme) indexer has been updated to use version 2 of [Apache Tika](<>), along with other upgrades to other dependencies like the [Nanite](https://github.com/openpreserve/nanite#readme) wrapper that makes is possible for us to use  National Archive's PRONOM/DROID format identification engine. This changes are quite significant, so the version number has been bumped from `3.3.x` to `3.4.x`.
 
 We are also considering an alternative workflow, where we store the extracted metadata in an intermediate form, rather than going directly to Apache Solr or Elasticsearch. To enable us to experiment with this approach, the indexer has been modified to support writing the extracted metadata to [JSON Lines](https://jsonlines.org/) output files so that we can use it to support multiple forms of indexing or analysis.
 
@@ -49,7 +51,7 @@ As discussed in the previous report, this year we are bringing the domain crawl 
 
 Add some updated seed lists from Nominet and from our curators, and we are ready to roll on the anniversary of the first Non-Print Legal Deposit domain crawl.  That one started on the 12th of April 2013, and so we've chosen that for our start date this year.  This will be part of the wider celebrations from across the legal deposit libraries.
 
-----
+- - -
 
 ## Addendum - 14th April 2023
 
@@ -57,5 +59,6 @@ Due to staff holidays, we are only now published this quartely report, so we can
 
 The crawl was set up on the 11th, and loaded with the 11 million seed URLs from Nominet and the 27,059 domain crawl seeds from W3ACT (including 13,460 non-UK seeds). On the morning of the 12th, the crawl was launched, and seems to be running well, at around 400 URLs per second. If the system can sustain this rate, which corresponds to around one billion URLs per month, the whole crawl should complete in 2-3 months time.
 
-For more information on the anniversary of Non-Print Legal Deposit, see [Celebrating ten years of collecting the UK Web Space](https://blogs.bl.uk/webarchive/2023/04/celebrating-ten-years-of-collecting-the-uk-web-space.html).
+![Dashboard for the first 24 hours of the 2023 Domain Crawl.](/assets/images/uploads/2023-04-13-dc-dashboard.png "Dashboard for the first 24 hours of the 2023 Domain Crawl.")
 
+For more information on the anniversary of Non-Print Legal Deposit, see [Celebrating ten years of collecting the UK Web Space](https://blogs.bl.uk/webarchive/2023/04/celebrating-ten-years-of-collecting-the-uk-web-space.html).
