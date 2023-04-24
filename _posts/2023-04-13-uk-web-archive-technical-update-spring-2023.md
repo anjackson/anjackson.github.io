@@ -7,8 +7,12 @@ tags:
   - Web Archives
 layout: post
 author: anj
-shown: false
+shown: true
 ---
+*First publicised in [this UK Web Archive blog post](https://blogs.bl.uk/webarchive/2023/04/uk-web-archive-technical-update-spring-2023.html).*
+
+*\--*
+
 This is a summary of what’s been going on since the [2022 Q4 report](https://blogs.bl.uk/webarchive/2023/01/uk-web-archive-technical-update-winter-2023.html).
 
 ## Summarising Our Holdings
