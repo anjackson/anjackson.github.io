@@ -18,7 +18,7 @@
     title: "Format Registries"
     description: "Posts on my experiments with format registries."
     page: "/2010/12/09/opf_blog_breaking_down_format_registry"    
-"format-identification"
+"format-identification":
     icon: fa-eye
     title: "Format Identification"
     description: "Posts on my work on format identification."
@@ -35,7 +35,7 @@
     icon: fa-server
     title: "Building Web Archives"
     description: "Describing our evolving web archiving framework and tools. In particular, the aim is to document how our crawl architecture has evolved to become more modular, and to explore the idea of using APIs to make these systems more manageable over time."
-"digital-footprint"
+"digital-footprint":
     icon: fa-globe
     title: "Digital Footprint"
     description: "Posts on my attempt to understand the environmental consequences of digital preservation."
