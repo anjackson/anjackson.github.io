@@ -32,7 +32,7 @@
     title: "Defunct Formats"
     description: "A collection of stories gathered while hunting for obsolete formats."
 "building-web-archives":
-    icon: fa-server
+    icon: fa-chain-broken
     title: "Building Web Archives"
     description: "Describing our evolving web archiving framework and tools. In particular, the aim is to document how our crawl architecture has evolved to become more modular, and to explore the idea of using APIs to make these systems more manageable over time."
 "digital-footprint":
