@@ -31,7 +31,11 @@ Staff testing raised some additional requirements to be met before the service r
 
 ## UKWA Website
 
-The main website has been updated to run version 2.6.9 of PyWB, but we've also looked at more significant changes to the public interface to the archive.
+_Edited 28th April 2023 to include translation updates._
+
+The main website has been updated to run version 2.6.9 of [our PyWB playback engine](https://github.com/ukwa/ukwa-pywb), and version 1.4.5 of the main search interface. Version [1.4.5](https://github.com/ukwa/ukwa-ui/milestone/42?closed=1) does not change the sites basic functionality, but does significantly improve the Scotting Gaelic version of the site.
+
+However, we've also looked at more significant changes to the public interface to the archive.
 
 Firstly, we'd like to update to newer version of PyWB, which now features an updated timeline and calendar display.  Secondly, some [experimentation with letting search engines to index selected website](https://anjackson.net/2023/03/09/letting-search-engines-into-the-archive/) showed that it may be necessary to include links to the archived sites somewhere in the main site so that the crawler finds and prioritizes those URLs for indexing. To test this out, a page has been added to the site that lists any archived sites that require indexing, and that page has been included in the [site map](https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview).
 
