@@ -9,7 +9,9 @@ layout: post
 author: anj
 shown: true
 ---
-Recently, the [Library of Congress's excellent Web Archive Team](https://www.loc.gov/programs/web-archiving/about-this-program/) sent out a request to gather information about how web archives cope with large websites. One of the questions was about how we define what makes a website "large".  This is my attempt to answer that question, and outline how we've adapted our crawling to cope with large sites.
+Recently, the [Library of Congress's excellent Web Archive Team](https://www.loc.gov/programs/web-archiving/about-this-program/) sent out a request to gather information about how web archives cope with large websites. One of the questions was about how we define what makes a website "large".  This is my attempt to answer that question, and outline how we've adapted our crawling to cope with large sites...
+
+<!--break-->
 
 Of course, the primary factors that make a site "large" are the number of URLs to be archived, and the sizes of those resources.  However, as we don't archive sites that use a lot of audio and video, we find the size is less important than the number of URLs.
 
