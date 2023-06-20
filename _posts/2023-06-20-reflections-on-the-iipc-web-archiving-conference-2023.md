@@ -13,9 +13,9 @@ shown: true
 
 <!--break-->
 
-![Photograph taken during the Browsertrix Cloud workshop](/assets/images/uploads/iipc-2023-presentation.jpeg "Photograph taken during the Browsertrix Cloud workshop")
-
 My main goal for the conference was to support the adoption and development of shared open source tools.  I've been involved in [the IIPC project *Browser-based crawling for all*](https://netpreserve.org/projects/browser-based-crawling/), and at the conference I helped run a workshop where attendees could start exploring [Browsertrix Cloud](https://github.com/webrecorder/browsertrix-cloud) and give feedback to the project and to [Webrecorder](https://webrecorder.net/).  There were some initial problems with the capacity of the demo system, but these were quickly resolved and the workshop was a success and provided useful feedback for future work.
+
+![Photograph taken during the Browsertrix Cloud workshop](/assets/images/uploads/iipc-2023-presentation.jpeg "Photograph taken during the Browsertrix Cloud workshop")
 
 I also ended up chairing the [SolrWayback](https://github.com/netarchivesuite/solrwayback) session, which showed many great examples of how that search interface and [the underlying indexing tools (developed by UKWA)](https://github.com/ukwa/webarchive-discovery) have been used by different web archives to help explore and analyse their collection. It's heartening to see more and more web archives doing this kind of thing.
 
