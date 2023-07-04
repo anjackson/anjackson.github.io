@@ -12,7 +12,7 @@ shown: true
 ---
 Carefully moving files between storage systems is a critical part of digital preservation. If the number and size of the files is fairly small it's usually a straightforward operation, perhaps using the operating system's file browser interface to cut and paste your files.
 
-But sometimes, something _does_ go wrong. 
+But sometimes, something *does* go wrong. 
 
 <!--break-->
 
@@ -75,7 +75,7 @@ Not only that, but it supports [a wide range of different storage back-ends](htt
 
 Alas, so it was.  To reflect reality, the front page should read something like...
 
-> Rclone really looks after your data. It preserves timestamps and verifies checksums _wherever possible, depending on the kind of storage you're using._
+> Rclone really looks after your data. It preserves timestamps and verifies checksums *wherever possible, depending on the kind of storage you're using.*
 
 Don't get me wrong, it's still the best tool I've found by some margin!  But there are some limitations to be aware of when using it.
 
@@ -87,7 +87,9 @@ But the first devilish detail is that, while local-file-to-local-file copies are
 
 This mismatch shows up as a warning when using Rclone. For example, when trying to copy to HDFS and use a checksum:
 
-    rclone copy -vv --checksum testdata h3:/user/root/testdata
+```
+rclone copy -vv --checksum testdata h3:/user/root/testdata
+```
 
 Where the `h3:` part is a reference to what Rclone calls a 'remote', which is the [specific configuration](https://rclone.org/commands/rclone_config/) of the type of storage and how to connect to it (e.g. [HDFS](https://rclone.org/hdfs/)). Having run this command, the resulting logs contain:
 
@@ -97,7 +99,9 @@ Where the `h3:` part is a reference to what Rclone calls a 'remote', which is th
 
 i.e. you are warned that no checksums were checked, and only the size was used to indicate whether the files were identical.  It's worth noting that this seems to be slightly worse than the mode without `--checksum`:
 
-    rclone copy -vv testdata h3:/user/root/testdata
+```
+rclone copy -vv testdata h3:/user/root/testdata
+```
 
 ..where the logs say...
 
@@ -110,11 +114,13 @@ This indicates that both the modification times and the sizes have been used to 
 
 ### Stored Checksums
 
-The second devilish detail is that even where the provider does support an MD5 or SHA1 hash, it is generally _not_ calculated by reading the data _after it was written_, but (like `rsync`) it is a record of the data that was _transferred_.  How strong a guarantee this represents depends on the details of the storage service: e.g. the supplied checksum may (or may not) have been used to verify what was received and/or written. You have to check the Rclone documentation for the storage implementation in order to determine exactly what it's doing.
+The second devilish detail is that even where the provider does support an MD5 or SHA1 hash, it is generally *not* calculated by reading the data *after it was written*, but (like `rsync`) it is a record of the data that was *transferred*.  How strong a guarantee this represents depends on the details of the storage service: e.g. the supplied checksum may (or may not) have been used to verify what was received and/or written. You have to check the Rclone documentation for the storage implementation in order to determine exactly what it's doing.
 
-However, Rclone does provide support for explicitly running a full check via the [rclone check](https://rclone.org/commands/rclone_check/) operation, combined with the [--download](https://rclone.org/commands/rclone_check/#options) option:
+However, Rclone does provide support for explicitly running a full check via the [rclone check](https://rclone.org/commands/rclone_check/) operation, combined with the [\--download](https://rclone.org/commands/rclone_check/#options) option:
 
-    rclone check -vv --download testdata h3:/user/root/testdata
+```
+rclone check -vv --download testdata h3:/user/root/testdata
+```
 
 This doesn't rely on whatever hashes are supported by the storage service, and instead fully downloads the files from the remote store to calculate the hash and compare them with the local copy.
 
@@ -154,9 +160,9 @@ rclone check --download --one-way --no-traverse --immutable /data h3-hasher:/dat
 rclone move --checksum --no-traverse --immutable /data h3-hasher:/data
 ```
 
-The `--no-traverse` option prevents the Rclone copy from scanning the contents of the `h3` store before copying the files. There can be a _lot_ of these files, which makes this scan slow enough that the whole copying process is significantly slower than it needs to be. In our case, this pre-copy scan is not necessary, so we skip it.
+The `--no-traverse` option prevents the Rclone copy from scanning the contents of the `h3` store before copying the files. There can be a *lot* of these files, which makes this scan slow enough that the whole copying process is significantly slower than it needs to be. In our case, this pre-copy scan is not necessary, so we skip it.
 
-Similarly, the `--one-way` flag to the `check` command stops Rclone from looking on the cluster for files that are _not_ held locally. The default behaviour makes sense when comparing two copies of the same files, which is the primary use case for `check`, but this one-way comparison is what we need, as we don't want the `check` to throw an error because there are more files on the long-term store.
+Similarly, the `--one-way` flag to the `check` command stops Rclone from looking on the cluster for files that are *not* held locally. The default behaviour makes sense when comparing two copies of the same files, which is the primary use case for `check`, but this one-way comparison is what we need, as we don't want the `check` to throw an error because there are more files on the long-term store.
 
 Finally, the `--immutable` flag indicates that the files on `h3` are not expected to ever change once written.  Therefore, if Rclone notices that there are local files that exist on Hadoop, but they differ in size/timestamp/checksum to the local files, it throws an error rather than silently updating and overwriting the file.  It is unlikely that this would happen, but we still want to ensure that any such change would be noticed, and require manual attention to resolve.
 
@@ -221,7 +227,7 @@ So great, it's up and running, but the question is, is it fast enough? Did all t
 
 In short: Yes.
 
-![[2023-05-02-rclone-network-activity.png]]
+![Crawler network activity while Rclone is running.](/assets/images/uploads/2023-05-02-rclone-network-activity.png "Graph of crawler network activity while Rclone is running.")
 
 This graph shows the alternating downloads (yellow) and uploads (orange), saturating at 125MB/s. This corresponds to the maximum possible throughput of the 1Gbps connection the crawler has to use to communicate with the Hadoop cluster.
 
@@ -231,7 +237,7 @@ But this does show another side-effect of having to run separate upload and down
 
 We spent a little time looking at tuning the level of parallelism via the  `--checkers X` and `--transfers X` options, but looking at the network metrics, it quickly became clear that the defaults (8 and 4 respectively) were good enough.  What would have made a difference would have been having some way to run the read and the writes at the same time.
 
-Our 1GB/s connection is a full duplex connection, meaning outgoing and ingoing transfers can both run at up to 1GB/s _simultaneously_. But as things are, our Rclone workflow cannot take advantage of this.
+Our 1GB/s connection is a full duplex connection, meaning outgoing and ingoing transfers can both run at up to 1GB/s *simultaneously*. But as things are, our Rclone workflow cannot take advantage of this.
 
 Ideally, we would like a `--download` option to the `copy` and `move` commands, as proposed [here](https://forum.rclone.org/t/force-download-hash/20333). This would work just like the `check --download` option, forcing a download after the upload and calculating the checksum on that basis.  It would also allow us to reduce the whole operation to a single `rclone move` command, which would further simplify things.
 
