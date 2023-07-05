@@ -23,7 +23,7 @@ The full story of how we responded to this situation is quite complicated, so [I
 
 Since then, the crawl has been running pretty well, but there have been some problems...
 
-<﻿!--break-->
+<!--break-->
 
 ![2023 Domain Crawl storage usage and queue sizes over time](/assets/images/uploads/2023-07-05-dc-storage-and-queues.png "2023 Domain Crawl storage usage and queue sizes over time")
 
