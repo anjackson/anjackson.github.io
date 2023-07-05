@@ -23,6 +23,8 @@ The full story of how we responded to this situation is quite complicated, so [I
 
 Since then, the crawl has been running pretty well, but there have been some problems...
 
+<﻿!--break-->
+
 ![2023 Domain Crawl storage usage and queue sizes over time](/assets/images/uploads/2023-07-05-dc-storage-and-queues.png "2023 Domain Crawl storage usage and queue sizes over time")
 
 The crawler uses disk space in two main ways: the database of queues of URLs to visit (a.k.a. the [crawl frontier](https://en.wikipedia.org/wiki/Crawl_frontier)), and the results of the crawl (the WARCs and logs). The work with Rclone helped us get the latter under control, with the move from `/mnt/gluster/dc2023` to sharing the main `/opt` drive and uploading directly to Hadoop.  These uploads run daily, leading to a saw-tooth pattern as free space gets rapidly released before being slowly re-consumed.
