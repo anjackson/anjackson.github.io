@@ -7,9 +7,9 @@ tags:
   - Web Archives
 layout: post
 author: anj
-shown: false
+shown: true
 ---
-*First published as \[this UK Web Archive blog post]( TBA .*
+*First published as \[this UK Web Archive blog post](https://blogs.bl.uk/webarchive/2023/07/ukwebarchivetechnicalupdate-summer2023.html)
 
 - - -
 
