@@ -9,28 +9,36 @@
     page: /work/digital-preservation
     description: "Posts on digital preservation in general."
 "digipres-lessons-learned":
-    icon: fa-archive
+    icon: fa-info-circle
     title: "Digital Preservation Lessons Learned"
     page: "/2017/04/04/digipres-lessons-learned"
     description: "Posts exploring the mistakes I've made and the things I think I've learned about digital preservation."
 "format-registries":
-    icon: fa-archive
+    icon: fa-group
     title: "Format Registries"
     description: "Posts on my experiments with format registries."
-    page: "/2010/12/09/opf_blog_breaking_down_format_registry"
+    page: "/2010/12/09/opf_blog_breaking_down_format_registry"    
+"format-identification":
+    icon: fa-eye
+    title: "Format Identification"
+    description: "Posts on my work on format identification."
 "digital-dark-age":
-    icon: fa-archive
+    icon: fa-puzzle-piece
     title: Digital Dark Age
     page: "/2010/12/22/opf_blog_obsolescence_overrated"
     description: "Will there be a Digital Dark Age because of format obsolescence? Or are there bigger risks to digital resources?"
 "defunct-formats":
-    icon: fa-archive
+    icon: fa-lemon-o
     title: "Defunct Formats"
     description: "A collection of stories gathered while hunting for obsolete formats."
 "building-web-archives":
-    icon: fa-archive
+    icon: fa-chain-broken
     title: "Building Web Archives"
     description: "Describing our evolving web archiving framework and tools. In particular, the aim is to document how our crawl architecture has evolved to become more modular, and to explore the idea of using APIs to make these systems more manageable over time."
+"digital-footprint":
+    icon: fa-globe
+    title: "Digital Footprint"
+    description: "Posts on my attempt to understand the environmental consequences of digital preservation."
 "travels":
     icon: fa-suitcase
     title: Travels
