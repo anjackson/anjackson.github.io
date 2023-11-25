@@ -7,6 +7,7 @@ author: anj
 shown: true
 series-position: 60
 sidebar-include: _ll.md
+draft: true
 ---
 
 Basic persistance through power outage, then up

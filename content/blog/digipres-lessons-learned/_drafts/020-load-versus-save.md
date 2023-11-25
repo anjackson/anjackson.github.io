@@ -7,6 +7,7 @@ author: anj
 shown: true
 series-position: 20
 sidebar-include: _ll.md
+draft: true
 ---
 
 It's common to assume that the format of digital resources to be a well-defined, singular thing. As in *"this file is in PDF format"*, but taken generally to be a fundemental truth. Formats are something a bitstream has, and one of the most common tasks is to infer the format from a bitstream.

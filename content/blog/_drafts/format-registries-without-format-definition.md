@@ -4,6 +4,7 @@ category: format-registries
 tags: ["Format Registries", "Digital Preservation"]
 status: stub
 layout: post
+draft: true
 ---
 
 > "Is it problematic for a 'format' registry to not be able to agree on a definition of 'format'?"

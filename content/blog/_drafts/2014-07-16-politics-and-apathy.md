@@ -4,11 +4,12 @@ title: "Politics &amp; Apathy"
 modified: 2014-07-16 22:55:56 +0100
 tags: [Rants]
 image:
-  feature: 
-  credit: 
-  creditlink: 
-comments: 
-share: 
+  feature:
+  credit:
+  creditlink:
+comments:
+share:
+draft: true
 ---
 
 I just asked my MP (Alec Shelbourne) to vote against the DRIP bill, which attempts to enshrine overreaching surveillance as national legislation, despite the fact that it clearly contradicts human rights legislation.

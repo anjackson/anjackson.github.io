@@ -11,13 +11,14 @@ author: anj
 created: '2011-03-04'
 changed: '2011-03-30'
 redirect_from:
-- "/node/1888/"
+  - "/node/1888/"
 permalink: "/2011/03/04/opf_blog_normalisation_strategies_trimming_access_stack/"
 category: digital-dark-age
 tags:
-- Digital Preservation
-- Access
-- Format Obsolescence
+  - Digital Preservation
+  - Access
+  - Format Obsolescence
+draft: true
 ---
 <p>
 A new OPF blog: <a href="http://www.openplanetsfoundation.org/node/647">Normalisation & Trimming The Access Stack</a>. Reproduced below...

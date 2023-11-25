@@ -8,6 +8,7 @@ status: stub
 publish: true
 series-position: 30
 sidebar-include: _uf.md
+draft: true
 ---
 
 * The .pcd from Kodak image CDs to TIF or JPG via ImageMagick.

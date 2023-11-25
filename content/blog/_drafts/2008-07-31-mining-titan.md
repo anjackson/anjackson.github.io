@@ -11,10 +11,11 @@ author: anj
 created: '2008-07-31'
 changed: '2010-07-23'
 redirect_from:
-- "/node/1828/"
+  - "/node/1828/"
 permalink: "/2008/07/31/mining_titan/"
-category: 
+category:
 tags: [Science]
+draft: true
 ---
 Via wikipedia, estimate value of titan to be at least 4 * 10^16 USD, which is about 1,000 entire global  economies.
 

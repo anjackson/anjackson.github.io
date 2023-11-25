@@ -11,10 +11,11 @@ author: anj
 created: '2008-07-31'
 changed: '2010-07-23'
 redirect_from:
-- "/node/1827/"
+  - "/node/1827/"
 permalink: "/2008/07/31/very_long_running_averages/"
 category:
 tags: ["Development"]
+draft: true
 ---
 Based on this, oh dear... http://invisibleblocks.wordpress.com/2008/07/30/long-running-averages-without-the-sum-of-preceding-values/
 

@@ -1,10 +1,11 @@
 ---
-title: Evolving Our Crawl Engine 
-subtitle: How we use Heritrix3 
+title: Evolving Our Crawl Engine
+subtitle: How we use Heritrix3
 author: anj
 layout: post
 shown: false
 tags: ["Web Archives", "Digital Preservation"]
+draft: true
 ---
 
 https://swap.stanford.edu/19940102000000/http://slacvm.slac.stanford.edu/FIND/slac.html

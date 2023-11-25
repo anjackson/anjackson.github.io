@@ -1,5 +1,6 @@
 ---
 title: The Registry We Need
+draft: true
 ---
 
 ## A Registry Plan

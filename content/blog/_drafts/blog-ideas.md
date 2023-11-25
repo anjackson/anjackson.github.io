@@ -2,6 +2,7 @@
 title: Blog Ideas
 author: anj
 layout: post
+draft: true
 ---
 
 WARC extract one file:

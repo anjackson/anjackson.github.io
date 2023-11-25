@@ -1,9 +1,10 @@
 ---
 title: Knowing
-category: 
-tags: ["Web Archives","Digital Preservation"]
+category:
+tags: ["Web Archives", "Digital Preservation"]
 status: stub
 layout: post
+draft: true
 ---
 
 Leading on from <a href="{{ site.baseurl }}{% post_url 2014-08-11-web-archiving-in-the-javascript-age %}">Web Archiving in the JavaScript Age</a>.

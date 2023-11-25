@@ -1,5 +1,6 @@
 ---
 title: The Tyranny Of Normalisation
+draft: true
 ---
 
 > Selective normalization for formats at risk, eg by file format, can be triggered as part of ingest

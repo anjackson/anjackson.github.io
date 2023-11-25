@@ -6,6 +6,7 @@ layout: post
 shown: true
 category: web-archiving-apis
 tags: ["Web Archive APIs"]
+draft: true
 ---
 
 When I joined the team in 2012 and began to work on the domain crawl project, a number of other issues came up. What about going behind paywalls? What about capturing dynamic dependencies arising from JavaScript or complex CSS? What about integrating pre-HTML5 videos? What about adding in additional (large) content submitted via hard-disk to avoid network costs? What if we have to use some kind of archiving web proxy so that we can drive the capture manually for some of these tricky cases? Surely we will need to capture our web archives through a shifting and growing range of tools and mechanisms, and our management processes need to cope with that?

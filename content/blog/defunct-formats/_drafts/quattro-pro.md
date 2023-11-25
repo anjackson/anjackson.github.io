@@ -8,6 +8,7 @@ status: stub
 publish: true
 series-position: 30
 sidebar-include: _uf.md
+draft: true
 ---
 
 [Similar to the WKS spreadsheet files, the Quattro Pro spreadsheet files exist...](http://www.fileformat.info/mirror/corion/#WQ1) Borland Quattro Pro

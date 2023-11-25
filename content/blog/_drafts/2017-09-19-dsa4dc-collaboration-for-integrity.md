@@ -6,6 +6,7 @@ tags: ["Data Storage"]
 layout: post
 author: anj
 shown: true
+draft: true
 ---
 
 *Brief presentation from Designing Storage Architectures for Digital Collections 2017*

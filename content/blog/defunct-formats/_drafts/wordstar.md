@@ -1,6 +1,6 @@
 ---
 title: WordStar
-fmt-exts: [".wsd",".wsw"]
+fmt-exts: [".wsd", ".wsw"]
 layout: post
 category:
 tags: ["Unfashionable Formats"]
@@ -8,6 +8,7 @@ status: stub
 publish: true
 series-position: 30
 sidebar-include: _uf.md
+draft: true
 ---
 
 

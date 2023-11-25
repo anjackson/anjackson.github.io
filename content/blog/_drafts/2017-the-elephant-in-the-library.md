@@ -6,6 +6,7 @@ tags: ["Data Mining"]
 layout: post
 author: anj
 shown: true
+draft: true
 ---
 
 1. WA:TNG

@@ -8,6 +8,7 @@ author: anj
 shown: true
 created: '2022-09-14'
 changed: '2022-09-21'
+draft: true
 ---
 
 I was lucky enough to be able to go to #iPres2022 in Glasgow. Unfortunately, I have to return home and and will have to attend the final day of the formal conference remotely. But it's been great, and while I didn't catch up with everyone I wanted to see, I did enjoy seeing faces old and new, some dating back to my early days in digital preservation!

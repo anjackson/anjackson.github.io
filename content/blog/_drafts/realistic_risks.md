@@ -1,10 +1,11 @@
 ---
 title: Realistic Risks
 category: digital-dark-age
-tags: ["Keeping Codes","Digital Preservation"]
+tags: ["Keeping Codes", "Digital Preservation"]
 layout: post
 author: anj
 shown: true
+draft: true
 ---
 
 Tellingly, even the Guardian can't seem to remember that it's sold this story before:

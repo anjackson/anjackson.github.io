@@ -7,6 +7,7 @@ layout: post
 author: anj
 shown: true
 series-position: 5
+draft: true
 ---
 
 As the OAIS standard, now ISO XXXX, is up for review, the digital preservation community is being invited to get involved in that revision process.

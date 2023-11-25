@@ -1,6 +1,6 @@
 ---
 title: Spectrum Snapshots & Tapes
-fmt-exts: [".sna",".z80",".tap",".txz"]
+fmt-exts: [".sna", ".z80", ".tap", ".txz"]
 layout: post
 category:
 tags: ["Unfashionable Formats"]
@@ -8,6 +8,7 @@ status: stub
 publish: true
 series-position: 30
 sidebar-include: _uf.md
+draft: true
 ---
 
 

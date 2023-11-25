@@ -5,6 +5,7 @@ layout: post
 tags: ["Unfashionable Formats"]
 status: stub
 publish: true
+draft: true
 ---
 
 Introduction
