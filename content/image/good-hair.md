@@ -10,13 +10,14 @@ title: Good hair
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1018/"
-permalink: "/2004/08/10/good_hair/"
 tags:
-- Auckland
+  - Auckland
 images:
-- src: image/images/img_2194-1018.jpg
-  name: img_2194-1018.jpg
+  - src: image/images/img_2194-1018.jpg
+    name: img_2194-1018.jpg
+url: "/2004/08/10/good_hair/"
+aliases:
+  - "/node/1018/"
+date: '2004-08-10'
 ---
 

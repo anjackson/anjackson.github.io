@@ -10,12 +10,13 @@ title: becensored
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/632/"
 tags:
-- Older
+  - Older
 images:
-- src: image/images/becensored-632.jpg
-  name: becensored-632.jpg
+  - src: image/images/becensored-632.jpg
+    name: becensored-632.jpg
+url: "/node/632/"
+aliases: []
+date: '2004-05-13'
 ---
 

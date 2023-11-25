@@ -10,13 +10,14 @@ title: Computational Fluid Dynamics
 author: anj
 created: '2004-05-12'
 changed: '2007-02-08'
-redirect_from:
-- "/node/580/"
-permalink: "/ix2v/comphys/docs/ug/y4-cfd.pdf/"
 tags: []
 attachments:
-- src: page/files/y4-cfd.pdf
-  name: y4-cfd.pdf
+  - src: page/files/y4-cfd.pdf
+    name: y4-cfd.pdf
+url: "/ix2v/comphys/docs/ug/y4-cfd.pdf/"
+aliases:
+  - "/node/580/"
+date: '2004-05-12'
 ---
 ### Computational Fluid Dynamics
 ## Course Assignment

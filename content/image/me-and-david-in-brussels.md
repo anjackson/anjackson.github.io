@@ -10,13 +10,14 @@ title: me & david in brussels
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from:
-- "/node/634/"
-permalink: "/2004/05/13/me_david_in_brussels/"
 tags:
-- David P
+  - David P
 images:
-- src: image/images/me.n.dave-634.jpg
-  name: me.n.dave-634.jpg
+  - src: image/images/me.n.dave-634.jpg
+    name: me.n.dave-634.jpg
+url: "/2004/05/13/me_david_in_brussels/"
+aliases:
+  - "/node/634/"
+date: '2004-05-13'
 ---
 

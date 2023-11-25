@@ -10,13 +10,14 @@ title: 03023 Liv Tyler and Orlando Bloom
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/1078/"
 tags:
-- The Return Of The King
-- 2003/12 - December 2003
+  - The Return Of The King
+  - 2003/12 - December 2003
 images:
-- src: image/images/130_3023-1078.jpg
-  name: 130_3023-1078.jpg
+  - src: image/images/130_3023-1078.jpg
+    name: 130_3023-1078.jpg
+url: "/node/1078/"
+aliases: []
+date: '2004-08-10'
 ---
 

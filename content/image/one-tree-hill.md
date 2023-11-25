@@ -10,13 +10,14 @@ title: One tree hill
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/995/"
-permalink: "/2004/08/10/one_tree_hill/"
 tags:
-- Bay of Islands
+  - Bay of Islands
 images:
-- src: image/images/img_2105-995.jpg
-  name: img_2105-995.jpg
+  - src: image/images/img_2105-995.jpg
+    name: img_2105-995.jpg
+url: "/2004/08/10/one_tree_hill/"
+aliases:
+  - "/node/995/"
+date: '2004-08-10'
 ---
 

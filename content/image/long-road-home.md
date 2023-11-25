@@ -10,13 +10,14 @@ title: Long road home
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1004/"
-permalink: "/2004/08/10/long_road_home/"
 tags:
-- Bay of Islands
+  - Bay of Islands
 images:
-- src: image/images/img_2141-1004.jpg
-  name: img_2141-1004.jpg
+  - src: image/images/img_2141-1004.jpg
+    name: img_2141-1004.jpg
+url: "/2004/08/10/long_road_home/"
+aliases:
+  - "/node/1004/"
+date: '2004-08-10'
 ---
 

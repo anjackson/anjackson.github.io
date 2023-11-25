@@ -10,13 +10,14 @@ title: Adrift in a pedallo
 author: anj
 created: '2007-01-19'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1727/"
-permalink: "/2007/01/19/adrift_in_a_pedallo/"
 tags:
-- The first few days
+  - The first few days
 images:
-- src: image/images/IMG_3132.JPG
-  name: IMG_3132.JPG
+  - src: image/images/IMG_3132.JPG
+    name: IMG_3132.JPG
+url: "/2007/01/19/adrift_in_a_pedallo/"
+aliases:
+  - "/node/1727/"
+date: '2007-01-19'
 ---
 

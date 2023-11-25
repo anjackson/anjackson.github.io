@@ -10,13 +10,14 @@ title: 01651 Looking down
 author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/390/"
 tags:
-- The Red Centre
-- 2003/10 - October 2003
+  - The Red Centre
+  - 2003/10 - October 2003
 images:
-- src: image/images/img_1651-390.jpg
-  name: img_1651-390.jpg
+  - src: image/images/img_1651-390.jpg
+    name: img_1651-390.jpg
+url: "/node/390/"
+aliases: []
+date: '2004-03-26'
 ---
 Looking down into King's Canyon.

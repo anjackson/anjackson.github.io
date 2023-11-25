@@ -10,13 +10,14 @@ title: 20245 Dancing
 author: anj
 created: '2006-07-29'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1642/"
-permalink: "/2006/07/29/20245_dancing/"
 tags:
-- Eilidh
+  - Eilidh
 images:
-- src: image/images/IMG_0245.JPG
-  name: IMG_0245.JPG
+  - src: image/images/IMG_0245.JPG
+    name: IMG_0245.JPG
+url: "/2006/07/29/20245_dancing/"
+aliases:
+  - "/node/1642/"
+date: '2006-07-29'
 ---
 

@@ -10,13 +10,14 @@ title: 20399 On a swing
 author: anj
 created: '2006-07-29'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1645/"
-permalink: "/2006/07/29/20399_on_a_swing/"
 tags:
-- Eilidh
+  - Eilidh
 images:
-- src: image/images/IMG_0399.JPG
-  name: IMG_0399.JPG
+  - src: image/images/IMG_0399.JPG
+    name: IMG_0399.JPG
+url: "/2006/07/29/20399_on_a_swing/"
+aliases:
+  - "/node/1645/"
+date: '2006-07-29'
 ---
 

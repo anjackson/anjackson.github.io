@@ -10,11 +10,12 @@ title: curriculum vitae
 author: anj
 created: '2004-08-11'
 changed: '2008-01-22'
-redirect_from:
-- "/ix2v/cv/index.php/"
-- "/node/1286/"
-permalink: "/ix2v/cv/"
 tags: []
+url: "/ix2v/cv/"
+aliases:
+  - "/ix2v/cv/index.php/"
+  - "/node/1286/"
+date: '2004-08-11'
 ---
 <p>
 Use the checkboxes to switch the different sections of my CV on and off.  When you are happy with the items you have chosen, hit the print button.

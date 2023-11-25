@@ -10,13 +10,14 @@ title: Something's missing
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1063/"
-permalink: "/2004/08/10/somethings_missing/"
 tags:
-- Wellington
+  - Wellington
 images:
-- src: image/images/129_2982-1063.jpg
-  name: 129_2982-1063.jpg
+  - src: image/images/129_2982-1063.jpg
+    name: 129_2982-1063.jpg
+url: "/2004/08/10/somethings_missing/"
+aliases:
+  - "/node/1063/"
+date: '2004-08-10'
 ---
 

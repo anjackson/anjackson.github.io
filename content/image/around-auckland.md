@@ -10,13 +10,14 @@ title: Around Auckland
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1019/"
-permalink: "/2004/08/10/around_auckland_0/"
 tags:
-- Auckland
+  - Auckland
 images:
-- src: image/images/img_2198-1019.jpg
-  name: img_2198-1019.jpg
+  - src: image/images/img_2198-1019.jpg
+    name: img_2198-1019.jpg
+url: "/2004/08/10/around_auckland_0/"
+aliases:
+  - "/node/1019/"
+date: '2004-08-10'
 ---
 

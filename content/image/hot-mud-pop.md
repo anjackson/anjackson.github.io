@@ -10,13 +10,14 @@ title: Hot mud pop
 author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
-redirect_from:
-- "/node/843/"
-permalink: "/2004/07/26/hot_mud_pop/"
 tags:
-- Rotorua
+  - Rotorua
 images:
-- src: image/images/img_2517-843.jpg
-  name: img_2517-843.jpg
+  - src: image/images/img_2517-843.jpg
+    name: img_2517-843.jpg
+url: "/2004/07/26/hot_mud_pop/"
+aliases:
+  - "/node/843/"
+date: '2004-07-26'
 ---
 

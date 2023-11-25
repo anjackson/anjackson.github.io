@@ -10,15 +10,16 @@ title: 20390 Eilidh & Andy
 author: anj
 created: '2006-07-29'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1644/"
-permalink: "/2006/07/29/20390_eilidh_andy/"
 tags:
-- Andy
-- Eilidh
-- Andy & Eilidh
+  - Andy
+  - Eilidh
+  - Andy & Eilidh
 images:
-- src: image/images/IMG_0390.JPG
-  name: IMG_0390.JPG
+  - src: image/images/IMG_0390.JPG
+    name: IMG_0390.JPG
+url: "/2006/07/29/20390_eilidh_andy/"
+aliases:
+  - "/node/1644/"
+date: '2006-07-29'
 ---
 

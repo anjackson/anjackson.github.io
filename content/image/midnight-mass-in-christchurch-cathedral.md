@@ -10,13 +10,14 @@ title: Midnight Mass in Christchurch cathedral
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1193/"
-permalink: "/2004/08/10/midnight_mass_in_christchurch_cathedral/"
 tags:
-- Christchurch
+  - Christchurch
 images:
-- src: image/images/134_3438-1193.jpg
-  name: 134_3438-1193.jpg
+  - src: image/images/134_3438-1193.jpg
+    name: 134_3438-1193.jpg
+url: "/2004/08/10/midnight_mass_in_christchurch_cathedral/"
+aliases:
+  - "/node/1193/"
+date: '2004-08-10'
 ---
 

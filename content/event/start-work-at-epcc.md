@@ -10,8 +10,9 @@ title: Start work at EPCC.
 author: anj
 created: '2004-06-05'
 changed: '2004-06-05'
-redirect_from: []
-permalink: "/node/715/"
 tags: []
+url: "/node/715/"
+aliases: []
+date: '2004-06-05'
 ---
 Crikey!  Back to EPCC for twelve weeks.

@@ -10,13 +10,14 @@ title: 20740 Tiddly-pom
 author: anj
 created: '2006-07-29'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1653/"
-permalink: "/2006/07/29/20740_tiddly_pom/"
 tags:
-- Eilidh
+  - Eilidh
 images:
-- src: image/images/IMG_0740.JPG
-  name: IMG_0740.JPG
+  - src: image/images/IMG_0740.JPG
+    name: IMG_0740.JPG
+url: "/2006/07/29/20740_tiddly_pom/"
+aliases:
+  - "/node/1653/"
+date: '2006-07-29'
 ---
 

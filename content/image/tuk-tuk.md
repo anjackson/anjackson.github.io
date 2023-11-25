@@ -10,9 +10,10 @@ title: tuk tuk
 author: anj
 created: '2004-06-17'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/719/"
 tags:
-- From the internet
+  - From the internet
+url: "/node/719/"
+aliases: []
+date: '2004-06-17'
 ---
 Stolen image of a Tuk-Tuk.

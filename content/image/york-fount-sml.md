@@ -10,13 +10,14 @@ title: york-fount.sml
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/658/"
 tags:
-- York
-- Older
+  - York
+  - Older
 images:
-- src: image/images/york-fount.sml-658.jpg
-  name: york-fount.sml-658.jpg
+  - src: image/images/york-fount.sml-658.jpg
+    name: york-fount.sml-658.jpg
+url: "/node/658/"
+aliases: []
+date: '2004-05-13'
 ---
 

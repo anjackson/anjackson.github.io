@@ -10,13 +10,14 @@ title: 04000 Bluee Tractor, working
 author: anj
 created: '2004-08-20'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/1397/"
 tags:
-- 2004/01 - January 2004
-- Abel Tasman
+  - 2004/01 - January 2004
+  - Abel Tasman
 images:
-- src: image/images/04000_bluee_tractor_working-1397.jpg
-  name: 04000_bluee_tractor_working-1397.jpg
+  - src: image/images/04000_bluee_tractor_working-1397.jpg
+    name: 04000_bluee_tractor_working-1397.jpg
+url: "/node/1397/"
+aliases: []
+date: '2004-08-20'
 ---
 

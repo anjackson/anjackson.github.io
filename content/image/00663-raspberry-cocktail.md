@@ -10,13 +10,14 @@ title: 00663 Raspberry Cocktail
 author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/321/"
 tags:
-- 2003/09 - September 2003
-- London
+  - 2003/09 - September 2003
+  - London
 images:
-- src: image/images/106_0663-321.jpg
-  name: 106_0663-321.jpg
+  - src: image/images/106_0663-321.jpg
+    name: 106_0663-321.jpg
+url: "/node/321/"
+aliases: []
+date: '2004-03-26'
 ---
 A rather fine raspberry and champagne cocktail.  London food expo.

@@ -10,14 +10,15 @@ title: The Two-Dimensional Ising Model
 author: anj
 created: '2004-05-11'
 changed: '2013-06-25'
-redirect_from:
-- "/node/564/"
-permalink: "/ix2v/comphys/docs/phd/IsingMCMC.pdf/"
 tags:
-- Science
+  - Science
 attachments:
-- src: page/files/IsingMCMC.pdf
-  name: IsingMCMC.pdf
+  - src: page/files/IsingMCMC.pdf
+    name: IsingMCMC.pdf
+url: "/ix2v/comphys/docs/phd/IsingMCMC.pdf/"
+aliases:
+  - "/node/564/"
+date: '2004-05-11'
 ---
 ### An Introduction To Monte Carlo Statistical Mechanics ###
 A report written in the 1st year of my Ph.D. (November 1997).

@@ -10,13 +10,14 @@ title: 03032 Christopher Lee and Sean Astin
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/1084/"
 tags:
-- The Return Of The King
-- 2003/12 - December 2003
+  - The Return Of The King
+  - 2003/12 - December 2003
 images:
-- src: image/images/130_3032-1084.jpg
-  name: 130_3032-1084.jpg
+  - src: image/images/130_3032-1084.jpg
+    name: 130_3032-1084.jpg
+url: "/node/1084/"
+aliases: []
+date: '2004-08-10'
 ---
 

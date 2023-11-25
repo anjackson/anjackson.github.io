@@ -10,13 +10,14 @@ title: Poser
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from:
-- "/node/665/"
-permalink: "/2004/05/13/poser/"
 tags:
-- Andy
+  - Andy
 images:
-- src: image/images/me-rose.sml-665.jpg
-  name: me-rose.sml-665.jpg
+  - src: image/images/me-rose.sml-665.jpg
+    name: me-rose.sml-665.jpg
+url: "/2004/05/13/poser/"
+aliases:
+  - "/node/665/"
+date: '2004-05-13'
 ---
 

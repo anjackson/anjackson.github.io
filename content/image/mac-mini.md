@@ -10,10 +10,11 @@ title: Mac mini
 author: anj
 created: '2005-01-12'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1590/"
-permalink: "/2005/01/12/mac-mini/"
 tags:
-- From the internet
+  - From the internet
+url: "/2005/01/12/mac-mini/"
+aliases:
+  - "/node/1590/"
+date: '2005-01-12'
 ---
 The Mac mini - image taken from apple.com.

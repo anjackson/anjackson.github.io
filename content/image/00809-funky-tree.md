@@ -10,13 +10,14 @@ title: 00809 - Funky tree
 author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/336/"
 tags:
-- California
-- 2003/09 - September 2003
+  - California
+  - 2003/09 - September 2003
 images:
-- src: image/images/108_0809-336.jpg
-  name: 108_0809-336.jpg
+  - src: image/images/108_0809-336.jpg
+    name: 108_0809-336.jpg
+url: "/node/336/"
+aliases: []
+date: '2004-03-26'
 ---
 On 17 Mile Drive.

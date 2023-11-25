@@ -10,12 +10,13 @@ title: binary.1
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/624/"
 tags:
-- imgn
+  - imgn
 images:
-- src: image/images/binary.1-624.jpg
-  name: binary.1-624.jpg
+  - src: image/images/binary.1-624.jpg
+    name: binary.1-624.jpg
+url: "/node/624/"
+aliases: []
+date: '2004-05-13'
 ---
 

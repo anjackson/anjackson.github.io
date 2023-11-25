@@ -10,13 +10,14 @@ title: Green lake
 author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
-redirect_from:
-- "/node/834/"
-permalink: "/2004/07/26/green_lake/"
 tags:
-- Rotorua
+  - Rotorua
 images:
-- src: image/images/img_2489-834.jpg
-  name: img_2489-834.jpg
+  - src: image/images/img_2489-834.jpg
+    name: img_2489-834.jpg
+url: "/2004/07/26/green_lake/"
+aliases:
+  - "/node/834/"
+date: '2004-07-26'
 ---
 

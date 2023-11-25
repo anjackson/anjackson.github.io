@@ -1,9 +1,8 @@
 ---
 layout: project
 type: project
-permalink: "/projects/buddah/"
 category: Data Mining
-tags: [data-mining,digital-preservation]
+tags: [data-mining, digital-preservation]
 fa-icon: fa-code-fork
 background: /projects/images/buddah.png
 screenshot: /projects/images/buddah.png
@@ -11,6 +10,9 @@ title: BUDDAH
 subtitle: Historical Search Engine Prototype
 summary: Big UK Domain Data for the Arts and Humanities
 year: 2014
+url: "/projects/buddah/"
+aliases: null
+date: null
 ---
 
 The Big UK Domain Data for the Arts and Humanities project was [funded by the AHRC][1] to build on the work we started in [AADDA][4], but to work much more closely with individual historians by providing [bursaries][5] to support their direct engagement with us and with our search service.

@@ -10,14 +10,15 @@ title: My Websites
 author: anj
 created: '2004-05-17'
 changed: '2004-05-17'
-redirect_from:
-- "/node/695/"
-permalink: "/projects/websites/"
 tags: [websites]
 fa-icon: fa-code
 screenshot: /projects/images/anjackson-4.png
 summary: Miscellaneous websites and web projects
 year: 2002
+url: "/projects/websites/"
+aliases:
+  - "/node/695/"
+date: '2004-05-17'
 ---
 
 anjackson.net

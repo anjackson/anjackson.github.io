@@ -10,13 +10,14 @@ title: Andy on a swing
 author: anj
 created: '2006-07-31'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1669/"
-permalink: "/2006/07/31/andy_swing/"
 tags:
-- Andy
+  - Andy
 images:
-- src: image/images/IMG_0407_2.JPG
-  name: IMG_0407_2.JPG
+  - src: image/images/IMG_0407_2.JPG
+    name: IMG_0407_2.JPG
+url: "/2006/07/31/andy_swing/"
+aliases:
+  - "/node/1669/"
+date: '2006-07-31'
 ---
 

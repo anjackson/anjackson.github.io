@@ -10,12 +10,13 @@ title: mexitable2
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/620/"
 tags:
-- Older
+  - Older
 images:
-- src: image/images/mexitable2-620.jpg
-  name: mexitable2-620.jpg
+  - src: image/images/mexitable2-620.jpg
+    name: mexitable2-620.jpg
+url: "/node/620/"
+aliases: []
+date: '2004-05-13'
 ---
 

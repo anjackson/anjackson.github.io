@@ -10,10 +10,11 @@ title: Zaurus
 author: anj
 created: '2004-05-13'
 changed: '2009-08-10'
-redirect_from:
-- "/node/693/"
-permalink: "/geek_nuggets/zaurus/"
 tags: []
+url: "/geek_nuggets/zaurus/"
+aliases:
+  - "/node/693/"
+date: '2004-05-13'
 ---
 ## Software
 * [Sablotron XSLT processor](http://anjackson.net/node/view/699).

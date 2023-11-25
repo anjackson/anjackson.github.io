@@ -10,10 +10,11 @@ title: Debugging
 author: anj
 created: '2004-04-06'
 changed: '2004-06-02'
-redirect_from:
-- "/node/529/"
-permalink: "/title/SCDebugging/"
 tags: []
+url: "/title/SCDebugging/"
+aliases:
+  - "/node/529/"
+date: '2004-04-06'
 ---
 ## Introduction
 

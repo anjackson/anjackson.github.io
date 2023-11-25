@@ -10,12 +10,13 @@ title: chris1
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/616/"
 tags:
-- Older
+  - Older
 images:
-- src: image/images/chris1-616.jpg
-  name: chris1-616.jpg
+  - src: image/images/chris1-616.jpg
+    name: chris1-616.jpg
+url: "/node/616/"
+aliases: []
+date: '2004-05-13'
 ---
 

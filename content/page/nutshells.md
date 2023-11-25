@@ -10,10 +10,11 @@ title: nutshells
 author: anj
 created: '2005-11-16'
 changed: '2007-07-27'
-redirect_from:
-- "/node/1610/"
-permalink: "/nutshells/"
 tags: []
+url: "/nutshells/"
+aliases:
+  - "/node/1610/"
+date: '2005-11-16'
 ---
 <p>
 My RISC OS wiki and link directory can be found at <a href="http://nutshells.anjackson.net/">nutshells.anjackson.net</a>.

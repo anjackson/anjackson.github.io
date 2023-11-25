@@ -10,13 +10,14 @@ title: 21050 Dublin
 author: anj
 created: '2006-07-29'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1656/"
-permalink: "/2006/07/29/21050_dublin/"
 tags:
-- Eilidh
+  - Eilidh
 images:
-- src: image/images/IMG_1050.JPG
-  name: IMG_1050.JPG
+  - src: image/images/IMG_1050.JPG
+    name: IMG_1050.JPG
+url: "/2006/07/29/21050_dublin/"
+aliases:
+  - "/node/1656/"
+date: '2006-07-29'
 ---
 

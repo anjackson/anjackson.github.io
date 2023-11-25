@@ -10,14 +10,15 @@ title: 02624 Rescuing Aaron
 author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/885/"
 tags:
-- 2003/11 - November 2003
-- Taupo
-- Aaron P
+  - 2003/11 - November 2003
+  - Taupo
+  - Aaron P
 images:
-- src: image/images/126_2624-885.jpg
-  name: 126_2624-885.jpg
+  - src: image/images/126_2624-885.jpg
+    name: 126_2624-885.jpg
+url: "/node/885/"
+aliases: []
+date: '2004-07-26'
 ---
 Being retrieved from the Taupo Bungy.

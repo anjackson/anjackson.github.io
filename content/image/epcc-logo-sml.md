@@ -10,9 +10,10 @@ title: epcc-logo-sml
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/669/"
 tags:
-- Older
+  - Older
+url: "/node/669/"
+aliases: []
+date: '2004-05-13'
 ---
 

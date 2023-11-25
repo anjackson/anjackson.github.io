@@ -10,12 +10,13 @@ title: Sparkplug
 author: anj
 created: '2004-05-31'
 changed: '2007-02-08'
-redirect_from:
-- "/node/709/"
-permalink: "/poot/riscos/splug/"
 tags: []
 attachments:
-- src: page/files/splug.bas
-  name: splug.bas
+  - src: page/files/splug.bas
+    name: splug.bas
+url: "/poot/riscos/splug/"
+aliases:
+  - "/node/709/"
+date: '2004-05-31'
 ---
 <img src="/themes/anjackson.net/sw/sparkfs.gif" border="0" align="left" />Zip and Spark archives can be decompressed in the RISC OS desktop environment using SparkPlug, available here as a self-expanding archive. Just set the filetype to BASIC and run. 

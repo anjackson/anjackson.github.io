@@ -10,13 +10,14 @@ title: Eilidh at Oriental Bay
 author: anj
 created: '2007-01-19'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1734/"
-permalink: "/2007/01/19/eilidh_at_oriental_bay/"
 tags:
-- The first few days
+  - The first few days
 images:
-- src: image/images/IMG_2796.JPG
-  name: IMG_2796.JPG
+  - src: image/images/IMG_2796.JPG
+    name: IMG_2796.JPG
+url: "/2007/01/19/eilidh_at_oriental_bay/"
+aliases:
+  - "/node/1734/"
+date: '2007-01-19'
 ---
 

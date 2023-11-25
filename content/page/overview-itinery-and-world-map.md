@@ -10,10 +10,11 @@ title: Overview, Itinery & World Map
 author: anj
 created: '2004-08-16'
 changed: '2004-08-27'
-redirect_from: []
-permalink: "/node/1301/"
 category: Travels
 tags: []
+url: "/node/1301/"
+aliases: []
+date: '2004-08-16'
 ---
 Overview of the route I took on my big trip around the world.
 <!--break-->

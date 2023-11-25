@@ -10,14 +10,15 @@ title: york-hes-hall.sml
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from:
-- "/node/659/"
-permalink: "/img-n/places/images/york-hes-hall.sml.jpg/"
 tags:
-- York
-- Older
+  - York
+  - Older
 images:
-- src: image/images/york-hes-hall.sml-659.jpg
-  name: york-hes-hall.sml-659.jpg
+  - src: image/images/york-hes-hall.sml-659.jpg
+    name: york-hes-hall.sml-659.jpg
+url: "/img-n/places/images/york-hes-hall.sml.jpg/"
+aliases:
+  - "/node/659/"
+date: '2004-05-13'
 ---
 

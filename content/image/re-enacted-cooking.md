@@ -10,13 +10,14 @@ title: Re-enacted cooking.
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1053/"
-permalink: "/2004/08/10/re_enacted_cooking/"
 tags:
-- Wellington
+  - Wellington
 images:
-- src: image/images/129_2965-1053.jpg
-  name: 129_2965-1053.jpg
+  - src: image/images/129_2965-1053.jpg
+    name: 129_2965-1053.jpg
+url: "/2004/08/10/re_enacted_cooking/"
+aliases:
+  - "/node/1053/"
+date: '2004-08-10'
 ---
 

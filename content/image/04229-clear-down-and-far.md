@@ -10,13 +10,14 @@ title: 04229 Clear Down and Far
 author: anj
 created: '2004-11-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/1478/"
 tags:
-- 2004/01 - January 2004
-- Abel Tasman
+  - 2004/01 - January 2004
+  - Abel Tasman
 images:
-- src: image/images/04229_clear_down_and_far-1478.jpg
-  name: 04229_clear_down_and_far-1478.jpg
+  - src: image/images/04229_clear_down_and_far-1478.jpg
+    name: 04229_clear_down_and_far-1478.jpg
+url: "/node/1478/"
+aliases: []
+date: '2004-11-13'
 ---
 

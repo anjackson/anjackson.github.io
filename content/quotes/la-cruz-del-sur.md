@@ -10,8 +10,9 @@ title: La Cruz Del Sur
 author: anj
 created: '2004-12-05'
 changed: '2004-12-05'
-redirect_from: []
-permalink: "/node/1560/"
 tags: []
+url: "/node/1560/"
+aliases: []
+date: '2004-12-05'
 ---
 ...

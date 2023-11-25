@@ -10,10 +10,11 @@ title: parseDouble
 author: anj
 created: '2004-05-12'
 changed: '2004-11-11'
-redirect_from:
-- "/node/589/"
-permalink: "/poot/java/parseDouble/"
 tags: []
+url: "/poot/java/parseDouble/"
+aliases:
+  - "/node/589/"
+date: '2004-05-12'
 ---
 ### Converting Strings to Floating-Point Numbers in Java
 I wrote this some time ago, when I was using Java 1.0 and 1.1.  Those early versions had no library routines for loading Double/Float values from a String, so I rolled my own (see below).  <!--break--> Since Java 1.2 however, all you have to do is

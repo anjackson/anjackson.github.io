@@ -10,10 +10,11 @@ title: Pocket LAMP
 author: anj
 created: '2004-09-06'
 changed: '2005-01-02'
-redirect_from:
-- "/node/1421/"
-permalink: "/2004/09/06/pocket-lamp/"
 tags: []
+url: "/2004/09/06/pocket-lamp/"
+aliases:
+  - "/node/1421/"
+date: '2004-09-06'
 ---
 ### Pocket LAMP
 LAMP is a very popular web development platform, and my Zaurus is a very nice way to keep a portable web server in my pocket.

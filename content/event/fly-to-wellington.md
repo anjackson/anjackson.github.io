@@ -10,8 +10,9 @@ title: Fly to Wellington
 author: anj
 created: '2004-09-24'
 changed: '2004-10-01'
-redirect_from: []
-permalink: "/node/1426/"
 tags: []
+url: "/node/1426/"
+aliases: []
+date: '2004-09-24'
 ---
 Flying from Auckland domestic terminal at 9:30am flight NZ417, arriving in Wellington at 10:30am. Start work at VUW.

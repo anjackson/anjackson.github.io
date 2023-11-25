@@ -10,13 +10,14 @@ title: Neat sheep
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1028/"
-permalink: "/2004/08/10/neat_sheep/"
 tags:
-- Coromandel
+  - Coromandel
 images:
-- src: image/images/img_2217-1028.jpg
-  name: img_2217-1028.jpg
+  - src: image/images/img_2217-1028.jpg
+    name: img_2217-1028.jpg
+url: "/2004/08/10/neat_sheep/"
+aliases:
+  - "/node/1028/"
+date: '2004-08-10'
 ---
 

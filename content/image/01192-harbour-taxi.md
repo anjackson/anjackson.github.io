@@ -10,13 +10,14 @@ title: 01192 - Harbour Taxi
 author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/355/"
 tags:
-- Sydney
-- 2003/10 - October 2003
+  - Sydney
+  - 2003/10 - October 2003
 images:
-- src: image/images/img_1192-355.jpg
-  name: img_1192-355.jpg
+  - src: image/images/img_1192-355.jpg
+    name: img_1192-355.jpg
+url: "/node/355/"
+aliases: []
+date: '2004-03-26'
 ---
 The Sydney Harbour Bridge, with one of the yellow water taxis on its rounds.

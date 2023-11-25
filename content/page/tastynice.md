@@ -10,9 +10,10 @@ title: tastynice
 author: anj
 created: '2004-08-11'
 changed: '2004-08-11'
-redirect_from:
-- "/node/1292/"
-permalink: "/about/ilike/tastynice/"
 tags: []
+url: "/about/ilike/tastynice/"
+aliases:
+  - "/node/1292/"
+date: '2004-08-11'
 ---
 Currently offline.  May include Sage Derby & Tunnock's Teacakes.

@@ -10,13 +10,14 @@ title: 04016 Cool Path
 author: anj
 created: '2004-08-20'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/1401/"
 tags:
-- 2004/01 - January 2004
-- Abel Tasman
+  - 2004/01 - January 2004
+  - Abel Tasman
 images:
-- src: image/images/04016_cool_path-1401.jpg
-  name: 04016_cool_path-1401.jpg
+  - src: image/images/04016_cool_path-1401.jpg
+    name: 04016_cool_path-1401.jpg
+url: "/node/1401/"
+aliases: []
+date: '2004-08-20'
 ---
 

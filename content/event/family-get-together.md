@@ -10,8 +10,9 @@ title: Family get-together
 author: anj
 created: '2004-08-16'
 changed: '2004-08-16'
-redirect_from: []
-permalink: "/node/1309/"
 tags: []
+url: "/node/1309/"
+aliases: []
+date: '2004-08-16'
 ---
 All weekend.

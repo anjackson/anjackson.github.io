@@ -10,12 +10,13 @@ title: weinach1.thumb
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/631/"
 tags:
-- Older
+  - Older
 images:
-- src: image/images/weinach1.thumb-631.jpg
-  name: weinach1.thumb-631.jpg
+  - src: image/images/weinach1.thumb-631.jpg
+    name: weinach1.thumb-631.jpg
+url: "/node/631/"
+aliases: []
+date: '2004-05-13'
 ---
 

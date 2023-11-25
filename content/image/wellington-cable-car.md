@@ -10,13 +10,14 @@ title: Wellington cable car
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1100/"
-permalink: "/2004/08/10/wellington_cable_car/"
 tags:
-- Wellington
+  - Wellington
 images:
-- src: image/images/130_3089-1100.jpg
-  name: 130_3089-1100.jpg
+  - src: image/images/130_3089-1100.jpg
+    name: 130_3089-1100.jpg
+url: "/2004/08/10/wellington_cable_car/"
+aliases:
+  - "/node/1100/"
+date: '2004-08-10'
 ---
 

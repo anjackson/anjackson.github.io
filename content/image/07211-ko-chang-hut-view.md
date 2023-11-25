@@ -10,12 +10,13 @@ title: 07211 - Ko Chang Hut View
 author: anj
 created: '2004-06-30'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/728/"
 tags:
-- Highlights
+  - Highlights
 images:
-- src: image/images/172_7211-728.jpg
-  name: 172_7211-728.jpg
+  - src: image/images/172_7211-728.jpg
+    name: 172_7211-728.jpg
+url: "/node/728/"
+aliases: []
+date: '2004-06-30'
 ---
 The view from my hut, on White Sand Beach, Ko Chang.

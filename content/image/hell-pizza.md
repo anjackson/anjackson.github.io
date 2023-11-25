@@ -10,13 +10,14 @@ title: Hell Pizza
 author: anj
 created: '2007-01-19'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1722/"
-permalink: "/2007/01/19/hell_pizza/"
 tags:
-- The first few days
+  - The first few days
 images:
-- src: image/images/IMG_1483.jpg
-  name: IMG_1483.jpg
+  - src: image/images/IMG_1483.jpg
+    name: IMG_1483.jpg
+url: "/2007/01/19/hell_pizza/"
+aliases:
+  - "/node/1722/"
+date: '2007-01-19'
 ---
 

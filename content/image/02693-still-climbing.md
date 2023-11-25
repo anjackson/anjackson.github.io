@@ -10,14 +10,15 @@ title: 02693 Still Climbing
 author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/910/"
 tags:
-- Highlights
-- 2003/11 - November 2003
-- Tongariro Crossing
+  - Highlights
+  - 2003/11 - November 2003
+  - Tongariro Crossing
 images:
-- src: image/images/126_2693-910.jpg
-  name: 126_2693-910.jpg
+  - src: image/images/126_2693-910.jpg
+    name: 126_2693-910.jpg
+url: "/node/910/"
+aliases: []
+date: '2004-07-26'
 ---
 

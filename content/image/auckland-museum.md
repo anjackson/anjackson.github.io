@@ -10,13 +10,14 @@ title: Auckland Museum
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/990/"
-permalink: "/2004/08/10/auckland_museum/"
 tags:
-- Auckland
+  - Auckland
 images:
-- src: image/images/121_2183-990.jpg
-  name: 121_2183-990.jpg
+  - src: image/images/121_2183-990.jpg
+    name: 121_2183-990.jpg
+url: "/2004/08/10/auckland_museum/"
+aliases:
+  - "/node/990/"
+date: '2004-08-10'
 ---
 [Auckland Museum](http://www.aucklandmuseum.com/)

@@ -10,13 +10,14 @@ title: Museum entrance
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1007/"
-permalink: "/2004/08/10/museum_entrance/"
 tags:
-- Auckland
+  - Auckland
 images:
-- src: image/images/img_2163-1007.jpg
-  name: img_2163-1007.jpg
+  - src: image/images/img_2163-1007.jpg
+    name: img_2163-1007.jpg
+url: "/2004/08/10/museum_entrance/"
+aliases:
+  - "/node/1007/"
+date: '2004-08-10'
 ---
 [Auckland Museum](http://www.aucklandmuseum.com/)

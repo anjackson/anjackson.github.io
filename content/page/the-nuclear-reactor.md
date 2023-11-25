@@ -10,13 +10,14 @@ title: The Nuclear Reactor
 author: anj
 created: '2004-05-12'
 changed: '2007-02-08'
-redirect_from:
-- "/node/587/"
-permalink: "/ix2v/comphys/docs/ug/y2-mc-reactor.pdf/"
 tags: []
 attachments:
-- src: page/files/y2-mc-reactor.pdf
-  name: y2-mc-reactor.pdf
+  - src: page/files/y2-mc-reactor.pdf
+    name: y2-mc-reactor.pdf
+url: "/ix2v/comphys/docs/ug/y2-mc-reactor.pdf/"
+aliases:
+  - "/node/587/"
+date: '2004-05-12'
 ---
 ### The Nuclear Reactor
 An application of Monte Carlo simulation methods

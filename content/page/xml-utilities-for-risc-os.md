@@ -10,13 +10,14 @@ title: XML Utilities For RISC OS
 author: anj
 created: '2004-05-31'
 changed: '2007-02-08'
-redirect_from:
-- "/node/704/"
-permalink: "/poot/riscos/xmlutils/"
 tags: []
 attachments:
-- src: page/files/xmlutils-1.1.zip
-  name: xmlutils-1.1.zip
+  - src: page/files/xmlutils-1.1.zip
+    name: xmlutils-1.1.zip
+url: "/poot/riscos/xmlutils/"
+aliases:
+  - "/node/704/"
+date: '2004-05-31'
 ---
 <div class="node">
 <img src="/themes/anjackson.net/sw/xmlutils.png" border="0" align="left" style="margin: 5px;" />

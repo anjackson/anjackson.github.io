@@ -10,14 +10,15 @@ title: 11517 NZ Christmas Tree
 author: anj
 created: '2005-01-02'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1582/"
-permalink: "/2005/01/02/11517-nz-christmas-tree/"
 tags:
-- Wellington
-- 2004/12 December 2004
+  - Wellington
+  - 2004/12 December 2004
 images:
-- src: image/images/11517_nz_christmas_tree-1582.jpg
-  name: 11517_nz_christmas_tree-1582.jpg
+  - src: image/images/11517_nz_christmas_tree-1582.jpg
+    name: 11517_nz_christmas_tree-1582.jpg
+url: "/2005/01/02/11517-nz-christmas-tree/"
+aliases:
+  - "/node/1582/"
+date: '2005-01-02'
 ---
 The Pohutukawa Tree (Metrosideros excelsa). Pohutukawa [po-hoo-too-car-wa] means "splashed by spray" or Ã¢â‚¬Ëœdrenched with mistÃ¢â‚¬â„¢ in Maori.

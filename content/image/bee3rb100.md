@@ -10,12 +10,13 @@ title: bee3rB100
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/680/"
 tags:
-- Older
+  - Older
 images:
-- src: image/images/bee3rb100-680.jpg
-  name: bee3rb100-680.jpg
+  - src: image/images/bee3rb100-680.jpg
+    name: bee3rb100-680.jpg
+url: "/node/680/"
+aliases: []
+date: '2004-05-13'
 ---
 

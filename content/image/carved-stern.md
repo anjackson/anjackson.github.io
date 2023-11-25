@@ -10,13 +10,14 @@ title: Carved stern
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1013/"
-permalink: "/2004/08/10/carved_stern/"
 tags:
-- Auckland
+  - Auckland
 images:
-- src: image/images/img_2181-1013.jpg
-  name: img_2181-1013.jpg
+  - src: image/images/img_2181-1013.jpg
+    name: img_2181-1013.jpg
+url: "/2004/08/10/carved_stern/"
+aliases:
+  - "/node/1013/"
+date: '2004-08-10'
 ---
 [Auckland Museum](http://www.aucklandmuseum.com/)

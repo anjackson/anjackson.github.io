@@ -10,10 +10,11 @@ title: Extended Precision Problem.
 author: anj
 created: '2004-04-06'
 changed: '2004-04-06'
-redirect_from:
-- "/node/528/"
-permalink: "/title/FPExtendedPrecisionProblem/"
 tags: []
+url: "/title/FPExtendedPrecisionProblem/"
+aliases:
+  - "/node/528/"
+date: '2004-04-06'
 ---
 ## Introduction
 The simulation that hit this problem involved random-walking hard spheres until they _just_ touch - i.e. the output of a FP computation (determining the distance between two points) was being compared to the required separation (`2r`) at various stages of the code.

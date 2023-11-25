@@ -10,9 +10,10 @@ title: Tinky Budget
 author: anj
 created: '2004-03-18'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/11/"
 tags:
-- b3ta
+  - b3ta
+url: "/node/11/"
+aliases: []
+date: '2004-03-18'
 ---
 No tax on custard.

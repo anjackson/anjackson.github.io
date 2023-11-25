@@ -10,13 +10,14 @@ title: Eilidh & Terry
 author: anj
 created: '2006-05-29'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1623/"
-permalink: "/2006/05/29/eilidh_terry/"
 tags:
-- Eilidh
+  - Eilidh
 images:
-- src: image/images/20-05-06_2303_0.jpg
-  name: 20-05-06_2303_0.jpg
+  - src: image/images/20-05-06_2303_0.jpg
+    name: 20-05-06_2303_0.jpg
+url: "/2006/05/29/eilidh_terry/"
+aliases:
+  - "/node/1623/"
+date: '2006-05-29'
 ---
 

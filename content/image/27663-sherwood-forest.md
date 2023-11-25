@@ -10,13 +10,14 @@ title: 27663 Sherwood Forest
 author: anj
 created: '2006-07-29'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1647/"
-permalink: "/2006/07/29/27663_sherwood_forest/"
 tags:
-- Eilidh
+  - Eilidh
 images:
-- src: image/images/IMG_7663.JPG
-  name: IMG_7663.JPG
+  - src: image/images/IMG_7663.JPG
+    name: IMG_7663.JPG
+url: "/2006/07/29/27663_sherwood_forest/"
+aliases:
+  - "/node/1647/"
+date: '2006-07-29'
 ---
 

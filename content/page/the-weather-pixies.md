@@ -10,9 +10,10 @@ title: The Weather Pixies
 author: anj
 created: '2004-04-16'
 changed: '2004-04-16'
-redirect_from: []
-permalink: "/node/536/"
 tags: []
+url: "/node/536/"
+aliases: []
+date: '2004-04-16'
 ---
 <table>
 <tr>

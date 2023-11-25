@@ -10,12 +10,13 @@ title: Bookstore
 author: anj
 created: '2007-07-13'
 changed: '2010-07-24'
-redirect_from:
-- "/2007/07/13/bookstore/"
-- "/node/1802/"
-permalink: "/geek/bookstore/"
 category: Geek
 tags: []
+url: "/geek/bookstore/"
+aliases:
+  - "/2007/07/13/bookstore/"
+  - "/node/1802/"
+date: '2007-07-13'
 ---
 <p>
 I'm testing out <a href="http://www.lulu.com/anjackson/">the Lulu publishing service</a>, as I've never had my own printed copy of my thesis, and I wanted to make a softback version.

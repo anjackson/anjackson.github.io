@@ -10,13 +10,14 @@ title: Christmas breakfast
 author: anj
 created: '2007-01-19'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1715/"
-permalink: "/2007/01/19/christmas_breakfast_0/"
 tags:
-- Christmas in Los Angeles
+  - Christmas in Los Angeles
 images:
-- src: image/images/IMG_2576_0.JPG
-  name: IMG_2576_0.JPG
+  - src: image/images/IMG_2576_0.JPG
+    name: IMG_2576_0.JPG
+url: "/2007/01/19/christmas_breakfast_0/"
+aliases:
+  - "/node/1715/"
+date: '2007-01-19'
 ---
 

@@ -10,13 +10,14 @@ title: One Drop East
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/689/"
 tags:
-- From the internet
+  - From the internet
 images:
-- src: image/images/onedropeast5924712-689.jpg
-  name: onedropeast5924712-689.jpg
+  - src: image/images/onedropeast5924712-689.jpg
+    name: onedropeast5924712-689.jpg
+url: "/node/689/"
+aliases: []
+date: '2004-05-13'
 ---
 Salmonella Dub - One Drop East<!--break-->
 

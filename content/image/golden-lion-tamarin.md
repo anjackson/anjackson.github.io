@@ -10,13 +10,14 @@ title: Golden Lion Tamarin
 author: anj
 created: '2007-01-31'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1785/"
-permalink: "/2007/01/31/golden_lion_tamarin/"
 tags:
-- Wellington Zoo
+  - Wellington Zoo
 images:
-- src: image/images/IMG_3393.JPG
-  name: IMG_3393.JPG
+  - src: image/images/IMG_3393.JPG
+    name: IMG_3393.JPG
+url: "/2007/01/31/golden_lion_tamarin/"
+aliases:
+  - "/node/1785/"
+date: '2007-01-31'
 ---
 

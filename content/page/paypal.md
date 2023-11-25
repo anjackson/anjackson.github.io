@@ -10,10 +10,11 @@ title: PayPal
 author: anj
 created: '2006-03-19'
 changed: '2006-03-24'
-redirect_from:
-- "/node/1613/"
-permalink: "/2006/03/19/paypal/"
 tags: []
+url: "/2006/03/19/paypal/"
+aliases:
+  - "/node/1613/"
+date: '2006-03-19'
 ---
 This is just a holding page for my experiments with the PayPal system.
 

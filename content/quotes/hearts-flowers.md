@@ -10,9 +10,10 @@ title: hearts + flowers
 author: anj
 created: '2004-11-30'
 changed: '2004-12-02'
-redirect_from: []
-permalink: "/node/1550/"
 tags: []
+url: "/node/1550/"
+aliases: []
+date: '2004-11-30'
 ---
 :Hearts and flowers
 :A candy coated fantasy

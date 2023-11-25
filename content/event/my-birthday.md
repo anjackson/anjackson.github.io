@@ -10,8 +10,9 @@ title: My Birthday
 author: anj
 created: '2004-03-19'
 changed: '2004-03-19'
-redirect_from: []
-permalink: "/node/5/"
 tags: []
+url: "/node/5/"
+aliases: []
+date: '2004-03-19'
 ---
 Happy Birthday To Meeeee! etc etc etc

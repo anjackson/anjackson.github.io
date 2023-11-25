@@ -10,13 +10,14 @@ title: Bowl Cut
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from:
-- "/node/663/"
-permalink: "/2004/05/13/bowl_cut/"
 tags:
-- Andy
+  - Andy
 images:
-- src: image/images/me-0-sml-663.jpg
-  name: me-0-sml-663.jpg
+  - src: image/images/me-0-sml-663.jpg
+    name: me-0-sml-663.jpg
+url: "/2004/05/13/bowl_cut/"
+aliases:
+  - "/node/663/"
+date: '2004-05-13'
 ---
 

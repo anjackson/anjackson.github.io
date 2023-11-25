@@ -11,12 +11,13 @@ author: anj
 created: '2004-05-10'
 changed: '2007-02-08'
 aliases:
-- "/node/559/"
+  - "/node/559/"
 url: "/ix2v/comphys/docs/phd/poster/"
 tags: []
 attachments:
-- src: page/files/poster.pdf
-  name: poster.pdf
+  - src: page/files/poster.pdf
+    name: poster.pdf
+date: '2004-05-10'
 ---
 {% include _image.html nid="563" align="left" hspace="10" vspace="5" width="" %}
 _Structural Phase Behaviour via Monte Carlo Techniques_

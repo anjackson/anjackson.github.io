@@ -10,13 +10,14 @@ title: View through the trees
 author: anj
 created: '2007-01-19'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1751/"
-permalink: "/2007/01/19/view_through_the_trees/"
 tags:
-- Otari-Wilton's Bush
+  - Otari-Wilton's Bush
 images:
-- src: image/images/IMG_1539.jpg
-  name: IMG_1539.jpg
+  - src: image/images/IMG_1539.jpg
+    name: IMG_1539.jpg
+url: "/2007/01/19/view_through_the_trees/"
+aliases:
+  - "/node/1751/"
+date: '2007-01-19'
 ---
 

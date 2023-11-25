@@ -10,13 +10,14 @@ title: 00779 Raspberries (almost)
 author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/330/"
 tags:
-- California
-- 2003/09 - September 2003
+  - California
+  - 2003/09 - September 2003
 images:
-- src: image/images/107_0779-330.jpg
-  name: 107_0779-330.jpg
+  - src: image/images/107_0779-330.jpg
+    name: 107_0779-330.jpg
+url: "/node/330/"
+aliases: []
+date: '2004-03-26'
 ---
 Weird plant that reminded us all of raspberries.  Mmmmm.... Raspberries.

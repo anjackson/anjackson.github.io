@@ -10,13 +10,14 @@ title: Spider Monkey
 author: anj
 created: '2007-01-31'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1786/"
-permalink: "/2007/01/31/spider_monkey/"
 tags:
-- Wellington Zoo
+  - Wellington Zoo
 images:
-- src: image/images/IMG_3406.JPG
-  name: IMG_3406.JPG
+  - src: image/images/IMG_3406.JPG
+    name: IMG_3406.JPG
+url: "/2007/01/31/spider_monkey/"
+aliases:
+  - "/node/1786/"
+date: '2007-01-31'
 ---
 

@@ -10,13 +10,14 @@ title: Primes In Binary Illustration
 author: anj
 created: '2007-07-19'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1803/"
-permalink: "/2007/07/19/primes_in_binary_illustration/"
 tags:
-- ix2v
+  - ix2v
 images:
-- src: image/images/PrimePlotIllustration.png
-  name: PrimePlotIllustration.png
+  - src: image/images/PrimePlotIllustration.png
+    name: PrimePlotIllustration.png
+url: "/2007/07/19/primes_in_binary_illustration/"
+aliases:
+  - "/node/1803/"
+date: '2007-07-19'
 ---
 

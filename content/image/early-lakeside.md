@@ -10,13 +10,14 @@ title: Early, lakeside
 author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
-redirect_from:
-- "/node/822/"
-permalink: "/2004/07/26/early_lakeside/"
 tags:
-- Rotorua
+  - Rotorua
 images:
-- src: image/images/img_2448-822.jpg
-  name: img_2448-822.jpg
+  - src: image/images/img_2448-822.jpg
+    name: img_2448-822.jpg
+url: "/2004/07/26/early_lakeside/"
+aliases:
+  - "/node/822/"
+date: '2004-07-26'
 ---
 

@@ -10,13 +10,14 @@ title: 11362 Boat Shed Harbour
 author: anj
 created: '2004-11-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/1508/"
 tags:
-- Wellington
-- 2004/11 November 2004
+  - Wellington
+  - 2004/11 November 2004
 images:
-- src: image/images/11362_boat_shed_harbour-1508.jpg
-  name: 11362_boat_shed_harbour-1508.jpg
+  - src: image/images/11362_boat_shed_harbour-1508.jpg
+    name: 11362_boat_shed_harbour-1508.jpg
+url: "/node/1508/"
+aliases: []
+date: '2004-11-13'
 ---
 

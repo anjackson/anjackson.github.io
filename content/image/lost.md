@@ -10,9 +10,10 @@ title: lost
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/686/"
 tags:
-- Older
+  - Older
+url: "/node/686/"
+aliases: []
+date: '2004-05-13'
 ---
 

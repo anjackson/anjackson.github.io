@@ -10,13 +10,14 @@ title: 02680 Devil's Staircase
 author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/903/"
 tags:
-- 2003/11 - November 2003
-- Tongariro Crossing
+  - 2003/11 - November 2003
+  - Tongariro Crossing
 images:
-- src: image/images/126_2680-903.jpg
-  name: 126_2680-903.jpg
+  - src: image/images/126_2680-903.jpg
+    name: 126_2680-903.jpg
+url: "/node/903/"
+aliases: []
+date: '2004-07-26'
 ---
 This climb is the toughest bit of the crossing.

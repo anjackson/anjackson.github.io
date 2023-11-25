@@ -10,13 +10,14 @@ title: 00678 - Santa Monica Beach
 author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/324/"
 tags:
-- California
-- 2003/09 - September 2003
+  - California
+  - 2003/09 - September 2003
 images:
-- src: image/images/106_0678-324.jpg
-  name: 106_0678-324.jpg
+  - src: image/images/106_0678-324.jpg
+    name: 106_0678-324.jpg
+url: "/node/324/"
+aliases: []
+date: '2004-03-26'
 ---
 Looking north from the pier.

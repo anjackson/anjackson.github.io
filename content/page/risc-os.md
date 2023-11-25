@@ -10,10 +10,11 @@ title: risc os
 author: anj
 created: '2004-05-11'
 changed: '2009-08-10'
-redirect_from:
-- "/node/567/"
-permalink: "/geek/riscos/"
 tags: []
+url: "/geek/riscos/"
+aliases:
+  - "/node/567/"
+date: '2004-05-11'
 ---
 I hereby present my own bits of RISC OS freeware. They have been tested on
 <b>RISC OS</b> 4, and should work on any version greater that 3.1 and on a

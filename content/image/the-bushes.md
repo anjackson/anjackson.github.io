@@ -10,13 +10,14 @@ title: The Bushes
 author: anj
 created: '2006-05-30'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1624/"
-permalink: "/2006/05/30/the_bushes/"
 tags:
-- From the internet
+  - From the internet
 images:
-- src: image/images/TheBushes.png
-  name: TheBushes.png
+  - src: image/images/TheBushes.png
+    name: TheBushes.png
+url: "/2006/05/30/the_bushes/"
+aliases:
+  - "/node/1624/"
+date: '2006-05-30'
 ---
 The Two Bushes routine from the White House Correspondents Dinner.

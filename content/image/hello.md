@@ -10,13 +10,14 @@ title: Hello
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1095/"
-permalink: "/2004/08/10/hello/"
 tags:
-- Wellington
+  - Wellington
 images:
-- src: image/images/130_3078-1095.jpg
-  name: 130_3078-1095.jpg
+  - src: image/images/130_3078-1095.jpg
+    name: 130_3078-1095.jpg
+url: "/2004/08/10/hello/"
+aliases:
+  - "/node/1095/"
+date: '2004-08-10'
 ---
 The Cat Empire on the telly.

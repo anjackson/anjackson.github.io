@@ -10,9 +10,10 @@ title: Visualization
 author: anj
 created: '2004-06-27'
 changed: '2004-06-27'
-redirect_from: []
-permalink: "/node/726/"
 tags: []
+url: "/node/726/"
+aliases: []
+date: '2004-06-27'
 ---
 ### Visualization
 

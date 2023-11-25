@@ -10,9 +10,10 @@ title: Computer Programming
 author: anj
 created: '2004-05-13'
 changed: '2004-05-13'
-redirect_from: []
-permalink: "/node/692/"
 tags: []
+url: "/node/692/"
+aliases: []
+date: '2004-05-13'
 ---
 ### Computer Programming
 Introduction, languages, main concept summary

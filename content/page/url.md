@@ -10,10 +10,11 @@ title: "*url"
 author: anj
 created: '2004-03-26'
 changed: '2005-05-31'
-redirect_from:
-- "/node/316/"
-permalink: "/url/"
 tags: []
+url: "/url/"
+aliases:
+  - "/node/316/"
+date: '2004-03-26'
 ---
 ### Welcome to the anjackson.net *url-den
 This rather random wedge of the website is used to store various useful bits of stuff I tend to forget. 

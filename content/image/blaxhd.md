@@ -10,13 +10,14 @@ title: blaxhd
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/652/"
 tags:
-- Wirksworth
-- Older
+  - Wirksworth
+  - Older
 images:
-- src: image/images/blaxhd-652.jpg
-  name: blaxhd-652.jpg
+  - src: image/images/blaxhd-652.jpg
+    name: blaxhd-652.jpg
+url: "/node/652/"
+aliases: []
+date: '2004-05-13'
 ---
 That's my local, that is.

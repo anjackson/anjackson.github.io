@@ -10,13 +10,14 @@ title: Re-enactment - psuedodead
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1056/"
-permalink: "/2004/08/10/re_enactment_psuedodead/"
 tags:
-- Wellington
+  - Wellington
 images:
-- src: image/images/129_2970-1056.jpg
-  name: 129_2970-1056.jpg
+  - src: image/images/129_2970-1056.jpg
+    name: 129_2970-1056.jpg
+url: "/2004/08/10/re_enactment_psuedodead/"
+aliases:
+  - "/node/1056/"
+date: '2004-08-10'
 ---
 

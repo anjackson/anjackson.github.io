@@ -10,13 +10,14 @@ title: 02692 Red Crater
 author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/909/"
 tags:
-- 2003/11 - November 2003
-- Tongariro Crossing
+  - 2003/11 - November 2003
+  - Tongariro Crossing
 images:
-- src: image/images/126_2692-909.jpg
-  name: 126_2692-909.jpg
+  - src: image/images/126_2692-909.jpg
+    name: 126_2692-909.jpg
+url: "/node/909/"
+aliases: []
+date: '2004-07-26'
 ---
 

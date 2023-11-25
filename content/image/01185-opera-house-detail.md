@@ -10,14 +10,15 @@ title: 01185 Opera House Detail
 author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/354/"
 tags:
-- Highlights
-- Sydney
-- 2003/10 - October 2003
+  - Highlights
+  - Sydney
+  - 2003/10 - October 2003
 images:
-- src: image/images/img_1185-354.jpg
-  name: img_1185-354.jpg
+  - src: image/images/img_1185-354.jpg
+    name: img_1185-354.jpg
+url: "/node/354/"
+aliases: []
+date: '2004-03-26'
 ---
 Apparently, the inside is nowhere near as nice.

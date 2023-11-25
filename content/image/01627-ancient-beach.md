@@ -10,14 +10,15 @@ title: 01627 Ancient Beach
 author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/387/"
 tags:
-- Highlights
-- The Red Centre
-- 2003/10 - October 2003
+  - Highlights
+  - The Red Centre
+  - 2003/10 - October 2003
 images:
-- src: image/images/img_1627-387.jpg
-  name: img_1627-387.jpg
+  - src: image/images/img_1627-387.jpg
+    name: img_1627-387.jpg
+url: "/node/387/"
+aliases: []
+date: '2004-03-26'
 ---
 Fossilised waves of what was once a sandy beach, and is now in the middle of the Australian desert.

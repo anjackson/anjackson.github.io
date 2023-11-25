@@ -10,13 +10,14 @@ title: Near Cathedral Cove
 author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
-redirect_from:
-- "/node/795/"
-permalink: "/2004/07/26/near_cathedral_cove/"
 tags:
-- Coromandel
+  - Coromandel
 images:
-- src: image/images/img_2369-795.jpg
-  name: img_2369-795.jpg
+  - src: image/images/img_2369-795.jpg
+    name: img_2369-795.jpg
+url: "/2004/07/26/near_cathedral_cove/"
+aliases:
+  - "/node/795/"
+date: '2004-07-26'
 ---
 

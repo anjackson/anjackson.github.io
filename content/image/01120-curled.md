@@ -10,14 +10,15 @@ title: 01120 Curled
 author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/438/"
 tags:
-- Fiji
-- Highlights
-- 2003/09 - September 2003
+  - Fiji
+  - Highlights
+  - 2003/09 - September 2003
 images:
-- src: image/images/img_1120-b-438.jpg
-  name: img_1120-b-438.jpg
+  - src: image/images/img_1120-b-438.jpg
+    name: img_1120-b-438.jpg
+url: "/node/438/"
+aliases: []
+date: '2004-03-26'
 ---
 The wee boat that ferried us between Mala Mala island and the ferry. Fiji.

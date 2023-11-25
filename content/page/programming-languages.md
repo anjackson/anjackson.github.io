@@ -10,9 +10,10 @@ title: Programming Languages
 author: anj
 created: '2004-04-15'
 changed: '2004-10-05'
-redirect_from: []
-permalink: "/node/535/"
 tags: []
+url: "/node/535/"
+aliases: []
+date: '2004-04-15'
 ---
 ###  Language Reference
 I always have to look things up.  These links should help.

@@ -10,13 +10,14 @@ title: Christchurch gardens
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1194/"
-permalink: "/2004/08/10/christchurch_gardens/"
 tags:
-- Christchurch
+  - Christchurch
 images:
-- src: image/images/134_3440-1194.jpg
-  name: 134_3440-1194.jpg
+  - src: image/images/134_3440-1194.jpg
+    name: 134_3440-1194.jpg
+url: "/2004/08/10/christchurch_gardens/"
+aliases:
+  - "/node/1194/"
+date: '2004-08-10'
 ---
 

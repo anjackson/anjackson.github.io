@@ -10,10 +10,11 @@ title: stats
 author: anj
 created: '2008-01-21'
 changed: '2010-07-23'
-redirect_from:
-- "/node/1808/"
-permalink: "/stats/"
 tags: []
+url: "/stats/"
+aliases:
+  - "/node/1808/"
+date: '2008-01-21'
 ---
 web site statistics...
 

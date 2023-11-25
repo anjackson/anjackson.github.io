@@ -10,14 +10,15 @@ title: "01350 Bar light\r\n"
 author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/444/"
 tags:
-- Sydney
-- 2003/10 - October 2003
-- Christine L
+  - Sydney
+  - 2003/10 - October 2003
+  - Christine L
 images:
-- src: image/images/img_1350-b-444.jpg
-  name: img_1350-b-444.jpg
+  - src: image/images/img_1350-b-444.jpg
+    name: img_1350-b-444.jpg
+url: "/node/444/"
+aliases: []
+date: '2004-03-26'
 ---
 Taken by Chris.  Under the Opera House, Sydney.

@@ -10,14 +10,15 @@ title: 02713 Tongariro Far End View
 author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/923/"
 tags:
-- 2003/11 - November 2003
-- Tongariro Crossing
-- Aaron P
+  - 2003/11 - November 2003
+  - Tongariro Crossing
+  - Aaron P
 images:
-- src: image/images/127_2713-923.jpg
-  name: 127_2713-923.jpg
+  - src: image/images/127_2713-923.jpg
+    name: 127_2713-923.jpg
+url: "/node/923/"
+aliases: []
+date: '2004-07-26'
 ---
 

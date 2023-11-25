@@ -10,13 +10,14 @@ title: Fishing boat
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1032/"
-permalink: "/2004/08/10/fishing_boat/"
 tags:
-- Coromandel
+  - Coromandel
 images:
-- src: image/images/img_2226-1032.jpg
-  name: img_2226-1032.jpg
+  - src: image/images/img_2226-1032.jpg
+    name: img_2226-1032.jpg
+url: "/2004/08/10/fishing_boat/"
+aliases:
+  - "/node/1032/"
+date: '2004-08-10'
 ---
 

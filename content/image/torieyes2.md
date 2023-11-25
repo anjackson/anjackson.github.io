@@ -10,12 +10,13 @@ title: torieyes2
 author: anj
 created: '2004-05-12'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/608/"
 tags:
-- imgn
+  - imgn
 images:
-- src: image/images/torieyes2-608.jpg
-  name: torieyes2-608.jpg
+  - src: image/images/torieyes2-608.jpg
+    name: torieyes2-608.jpg
+url: "/node/608/"
+aliases: []
+date: '2004-05-12'
 ---
 

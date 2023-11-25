@@ -10,14 +10,15 @@ title: 00801 - Me & my hat
 author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/335/"
 tags:
-- Andy
-- California
-- 2003/09 - September 2003
+  - Andy
+  - California
+  - 2003/09 - September 2003
 images:
-- src: image/images/108_0801-335.jpg
-  name: 108_0801-335.jpg
+  - src: image/images/108_0801-335.jpg
+    name: 108_0801-335.jpg
+url: "/node/335/"
+aliases: []
+date: '2004-03-26'
 ---
 Cheesy grin on Carmel beach.

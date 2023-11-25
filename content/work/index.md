@@ -10,10 +10,11 @@ title: Work
 author: anj
 created: '2004-03-19'
 changed: '2010-07-23'
-redirect_from:
-- "/node/4/"
-permalink: "/work/"
 tags: []
+url: "/work/"
+aliases:
+  - "/node/4/"
+date: '2004-03-19'
 ---
 
 <div id="service">

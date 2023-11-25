@@ -10,12 +10,13 @@ title: imgn-menu
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/623/"
 tags:
-- Older
+  - Older
 images:
-- src: image/images/imgn-menu-623.jpg
-  name: imgn-menu-623.jpg
+  - src: image/images/imgn-menu-623.jpg
+    name: imgn-menu-623.jpg
+url: "/node/623/"
+aliases: []
+date: '2004-05-13'
 ---
 

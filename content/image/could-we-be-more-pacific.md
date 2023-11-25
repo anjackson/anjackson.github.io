@@ -10,13 +10,14 @@ title: Could we be more Pacific?
 author: anj
 created: '2007-01-19'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1712/"
-permalink: "/2007/01/19/could_we_be_more_pacific_0/"
 tags:
-- Christmas in Los Angeles
+  - Christmas in Los Angeles
 images:
-- src: image/images/IMG_2528_0.JPG
-  name: IMG_2528_0.JPG
+  - src: image/images/IMG_2528_0.JPG
+    name: IMG_2528_0.JPG
+url: "/2007/01/19/could_we_be_more_pacific_0/"
+aliases:
+  - "/node/1712/"
+date: '2007-01-19'
 ---
 

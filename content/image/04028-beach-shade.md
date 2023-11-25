@@ -10,13 +10,14 @@ title: 04028 Beach Shade
 author: anj
 created: '2004-08-20'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/1402/"
 tags:
-- 2004/01 - January 2004
-- Abel Tasman
+  - 2004/01 - January 2004
+  - Abel Tasman
 images:
-- src: image/images/04028_beach_shade-1402.jpg
-  name: 04028_beach_shade-1402.jpg
+  - src: image/images/04028_beach_shade-1402.jpg
+    name: 04028_beach_shade-1402.jpg
+url: "/node/1402/"
+aliases: []
+date: '2004-08-20'
 ---
 

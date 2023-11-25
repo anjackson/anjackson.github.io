@@ -10,13 +10,14 @@ title: 'Simulation: A Bluffer''s Guide'
 author: anj
 created: '2004-05-12'
 changed: '2007-02-08'
-redirect_from:
-- "/node/576/"
-permalink: "/ix2v/comphys/docs/phd/simguide.pdf/"
 tags: []
 attachments:
-- src: page/files/simguide.pdf
-  name: simguide.pdf
+  - src: page/files/simguide.pdf
+    name: simguide.pdf
+url: "/ix2v/comphys/docs/phd/simguide.pdf/"
+aliases:
+  - "/node/576/"
+date: '2004-05-12'
 ---
 ### Simulation: A Bluffer's Guide.
 

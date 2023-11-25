@@ -10,8 +10,9 @@ title: Fly to NZ
 author: anj
 created: '2004-09-24'
 changed: '2004-10-01'
-redirect_from: []
-permalink: "/node/1425/"
 tags: []
+url: "/node/1425/"
+aliases: []
+date: '2004-09-24'
 ---
 Flying from LAX T2 at 9:30pm 24th October 2004 on NZ1 to Auckland, arriving at 6:15am on the 26th of October 2004.

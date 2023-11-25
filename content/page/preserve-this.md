@@ -10,11 +10,12 @@ title: preserve this...
 author: anj
 created: '2008-12-22'
 changed: '2008-12-22'
-redirect_from:
-- "/node/1844/"
-permalink: "/content/preserve_this/"
 category: Digital Preservation
 tags: []
+url: "/content/preserve_this/"
+aliases:
+  - "/node/1844/"
+date: '2008-12-22'
 ---
 Preserve _this_...
 

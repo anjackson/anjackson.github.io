@@ -10,13 +10,14 @@ title: Following the camper van
 author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
-redirect_from:
-- "/node/785/"
-permalink: "/2004/07/26/following_the_camper_van/"
 tags:
-- Coromandel
+  - Coromandel
 images:
-- src: image/images/img_2339-785.jpg
-  name: img_2339-785.jpg
+  - src: image/images/img_2339-785.jpg
+    name: img_2339-785.jpg
+url: "/2004/07/26/following_the_camper_van/"
+aliases:
+  - "/node/785/"
+date: '2004-07-26'
 ---
 

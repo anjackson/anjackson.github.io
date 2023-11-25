@@ -8,9 +8,10 @@ title: MCSiMPI
 summary: Monte Carlo Simulation via MPI
 screenshot: /projects/images/mcsimpi.png
 year: 2006
-redirect_from:
-- "/projects/mcsimpi.html"
-permalink: "/projects/mcsimpi/"
+url: "/projects/mcsimpi/"
+aliases:
+  - "/projects/mcsimpi.html"
+date: '2004-05-17'
 ---
 While working as a post-graduate researcher in computational physics, I invented a new, optimally efficient parallisation scheme for Monte Carlo simulations of systems with short-range interactions. Unlike other schemes, it maintains the global Markov chain, making it possible to directly compare runs and results between serial and parallel computations and ensure the integrity of the simulation is not compromised when run at scale. It is written in C++ and uses [MPI][1], and is designed so that the exact same algorithm is executed whether the simulation runs in two or three spatial dimensions.
 

@@ -10,12 +10,13 @@ title: dance2
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/618/"
 tags:
-- Older
+  - Older
 images:
-- src: image/images/dance2-618.jpg
-  name: dance2-618.jpg
+  - src: image/images/dance2-618.jpg
+    name: dance2-618.jpg
+url: "/node/618/"
+aliases: []
+date: '2004-05-13'
 ---
 

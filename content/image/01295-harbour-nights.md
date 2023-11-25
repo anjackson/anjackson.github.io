@@ -10,13 +10,14 @@ title: 01295 - Harbour Nights
 author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/443/"
 tags:
-- Sydney
-- 2003/10 - October 2003
+  - Sydney
+  - 2003/10 - October 2003
 images:
-- src: image/images/img_1295-b-443.jpg
-  name: img_1295-b-443.jpg
+  - src: image/images/img_1295-b-443.jpg
+    name: img_1295-b-443.jpg
+url: "/node/443/"
+aliases: []
+date: '2004-03-26'
 ---
 The harbour bridge at night.  The bar in the bit in front of the bridge (Cruise, if I remember correctly) was rather nice.

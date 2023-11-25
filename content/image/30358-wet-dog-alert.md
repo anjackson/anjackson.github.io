@@ -10,13 +10,14 @@ title: 30358 Wet Dog Alert
 author: anj
 created: '2006-07-29'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1662/"
-permalink: "/2006/07/29/30358_wet_dog_alert/"
 tags:
-- Eilidh
+  - Eilidh
 images:
-- src: image/images/IMG_0358.JPG
-  name: IMG_0358.JPG
+  - src: image/images/IMG_0358.JPG
+    name: IMG_0358.JPG
+url: "/2006/07/29/30358_wet_dog_alert/"
+aliases:
+  - "/node/1662/"
+date: '2006-07-29'
 ---
 

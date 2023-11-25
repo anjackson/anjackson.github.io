@@ -10,13 +10,14 @@ title: 20750 Lunan Bay
 author: anj
 created: '2006-07-29'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1654/"
-permalink: "/2006/07/29/20750_lunan_bay/"
 tags:
-- Eilidh
+  - Eilidh
 images:
-- src: image/images/IMG_0939.JPG
-  name: IMG_0939.JPG
+  - src: image/images/IMG_0939.JPG
+    name: IMG_0939.JPG
+url: "/2006/07/29/20750_lunan_bay/"
+aliases:
+  - "/node/1654/"
+date: '2006-07-29'
 ---
 

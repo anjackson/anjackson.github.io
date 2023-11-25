@@ -2,13 +2,15 @@
 layout: project
 type: project
 title: digipres.org
-permalink: "/projects/digipres.org/"
 tags: [digital-preservation, websites]
 link_url: http://www.digipres.org/
 fa-icon: fa-users
 screenshot: /projects/images/digipres-org.png
 summary: Community-owned digital preservation resources
 year: 2014
+url: "/projects/digipres.org/"
+aliases: null
+date: null
 ---
 
 My work in [digital preservation][1] has taught me that there are no purely technical solutions to the problem of preserving access to digital resources. The knowledge that is required to maintain access to the wide range of digital material we wish to preserve is too vast for individual organisations to collect alone.

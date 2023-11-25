@@ -10,13 +10,14 @@ title: Beginning of the walk
 author: anj
 created: '2007-01-19'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1747/"
-permalink: "/2007/01/19/beginning_of_the_walk/"
 tags:
-- Otari-Wilton's Bush
+  - Otari-Wilton's Bush
 images:
-- src: image/images/IMG_3114.JPG
-  name: IMG_3114.JPG
+  - src: image/images/IMG_3114.JPG
+    name: IMG_3114.JPG
+url: "/2007/01/19/beginning_of_the_walk/"
+aliases:
+  - "/node/1747/"
+date: '2007-01-19'
 ---
 

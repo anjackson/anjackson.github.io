@@ -10,13 +10,14 @@ title: ed-bh-mast.sml
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/653/"
 tags:
-- Edinburgh
-- Older
+  - Edinburgh
+  - Older
 images:
-- src: image/images/ed-bh-mast.sml-653.jpg
-  name: ed-bh-mast.sml-653.jpg
+  - src: image/images/ed-bh-mast.sml-653.jpg
+    name: ed-bh-mast.sml-653.jpg
+url: "/node/653/"
+aliases: []
+date: '2004-05-13'
 ---
 

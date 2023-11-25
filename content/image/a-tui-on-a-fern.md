@@ -10,13 +10,14 @@ title: A Tui on a fern
 author: anj
 created: '2007-01-19'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1758/"
-permalink: "/2007/01/19/a_tui_on_a_fern/"
 tags:
-- Otari-Wilton's Bush
+  - Otari-Wilton's Bush
 images:
-- src: image/images/IMG_3096.JPG
-  name: IMG_3096.JPG
+  - src: image/images/IMG_3096.JPG
+    name: IMG_3096.JPG
+url: "/2007/01/19/a_tui_on_a_fern/"
+aliases:
+  - "/node/1758/"
+date: '2007-01-19'
 ---
 

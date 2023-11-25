@@ -10,13 +10,14 @@ title: Islands and trees
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1030/"
-permalink: "/2004/08/10/islands_and_trees_0/"
 tags:
-- Coromandel
+  - Coromandel
 images:
-- src: image/images/img_2222-1030.jpg
-  name: img_2222-1030.jpg
+  - src: image/images/img_2222-1030.jpg
+    name: img_2222-1030.jpg
+url: "/2004/08/10/islands_and_trees_0/"
+aliases:
+  - "/node/1030/"
+date: '2004-08-10'
 ---
 

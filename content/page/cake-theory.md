@@ -10,13 +10,14 @@ title: Cake Theory
 author: anj
 created: '2004-05-12'
 changed: '2007-02-08'
-redirect_from:
-- "/node/581/"
-permalink: "/ix2v/comphys/docs/ug/y3-fd-caketheory.pdf/"
 tags: []
 attachments:
-- src: page/files/y3-fd-caketheory.pdf
-  name: y3-fd-caketheory.pdf
+  - src: page/files/y3-fd-caketheory.pdf
+    name: y3-fd-caketheory.pdf
+url: "/ix2v/comphys/docs/ug/y3-fd-caketheory.pdf/"
+aliases:
+  - "/node/581/"
+date: '2004-05-12'
 ---
 ### Continuum Physics II Examination Assignment
 ## Finite difference simulation of the baking process

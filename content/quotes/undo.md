@@ -10,9 +10,10 @@ title: undo
 author: anj
 created: '2004-12-02'
 changed: '2004-12-10'
-redirect_from: []
-permalink: "/node/1545/"
 tags: []
+url: "/node/1545/"
+aliases: []
+date: '2004-12-02'
 ---
 :you're trying too hard
 :surrender

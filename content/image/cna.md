@@ -10,12 +10,13 @@ title: CnA
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/614/"
 tags:
-- Older
+  - Older
 images:
-- src: image/images/cna-614.jpg
-  name: cna-614.jpg
+  - src: image/images/cna-614.jpg
+    name: cna-614.jpg
+url: "/node/614/"
+aliases: []
+date: '2004-05-13'
 ---
 

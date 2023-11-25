@@ -10,13 +10,14 @@ title: Thames sunset
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1025/"
-permalink: "/2004/08/10/thames_sunset_1/"
 tags:
-- Coromandel
+  - Coromandel
 images:
-- src: image/images/img_2213-1025.jpg
-  name: img_2213-1025.jpg
+  - src: image/images/img_2213-1025.jpg
+    name: img_2213-1025.jpg
+url: "/2004/08/10/thames_sunset_1/"
+aliases:
+  - "/node/1025/"
+date: '2004-08-10'
 ---
 

@@ -10,12 +10,13 @@ title: torititle
 author: anj
 created: '2004-05-12'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/612/"
 tags:
-- imgn
+  - imgn
 images:
-- src: image/images/torititle-612.jpg
-  name: torititle-612.jpg
+  - src: image/images/torititle-612.jpg
+    name: torititle-612.jpg
+url: "/node/612/"
+aliases: []
+date: '2004-05-12'
 ---
 

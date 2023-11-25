@@ -10,9 +10,10 @@ title: Fly Singapore to Bangkok
 author: anj
 created: '2004-05-27'
 changed: '2004-05-27'
-redirect_from: []
-permalink: "/node/701/"
 tags:
-- Travels
+  - Travels
+url: "/node/701/"
+aliases: []
+date: '2004-05-27'
 ---
 Arriving in Bangkok at 2:25pm (2:20hr), flight number SQ64.

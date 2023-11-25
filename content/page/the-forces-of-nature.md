@@ -10,13 +10,14 @@ title: The Forces Of Nature
 author: anj
 created: '2004-05-12'
 changed: '2007-02-08'
-redirect_from:
-- "/node/588/"
-permalink: "/ix2v/comphys/docs/ug/y1-forces.pdf/"
 tags: []
 attachments:
-- src: page/files/y1-forces.pdf
-  name: y1-forces.pdf
+  - src: page/files/y1-forces.pdf
+    name: y1-forces.pdf
+url: "/ix2v/comphys/docs/ug/y1-forces.pdf/"
+aliases:
+  - "/node/588/"
+date: '2004-05-12'
 ---
 An overview of the fundamental forces of physics, aimed at the 'educated layperson'.
 

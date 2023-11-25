@@ -10,13 +10,14 @@ title: Things to do in Wellington
 author: anj
 created: '2007-01-19'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1741/"
-permalink: "/2007/01/19/things_to_do_in_wellington/"
 tags:
-- The first few days
+  - The first few days
 images:
-- src: image/images/IMG_1485.jpg
-  name: IMG_1485.jpg
+  - src: image/images/IMG_1485.jpg
+    name: IMG_1485.jpg
+url: "/2007/01/19/things_to_do_in_wellington/"
+aliases:
+  - "/node/1741/"
+date: '2007-01-19'
 ---
 

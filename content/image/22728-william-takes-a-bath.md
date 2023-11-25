@@ -10,13 +10,14 @@ title: 22728 William takes a bath
 author: anj
 created: '2006-07-29'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1639/"
-permalink: "/2006/07/29/22728_william_takes_a_bath/"
 tags:
-- Eilidh
+  - Eilidh
 images:
-- src: image/images/imgp2728.jpg
-  name: imgp2728.jpg
+  - src: image/images/imgp2728.jpg
+    name: imgp2728.jpg
+url: "/2006/07/29/22728_william_takes_a_bath/"
+aliases:
+  - "/node/1639/"
+date: '2006-07-29'
 ---
 

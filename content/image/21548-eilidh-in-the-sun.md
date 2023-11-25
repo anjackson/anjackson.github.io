@@ -10,13 +10,14 @@ title: 21548 Eilidh in the sun
 author: anj
 created: '2006-07-29'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1643/"
-permalink: "/2006/07/29/21548_eilidh_in_the_sun/"
 tags:
-- Eilidh
+  - Eilidh
 images:
-- src: image/images/IMG_1548.JPG
-  name: IMG_1548.JPG
+  - src: image/images/IMG_1548.JPG
+    name: IMG_1548.JPG
+url: "/2006/07/29/21548_eilidh_in_the_sun/"
+aliases:
+  - "/node/1643/"
+date: '2006-07-29'
 ---
 

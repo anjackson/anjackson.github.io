@@ -10,13 +10,14 @@ title: 11203 Scorching Bay
 author: anj
 created: '2004-11-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/1490/"
 tags:
-- Wellington
-- 2004/11 November 2004
+  - Wellington
+  - 2004/11 November 2004
 images:
-- src: image/images/11203_scorching_bay-1490.jpg
-  name: 11203_scorching_bay-1490.jpg
+  - src: image/images/11203_scorching_bay-1490.jpg
+    name: 11203_scorching_bay-1490.jpg
+url: "/node/1490/"
+aliases: []
+date: '2004-11-13'
 ---
 

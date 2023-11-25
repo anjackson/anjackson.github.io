@@ -10,13 +10,14 @@ title: Pohutukawa closeup
 author: anj
 created: '2007-01-19'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1736/"
-permalink: "/2007/01/19/pohutukawa_closeup/"
 tags:
-- The first few days
+  - The first few days
 images:
-- src: image/images/IMG_2822.JPG
-  name: IMG_2822.JPG
+  - src: image/images/IMG_2822.JPG
+    name: IMG_2822.JPG
+url: "/2007/01/19/pohutukawa_closeup/"
+aliases:
+  - "/node/1736/"
+date: '2007-01-19'
 ---
 

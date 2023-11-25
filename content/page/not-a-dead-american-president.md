@@ -10,10 +10,11 @@ title: not a dead American president
 author: anj
 created: '2004-05-12'
 changed: '2004-05-12'
-redirect_from:
-- "/node/592/"
-permalink: "/about/iam/dap/"
 tags: []
+url: "/about/iam/dap/"
+aliases:
+  - "/node/592/"
+date: '2004-05-12'
 ---
 My 'I am...' page was created after I recieved this somewhat snotty e-mail...
 

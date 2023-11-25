@@ -10,13 +10,14 @@ title: 00794 - Deep Aquamarine
 author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/333/"
 tags:
-- California
-- 2003/09 - September 2003
+  - California
+  - 2003/09 - September 2003
 images:
-- src: image/images/107_0794-333.jpg
-  name: 107_0794-333.jpg
+  - src: image/images/107_0794-333.jpg
+    name: 107_0794-333.jpg
+url: "/node/333/"
+aliases: []
+date: '2004-03-26'
 ---
 More Californian coastline - 17 Mile Drive, Monterey.

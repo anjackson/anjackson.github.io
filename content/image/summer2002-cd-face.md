@@ -10,12 +10,13 @@ title: Summer2002 CD Face
 author: anj
 created: '2004-11-30'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/1542/"
 tags:
-- imgn
+  - imgn
 images:
-- src: image/images/summer2002-cd-face-1542.png
-  name: summer2002-cd-face-1542.png
+  - src: image/images/summer2002-cd-face-1542.png
+    name: summer2002-cd-face-1542.png
+url: "/node/1542/"
+aliases: []
+date: '2004-11-30'
 ---
 CD print for my summer 2002 compilation CD.

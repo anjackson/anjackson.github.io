@@ -10,13 +10,14 @@ title: 30341 Arran with William
 author: anj
 created: '2006-07-29'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1661/"
-permalink: "/2006/07/29/30341_arran_with_william/"
 tags:
-- Eilidh
+  - Eilidh
 images:
-- src: image/images/IMG_0341.JPG
-  name: IMG_0341.JPG
+  - src: image/images/IMG_0341.JPG
+    name: IMG_0341.JPG
+url: "/2006/07/29/30341_arran_with_william/"
+aliases:
+  - "/node/1661/"
+date: '2006-07-29'
 ---
 

@@ -10,13 +10,14 @@ title: york-trees.sml
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/661/"
 tags:
-- York
-- Older
+  - York
+  - Older
 images:
-- src: image/images/york-trees.sml-661.jpg
-  name: york-trees.sml-661.jpg
+  - src: image/images/york-trees.sml-661.jpg
+    name: york-trees.sml-661.jpg
+url: "/node/661/"
+aliases: []
+date: '2004-05-13'
 ---
 

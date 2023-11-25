@@ -10,13 +10,14 @@ title: Islands
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1029/"
-permalink: "/2004/08/10/islands_3/"
 tags:
-- Coromandel
+  - Coromandel
 images:
-- src: image/images/img_2218-1029.jpg
-  name: img_2218-1029.jpg
+  - src: image/images/img_2218-1029.jpg
+    name: img_2218-1029.jpg
+url: "/2004/08/10/islands_3/"
+aliases:
+  - "/node/1029/"
+date: '2004-08-10'
 ---
 

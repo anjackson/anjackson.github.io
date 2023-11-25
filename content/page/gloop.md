@@ -10,12 +10,13 @@ title: Gloop
 author: anj
 created: '2004-05-31'
 changed: '2007-02-08'
-redirect_from:
-- "/node/710/"
-permalink: "/poot/riscos/gloop/"
 tags: []
 attachments:
-- src: page/files/Gloop.zip
-  name: Gloop.zip
+  - src: page/files/Gloop.zip
+    name: Gloop.zip
+url: "/poot/riscos/gloop/"
+aliases:
+  - "/node/710/"
+date: '2004-05-31'
 ---
 <img src="/themes/anjackson.net/sw/Gloop.gif" border="0" align="left" />Small BASIC+Assembler cellular automata that simulates gloopy green liquid flowing down your screen.Use the mouse to set up something for it to flow over, and then let it flow.

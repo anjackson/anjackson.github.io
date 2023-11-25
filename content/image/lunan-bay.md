@@ -10,13 +10,14 @@ title: Lunan Bay
 author: anj
 created: '2006-10-03'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1690/"
-permalink: "/2006/10/03/lunan_bay_1/"
 tags:
-- Scotland
+  - Scotland
 images:
-- src: image/images/IMG_2026_1.JPG
-  name: IMG_2026_1.JPG
+  - src: image/images/IMG_2026_1.JPG
+    name: IMG_2026_1.JPG
+url: "/2006/10/03/lunan_bay_1/"
+aliases:
+  - "/node/1690/"
+date: '2006-10-03'
 ---
 

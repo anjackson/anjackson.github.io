@@ -10,9 +10,10 @@ title: Last day at EPCC
 author: anj
 created: '2004-07-21'
 changed: '2004-09-23'
-redirect_from: []
-permalink: "/node/739/"
 tags:
-- General
+  - General
+url: "/node/739/"
+aliases: []
+date: '2004-07-21'
 ---
 End of short-term contract with EPCC.

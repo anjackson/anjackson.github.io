@@ -10,12 +10,13 @@ title: CnAnH
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/615/"
 tags:
-- Older
+  - Older
 images:
-- src: image/images/cnanh-615.jpg
-  name: cnanh-615.jpg
+  - src: image/images/cnanh-615.jpg
+    name: cnanh-615.jpg
+url: "/node/615/"
+aliases: []
+date: '2004-05-13'
 ---
 

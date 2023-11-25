@@ -10,10 +10,11 @@ title: ilook
 author: anj
 created: '2004-08-11'
 changed: '2005-01-19'
-redirect_from:
-- "/node/1289/"
-permalink: "/about/ilook/"
 tags: []
+url: "/about/ilook/"
+aliases:
+  - "/node/1289/"
+date: '2004-08-11'
 ---
 ### Jackson through the ages
 

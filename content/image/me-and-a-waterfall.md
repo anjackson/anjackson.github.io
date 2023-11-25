@@ -10,13 +10,14 @@ title: Me and a waterfall
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1002/"
-permalink: "/2004/08/10/me_and_a_waterfall/"
 tags:
-- Bay of Islands
+  - Bay of Islands
 images:
-- src: image/images/img_2131-1002.jpg
-  name: img_2131-1002.jpg
+  - src: image/images/img_2131-1002.jpg
+    name: img_2131-1002.jpg
+url: "/2004/08/10/me_and_a_waterfall/"
+aliases:
+  - "/node/1002/"
+date: '2004-08-10'
 ---
 

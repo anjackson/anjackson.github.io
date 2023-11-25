@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Projects
-permalink: "/projects/"
+url: "/projects/"
+aliases: null
+date: null
 ---
 
 {% include _projects.html all=true %}

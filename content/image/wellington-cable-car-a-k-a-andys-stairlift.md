@@ -10,13 +10,14 @@ title: Wellington Cable Car a.k.a. Andy's Stairlift
 author: anj
 created: '2007-01-19'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1738/"
-permalink: "/2007/01/19/wellington_cable_car_a_k_a_andys_stairlift/"
 tags:
-- The first few days
+  - The first few days
 images:
-- src: image/images/IMG_1510.jpg
-  name: IMG_1510.jpg
+  - src: image/images/IMG_1510.jpg
+    name: IMG_1510.jpg
+url: "/2007/01/19/wellington_cable_car_a_k_a_andys_stairlift/"
+aliases:
+  - "/node/1738/"
+date: '2007-01-19'
 ---
 

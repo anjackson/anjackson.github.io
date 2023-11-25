@@ -10,13 +10,14 @@ title: On the way to Thames
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1021/"
-permalink: "/2004/08/10/on_the_way_to_thames/"
 tags:
-- Coromandel
+  - Coromandel
 images:
-- src: image/images/img_2202-1021.jpg
-  name: img_2202-1021.jpg
+  - src: image/images/img_2202-1021.jpg
+    name: img_2202-1021.jpg
+url: "/2004/08/10/on_the_way_to_thames/"
+aliases:
+  - "/node/1021/"
+date: '2004-08-10'
 ---
 

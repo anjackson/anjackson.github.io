@@ -10,10 +10,11 @@ title: 'Error 404: File Not Found'
 author: anj
 created: '2004-09-23'
 changed: '2004-09-23'
-redirect_from:
-- "/node/1423/"
-permalink: "/error/404/"
 tags: []
+url: "/error/404/"
+aliases:
+  - "/node/1423/"
+date: '2004-09-23'
 ---
 !!! Error 404: File Not Found!
 Just when things were going _so_ well...  Heigh ho.  

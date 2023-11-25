@@ -10,13 +10,14 @@ title: 11244 Boat Shed Harbour
 author: anj
 created: '2004-11-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/1494/"
 tags:
-- Wellington
-- 2004/11 November 2004
+  - Wellington
+  - 2004/11 November 2004
 images:
-- src: image/images/11244_boat_shed_harbour-1494.jpg
-  name: 11244_boat_shed_harbour-1494.jpg
+  - src: image/images/11244_boat_shed_harbour-1494.jpg
+    name: 11244_boat_shed_harbour-1494.jpg
+url: "/node/1494/"
+aliases: []
+date: '2004-11-13'
 ---
 

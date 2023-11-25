@@ -10,12 +10,13 @@ title: torisea4i2b
 author: anj
 created: '2004-05-12'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/611/"
 tags:
-- imgn
+  - imgn
 images:
-- src: image/images/torisea4i2b-611.jpg
-  name: torisea4i2b-611.jpg
+  - src: image/images/torisea4i2b-611.jpg
+    name: torisea4i2b-611.jpg
+url: "/node/611/"
+aliases: []
+date: '2004-05-12'
 ---
 

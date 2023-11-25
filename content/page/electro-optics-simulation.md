@@ -10,13 +10,14 @@ title: Electro-optics Simulation
 author: anj
 created: '2004-05-12'
 changed: '2007-02-08'
-redirect_from:
-- "/node/578/"
-permalink: "/ix2v/comphys/docs/ug/y4-project.pdf/"
 tags: []
 attachments:
-- src: page/files/y4-project.pdf
-  name: y4-project.pdf
+  - src: page/files/y4-project.pdf
+    name: y4-project.pdf
+url: "/ix2v/comphys/docs/ug/y4-project.pdf/"
+aliases:
+  - "/node/578/"
+date: '2004-05-12'
 ---
 ### Development of software for the computation of the properties of electrostatic electro-optical devices via both the direct ray tracing and paraxial approximation techniques.
 ## MPhys Final Year Project Dissertation by Andrew Jackson

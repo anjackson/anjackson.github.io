@@ -10,13 +10,14 @@ title: 00797 - Hairy Trees
 author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/334/"
 tags:
-- California
-- 2003/09 - September 2003
+  - California
+  - 2003/09 - September 2003
 images:
-- src: image/images/107_0797-334.jpg
-  name: 107_0797-334.jpg
+  - src: image/images/107_0797-334.jpg
+    name: 107_0797-334.jpg
+url: "/node/334/"
+aliases: []
+date: '2004-03-26'
 ---
 

@@ -10,9 +10,10 @@ title: Numerical Analysis
 author: anj
 created: '2004-05-13'
 changed: '2004-05-26'
-redirect_from: []
-permalink: "/node/691/"
 tags: []
+url: "/node/691/"
+aliases: []
+date: '2004-05-13'
 ---
 ### Numerical Analysis
 Don't re-invent the wheel.

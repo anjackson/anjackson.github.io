@@ -10,12 +10,13 @@ title: 'Sight: browser, one'
 author: anj
 created: '2004-08-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/1294/"
 tags:
-- screenshots
+  - screenshots
 images:
-- src: image/images/browser-one-1294.png
-  name: browser-one-1294.png
+  - src: image/images/browser-one-1294.png
+    name: browser-one-1294.png
+url: "/node/1294/"
+aliases: []
+date: '2004-08-13'
 ---
 

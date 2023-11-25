@@ -10,13 +10,14 @@ title: Eilidh and the giant Kiwi
 author: anj
 created: '2007-01-31'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1781/"
-permalink: "/2007/01/31/eilidh_and_the_giant_kiwi/"
 tags:
-- Wellington Zoo
+  - Wellington Zoo
 images:
-- src: image/images/IMG_3379.JPG
-  name: IMG_3379.JPG
+  - src: image/images/IMG_3379.JPG
+    name: IMG_3379.JPG
+url: "/2007/01/31/eilidh_and_the_giant_kiwi/"
+aliases:
+  - "/node/1781/"
+date: '2007-01-31'
 ---
 

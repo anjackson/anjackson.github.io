@@ -10,14 +10,15 @@ title: 01334 Harbour Bridge
 author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/359/"
 tags:
-- Sydney
-- 2003/10 - October 2003
-- Christine L
+  - Sydney
+  - 2003/10 - October 2003
+  - Christine L
 images:
-- src: image/images/img_1334-359.jpg
-  name: img_1334-359.jpg
+  - src: image/images/img_1334-359.jpg
+    name: img_1334-359.jpg
+url: "/node/359/"
+aliases: []
+date: '2004-03-26'
 ---
 The bridge from underneath.  Taken by Chris if I rememebr correctly.  Sydney.

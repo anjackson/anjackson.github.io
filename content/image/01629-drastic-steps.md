@@ -10,13 +10,14 @@ title: 01629 Drastic Steps
 author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/388/"
 tags:
-- The Red Centre
-- 2003/10 - October 2003
+  - The Red Centre
+  - 2003/10 - October 2003
 images:
-- src: image/images/img_1629-388.jpg
-  name: img_1629-388.jpg
+  - src: image/images/img_1629-388.jpg
+    name: img_1629-388.jpg
+url: "/node/388/"
+aliases: []
+date: '2004-03-26'
 ---
 Climbing the 'yes this is rather popular with tourists' staircase, King's Canyon.

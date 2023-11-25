@@ -10,10 +10,11 @@ title: Web Application Notes
 author: anj
 created: '2004-07-21'
 changed: '2006-09-05'
-redirect_from:
-- "/node/740/"
-permalink: "/2004/07/21/web_application_notes/"
 tags: []
+url: "/2004/07/21/web_application_notes/"
+aliases:
+  - "/node/740/"
+date: '2004-07-21'
 ---
 A place for various notes discovered while making web applications.
 <!--break-->

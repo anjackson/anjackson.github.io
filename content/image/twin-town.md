@@ -10,13 +10,14 @@ title: twin town
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/657/"
 tags:
-- Wirksworth
-- Older
+  - Wirksworth
+  - Older
 images:
-- src: image/images/w-die-657.jpg
-  name: w-die-657.jpg
+  - src: image/images/w-die-657.jpg
+    name: w-die-657.jpg
+url: "/node/657/"
+aliases: []
+date: '2004-05-13'
 ---
 

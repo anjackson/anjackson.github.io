@@ -10,9 +10,10 @@ title: Milk Chocolate AERO 9d
 author: anj
 created: '2004-06-05'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/713/"
 tags:
-- From the internet
+  - From the internet
+url: "/node/713/"
+aliases: []
+date: '2004-06-05'
 ---
 Pre-decimalization (1971) Rowntree Aero chocolate bar wrapper.  Image stolen from Alan's Chocolate Experience.

@@ -10,13 +10,14 @@ title: 03002 The crowds gather
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/1071/"
 tags:
-- The Return Of The King
-- 2003/12 - December 2003
+  - The Return Of The King
+  - 2003/12 - December 2003
 images:
-- src: image/images/130_3002-1071.jpg
-  name: 130_3002-1071.jpg
+  - src: image/images/130_3002-1071.jpg
+    name: 130_3002-1071.jpg
+url: "/node/1071/"
+aliases: []
+date: '2004-08-10'
 ---
 

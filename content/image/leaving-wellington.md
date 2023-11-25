@@ -10,13 +10,14 @@ title: Leaving Wellington
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1101/"
-permalink: "/2004/08/10/leaving_wellington/"
 tags:
-- Wellington
+  - Wellington
 images:
-- src: image/images/130_3090-1101.jpg
-  name: 130_3090-1101.jpg
+  - src: image/images/130_3090-1101.jpg
+    name: 130_3090-1101.jpg
+url: "/2004/08/10/leaving_wellington/"
+aliases:
+  - "/node/1101/"
+date: '2004-08-10'
 ---
 

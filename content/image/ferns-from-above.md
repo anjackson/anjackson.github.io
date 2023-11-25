@@ -10,13 +10,14 @@ title: Ferns from above
 author: anj
 created: '2007-01-19'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1745/"
-permalink: "/2007/01/19/ferns_from_above/"
 tags:
-- Otari-Wilton's Bush
+  - Otari-Wilton's Bush
 images:
-- src: image/images/IMG_2936.JPG
-  name: IMG_2936.JPG
+  - src: image/images/IMG_2936.JPG
+    name: IMG_2936.JPG
+url: "/2007/01/19/ferns_from_above/"
+aliases:
+  - "/node/1745/"
+date: '2007-01-19'
 ---
 

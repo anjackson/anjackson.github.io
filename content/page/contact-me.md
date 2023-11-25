@@ -10,8 +10,9 @@ title: contact me
 author: anj
 created: '2004-08-13'
 changed: '2004-08-19'
-redirect_from: []
-permalink: "/node/1298/"
 tags: []
+url: "/node/1298/"
+aliases: []
+date: '2004-08-13'
 ---
 This should be an email form, but for now I'll just say that my email address is anj(at)anjackson(dot)net.

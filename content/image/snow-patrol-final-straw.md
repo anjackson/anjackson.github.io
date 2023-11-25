@@ -10,9 +10,10 @@ title: snow patrol - final straw
 author: anj
 created: '2004-10-16'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/1434/"
 tags:
-- From the internet
+  - From the internet
+url: "/node/1434/"
+aliases: []
+date: '2004-10-16'
 ---
 Album cover for Final Straw by Snow Patrol.  Grabbed from Amazon.

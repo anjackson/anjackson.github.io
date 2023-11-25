@@ -10,13 +10,14 @@ title: Sunset
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1070/"
-permalink: "/2004/08/10/sunset/"
 tags:
-- Wellington
+  - Wellington
 images:
-- src: image/images/129_2998-1070.jpg
-  name: 129_2998-1070.jpg
+  - src: image/images/129_2998-1070.jpg
+    name: 129_2998-1070.jpg
+url: "/2004/08/10/sunset/"
+aliases:
+  - "/node/1070/"
+date: '2004-08-10'
 ---
 

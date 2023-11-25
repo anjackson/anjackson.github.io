@@ -10,13 +10,14 @@ title: Waterfront
 author: anj
 created: '2007-01-19'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1726/"
-permalink: "/2007/01/19/waterfront/"
 tags:
-- The first few days
+  - The first few days
 images:
-- src: image/images/IMG_2680.JPG
-  name: IMG_2680.JPG
+  - src: image/images/IMG_2680.JPG
+    name: IMG_2680.JPG
+url: "/2007/01/19/waterfront/"
+aliases:
+  - "/node/1726/"
+date: '2007-01-19'
 ---
 

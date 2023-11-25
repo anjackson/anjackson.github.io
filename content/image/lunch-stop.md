@@ -10,15 +10,16 @@ title: Lunch stop
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1031/"
-permalink: "/2004/08/10/lunch_stop/"
 tags:
-- Coromandel
-- Aaron P
-- Claire G
+  - Coromandel
+  - Aaron P
+  - Claire G
 images:
-- src: image/images/img_2225-1031.jpg
-  name: img_2225-1031.jpg
+  - src: image/images/img_2225-1031.jpg
+    name: img_2225-1031.jpg
+url: "/2004/08/10/lunch_stop/"
+aliases:
+  - "/node/1031/"
+date: '2004-08-10'
 ---
 

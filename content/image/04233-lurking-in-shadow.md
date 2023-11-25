@@ -10,13 +10,14 @@ title: 04233 Lurking in Shadow
 author: anj
 created: '2004-11-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/1480/"
 tags:
-- 2004/01 - January 2004
-- Abel Tasman
+  - 2004/01 - January 2004
+  - Abel Tasman
 images:
-- src: image/images/04233_lurking_in_shadow-1480.jpg
-  name: 04233_lurking_in_shadow-1480.jpg
+  - src: image/images/04233_lurking_in_shadow-1480.jpg
+    name: 04233_lurking_in_shadow-1480.jpg
+url: "/node/1480/"
+aliases: []
+date: '2004-11-13'
 ---
 

@@ -10,12 +10,13 @@ title: n-logo-sml
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/672/"
 tags:
-- Older
+  - Older
 images:
-- src: image/images/n-logo-sml-672.png
-  name: n-logo-sml-672.png
+  - src: image/images/n-logo-sml-672.png
+    name: n-logo-sml-672.png
+url: "/node/672/"
+aliases: []
+date: '2004-05-13'
 ---
 

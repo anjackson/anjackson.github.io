@@ -10,10 +10,11 @@ title: music
 author: anj
 created: '2004-08-11'
 changed: '2004-12-02'
-redirect_from:
-- "/node/1291/"
-permalink: "/about/ilike/music/"
 tags: []
+url: "/about/ilike/music/"
+aliases:
+  - "/node/1291/"
+date: '2004-08-11'
 ---
 roughly reversely chronologically
 <!--break-->

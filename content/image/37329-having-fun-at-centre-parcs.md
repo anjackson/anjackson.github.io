@@ -10,13 +10,14 @@ title: 37329 Having fun at Centre Parcs
 author: anj
 created: '2006-08-01'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1675/"
-permalink: "/2006/08/01/37329_having_fun_at_centre_parcs/"
 tags:
-- Eilidh
+  - Eilidh
 images:
-- src: image/images/IMG_7329.JPG
-  name: IMG_7329.JPG
+  - src: image/images/IMG_7329.JPG
+    name: IMG_7329.JPG
+url: "/2006/08/01/37329_having_fun_at_centre_parcs/"
+aliases:
+  - "/node/1675/"
+date: '2006-08-01'
 ---
 

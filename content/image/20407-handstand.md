@@ -10,13 +10,14 @@ title: 20407 Handstand
 author: anj
 created: '2006-07-29'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1663/"
-permalink: "/2006/07/29/20407_handstand/"
 tags:
-- Eilidh
+  - Eilidh
 images:
-- src: image/images/IMG_0407.JPG
-  name: IMG_0407.JPG
+  - src: image/images/IMG_0407.JPG
+    name: IMG_0407.JPG
+url: "/2006/07/29/20407_handstand/"
+aliases:
+  - "/node/1663/"
+date: '2006-07-29'
 ---
 

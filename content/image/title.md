@@ -10,12 +10,13 @@ title: title
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/687/"
 tags:
-- Older
+  - Older
 images:
-- src: image/images/title-687.jpg
-  name: title-687.jpg
+  - src: image/images/title-687.jpg
+    name: title-687.jpg
+url: "/node/687/"
+aliases: []
+date: '2004-05-13'
 ---
 

@@ -10,15 +10,16 @@ title: 00912 - Monkey & Stoat
 author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/338/"
 tags:
-- California
-- 2003/09 - September 2003
-- Slick Jeff
-- The Monkey
+  - California
+  - 2003/09 - September 2003
+  - Slick Jeff
+  - The Monkey
 images:
-- src: image/images/109_0912-338.jpg
-  name: 109_0912-338.jpg
+  - src: image/images/109_0912-338.jpg
+    name: 109_0912-338.jpg
+url: "/node/338/"
+aliases: []
+date: '2004-03-26'
 ---
 Slick Jeff and The Monkey keep an eye on the road.

@@ -10,12 +10,13 @@ title: weinach1
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/630/"
 tags:
-- Older
+  - Older
 images:
-- src: image/images/weinach1-630.jpg
-  name: weinach1-630.jpg
+  - src: image/images/weinach1-630.jpg
+    name: weinach1-630.jpg
+url: "/node/630/"
+aliases: []
+date: '2004-05-13'
 ---
 

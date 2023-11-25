@@ -10,13 +10,14 @@ title: Eilidh on a bridge
 author: anj
 created: '2007-01-19'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1753/"
-permalink: "/2007/01/19/eilidh_on_a_bridge/"
 tags:
-- Otari-Wilton's Bush
+  - Otari-Wilton's Bush
 images:
-- src: image/images/IMG_3093.JPG
-  name: IMG_3093.JPG
+  - src: image/images/IMG_3093.JPG
+    name: IMG_3093.JPG
+url: "/2007/01/19/eilidh_on_a_bridge/"
+aliases:
+  - "/node/1753/"
+date: '2007-01-19'
 ---
 

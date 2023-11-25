@@ -10,13 +10,14 @@ title: 02972 Return to Sender
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/1058/"
 tags:
-- The Return Of The King
-- 2003/11 - November 2003
+  - The Return Of The King
+  - 2003/11 - November 2003
 images:
-- src: image/images/129_2972-1058.jpg
-  name: 129_2972-1058.jpg
+  - src: image/images/129_2972-1058.jpg
+    name: 129_2972-1058.jpg
+url: "/node/1058/"
+aliases: []
+date: '2004-08-10'
 ---
 

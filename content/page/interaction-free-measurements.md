@@ -10,13 +10,14 @@ title: Interaction-Free Measurements
 author: anj
 created: '2004-05-12'
 changed: '2007-02-08'
-redirect_from:
-- "/node/577/"
-permalink: "/ix2v/comphys/docs/phd/ifm.pdf/"
 tags: []
 attachments:
-- src: page/files/ifm.pdf
-  name: ifm.pdf
+  - src: page/files/ifm.pdf
+    name: ifm.pdf
+url: "/ix2v/comphys/docs/phd/ifm.pdf/"
+aliases:
+  - "/node/577/"
+date: '2004-05-12'
 ---
 ### Interaction-Free Measurements
 ## Learning To See In The Dark

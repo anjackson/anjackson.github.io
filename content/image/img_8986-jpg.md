@@ -10,13 +10,14 @@ title: IMG_8986.JPG
 author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
-redirect_from:
-- "/node/895/"
-permalink: "/2004/07/26/img_8986_jpg/"
 tags:
-- Taupo
+  - Taupo
 images:
-- src: image/images/img_8986.jpg-895.jpg
-  name: img_8986.jpg-895.jpg
+  - src: image/images/img_8986.jpg-895.jpg
+    name: img_8986.jpg-895.jpg
+url: "/2004/07/26/img_8986_jpg/"
+aliases:
+  - "/node/895/"
+date: '2004-07-26'
 ---
 

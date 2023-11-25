@@ -10,12 +10,13 @@ title: ma.iwas
 author: anj
 created: '2004-05-12'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/605/"
 tags:
-- imgn
+  - imgn
 images:
-- src: image/images/ma.iwas-605.jpg
-  name: ma.iwas-605.jpg
+  - src: image/images/ma.iwas-605.jpg
+    name: ma.iwas-605.jpg
+url: "/node/605/"
+aliases: []
+date: '2004-05-12'
 ---
 

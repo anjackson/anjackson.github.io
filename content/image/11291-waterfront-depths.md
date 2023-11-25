@@ -10,13 +10,14 @@ title: 11291 Waterfront Depths
 author: anj
 created: '2004-11-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/1496/"
 tags:
-- Wellington
-- 2004/11 November 2004
+  - Wellington
+  - 2004/11 November 2004
 images:
-- src: image/images/11291_waterfront_depths-1496.jpg
-  name: 11291_waterfront_depths-1496.jpg
+  - src: image/images/11291_waterfront_depths-1496.jpg
+    name: 11291_waterfront_depths-1496.jpg
+url: "/node/1496/"
+aliases: []
+date: '2004-11-13'
 ---
 

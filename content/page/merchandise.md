@@ -10,12 +10,13 @@ title: merchandise
 author: anj
 created: '2007-07-20'
 changed: '2010-07-24'
-redirect_from:
-- "/2007/07/20/merchandise/"
-- "/node/1807/"
-permalink: "/geek/merchstore/"
 category: Geek
 tags: []
+url: "/geek/merchstore/"
+aliases:
+  - "/2007/07/20/merchandise/"
+  - "/node/1807/"
+date: '2007-07-20'
 ---
 <p>
 An experiment in merchandise.  Thanks to <a href="http://www.spreadshirt.net/shop.php?sid=89904">spreadshirt.net</a>.

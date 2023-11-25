@@ -10,15 +10,16 @@ title: 01008 - Big Trees
 author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/422/"
 tags:
-- California
-- 2003/09 - September 2003
-- Graham D
-- Catherine M
+  - California
+  - 2003/09 - September 2003
+  - Graham D
+  - Catherine M
 images:
-- src: image/images/1008-10-pan-422.jpg
-  name: 1008-10-pan-422.jpg
+  - src: image/images/1008-10-pan-422.jpg
+    name: 1008-10-pan-422.jpg
+url: "/node/422/"
+aliases: []
+date: '2004-03-26'
 ---
 Some darn big trees - Great Sequoia National Park.  If you look very closely, you can see Catherine & Graham on the path, near the base of tree.  

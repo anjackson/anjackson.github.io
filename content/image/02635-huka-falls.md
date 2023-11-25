@@ -10,14 +10,15 @@ title: 02635 Huka Falls
 author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/886/"
 tags:
-- Highlights
-- 2003/11 - November 2003
-- Taupo
+  - Highlights
+  - 2003/11 - November 2003
+  - Taupo
 images:
-- src: image/images/126_2635-886.jpg
-  name: 126_2635-886.jpg
+  - src: image/images/126_2635-886.jpg
+    name: 126_2635-886.jpg
+url: "/node/886/"
+aliases: []
+date: '2004-07-26'
 ---
 The huge and noisy Huka Falls, near Taupo.

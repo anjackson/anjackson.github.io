@@ -10,14 +10,15 @@ title: 00902 - Looking quite cool... looking pretty cool...
 author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/430/"
 tags:
-- California
-- 2003/09 - September 2003
-- Graham D
+  - California
+  - 2003/09 - September 2003
+  - Graham D
 images:
-- src: image/images/109_0902-b-430.jpg
-  name: 109_0902-b-430.jpg
+  - src: image/images/109_0902-b-430.jpg
+    name: 109_0902-b-430.jpg
+url: "/node/430/"
+aliases: []
+date: '2004-03-26'
 ---
 The Davies riding a San Francisco street car.

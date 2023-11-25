@@ -10,13 +10,14 @@ title: Finite Difference Simulation of a One Dimensional Harmonic Oscillator
 author: anj
 created: '2004-05-12'
 changed: '2007-02-08'
-redirect_from:
-- "/node/584/"
-permalink: "/ix2v/comphys/docs/ug/y3-pm1-fd-ho.pdf/"
 tags: []
 attachments:
-- src: page/files/y3-pm1-fd-ho.pdf
-  name: y3-pm1-fd-ho.pdf
+  - src: page/files/y3-pm1-fd-ho.pdf
+    name: y3-pm1-fd-ho.pdf
+url: "/ix2v/comphys/docs/ug/y3-pm1-fd-ho.pdf/"
+aliases:
+  - "/node/584/"
+date: '2004-05-12'
 ---
 ### Finite Difference Simulation of a One Dimensional Harmonic Oscillator
 ## A comparison of three finite difference techniques

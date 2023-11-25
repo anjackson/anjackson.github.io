@@ -10,13 +10,14 @@ title: 00721 Widescreen Coastline
 author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/421/"
 tags:
-- California
-- 2003/09 - September 2003
+  - California
+  - 2003/09 - September 2003
 images:
-- src: image/images/0721-28-pan-b-421.jpg
-  name: 0721-28-pan-b-421.jpg
+  - src: image/images/0721-28-pan-b-421.jpg
+    name: 0721-28-pan-b-421.jpg
+url: "/node/421/"
+aliases: []
+date: '2004-03-26'
 ---
 Rather fine Californian coastline, in widescreen format.

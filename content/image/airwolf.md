@@ -10,13 +10,14 @@ title: Airwolf
 author: anj
 created: '2007-01-19'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1728/"
-permalink: "/2007/01/19/airwolf/"
 tags:
-- The first few days
+  - The first few days
 images:
-- src: image/images/IMG_3144.JPG
-  name: IMG_3144.JPG
+  - src: image/images/IMG_3144.JPG
+    name: IMG_3144.JPG
+url: "/2007/01/19/airwolf/"
+aliases:
+  - "/node/1728/"
+date: '2007-01-19'
 ---
 

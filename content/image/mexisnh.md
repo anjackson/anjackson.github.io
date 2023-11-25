@@ -10,12 +10,13 @@ title: mexiSnH
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/619/"
 tags:
-- Older
+  - Older
 images:
-- src: image/images/mexisnh-619.jpg
-  name: mexisnh-619.jpg
+  - src: image/images/mexisnh-619.jpg
+    name: mexisnh-619.jpg
+url: "/node/619/"
+aliases: []
+date: '2004-05-13'
 ---
 

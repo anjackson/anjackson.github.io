@@ -10,12 +10,13 @@ title: lamb.10hand
 author: anj
 created: '2004-05-12'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/601/"
 tags:
-- imgn
+  - imgn
 images:
-- src: image/images/lamb.10hand-601.jpg
-  name: lamb.10hand-601.jpg
+  - src: image/images/lamb.10hand-601.jpg
+    name: lamb.10hand-601.jpg
+url: "/node/601/"
+aliases: []
+date: '2004-05-12'
 ---
 

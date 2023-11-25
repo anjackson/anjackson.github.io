@@ -10,13 +10,14 @@ title: Cool, apparently
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1033/"
-permalink: "/2004/08/10/cool_apparently/"
 tags:
-- Coromandel
+  - Coromandel
 images:
-- src: image/images/img_2230-1033.jpg
-  name: img_2230-1033.jpg
+  - src: image/images/img_2230-1033.jpg
+    name: img_2230-1033.jpg
+url: "/2004/08/10/cool_apparently/"
+aliases:
+  - "/node/1033/"
+date: '2004-08-10'
 ---
 

@@ -10,11 +10,12 @@ title: geek
 author: anj
 created: '2004-03-26'
 changed: '2009-08-15'
-redirect_from:
-- "/node/314/"
-permalink: "/geek/"
 category: Geek
 tags: []
+url: "/geek/"
+aliases:
+  - "/node/314/"
+date: '2004-03-26'
 ---
 <div id="geek-content">
 <h3><a href="/geek_nuggets">geek nuggets</a></h3>

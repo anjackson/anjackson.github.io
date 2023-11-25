@@ -10,9 +10,10 @@ title: HTML & CSS
 author: anj
 created: '2004-08-03'
 changed: '2005-11-15'
-redirect_from: []
-permalink: "/node/982/"
 tags: []
+url: "/node/982/"
+aliases: []
+date: '2004-08-03'
 ---
 ## Links
 * An excellent site for learning about good HTML+CSS page design can be found at [HTMLdog](http://www.htmldog.com/).

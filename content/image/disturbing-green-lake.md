@@ -10,13 +10,14 @@ title: Disturbing green lake
 author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
-redirect_from:
-- "/node/840/"
-permalink: "/2004/07/26/disturbing_green_lake/"
 tags:
-- Rotorua
+  - Rotorua
 images:
-- src: image/images/img_2508-840.jpg
-  name: img_2508-840.jpg
+  - src: image/images/img_2508-840.jpg
+    name: img_2508-840.jpg
+url: "/2004/07/26/disturbing_green_lake/"
+aliases:
+  - "/node/840/"
+date: '2004-07-26'
 ---
 

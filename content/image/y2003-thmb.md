@@ -10,12 +10,13 @@ title: y2003-thmb
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/651/"
 tags:
-- Older
+  - Older
 images:
-- src: image/images/y2003-thmb-651.jpg
-  name: y2003-thmb-651.jpg
+  - src: image/images/y2003-thmb-651.jpg
+    name: y2003-thmb-651.jpg
+url: "/node/651/"
+aliases: []
+date: '2004-05-13'
 ---
 

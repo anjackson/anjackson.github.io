@@ -10,13 +10,14 @@ title: Cathedral Cove
 author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
-redirect_from:
-- "/node/802/"
-permalink: "/2004/07/26/cathedral_cove/"
 tags:
-- Coromandel
+  - Coromandel
 images:
-- src: image/images/img_2387-802.jpg
-  name: img_2387-802.jpg
+  - src: image/images/img_2387-802.jpg
+    name: img_2387-802.jpg
+url: "/2004/07/26/cathedral_cove/"
+aliases:
+  - "/node/802/"
+date: '2004-07-26'
 ---
 

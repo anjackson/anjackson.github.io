@@ -10,13 +10,14 @@ title: Troup picnic area
 author: anj
 created: '2007-01-19'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1746/"
-permalink: "/2007/01/19/troup_picnic_area/"
 tags:
-- Otari-Wilton's Bush
+  - Otari-Wilton's Bush
 images:
-- src: image/images/IMG_3107.JPG
-  name: IMG_3107.JPG
+  - src: image/images/IMG_3107.JPG
+    name: IMG_3107.JPG
+url: "/2007/01/19/troup_picnic_area/"
+aliases:
+  - "/node/1746/"
+date: '2007-01-19'
 ---
 

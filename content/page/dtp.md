@@ -10,8 +10,9 @@ title: dtp
 author: anj
 created: '2004-08-11'
 changed: '2009-08-10'
-redirect_from: []
-permalink: "/node/1287/"
 tags: []
+url: "/node/1287/"
+aliases: []
+date: '2004-08-11'
 ---
 This DeskTop Publishing resources page will probably return one day.

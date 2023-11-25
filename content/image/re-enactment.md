@@ -10,13 +10,14 @@ title: Re-enactment
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1055/"
-permalink: "/2004/08/10/re_enactment_1/"
 tags:
-- Wellington
+  - Wellington
 images:
-- src: image/images/129_2967-1055.jpg
-  name: 129_2967-1055.jpg
+  - src: image/images/129_2967-1055.jpg
+    name: 129_2967-1055.jpg
+url: "/2004/08/10/re_enactment_1/"
+aliases:
+  - "/node/1055/"
+date: '2004-08-10'
 ---
 

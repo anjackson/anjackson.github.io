@@ -10,14 +10,15 @@ title: Packing problem
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1027/"
-permalink: "/2004/08/10/packing_problem/"
 tags:
-- Coromandel
-- Aaron P
+  - Coromandel
+  - Aaron P
 images:
-- src: image/images/img_2216-1027.jpg
-  name: img_2216-1027.jpg
+  - src: image/images/img_2216-1027.jpg
+    name: img_2216-1027.jpg
+url: "/2004/08/10/packing_problem/"
+aliases:
+  - "/node/1027/"
+date: '2004-08-10'
 ---
 Trying to leave Thames.

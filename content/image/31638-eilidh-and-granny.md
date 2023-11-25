@@ -10,13 +10,14 @@ title: 31638 Eilidh & Granny
 author: anj
 created: '2006-07-29'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1668/"
-permalink: "/2006/07/29/31638_eilidh_granny/"
 tags:
-- Eilidh
+  - Eilidh
 images:
-- src: image/images/IMG_1638.JPG
-  name: IMG_1638.JPG
+  - src: image/images/IMG_1638.JPG
+    name: IMG_1638.JPG
+url: "/2006/07/29/31638_eilidh_granny/"
+aliases:
+  - "/node/1668/"
+date: '2006-07-29'
 ---
 

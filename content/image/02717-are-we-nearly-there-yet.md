@@ -10,15 +10,16 @@ title: 02717 Are we nearly there yet?
 author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/924/"
 tags:
-- 2003/11 - November 2003
-- Tongariro Crossing
-- Aaron P
-- Claire G
+  - 2003/11 - November 2003
+  - Tongariro Crossing
+  - Aaron P
+  - Claire G
 images:
-- src: image/images/127_2717-924.jpg
-  name: 127_2717-924.jpg
+  - src: image/images/127_2717-924.jpg
+    name: 127_2717-924.jpg
+url: "/node/924/"
+aliases: []
+date: '2004-07-26'
 ---
 

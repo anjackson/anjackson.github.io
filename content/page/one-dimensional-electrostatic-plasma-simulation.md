@@ -10,13 +10,14 @@ title: One-Dimensional Electrostatic Plasma Simulation
 author: anj
 created: '2004-05-12'
 changed: '2007-02-08'
-redirect_from:
-- "/node/583/"
-permalink: "/ix2v/comphys/docs/ug/y3-pic-plasma.pdf/"
 tags: []
 attachments:
-- src: page/files/y3-pic-plasma.pdf
-  name: y3-pic-plasma.pdf
+  - src: page/files/y3-pic-plasma.pdf
+    name: y3-pic-plasma.pdf
+url: "/ix2v/comphys/docs/ug/y3-pic-plasma.pdf/"
+aliases:
+  - "/node/583/"
+date: '2004-05-12'
 ---
 ### One Dimensional Electrostatic Plasma Simulation
 ## An application of the particle-in-cell technique

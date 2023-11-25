@@ -10,12 +10,13 @@ title: curve.3
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/626/"
 tags:
-- imgn
+  - imgn
 images:
-- src: image/images/curve.3-626.jpg
-  name: curve.3-626.jpg
+  - src: image/images/curve.3-626.jpg
+    name: curve.3-626.jpg
+url: "/node/626/"
+aliases: []
+date: '2004-05-13'
 ---
 

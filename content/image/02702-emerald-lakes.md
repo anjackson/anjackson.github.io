@@ -10,14 +10,15 @@ title: 02702 Emerald Lakes
 author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/915/"
 tags:
-- Highlights
-- 2003/11 - November 2003
-- Tongariro Crossing
+  - Highlights
+  - 2003/11 - November 2003
+  - Tongariro Crossing
 images:
-- src: image/images/127_2702-915.jpg
-  name: 127_2702-915.jpg
+  - src: image/images/127_2702-915.jpg
+    name: 127_2702-915.jpg
+url: "/node/915/"
+aliases: []
+date: '2004-07-26'
 ---
 

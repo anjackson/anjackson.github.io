@@ -10,13 +10,14 @@ title: Waiting for the train
 author: anj
 created: '2007-01-19'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1724/"
-permalink: "/2007/01/19/waiting_for_the_train/"
 tags:
-- The first few days
+  - The first few days
 images:
-- src: image/images/IMG_2727.JPG
-  name: IMG_2727.JPG
+  - src: image/images/IMG_2727.JPG
+    name: IMG_2727.JPG
+url: "/2007/01/19/waiting_for_the_train/"
+aliases:
+  - "/node/1724/"
+date: '2007-01-19'
 ---
 

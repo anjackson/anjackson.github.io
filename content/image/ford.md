@@ -10,13 +10,14 @@ title: Ford
 author: anj
 created: '2006-07-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1634/"
-permalink: "/2006/07/10/ford/"
 tags:
-- Edinburgh
+  - Edinburgh
 images:
-- src: image/images/IMG_1599_s.jpg
-  name: IMG_1599_s.jpg
+  - src: image/images/IMG_1599_s.jpg
+    name: IMG_1599_s.jpg
+url: "/2006/07/10/ford/"
+aliases:
+  - "/node/1634/"
+date: '2006-07-10'
 ---
 

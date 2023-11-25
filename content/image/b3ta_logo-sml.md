@@ -10,12 +10,13 @@ title: b3ta_logo-sml
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/674/"
 tags:
-- b3ta
+  - b3ta
 images:
-- src: image/images/b3ta_logo-sml-674.png
-  name: b3ta_logo-sml-674.png
+  - src: image/images/b3ta_logo-sml-674.png
+    name: b3ta_logo-sml-674.png
+url: "/node/674/"
+aliases: []
+date: '2004-05-13'
 ---
 

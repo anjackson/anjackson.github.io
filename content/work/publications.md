@@ -10,12 +10,13 @@ title: Publications
 author: anj
 created: '2004-05-10'
 changed: '2009-08-10'
-redirect_from:
-- "/node/552/"
-permalink: "/work/publications/"
 tags: ["Publications"]
 projects: publications
 category: publications
+url: "/work/publications/"
+aliases:
+  - "/node/552/"
+date: '2004-05-10'
 ---
 
 * [Mendelay profile](http://www.mendeley.com/profiles/andrew-jackson/)

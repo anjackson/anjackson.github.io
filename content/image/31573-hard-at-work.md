@@ -10,13 +10,14 @@ title: 31573 Hard at work
 author: anj
 created: '2006-07-29'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1667/"
-permalink: "/2006/07/29/31573_hard_at_work/"
 tags:
-- Eilidh
+  - Eilidh
 images:
-- src: image/images/IMG_1573.JPG
-  name: IMG_1573.JPG
+  - src: image/images/IMG_1573.JPG
+    name: IMG_1573.JPG
+url: "/2006/07/29/31573_hard_at_work/"
+aliases:
+  - "/node/1667/"
+date: '2006-07-29'
 ---
 

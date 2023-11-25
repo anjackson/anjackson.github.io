@@ -10,13 +10,14 @@ title: Maraehako Bay Retreat
 author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
-redirect_from:
-- "/node/850/"
-permalink: "/2004/07/26/maraehako_bay_retreat/"
 tags:
-- East Cape
+  - East Cape
 images:
-- src: image/images/img_2533-850.jpg
-  name: img_2533-850.jpg
+  - src: image/images/img_2533-850.jpg
+    name: img_2533-850.jpg
+url: "/2004/07/26/maraehako_bay_retreat/"
+aliases:
+  - "/node/850/"
+date: '2004-07-26'
 ---
 [http://groups.msn.com/MaraehakoBayRetreat]

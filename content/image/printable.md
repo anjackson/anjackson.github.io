@@ -10,12 +10,13 @@ title: printable
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/666/"
 tags:
-- Older
+  - Older
 images:
-- src: image/images/printable-666.png
-  name: printable-666.png
+  - src: image/images/printable-666.png
+    name: printable-666.png
+url: "/node/666/"
+aliases: []
+date: '2004-05-13'
 ---
 

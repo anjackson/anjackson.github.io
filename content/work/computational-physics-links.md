@@ -10,12 +10,13 @@ title: 'computational physics: links'
 author: anj
 created: '2004-05-11'
 changed: '2004-05-11'
-redirect_from:
-- "/node/566/"
-- "/ix2v/comphys/plinks/"
-permalink: "/work/physics/links/"
 tags: ["Science"]
 category: computational-physics
+url: "/work/physics/links/"
+aliases:
+  - "/node/566/"
+  - "/ix2v/comphys/plinks/"
+date: '2004-05-11'
 ---
 <table width="100%" border="0" cellpadding="5" cellspacing="5">
 <tr><td valign="top" width="15%" class="section-cell">  <h2>

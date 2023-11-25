@@ -10,13 +10,14 @@ title: War memories
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1008/"
-permalink: "/2004/08/10/war_memories/"
 tags:
-- Auckland
+  - Auckland
 images:
-- src: image/images/img_2166-1008.jpg
-  name: img_2166-1008.jpg
+  - src: image/images/img_2166-1008.jpg
+    name: img_2166-1008.jpg
+url: "/2004/08/10/war_memories/"
+aliases:
+  - "/node/1008/"
+date: '2004-08-10'
 ---
 [Auckland Museum](http://www.aucklandmuseum.com/)

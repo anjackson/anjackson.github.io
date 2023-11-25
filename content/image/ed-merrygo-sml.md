@@ -10,13 +10,14 @@ title: ed-merrygo.sml
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/655/"
 tags:
-- Edinburgh
-- Older
+  - Edinburgh
+  - Older
 images:
-- src: image/images/ed-merrygo.sml-655.jpg
-  name: ed-merrygo.sml-655.jpg
+  - src: image/images/ed-merrygo.sml-655.jpg
+    name: ed-merrygo.sml-655.jpg
+url: "/node/655/"
+aliases: []
+date: '2004-05-13'
 ---
 

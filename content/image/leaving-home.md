@@ -10,13 +10,14 @@ title: Leaving home
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1039/"
-permalink: "/2004/08/10/leaving_home/"
 tags:
-- Wellington
+  - Wellington
 images:
-- src: image/images/129_2944-1039.jpg
-  name: 129_2944-1039.jpg
+  - src: image/images/129_2944-1039.jpg
+    name: 129_2944-1039.jpg
+url: "/2004/08/10/leaving_home/"
+aliases:
+  - "/node/1039/"
+date: '2004-08-10'
 ---
 Te Papa

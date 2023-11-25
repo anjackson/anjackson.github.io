@@ -10,13 +10,14 @@ title: 01404 Sydney From The Air
 author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/368/"
 tags:
-- Sydney
-- 2003/10 - October 2003
+  - Sydney
+  - 2003/10 - October 2003
 images:
-- src: image/images/img_1404-368.jpg
-  name: img_1404-368.jpg
+  - src: image/images/img_1404-368.jpg
+    name: img_1404-368.jpg
+url: "/node/368/"
+aliases: []
+date: '2004-03-26'
 ---
 Leaving Sydney for the red centre.

@@ -10,8 +10,9 @@ title: Fly to LA
 author: anj
 created: '2004-09-24'
 changed: '2004-10-01'
-redirect_from: []
-permalink: "/node/1424/"
 tags: []
+url: "/node/1424/"
+aliases: []
+date: '2004-09-24'
 ---
 Fly to LA, leaving Heathrow Terminal 3 at 4:15pm on flight NZ1, arriving at 7:30pm at LAX T2 on Wednesday the 20th of October.

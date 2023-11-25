@@ -10,14 +10,15 @@ title: 02726 Tongariro Secret Steam Spot
 author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/926/"
 tags:
-- Highlights
-- 2003/11 - November 2003
-- Tongariro Crossing
+  - Highlights
+  - 2003/11 - November 2003
+  - Tongariro Crossing
 images:
-- src: image/images/127_2726-926.jpg
-  name: 127_2726-926.jpg
+  - src: image/images/127_2726-926.jpg
+    name: 127_2726-926.jpg
+url: "/node/926/"
+aliases: []
+date: '2004-07-26'
 ---
 A Maori sacred site on the Tongariro descent.  Probably a bathing site of some nature, as the water in the stream was lovely and warm.

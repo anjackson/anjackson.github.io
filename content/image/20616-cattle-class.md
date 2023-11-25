@@ -10,13 +10,14 @@ title: 20616 Cattle Class
 author: anj
 created: '2006-07-29'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1652/"
-permalink: "/2006/07/29/20616_cattle_class/"
 tags:
-- Eilidh
+  - Eilidh
 images:
-- src: image/images/IMG_0616.JPG
-  name: IMG_0616.JPG
+  - src: image/images/IMG_0616.JPG
+    name: IMG_0616.JPG
+url: "/2006/07/29/20616_cattle_class/"
+aliases:
+  - "/node/1652/"
+date: '2006-07-29'
 ---
 

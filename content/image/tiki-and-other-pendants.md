@@ -10,13 +10,14 @@ title: Tiki and other pendants
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1012/"
-permalink: "/2004/08/10/tiki_and_other_pendants/"
 tags:
-- Auckland
+  - Auckland
 images:
-- src: image/images/img_2179-1012.jpg
-  name: img_2179-1012.jpg
+  - src: image/images/img_2179-1012.jpg
+    name: img_2179-1012.jpg
+url: "/2004/08/10/tiki_and_other_pendants/"
+aliases:
+  - "/node/1012/"
+date: '2004-08-10'
 ---
 [Auckland Museum](http://www.aucklandmuseum.com/)

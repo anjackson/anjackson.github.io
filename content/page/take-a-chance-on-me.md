@@ -10,13 +10,14 @@ title: Take A Chance On Me
 author: anj
 created: '2004-05-12'
 changed: '2013-06-25'
-redirect_from:
-- "/node/575/"
-permalink: "/ix2v/comphys/docs/phd/mccm.pdf/"
 tags: []
 attachments:
-- src: page/files/mccm.pdf
-  name: mccm.pdf
+  - src: page/files/mccm.pdf
+    name: mccm.pdf
+url: "/ix2v/comphys/docs/phd/mccm.pdf/"
+aliases:
+  - "/node/575/"
+date: '2004-05-12'
 ---
 #### Monte Carlo Condensed Matter
 A very brief guide to Monte Carlo simulation.

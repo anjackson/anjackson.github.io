@@ -10,13 +10,14 @@ title: 04087 Our Shadows
 author: anj
 created: '2004-08-20'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/1415/"
 tags:
-- 2004/01 - January 2004
-- Abel Tasman
+  - 2004/01 - January 2004
+  - Abel Tasman
 images:
-- src: image/images/04087_our_shadows-1415.jpg
-  name: 04087_our_shadows-1415.jpg
+  - src: image/images/04087_our_shadows-1415.jpg
+    name: 04087_our_shadows-1415.jpg
+url: "/node/1415/"
+aliases: []
+date: '2004-08-20'
 ---
 

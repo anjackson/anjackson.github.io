@@ -10,13 +10,14 @@ title: Edinburgh Street
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1020/"
-permalink: "/2004/08/10/edinburgh_street/"
 tags:
-- Auckland
+  - Auckland
 images:
-- src: image/images/img_2199-1020.jpg
-  name: img_2199-1020.jpg
+  - src: image/images/img_2199-1020.jpg
+    name: img_2199-1020.jpg
+url: "/2004/08/10/edinburgh_street/"
+aliases:
+  - "/node/1020/"
+date: '2004-08-10'
 ---
 

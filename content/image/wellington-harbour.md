@@ -10,13 +10,14 @@ title: Wellington Harbour
 author: anj
 created: '2007-01-19'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1762/"
-permalink: "/2007/01/19/wellington_harbour/"
 tags:
-- Comet McNaught
+  - Comet McNaught
 images:
-- src: image/images/IMG_3222.JPG
-  name: IMG_3222.JPG
+  - src: image/images/IMG_3222.JPG
+    name: IMG_3222.JPG
+url: "/2007/01/19/wellington_harbour/"
+aliases:
+  - "/node/1762/"
+date: '2007-01-19'
 ---
 

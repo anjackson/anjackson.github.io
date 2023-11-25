@@ -10,13 +10,14 @@ title: 05651 Autumn Leaves
 author: anj
 created: '2004-04-20'
 changed: '2013-06-25'
-redirect_from:
-- "/node/541/"
-permalink: "/2004/04/20/05651_autumn_leaves/"
 tags:
-- Christchurch
+  - Christchurch
 images:
-- src: image/images/img_5651b-541.jpg
-  name: img_5651b-541.jpg
+  - src: image/images/img_5651b-541.jpg
+    name: img_5651b-541.jpg
+url: "/2004/04/20/05651_autumn_leaves/"
+aliases:
+  - "/node/541/"
+date: '2004-04-20'
 ---
 Looking up the the autumn leaves - Makarora.

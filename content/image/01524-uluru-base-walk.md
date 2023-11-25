@@ -10,13 +10,14 @@ title: 01524 Uluru Base Walk
 author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
-redirect_from:
-- "/node/380/"
-permalink: "/2004/03/26/01524_uluru_base_walk/"
 tags:
-- The Red Centre
+  - The Red Centre
 images:
-- src: image/images/img_1524-380.jpg
-  name: img_1524-380.jpg
+  - src: image/images/img_1524-380.jpg
+    name: img_1524-380.jpg
+url: "/2004/03/26/01524_uluru_base_walk/"
+aliases:
+  - "/node/380/"
+date: '2004-03-26'
 ---
 One of the many outcrops of Ayres Rock.

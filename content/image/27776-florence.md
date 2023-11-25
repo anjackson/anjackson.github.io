@@ -10,13 +10,14 @@ title: 27776 Florence
 author: anj
 created: '2006-07-29'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1649/"
-permalink: "/2006/07/29/27776_florence/"
 tags:
-- Eilidh
+  - Eilidh
 images:
-- src: image/images/IMG_7776.JPG
-  name: IMG_7776.JPG
+  - src: image/images/IMG_7776.JPG
+    name: IMG_7776.JPG
+url: "/2006/07/29/27776_florence/"
+aliases:
+  - "/node/1649/"
+date: '2006-07-29'
 ---
 

@@ -10,13 +10,14 @@ title: 01499 Red Soil
 author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/378/"
 tags:
-- The Red Centre
-- 2003/10 - October 2003
+  - The Red Centre
+  - 2003/10 - October 2003
 images:
-- src: image/images/img_1499-378.jpg
-  name: img_1499-378.jpg
+  - src: image/images/img_1499-378.jpg
+    name: img_1499-378.jpg
+url: "/node/378/"
+aliases: []
+date: '2004-03-26'
 ---
 The soil really is very red.  Apparently, Australia is one of the oldest land masses on the planet, and it's had plenty of time to rust, literally.  The colour comes from oxidised iron.

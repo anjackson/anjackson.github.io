@@ -10,13 +10,14 @@ title: 29438 Is it a bird?
 author: anj
 created: '2006-07-29'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1659/"
-permalink: "/2006/07/29/29438_is_it_a_bird/"
 tags:
-- Eilidh
+  - Eilidh
 images:
-- src: image/images/IMG_9438.JPG
-  name: IMG_9438.JPG
+  - src: image/images/IMG_9438.JPG
+    name: IMG_9438.JPG
+url: "/2006/07/29/29438_is_it_a_bird/"
+aliases:
+  - "/node/1659/"
+date: '2006-07-29'
 ---
 

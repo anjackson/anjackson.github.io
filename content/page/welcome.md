@@ -10,9 +10,10 @@ title: Welcome
 author: anj
 created: '2004-03-20'
 changed: '2005-11-16'
-redirect_from: []
-permalink: "/node/10/"
 tags: []
+url: "/node/10/"
+aliases: []
+date: '2004-03-20'
 ---
  
 <!--break-->

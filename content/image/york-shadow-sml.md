@@ -10,10 +10,11 @@ title: york-shadow.sml
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/660/"
 tags:
-- York
-- Older
+  - York
+  - Older
+url: "/node/660/"
+aliases: []
+date: '2004-05-13'
 ---
 

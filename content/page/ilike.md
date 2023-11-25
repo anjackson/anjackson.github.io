@@ -10,10 +10,11 @@ title: ilike
 author: anj
 created: '2004-05-12'
 changed: '2008-01-22'
-redirect_from:
-- "/node/593/"
-permalink: "/about/ilike/"
 tags: []
+url: "/about/ilike/"
+aliases:
+  - "/node/593/"
+date: '2004-05-12'
 ---
 <center>
 <img src="/sites/anjackson.net/themes/hyperhome/images/ilike-logo.jpg" border="0" alt="ilike">

@@ -10,13 +10,14 @@ title: 04035 Clear Waters
 author: anj
 created: '2004-08-20'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/1407/"
 tags:
-- 2004/01 - January 2004
-- Abel Tasman
+  - 2004/01 - January 2004
+  - Abel Tasman
 images:
-- src: image/images/04035_clear_waters-1407.jpg
-  name: 04035_clear_waters-1407.jpg
+  - src: image/images/04035_clear_waters-1407.jpg
+    name: 04035_clear_waters-1407.jpg
+url: "/node/1407/"
+aliases: []
+date: '2004-08-20'
 ---
 

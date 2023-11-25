@@ -10,13 +10,14 @@ title: Stony Beach at night
 author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
-redirect_from:
-- "/node/782/"
-permalink: "/2004/07/26/stony_beach_at_night/"
 tags:
-- Coromandel
+  - Coromandel
 images:
-- src: image/images/img_2331-782.jpg
-  name: img_2331-782.jpg
+  - src: image/images/img_2331-782.jpg
+    name: img_2331-782.jpg
+url: "/2004/07/26/stony_beach_at_night/"
+aliases:
+  - "/node/782/"
+date: '2004-07-26'
 ---
 

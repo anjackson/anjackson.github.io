@@ -10,12 +10,13 @@ title: imgn-logo-sml
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/621/"
 tags:
-- Older
+  - Older
 images:
-- src: image/images/imgn-logo-sml-621.jpg
-  name: imgn-logo-sml-621.jpg
+  - src: image/images/imgn-logo-sml-621.jpg
+    name: imgn-logo-sml-621.jpg
+url: "/node/621/"
+aliases: []
+date: '2004-05-13'
 ---
 

@@ -10,13 +10,14 @@ title: ring designs
 author: anj
 created: '2006-05-05'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1614/"
-permalink: "/2006/05/05/ring_designs/"
 tags:
-- Engagement
+  - Engagement
 images:
-- src: image/images/rings_0.png
-  name: rings_0.png
+  - src: image/images/rings_0.png
+    name: rings_0.png
+url: "/2006/05/05/ring_designs/"
+aliases:
+  - "/node/1614/"
+date: '2006-05-05'
 ---
 A sample of our original ring designs, with our chosen design emphasised.

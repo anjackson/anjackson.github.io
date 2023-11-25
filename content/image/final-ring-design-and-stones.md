@@ -10,13 +10,14 @@ title: final ring design, and stones
 author: anj
 created: '2006-05-05'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1615/"
-permalink: "/2006/05/05/final_ring_design_and_stones/"
 tags:
-- Engagement
+  - Engagement
 images:
-- src: image/images/ring-drawings_1104_2-sml.jpg
-  name: ring-drawings_1104_2-sml.jpg
+  - src: image/images/ring-drawings_1104_2-sml.jpg
+    name: ring-drawings_1104_2-sml.jpg
+url: "/2006/05/05/final_ring_design_and_stones/"
+aliases:
+  - "/node/1615/"
+date: '2006-05-05'
 ---
 The drawings of the rings, by Joanne at RingMaker,  along with the Aquamarine we chose as the main stone and a diamond.

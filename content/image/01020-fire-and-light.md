@@ -10,15 +10,16 @@ title: 01020 - Fire & Light
 author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/342/"
 tags:
-- California
-- 2003/09 - September 2003
-- Graham D
-- Catherine M
+  - California
+  - 2003/09 - September 2003
+  - Graham D
+  - Catherine M
 images:
-- src: image/images/110_1020-342.jpg
-  name: 110_1020-342.jpg
+  - src: image/images/110_1020-342.jpg
+    name: 110_1020-342.jpg
+url: "/node/342/"
+aliases: []
+date: '2004-03-26'
 ---
 The fire damage looks pretty bad, but the Sequoia has evolved to use the fire.  Its bark acts as a fireproof suit, and seeds will only open during a fire because just after a fire is when the soil is most fertile.

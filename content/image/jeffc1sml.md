@@ -10,12 +10,13 @@ title: jeffC1sml
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/682/"
 tags:
-- Older
+  - Older
 images:
-- src: image/images/jeffc1sml-682.jpg
-  name: jeffc1sml-682.jpg
+  - src: image/images/jeffc1sml-682.jpg
+    name: jeffc1sml-682.jpg
+url: "/node/682/"
+aliases: []
+date: '2004-05-13'
 ---
 

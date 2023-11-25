@@ -10,14 +10,15 @@ title: 03985 Misty Beach I
 author: anj
 created: '2004-08-20'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/1390/"
 tags:
-- Highlights
-- 2004/01 - January 2004
-- Abel Tasman
+  - Highlights
+  - 2004/01 - January 2004
+  - Abel Tasman
 images:
-- src: image/images/03985_misty_beach_i-1390.jpg
-  name: 03985_misty_beach_i-1390.jpg
+  - src: image/images/03985_misty_beach_i-1390.jpg
+    name: 03985_misty_beach_i-1390.jpg
+url: "/node/1390/"
+aliases: []
+date: '2004-08-20'
 ---
 

@@ -10,9 +10,10 @@ title: The Helix Nebula - NGC 7293
 author: anj
 created: '2004-08-16'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/1308/"
 tags:
-- From the internet
+  - From the internet
+url: "/node/1308/"
+aliases: []
+date: '2004-08-16'
 ---
 Rather fine. From a hubblesite.org press release.

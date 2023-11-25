@@ -1,15 +1,17 @@
 ---
 layout: project
 type: project
-permalink: "/projects/aadda/"
 category: Data Mining
-tags: [data-mining,digital-preservation]
+tags: [data-mining, digital-preservation]
 fa-icon: fa-code-fork
 background: /projects/images/aadda.png
 screenshot: /projects/images/aadda.png
 title: AADDA
 summary: Analytical Access to the Dark Domain Archive
 year: 2012
+url: "/projects/aadda/"
+aliases: null
+date: null
 ---
 
 In 2012, JISC funded two projects based on the idea of exploring the ways in which researchers might exploit the [JISC UK Web Domain Dataset (1996-2013)][2].

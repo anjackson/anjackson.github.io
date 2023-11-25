@@ -10,13 +10,14 @@ title: 02707 Snow, rock and pool.
 author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/918/"
 tags:
-- 2003/11 - November 2003
-- Tongariro Crossing
+  - 2003/11 - November 2003
+  - Tongariro Crossing
 images:
-- src: image/images/127_2707-918.jpg
-  name: 127_2707-918.jpg
+  - src: image/images/127_2707-918.jpg
+    name: 127_2707-918.jpg
+url: "/node/918/"
+aliases: []
+date: '2004-07-26'
 ---
 

@@ -10,13 +10,14 @@ title: 03804 Moeraki Boulders
 author: anj
 created: '2004-08-20'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1313/"
-permalink: "/2004/08/20/03804_c/"
 tags:
-- Moeraki
+  - Moeraki
 images:
-- src: image/images/03804-c-1313.jpg
-  name: 03804-c-1313.jpg
+  - src: image/images/03804-c-1313.jpg
+    name: 03804-c-1313.jpg
+url: "/2004/08/20/03804_c/"
+aliases:
+  - "/node/1313/"
+date: '2004-08-20'
 ---
 

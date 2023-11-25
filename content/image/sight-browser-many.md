@@ -10,12 +10,13 @@ title: 'Sight: browser, many'
 author: anj
 created: '2004-08-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/1295/"
 tags:
-- screenshots
+  - screenshots
 images:
-- src: image/images/browser-many-1295.png
-  name: browser-many-1295.png
+  - src: image/images/browser-many-1295.png
+    name: browser-many-1295.png
+url: "/node/1295/"
+aliases: []
+date: '2004-08-13'
 ---
 

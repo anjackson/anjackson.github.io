@@ -10,9 +10,10 @@ title: David &amp; Jenny leave.
 author: anj
 created: '2004-05-12'
 changed: '2004-05-24'
-redirect_from: []
-permalink: "/node/572/"
 tags:
-- General
+  - General
+url: "/node/572/"
+aliases: []
+date: '2004-05-12'
 ---
 Flying out of Auckland.

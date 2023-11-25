@@ -10,13 +10,14 @@ title: 01101 Towel Tree
 author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/348/"
 tags:
-- Fiji
-- 2003/09 - September 2003
+  - Fiji
+  - 2003/09 - September 2003
 images:
-- src: image/images/img_1101-348.jpg
-  name: img_1101-348.jpg
+  - src: image/images/img_1101-348.jpg
+    name: img_1101-348.jpg
+url: "/node/348/"
+aliases: []
+date: '2004-03-26'
 ---
 What can I say.  It was rather nice.  Mala Mala island, Fiji.

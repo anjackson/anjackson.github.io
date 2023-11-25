@@ -10,14 +10,15 @@ title: Waterfall
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1035/"
-permalink: "/2004/08/10/waterfall_1/"
 tags:
-- Coromandel
-- Aaron P
+  - Coromandel
+  - Aaron P
 images:
-- src: image/images/img_2233-1035.jpg
-  name: img_2233-1035.jpg
+  - src: image/images/img_2233-1035.jpg
+    name: img_2233-1035.jpg
+url: "/2004/08/10/waterfall_1/"
+aliases:
+  - "/node/1035/"
+date: '2004-08-10'
 ---
 

@@ -10,13 +10,14 @@ title: McNaught closeup
 author: anj
 created: '2007-01-19'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1763/"
-permalink: "/2007/01/19/mcnaught_closeup/"
 tags:
-- Comet McNaught
+  - Comet McNaught
 images:
-- src: image/images/IMG_3223.JPG
-  name: IMG_3223.JPG
+  - src: image/images/IMG_3223.JPG
+    name: IMG_3223.JPG
+url: "/2007/01/19/mcnaught_closeup/"
+aliases:
+  - "/node/1763/"
+date: '2007-01-19'
 ---
 

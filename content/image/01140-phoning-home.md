@@ -10,14 +10,15 @@ title: 01140 Phoning Home
 author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/350/"
 tags:
-- Highlights
-- Sydney
-- 2003/10 - October 2003
+  - Highlights
+  - Sydney
+  - 2003/10 - October 2003
 images:
-- src: image/images/img_1140-350.jpg
-  name: img_1140-350.jpg
+  - src: image/images/img_1140-350.jpg
+    name: img_1140-350.jpg
+url: "/node/350/"
+aliases: []
+date: '2004-03-26'
 ---
 First night in Sydney - you've just got to go to the Opera House, just to prove to yourself that you really are there. 

@@ -10,13 +10,14 @@ title: Sun Conure
 author: anj
 created: '2007-01-31'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1784/"
-permalink: "/2007/01/31/sun_conure/"
 tags:
-- Wellington Zoo
+  - Wellington Zoo
 images:
-- src: image/images/IMG_3392.JPG
-  name: IMG_3392.JPG
+  - src: image/images/IMG_3392.JPG
+    name: IMG_3392.JPG
+url: "/2007/01/31/sun_conure/"
+aliases:
+  - "/node/1784/"
+date: '2007-01-31'
 ---
 

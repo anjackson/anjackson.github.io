@@ -10,13 +10,14 @@ title: 04142 Mooring
 author: anj
 created: '2004-11-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/1465/"
 tags:
-- 2004/01 - January 2004
-- Abel Tasman
+  - 2004/01 - January 2004
+  - Abel Tasman
 images:
-- src: image/images/04142_mooring-1465.jpg
-  name: 04142_mooring-1465.jpg
+  - src: image/images/04142_mooring-1465.jpg
+    name: 04142_mooring-1465.jpg
+url: "/node/1465/"
+aliases: []
+date: '2004-11-13'
 ---
 

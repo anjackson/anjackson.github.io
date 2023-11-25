@@ -10,13 +10,14 @@ title: 11308 Corrugated Car
 author: anj
 created: '2004-11-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/1500/"
 tags:
-- Wellington
-- 2004/11 November 2004
+  - Wellington
+  - 2004/11 November 2004
 images:
-- src: image/images/11308_corrugated_car-1500.jpg
-  name: 11308_corrugated_car-1500.jpg
+  - src: image/images/11308_corrugated_car-1500.jpg
+    name: 11308_corrugated_car-1500.jpg
+url: "/node/1500/"
+aliases: []
+date: '2004-11-13'
 ---
 

@@ -10,12 +10,13 @@ title: millfield
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/635/"
 tags:
-- Older
+  - Older
 images:
-- src: image/images/millfield-635.jpg
-  name: millfield-635.jpg
+  - src: image/images/millfield-635.jpg
+    name: millfield-635.jpg
+url: "/node/635/"
+aliases: []
+date: '2004-05-13'
 ---
 

@@ -10,13 +10,14 @@ title: Eilidh's first photo of Wellington
 author: anj
 created: '2007-01-19'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1725/"
-permalink: "/2007/01/19/eilidhs_first_photo_of_wellington/"
 tags:
-- The first few days
+  - The first few days
 images:
-- src: image/images/IMG_1479.jpg
-  name: IMG_1479.jpg
+  - src: image/images/IMG_1479.jpg
+    name: IMG_1479.jpg
+url: "/2007/01/19/eilidhs_first_photo_of_wellington/"
+aliases:
+  - "/node/1725/"
+date: '2007-01-19'
 ---
 

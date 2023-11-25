@@ -10,13 +10,14 @@ title: Still lagging...
 author: anj
 created: '2007-01-19'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1759/"
-permalink: "/2007/01/19/still_lagging/"
 tags:
-- Otari-Wilton's Bush
+  - Otari-Wilton's Bush
 images:
-- src: image/images/IMG_1563.JPG
-  name: IMG_1563.JPG
+  - src: image/images/IMG_1563.JPG
+    name: IMG_1563.JPG
+url: "/2007/01/19/still_lagging/"
+aliases:
+  - "/node/1759/"
+date: '2007-01-19'
 ---
 

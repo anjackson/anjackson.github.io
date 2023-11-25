@@ -10,13 +10,14 @@ title: A Couple with Their Heads Full of Clouds
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from:
-- "/node/628/"
-permalink: "/2004/05/13-a-couple-with-their-heads-full-of-clouds/"
 tags:
-- Older
+  - Older
 images:
-- src: image/images/dali-ed-628.jpg
-  name: dali-ed-628.jpg
+  - src: image/images/dali-ed-628.jpg
+    name: dali-ed-628.jpg
+url: "/2004/05/13-a-couple-with-their-heads-full-of-clouds/"
+aliases:
+  - "/node/628/"
+date: '2004-05-13'
 ---
 Salvador DalÃ­, 1936. [more info...](http://www.abcgallery.com/D/dali/dali169.html)

@@ -10,13 +10,14 @@ title: Stony Beach camping
 author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
-redirect_from:
-- "/node/780/"
-permalink: "/2004/07/26/stony_beach_camping/"
 tags:
-- Coromandel
+  - Coromandel
 images:
-- src: image/images/img_2324-780.jpg
-  name: img_2324-780.jpg
+  - src: image/images/img_2324-780.jpg
+    name: img_2324-780.jpg
+url: "/2004/07/26/stony_beach_camping/"
+aliases:
+  - "/node/780/"
+date: '2004-07-26'
 ---
 

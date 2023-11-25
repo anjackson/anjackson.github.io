@@ -10,13 +10,14 @@ title: ed-bh-shadow.sml
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/654/"
 tags:
-- Edinburgh
-- Older
+  - Edinburgh
+  - Older
 images:
-- src: image/images/ed-bh-shadow.sml-654.jpg
-  name: ed-bh-shadow.sml-654.jpg
+  - src: image/images/ed-bh-shadow.sml-654.jpg
+    name: ed-bh-shadow.sml-654.jpg
+url: "/node/654/"
+aliases: []
+date: '2004-05-13'
 ---
 

@@ -10,13 +10,14 @@ title: Analysis of molecular dynamics trajectories
 author: anj
 created: '2004-05-12'
 changed: '2007-02-08'
-redirect_from:
-- "/node/585/"
-permalink: "/ix2v/comphys/docs/ug/y3-pm2-md-lj.pdf/"
 tags: []
 attachments:
-- src: page/files/y3-pm2-md-lj.pdf
-  name: y3-pm2-md-lj.pdf
+  - src: page/files/y3-pm2-md-lj.pdf
+    name: y3-pm2-md-lj.pdf
+url: "/ix2v/comphys/docs/ug/y3-pm2-md-lj.pdf/"
+aliases:
+  - "/node/585/"
+date: '2004-05-12'
 ---
 ### Particle Simulation I: Assignment II
 ## Analysis of molecular dynamics trajectories

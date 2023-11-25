@@ -10,14 +10,15 @@ title: 00665 Slick Jeff tucks in.
 author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/322/"
 tags:
-- California
-- 2003/09 - September 2003
-- Slick Jeff
+  - California
+  - 2003/09 - September 2003
+  - Slick Jeff
 images:
-- src: image/images/106_0665-322.jpg
-  name: 106_0665-322.jpg
+  - src: image/images/106_0665-322.jpg
+    name: 106_0665-322.jpg
+url: "/node/322/"
+aliases: []
+date: '2004-03-26'
 ---
 The time difference from London to L.A. as far too much for Slick, so he headed to bed early.

@@ -10,13 +10,14 @@ title: Stephen Colbert Points The Finger
 author: anj
 created: '2006-05-30'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1625/"
-permalink: "/2006/05/30/stephen_colbert_points_the_finger/"
 tags:
-- From the internet
+  - From the internet
 images:
-- src: image/images/Colbert.png
-  name: Colbert.png
+  - src: image/images/Colbert.png
+    name: Colbert.png
+url: "/2006/05/30/stephen_colbert_points_the_finger/"
+aliases:
+  - "/node/1625/"
+date: '2006-05-30'
 ---
 Stephen Colbert at the White House Correspondents Dinner.

@@ -10,9 +10,10 @@ title: grand parade
 author: anj
 created: '2004-12-22'
 changed: '2004-12-22'
-redirect_from: []
-permalink: "/node/1571/"
 tags: []
+url: "/node/1571/"
+aliases: []
+date: '2004-12-22'
 ---
 :I love the way 
 :I feel so calm

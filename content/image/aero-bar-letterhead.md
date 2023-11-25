@@ -10,9 +10,10 @@ title: Aero Bar Letterhead
 author: anj
 created: '2004-07-16'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/736/"
 tags:
-- From the internet
+  - From the internet
+url: "/node/736/"
+aliases: []
+date: '2004-07-16'
 ---
 Scan of the Aero bar letterhead from the literature sent to me by Nestle.

@@ -10,13 +10,14 @@ title: Galactic Simulation
 author: anj
 created: '2004-05-12'
 changed: '2007-02-08'
-redirect_from:
-- "/node/579/"
-permalink: "/ix2v/comphys/docs/ug/y4-pmii-galactic.pdf/"
 tags: []
 attachments:
-- src: page/files/y4-pmii-galactic.pdf
-  name: y4-pmii-galactic.pdf
+  - src: page/files/y4-pmii-galactic.pdf
+    name: y4-pmii-galactic.pdf
+url: "/ix2v/comphys/docs/ug/y4-pmii-galactic.pdf/"
+aliases:
+  - "/node/579/"
+date: '2004-05-12'
 ---
 ### Particle Simulation II Course Assignment
 ## Andrew N Jackson 14th Feburary 1997

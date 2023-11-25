@@ -10,12 +10,13 @@ title: ildg-logo-sml
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/671/"
 tags:
-- Older
+  - Older
 images:
-- src: image/images/ildg-logo-sml-671.png
-  name: ildg-logo-sml-671.png
+  - src: image/images/ildg-logo-sml-671.png
+    name: ildg-logo-sml-671.png
+url: "/node/671/"
+aliases: []
+date: '2004-05-13'
 ---
 

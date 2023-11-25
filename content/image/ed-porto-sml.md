@@ -10,13 +10,14 @@ title: ed-porto.sml
 author: anj
 created: '2004-05-13'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/656/"
 tags:
-- Edinburgh
-- Older
+  - Edinburgh
+  - Older
 images:
-- src: image/images/ed-porto.sml-656.jpg
-  name: ed-porto.sml-656.jpg
+  - src: image/images/ed-porto.sml-656.jpg
+    name: ed-porto.sml-656.jpg
+url: "/node/656/"
+aliases: []
+date: '2004-05-13'
 ---
 

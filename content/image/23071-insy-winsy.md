@@ -10,13 +10,14 @@ title: 23071 Insy Winsy
 author: anj
 created: '2006-07-29'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1641/"
-permalink: "/2006/07/29/23071_insy_winsy/"
 tags:
-- Eilidh
+  - Eilidh
 images:
-- src: image/images/IMGP3071.JPG
-  name: IMGP3071.JPG
+  - src: image/images/IMGP3071.JPG
+    name: IMGP3071.JPG
+url: "/2006/07/29/23071_insy_winsy/"
+aliases:
+  - "/node/1641/"
+date: '2006-07-29'
 ---
 

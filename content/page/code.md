@@ -10,10 +10,11 @@ title: Code
 author: anj
 created: '2009-08-10'
 changed: '2009-08-10'
-redirect_from:
-- "/node/1846/"
-permalink: "/code/"
 tags: []
+url: "/code/"
+aliases:
+  - "/node/1846/"
+date: '2009-08-10'
 ---
 * [anjackson@github](http://github.com/anjackson)
 * [andy_j@sourceforge](http://sourceforge.net/users/andy_j)

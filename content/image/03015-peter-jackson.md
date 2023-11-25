@@ -10,13 +10,14 @@ title: 03015 Peter Jackson
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/1073/"
 tags:
-- The Return Of The King
-- 2003/12 - December 2003
+  - The Return Of The King
+  - 2003/12 - December 2003
 images:
-- src: image/images/130_3015-1073.jpg
-  name: 130_3015-1073.jpg
+  - src: image/images/130_3015-1073.jpg
+    name: 130_3015-1073.jpg
+url: "/node/1073/"
+aliases: []
+date: '2004-08-10'
 ---
 

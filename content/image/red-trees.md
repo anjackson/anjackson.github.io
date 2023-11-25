@@ -10,13 +10,14 @@ title: Red trees
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/991/"
-permalink: "/2004/08/10/red_trees/"
 tags:
-- Bay of Islands
+  - Bay of Islands
 images:
-- src: image/images/img_2092-991.jpg
-  name: img_2092-991.jpg
+  - src: image/images/img_2092-991.jpg
+    name: img_2092-991.jpg
+url: "/2004/08/10/red_trees/"
+aliases:
+  - "/node/991/"
+date: '2004-08-10'
 ---
 

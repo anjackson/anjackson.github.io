@@ -10,15 +10,16 @@ title: Camping with beer
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1036/"
-permalink: "/2004/08/10/camping_with_beer/"
 tags:
-- Coromandel
-- Aaron P
-- Claire G
+  - Coromandel
+  - Aaron P
+  - Claire G
 images:
-- src: image/images/img_2237-1036.jpg
-  name: img_2237-1036.jpg
+  - src: image/images/img_2237-1036.jpg
+    name: img_2237-1036.jpg
+url: "/2004/08/10/camping_with_beer/"
+aliases:
+  - "/node/1036/"
+date: '2004-08-10'
 ---
 

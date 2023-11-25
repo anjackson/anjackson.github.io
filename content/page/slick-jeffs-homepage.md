@@ -10,9 +10,10 @@ title: Slick Jeff's Homepage
 author: anj
 created: '2004-08-11'
 changed: '2004-08-11'
-redirect_from:
-- "/node/1288/"
-permalink: "/url/sj/"
 tags: []
+url: "/url/sj/"
+aliases:
+  - "/node/1288/"
+date: '2004-08-11'
 ---
 Currently offline.

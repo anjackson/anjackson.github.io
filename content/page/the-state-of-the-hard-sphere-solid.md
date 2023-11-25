@@ -10,14 +10,15 @@ title: The State Of The Hard-Sphere Solid
 author: anj
 created: '2004-05-12'
 changed: '2007-02-08'
-redirect_from:
-- "/node/574/"
-permalink: "/ix2v/comphys/docs/phd/hs-refrev.pdf/"
 tags:
-- Science
+  - Science
 attachments:
-- src: page/files/hs-refrev.pdf
-  name: hs-refrev.pdf
+  - src: page/files/hs-refrev.pdf
+    name: hs-refrev.pdf
+url: "/ix2v/comphys/docs/phd/hs-refrev.pdf/"
+aliases:
+  - "/node/574/"
+date: '2004-05-12'
 ---
 ### The State Of The Hard-Sphere Solid
 

@@ -10,13 +10,14 @@ title: Looking across the bay.
 author: anj
 created: '2004-08-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1097/"
-permalink: "/2004/08/10/looking_across_the_bay/"
 tags:
-- Wellington
+  - Wellington
 images:
-- src: image/images/130_3082-1097.jpg
-  name: 130_3082-1097.jpg
+  - src: image/images/130_3082-1097.jpg
+    name: 130_3082-1097.jpg
+url: "/2004/08/10/looking_across_the_bay/"
+aliases:
+  - "/node/1097/"
+date: '2004-08-10'
 ---
 

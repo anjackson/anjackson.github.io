@@ -10,13 +10,14 @@ title: Bird sanctuary
 author: anj
 created: '2007-01-19'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1737/"
-permalink: "/2007/01/19/bird_sanctuary/"
 tags:
-- The first few days
+  - The first few days
 images:
-- src: image/images/IMG_2877.JPG
-  name: IMG_2877.JPG
+  - src: image/images/IMG_2877.JPG
+    name: IMG_2877.JPG
+url: "/2007/01/19/bird_sanctuary/"
+aliases:
+  - "/node/1737/"
+date: '2007-01-19'
 ---
 

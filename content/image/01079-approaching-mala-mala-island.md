@@ -10,14 +10,15 @@ title: 01079 Approaching Mala Mala Island
 author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/436/"
 tags:
-- Fiji
-- Highlights
-- 2003/09 - September 2003
+  - Fiji
+  - Highlights
+  - 2003/09 - September 2003
 images:
-- src: image/images/img_1079-b-436.jpg
-  name: img_1079-b-436.jpg
+  - src: image/images/img_1079-b-436.jpg
+    name: img_1079-b-436.jpg
+url: "/node/436/"
+aliases: []
+date: '2004-03-26'
 ---
 On the boat, heading to this island for a day.  Ain't life tough.

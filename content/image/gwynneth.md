@@ -10,13 +10,14 @@ title: Gwynneth
 author: anj
 created: '2006-07-10'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1633/"
-permalink: "/2006/07/10/gwynneth/"
 tags:
-- Edinburgh
+  - Edinburgh
 images:
-- src: image/images/IMG_1586_s.jpg
-  name: IMG_1586_s.jpg
+  - src: image/images/IMG_1586_s.jpg
+    name: IMG_1586_s.jpg
+url: "/2006/07/10/gwynneth/"
+aliases:
+  - "/node/1633/"
+date: '2006-07-10'
 ---
 

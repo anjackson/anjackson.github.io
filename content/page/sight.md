@@ -10,10 +10,11 @@ title: Sight
 author: anj
 created: '2004-08-13'
 changed: '2004-11-30'
-redirect_from:
-- "/node/1297/"
-permalink: "/poot/java/sight/"
 tags: []
+url: "/poot/java/sight/"
+aliases:
+  - "/node/1297/"
+date: '2004-08-13'
 ---
 # Sight
 A BibTeX references file management application written in Java.

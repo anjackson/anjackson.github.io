@@ -10,10 +10,11 @@ title: words
 author: anj
 created: '2004-05-12'
 changed: '2004-05-12'
-redirect_from:
-- "/node/594/"
-permalink: "/about/ilike/words/"
 tags: []
+url: "/about/ilike/words/"
+aliases:
+  - "/node/594/"
+date: '2004-05-12'
 ---
 <p align="center">
 In drifts of sleep, I came upon you<br>

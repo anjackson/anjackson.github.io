@@ -10,8 +10,9 @@ title: The S Visitation - Reloaded.
 author: anj
 created: '2004-09-02'
 changed: '2004-10-01'
-redirect_from: []
-permalink: "/node/1420/"
 tags: []
+url: "/node/1420/"
+aliases: []
+date: '2004-09-02'
 ---
 To visit S for a couple of days.

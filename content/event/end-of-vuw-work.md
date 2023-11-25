@@ -10,8 +10,9 @@ title: End of VUW work.
 author: anj
 created: '2004-03-31'
 changed: '2004-05-27'
-redirect_from: []
-permalink: "/node/490/"
 tags: []
+url: "/node/490/"
+aliases: []
+date: '2004-03-31'
 ---
 End of time working for Paul Callaghan at Victoria University Wellington.

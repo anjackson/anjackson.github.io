@@ -10,13 +10,14 @@ title: Andy on Santa Monica beach
 author: anj
 created: '2007-01-19'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1709/"
-permalink: "/2007/01/19/andy_on_santa_monica_beach_0/"
 tags:
-- Christmas in Los Angeles
+  - Christmas in Los Angeles
 images:
-- src: image/images/IMG_1462_0.jpg
-  name: IMG_1462_0.jpg
+  - src: image/images/IMG_1462_0.jpg
+    name: IMG_1462_0.jpg
+url: "/2007/01/19/andy_on_santa_monica_beach_0/"
+aliases:
+  - "/node/1709/"
+date: '2007-01-19'
 ---
 

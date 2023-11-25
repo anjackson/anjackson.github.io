@@ -10,13 +10,14 @@ title: How old?
 author: anj
 created: '2007-01-31'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1770/"
-permalink: "/2007/01/31/how_old/"
 tags:
-- Wellington Zoo
+  - Wellington Zoo
 images:
-- src: image/images/IMG_3256.JPG
-  name: IMG_3256.JPG
+  - src: image/images/IMG_3256.JPG
+    name: IMG_3256.JPG
+url: "/2007/01/31/how_old/"
+aliases:
+  - "/node/1770/"
+date: '2007-01-31'
 ---
 

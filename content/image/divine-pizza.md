@@ -10,13 +10,14 @@ title: Divine Pizza
 author: anj
 created: '2007-01-19'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1723/"
-permalink: "/2007/01/19/divine_pizza/"
 tags:
-- The first few days
+  - The first few days
 images:
-- src: image/images/IMG_1482.jpg
-  name: IMG_1482.jpg
+  - src: image/images/IMG_1482.jpg
+    name: IMG_1482.jpg
+url: "/2007/01/19/divine_pizza/"
+aliases:
+  - "/node/1723/"
+date: '2007-01-19'
 ---
 

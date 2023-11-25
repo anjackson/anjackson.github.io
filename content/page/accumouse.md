@@ -10,12 +10,13 @@ title: AccuMouse
 author: anj
 created: '2004-05-31'
 changed: '2007-02-08'
-redirect_from:
-- "/node/707/"
-permalink: "/poot/riscos/accumouse/"
 tags: []
 attachments:
-- src: page/files/AccuMouse.zip
-  name: AccuMouse.zip
+  - src: page/files/AccuMouse.zip
+    name: AccuMouse.zip
+url: "/poot/riscos/accumouse/"
+aliases:
+  - "/node/707/"
+date: '2004-05-31'
 ---
 <img src="/themes/anjackson.net/sw/AccuMouse.gif" border="0" align="left" />Very tiny almost useful application which allows the mouse speed to be altered from an icon on the iconbar.You can switch between two mouse speeds, eitherdirectly or by holding the pointer still for a given amount of time.The high speed allows you to traverse the screen with ease, and the slow speed allows themouse pointer pixel-fine accuracy.I wrote this to make precise positioning of icons easier when using something like FormEd.

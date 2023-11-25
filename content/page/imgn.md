@@ -10,9 +10,10 @@ title: img|n
 author: anj
 created: '2004-03-26'
 changed: '2004-11-08'
-redirect_from: []
-permalink: "/node/313/"
 tags: []
+url: "/node/313/"
+aliases: []
+date: '2004-03-26'
 ---
 <br/>
 <br/>

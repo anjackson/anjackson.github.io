@@ -10,13 +10,14 @@ title: Eastern Grey Kangaroo
 author: anj
 created: '2007-01-31'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1775/"
-permalink: "/2007/01/31/eastern_grey_kangaroo/"
 tags:
-- Wellington Zoo
+  - Wellington Zoo
 images:
-- src: image/images/IMG_3302.JPG
-  name: IMG_3302.JPG
+  - src: image/images/IMG_3302.JPG
+    name: IMG_3302.JPG
+url: "/2007/01/31/eastern_grey_kangaroo/"
+aliases:
+  - "/node/1775/"
+date: '2007-01-31'
 ---
 

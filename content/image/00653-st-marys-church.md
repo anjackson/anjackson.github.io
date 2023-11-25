@@ -10,13 +10,14 @@ title: 00653 - St. Mary's Church
 author: anj
 created: '2004-03-26'
 changed: '2013-06-25'
-redirect_from: []
-permalink: "/node/319/"
 tags:
-- Wirksworth
-- 2003/09 - September 2003
+  - Wirksworth
+  - 2003/09 - September 2003
 images:
-- src: image/images/106_0653-319.jpg
-  name: 106_0653-319.jpg
+  - src: image/images/106_0653-319.jpg
+    name: 106_0653-319.jpg
+url: "/node/319/"
+aliases: []
+date: '2004-03-26'
 ---
 St. Mary's Church, Wirskworth.

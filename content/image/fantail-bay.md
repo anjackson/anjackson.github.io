@@ -10,13 +10,14 @@ title: Fantail Bay
 author: anj
 created: '2004-07-26'
 changed: '2013-06-25'
-redirect_from:
-- "/node/748/"
-permalink: "/2004/07/26/fantail_bay/"
 tags:
-- Coromandel
+  - Coromandel
 images:
-- src: image/images/img_2263-748.jpg
-  name: img_2263-748.jpg
+  - src: image/images/img_2263-748.jpg
+    name: img_2263-748.jpg
+url: "/2004/07/26/fantail_bay/"
+aliases:
+  - "/node/748/"
+date: '2004-07-26'
 ---
 

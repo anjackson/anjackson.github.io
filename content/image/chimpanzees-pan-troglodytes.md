@@ -10,13 +10,14 @@ title: Chimpanzees (Pan Troglodytes)
 author: anj
 created: '2007-01-31'
 changed: '2013-06-25'
-redirect_from:
-- "/node/1773/"
-permalink: "/2007/01/31/chimpanzees_pan_troglodytes/"
 tags:
-- Wellington Zoo
+  - Wellington Zoo
 images:
-- src: image/images/IMG_3286.JPG
-  name: IMG_3286.JPG
+  - src: image/images/IMG_3286.JPG
+    name: IMG_3286.JPG
+url: "/2007/01/31/chimpanzees_pan_troglodytes/"
+aliases:
+  - "/node/1773/"
+date: '2007-01-31'
 ---
 
