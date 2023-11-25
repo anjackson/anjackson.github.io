@@ -4,7 +4,7 @@ type: project
 title: digipres.org
 permalink: "/projects/digipres.org/"
 tags: [digital-preservation, websites]
-url: http://www.digipres.org/
+link_url: http://www.digipres.org/
 fa-icon: fa-users
 screenshot: /projects/images/digipres-org.png
 summary: Community-owned digital preservation resources
@@ -23,7 +23,7 @@ As well as bringing tools together, I've long been interested in directly compar
 
 As a further attempt to help the members of the digital preservation community help each other, I was also involved in setting up the [Digital Preservation Q&A site][8] following the failures of the digital preservation and the libraries and information science StackOverflow sites.
 
-[1]: {{ site.baseurl }}/work/digital-preservation/ 
+[1]: /work/digital-preservation/ 
 [2]: http://www.digipres.org/
 [3]: http://openpreservation.org/
 [4]: http://www.digipres.org/tools/

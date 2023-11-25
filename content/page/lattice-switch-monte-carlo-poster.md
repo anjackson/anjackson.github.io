@@ -10,9 +10,9 @@ title: Lattice Switch Monte Carlo Poster
 author: anj
 created: '2004-05-10'
 changed: '2007-02-08'
-redirect_from:
+aliases:
 - "/node/559/"
-permalink: "/ix2v/comphys/docs/phd/poster/"
+url: "/ix2v/comphys/docs/phd/poster/"
 tags: []
 attachments:
 - src: page/files/poster.pdf
