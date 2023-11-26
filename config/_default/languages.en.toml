@@ -8,10 +8,10 @@ title = "anjackson.net"
   isoCode = "en"
   rtl = false
   dateFormat = "2006-01-02"
-  logo = "icons/aj-logo-48x48.png"
+  # logo = "icons/aj-logo-48x48.png"
   # secondaryLogo = "img/secondary-logo.png"
   description = "anjackson.net"
-  copyright = "© Dr Andrew N. Jackson — <a style='color: black' title='Share &amp; Enjoy — CC-BY' href='https://creativecommons.org/licenses/by/3.0/'>CC-BY</a>."
+  copyright = "© Dr Andrew N. Jackson — <b><a title='Share &amp; Enjoy — CC-BY' href='https://creativecommons.org/licenses/by/3.0/'>CC-BY</a></b>."
 
 [author]
   name = "Andy Jackson"
