@@ -11,7 +11,7 @@ year: 2006
 #url: "/projects/mcsimpi/"
 aliases:
   - "/projects/mcsimpi.html"
-date: '2004-05-17'
+date: '2006-01-01'
 showDate: false
 showHero: true
 ---
