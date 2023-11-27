@@ -1,12 +1,13 @@
 ---
-layout: section
+layout: simple
 type: book
 promote: 0
 status: 1
 created_ts: 1229982339
 changed_ts: 1280000396
 node_id: 1836
-title: Web Archiving & Digital Preservation
+title: Digital Preservation
+subtitle: ...and Web Archiving
 author: anj
 created: '2008-12-22'
 changed: '2010-07-24'
@@ -18,6 +19,7 @@ aliases:
   - "/node/1836/"
   - "/work/digitalpreservation/"
 date: '2008-12-22'
+weight: 1
 ---
 
 Since joining the [PLANETS Project][1] in 2007, I have been researching digital preservation practices. More recently, I have started to apply my research experience in order to understand how best to make ensure large and complex digital collections remains discoverable, accessible and useful over time.

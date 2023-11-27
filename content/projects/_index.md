@@ -4,6 +4,7 @@ title: Projects
 url: "/projects/"
 aliases: null
 date: null
+groupByYear: false
+cardView: true
 ---
 
-{% include _projects.html all=true %}
