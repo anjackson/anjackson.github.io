@@ -10,7 +10,11 @@ summary: A toolkit for indexing web archives.
 year: 2014
 url: "/projects/webarchive-discovery/"
 aliases: null
-date: null
+date: '2014-01-01'
+showDate: false
+showSummary: true
+showHero: true
+
 ---
 
 The open source codebase that powered the [AADDA]({{site.baseurl}}/projects/aadda/) and [BUDDAH]({{site.baseurl}}/projects/buddah/) projects and all the other UK Web Archive search services is called [webarchive-discovery][1].

@@ -10,7 +10,10 @@ summary: Notes and experiments on digital preservation.
 year: 2013
 url: "/projects/keeping-codes/"
 aliases: null
-date: null
+date: '2013-01-01'
+showDate: false
+showSummary: true
+showHero: true
 ---
 
 [Keeping Codes][1] is a sub-site where my I share my notes and experiments on [digital preservation][2].

@@ -19,6 +19,9 @@ url: "/projects/websites/"
 aliases:
   - "/node/695/"
 date: '2004-05-17'
+showDate: false
+showSummary: true
+showHero: true
 ---
 
 anjackson.net

@@ -47,10 +47,7 @@
 {{ end }}
 
 <div class="flex flex-row flex-wrap items-center">
-  {{ if .Params.subtitle }}
-  <i>{{ .Params.subtitle }}</i>
-  <span class="px-2 text-primary-500">|</span>
-  {{ end }}
+  {{ if .Params.subtitle }}<i>{{ .Params.subtitle | safeHTML }}</i><span class="px-1 text-primary-500">|</span>{{ end }}
   {{/* Output partials */}}
   {{ with ($meta.Get "partials") }}
   {{ delimit . "<span class=\"px-2 text-primary-500\">&middot;</span>" | safeHTML }}

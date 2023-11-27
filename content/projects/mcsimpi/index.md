@@ -13,6 +13,7 @@ aliases:
   - "/projects/mcsimpi.html"
 date: '2006-01-01'
 showDate: false
+showSummary: true
 showHero: true
 ---
 
