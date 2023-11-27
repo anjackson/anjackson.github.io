@@ -8,7 +8,7 @@ title: MCSiMPI
 summary: Monte Carlo Simulation via MPI
 screenshot: /projects/images/mcsimpi.png
 year: 2006
-url: "/projects/mcsimpi/"
+#url: "/projects/mcsimpi/"
 aliases:
   - "/projects/mcsimpi.html"
 date: '2004-05-17'
