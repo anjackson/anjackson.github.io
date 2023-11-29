@@ -15,5 +15,8 @@ tags:
 url: "/node/713/"
 aliases: []
 date: '2004-06-05'
+images:
+  - src: image/images/aero9d-713.jpg
+    name: aero9d-713.jpg
 ---
 Pre-decimalization (1971) Rowntree Aero chocolate bar wrapper.  Image stolen from Alan's Chocolate Experience.

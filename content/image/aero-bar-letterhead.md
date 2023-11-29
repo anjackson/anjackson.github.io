@@ -15,5 +15,8 @@ tags:
 url: "/node/736/"
 aliases: []
 date: '2004-07-16'
+images:
+- src: "image/images/aerobar-736.jpg"
+  name: "aerobar-736.jpg"
 ---
 Scan of the Aero bar letterhead from the literature sent to me by Nestle.

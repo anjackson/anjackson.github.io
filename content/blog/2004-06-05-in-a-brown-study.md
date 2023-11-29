@@ -29,9 +29,9 @@ Despite the fact that David used to live in a shop in Wirksworth that sold Aeros
 __Exhibit A__ is the image at the top of this page, [a scan of a 1971 Aero bar](http://anjackson.net/node/713), ruthlessly stolen from [Alan's Chocolate Experience](http://website.lineone.net/~wallyed/choc5.html). It clearly shows the pre-decimalization price of the bar to be 9 old British pence (_d_ was used for pence, _s_ for shillings and _l_ for pounds - no-one knows why).
 
 
-__Exhibit B__ is this quote taken from the [NestlÃƒÂ© Rowntree brands website](http://www.aerochocolate.co.uk/about/brands/):
+__Exhibit B__ is this quote taken from the [Nestlé Rowntree brands website](http://www.aerochocolate.co.uk/about/brands/):
 
-_Aero was introduced in the North of England in 1935 as the Ã¢â‚¬Ëœthe new chocolateÃ¢â‚¬â„¢ and proved so popular that sales were extended throughout the UK by the end of the same year. It was originally going to be called Airways to reflect the vogue for jet travel in the 1930Ã¢â‚¬â„¢s when it was launched._
+_Aero was introduced in the North of England in 1935 as the ‘the new chocolate’ and proved so popular that sales were extended throughout the UK by the end of the same year. It was originally going to be called Airways to reflect the vogue for jet travel in the 1930’s when it was launched._
 
 __Exhibit C__ is Rowntree's British patent [GB 459583](http://l2.espacenet.com/espacenet/viewer?PN=GB459583&CY=gb&LG=en&DB=EPD) showing that the process involved in manufacturing the Aero bar was patented in 1937, two years after the bar was released.  See [this FoodiesCorner page](http://groups.msn.com/FoodiesCorner/foodienews.msnw?action=get_message&mview=1&ID_Message=3195)
 for a summary of the patented process (about a three-quarters of the way down that page).
