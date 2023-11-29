@@ -10,11 +10,12 @@ title: tuk-tuk-tastic
 author: anj
 created: '2004-06-17'
 changed: '2010-07-23'
-redirect_from:
-- "/node/720/"
-permalink: "/2004/06/17/tuktuktastic/"
 category:
 tags: [Travels]
+url: "/2004/06/17/tuktuktastic/"
+aliases:
+  - "/node/720/"
+date: '2004-06-17'
 ---
 {% include _image.html nid="719" align="left" hspace="10" vspace="5" width="" %}Made it! Mildly hectic afternoon but I'm really starting to enjoy this travelling game.  Ended up in a place called the [New Siam Guesthouse](http://www.newsiam.net/), in a room which has a fan, is clean, is reasonably secure, and is in a great location.  I decided air-con would be overdoing it, as it's not so hot here (just nicely hot - high twenties, and the rain has not appeared thus far). Paying something ridiculous like 2.50 GBP per night, and beer is around, ooh, 60 pence... :) I loiks it...
 

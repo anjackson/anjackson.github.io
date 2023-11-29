@@ -10,11 +10,12 @@ title: Quotification
 author: anj
 created: '2004-04-02'
 changed: '2010-07-23'
-redirect_from:
-- "/node/525/"
-permalink: "/2004/04/02/quotification/"
 category:
 tags: [General]
+url: "/2004/04/02/quotification/"
+aliases:
+  - "/node/525/"
+date: '2004-04-02'
 ---
 Came across this quote, which I rather like.
 

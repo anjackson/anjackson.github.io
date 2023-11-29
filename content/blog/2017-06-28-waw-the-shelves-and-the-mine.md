@@ -6,6 +6,9 @@ tags: ["Data Mining", "Web Archives", "Digital Preservation", "webarchive-discov
 layout: post
 author: anj
 shown: true
+url: null
+aliases: null
+date: null
 ---
 
 
@@ -31,19 +34,19 @@ Instead, today I want to compare the overall architecture of the two systems, be
 The Catalogue
 -------------
 
-![The Journey Of A Collection Item]({{ site.baseurl }}/blog/images/2017-06-WAW-archive-v-catalogue/Slide02.png)
+![The Journey Of A Collection Item](/blog/images/2017-06-WAW-archive-v-catalogue/Slide02.png)
 
 These are some still frames from a British Library video that shows the journey of a print collection item, from being posted to us, through acquisition, cataloguing, finishing and to the shelf. Then, when a reader requests it, from the shelf and out to the reading room. These processes represent a very large proportion of the day-to-day work of the British Library, and much of the library is built around supporting the efficient ingest and delivery of printed material. I don't just mean the work of the teams involved, but the very existence of those teams, the roles they hold and the management hierarchies that knit them together. Even the physical structure of our buildings, and the way they are connected, are all shaped by this chain of operations. 
 
 At the heart of this process sits the catalogue. At every step, the catalogue is updated to reflect this workflow, with the record of each item being created and then updated along the way.  The British Library catalogue is not just a collection of bibliographic metadata, it's also a process management system.
 
-![Models with chains of events]({{ site.baseurl }}/blog/images/2017-06-WAW-archive-v-catalogue/Slide03.png)
+![Models with chains of events](/blog/images/2017-06-WAW-archive-v-catalogue/Slide03.png)
 
 This is a very natural and sensible way to manage the chain of events that must occur in order to deal with print material, and we've been doing it like this for a very long time.  Consequently, this approach has become deeply embedded in our thinking, and reappears elsewhere.  Sometimes the events are in a line, and sometimes in a circle, but always implying a step-by-step approach. Ever forwards.
 
 We found another example last year, when we were looking at the way the library has reacted to the shifting of traditional print publications to online forms, particularly government publications. 
 
-![Document Processing Workflow]({{ site.baseurl }}/blog/images/2017-06-WAW-archive-v-catalogue/Slide04.png)
+![Document Processing Workflow](/blog/images/2017-06-WAW-archive-v-catalogue/Slide04.png)
 
 We learned that the curation and cataloging teams that handle printed material had started manually downloading these publications from the web, processing them and submitting them into our digital library system, and recording this all in the catalogue. But these very same publications were being downloaded and stored through our regular web archiving activities. This duplication of content reflected a significant duplication of effort across teams, and so we set out to resolve it by building a document harvester on top of the web archive.  
 
@@ -52,19 +55,19 @@ We learned that the curation and cataloging teams that handle printed material h
 The Web Archive
 ---------------
 
-![Web Curator Tool Workflow]({{ site.baseurl }}/blog/images/2017-06-WAW-archive-v-catalogue/Slide05.png)
+![Web Curator Tool Workflow](/blog/images/2017-06-WAW-archive-v-catalogue/Slide05.png)
 
 Before legal deposit, the web archive also worked as a chain of events. Every crawl target was defined by a period of time. Usually, we'd crawl a site a few times while we built up a collection, but at some point the crawl target was deemed complete and we'd move on to a new collection and a new set of sites to capture. The Web Curator Tool was built around this process.
 
 But when Legal Deposit came along, this had to change. The most obvious change under Legal Deposit is the sheer scale of the operation, going from thousands of sites a year to millions. But it's also about the way the workflow has changed.
 
-![Decoupled Collection & Curation Workflows]({{ site.baseurl }}/blog/images/2017-06-WAW-archive-v-catalogue/Slide06.png)
+![Decoupled Collection & Curation Workflows](/blog/images/2017-06-WAW-archive-v-catalogue/Slide06.png)
 
 Under Legal Deposit, we have to try to get it all, all the time! One very important example is that we now collect hundreds of news sites every day, because we want to have a good snapshot of web news no matter what, and this is an ongoing effort. We're not going to stop one day and declare we've had enough news (although lately that has become more tempting!).
 
 But of course, we still want to make our web archive more accessible by building collections around specific events or areas of interest. So the curation process now looks rather different. It *might* mean adding a new set of web sites to be crawled, but it's more likely to mean pulling in snapshots of sites or specific pages we've already crawled. The process of cataloguing and curating the web has become largely de-coupled from the process of collecting the web. 
 
-![Document Harvester Workflow]({{ site.baseurl }}/blog/images/2017-06-WAW-archive-v-catalogue/Slide07.png)
+![Document Harvester Workflow](/blog/images/2017-06-WAW-archive-v-catalogue/Slide07.png)
 
 Harvesting documents works in much the same way - rather than launching specific crawls for this purpose, we can pick out documents from the crawls and expose them for cataloguing.
 
@@ -80,25 +83,25 @@ But digital is different. Digital means you *can* go back and re-process everyth
 
 Maybe like this...
 
-![Helpful Robot Army]({{ site.baseurl }}/blog/images/2017-06-WAW-archive-v-catalogue/Slide08.png)
+![Helpful Robot Army](/blog/images/2017-06-WAW-archive-v-catalogue/Slide08.png)
 
 Or...
 
-![Disagreeable Robot Army]({{ site.baseurl }}/blog/images/2017-06-WAW-archive-v-catalogue/Slide09.png)
+![Disagreeable Robot Army](/blog/images/2017-06-WAW-archive-v-catalogue/Slide09.png)
 
 Maybe not.
 
-![Friendly Robot Army]({{ site.baseurl }}/blog/images/2017-06-WAW-archive-v-catalogue/Slide10.png)
+![Friendly Robot Army](/blog/images/2017-06-WAW-archive-v-catalogue/Slide10.png)
 
 (it's surprisingly difficult to find an image of a large group of robots that isn't creepy)
 
 How does this help us bring disparate data sources together? Well, a good analogy can be found in the recent geo-referencing work on the British Library maps collections. 
 
-![Geo-referencer Pins]({{ site.baseurl }}/blog/images/2017-06-WAW-archive-v-catalogue/Slide11.png)
+![Geo-referencer Pins](/blog/images/2017-06-WAW-archive-v-catalogue/Slide11.png)
 
 This picture shows a user helping us understand where an old digitised map lines up with a modern one. They do this by picking out specific features that appear on both, and this allow the old map to be projected on top of the new one.
 
-![Geo-referencer Layers]({{ site.baseurl }}/blog/images/2017-06-WAW-archive-v-catalogue/Slide12.png)
+![Geo-referencer Layers](/blog/images/2017-06-WAW-archive-v-catalogue/Slide12.png)
 
 If you imagine the modern map represents the web archive, then we can overlay different sources of data if we can find common points of reference. This might be the names of publications or journals or authors, identifiers like ISBNs or DOIs, or other entities like dates or possible even place names, just like the maps. If we can find these entities and forge links with the catalogue, we can pull in more concepts from more sources and start to align the layers. As we do this, it opens up the possibility of studying the transition from print to online publication directly.
 
@@ -108,7 +111,7 @@ Thinking in Layers
 
 Now, instead of thinking in terms of chains of events, we're thinking in terms of layers of information.
 
-![Thinking in layers]({{ site.baseurl }}/blog/images/2017-06-WAW-archive-v-catalogue/Slide13.png)
+![Thinking in layers](/blog/images/2017-06-WAW-archive-v-catalogue/Slide13.png)
 
 Starting at the bottom, because can't curate or catalogue everything we use automated metadata and full-text extraction on the bulk of our the archived content. We then bring in web archive annotations that describe sites, and the collections and subject areas those sites belong to. From the main catalogue we can also start to bring in publications and their identifiers, and then all of these sources can be merged together (with the manually created metadata taking precedence). From there, we can now populate our full-text search system, or re-generate our datasets and reports.
 
@@ -116,7 +119,7 @@ If the outcome leads to the catalogue being updated, or if we want to add a new 
 
 We can also use this approach to make the automated metadata extraction smarter - using analysis of the manual metadata to improve the extraction process.  This feedback loop, with curators and cataloguers in the driving seat, will help us teach the computers to do a better job of automated extraction, so the thousands of data points we can manually curate can help make billions of resources more useful.
 
-![Summary]({{ site.baseurl }}/blog/images/2017-06-WAW-archive-v-catalogue/Slide14.png)
+![Summary](/blog/images/2017-06-WAW-archive-v-catalogue/Slide14.png)
 
 
 

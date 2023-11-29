@@ -10,13 +10,14 @@ title: 'festival: tim minchin '
 author: anj
 created: '2006-08-08'
 changed: '2010-07-23'
-redirect_from:
-- "/2006/08/07/festival_tim_minchin/"
-- "/node/1679/"
-permalink: "/2006/08/08/festival_tim_minchin/"
 category:
 tags:
-- Reviews
+  - Reviews
+url: "/2006/08/08/festival_tim_minchin/"
+aliases:
+  - "/2006/08/07/festival_tim_minchin/"
+  - "/node/1679/"
+date: '2006-08-08'
 ---
 {% include _image.html nid="1678" align="right" hspace="" vspace="" width="150" %} Last weekend the [Edinburgh Festival Fringe](http://www.edfringe.com/) kicked off, and we went to see our first show - [Tim Minchin](http://www.timminchin.com/).  We saw his show last year (for which he won the Perrier Newcomer Award), and thought it was fantastic, so we booked tickets to see him again as soon as this year's program came out.
 

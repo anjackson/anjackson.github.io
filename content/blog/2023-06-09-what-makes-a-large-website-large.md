@@ -8,6 +8,8 @@ tags:
 layout: post
 author: anj
 shown: true
+url: null
+aliases: null
 ---
 Recently, the [Library of Congress's excellent Web Archive Team](https://www.loc.gov/programs/web-archiving/about-this-program/) sent out a request to gather information about how web archives cope with large websites. One of the questions was about how we define what makes a website "large".  This is my attempt to answer that question, and outline how we've adapted our crawling to cope with large sites...
 

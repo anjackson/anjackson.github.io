@@ -10,12 +10,13 @@ title: 'OPF Blog: Is obsolescence overrated?'
 author: anj
 created: '2010-12-22'
 changed: '2010-12-22'
-redirect_from:
-- "/node/1885/"
-permalink: "/2010/12/22/opf_blog_obsolescence_overrated/"
 category: digital-dark-age
 tags:
-- Digital Preservation
+  - Digital Preservation
+url: "/2010/12/22/opf_blog_obsolescence_overrated/"
+aliases:
+  - "/node/1885/"
+date: '2010-12-22'
 ---
 <p>
 A new OPF blog entry: <a href="http://openpreservation.org/knowledge/blogs/2010/12/22/obsolescence-overrated/">Is obsolescence overrated?</a>. Reproduced below...

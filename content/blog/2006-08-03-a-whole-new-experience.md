@@ -10,10 +10,11 @@ title: a whole new experience...
 author: anj
 created: '2006-08-03'
 changed: '2010-07-23'
-redirect_from:
-- "/node/1676/"
-permalink: "/2006/08/03/whole_new_experience/"
-category: 
+category:
 tags: []
+url: "/2006/08/03/whole_new_experience/"
+aliases:
+  - "/node/1676/"
+date: '2006-08-03'
 ---
 We are now the proud recipients of our very first parking ticket. Great.

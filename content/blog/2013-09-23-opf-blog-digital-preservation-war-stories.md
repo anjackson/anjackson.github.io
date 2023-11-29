@@ -5,8 +5,11 @@ title: 'OPF Blog: Digital Preservation War Stories'
 author: anj
 category:
 tags:
-- Digital Preservation
-- War Stories
+  - Digital Preservation
+  - War Stories
+url: null
+aliases: null
+date: null
 ---
 <p>
 A new OPF blog entry: <a href="http://openpreservation.org/knowledge/blogs/2013/09/23/digital-preservation-war-stories/">Digital Preservation War Stories</a>. Reproduced below...

@@ -9,6 +9,8 @@ tags:
 layout: post
 author: anj
 shown: true
+url: null
+aliases: null
 ---
 A [recent comment](https://mstdn.social/@quinnanya/109982604342822356) from the [\#DHNB2023](https://mstdn.social/tags/DHNB2023) conference caught my eye...
 

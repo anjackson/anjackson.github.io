@@ -5,6 +5,8 @@ date: 2023-01-12T23:05:54.798Z
 layout: post
 author: anj
 shown: true
+url: null
+aliases: null
 ---
 I'm not really into new year resolutions, but I would like to get back into blogging. I'd like to be a better writer, and more regular practice must surely help? So, to lower the barriers to blogging I've modified my [Jekyll](https://jekyllrb.com/)-powered blog to add a simple content management system.
 

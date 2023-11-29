@@ -35,7 +35,7 @@ This is the story of every digital resource. Every single one is born as *bytes 
 
 Code always comes first, and the first act of digital preservation is always 'Save as...'
 
-![Save as...]({{site.url}}/digipres-lessons-learned/images/save-icon.png)
+![Save as...](/digipres-lessons-learned/images/save-icon.png)
 
 
 

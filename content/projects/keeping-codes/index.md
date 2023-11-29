@@ -13,10 +13,13 @@ aliases: null
 date: '2013-01-01'
 showDate: false
 showSummary: true
-showHero: true
+showHero: false
+showAuthor: false
 ---
 
 [Keeping Codes][1] is a sub-site where my I share my notes and experiments on [digital preservation][2].
 
+![](./keeping-codes-featured.png)
+
 [1]: http://anjackson.github.io/keeping-codes/
-[2]: {{ site.baseurl }}/work/digital-preservation/
+[2]: /work/digital-preservation/

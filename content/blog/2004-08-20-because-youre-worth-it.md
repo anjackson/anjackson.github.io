@@ -10,12 +10,13 @@ title: because you're worth it
 author: anj
 created: '2004-08-20'
 changed: '2010-07-23'
-redirect_from:
-- "/node/1416/"
-permalink: "/2004/08/20/because_youre_worth_it/"
 category:
 tags:
-- Travels
+  - Travels
+url: "/2004/08/20/because_youre_worth_it/"
+aliases:
+  - "/node/1416/"
+date: '2004-08-20'
 ---
 I've not written for a while, and a few different things have got backed up, so I'll bunch them all together into one blog entry.  Clicky linky to read more.
 <!--break-->

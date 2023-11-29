@@ -19,11 +19,11 @@ However, this isn't quite what I was trying to say. The thing you interact with 
 
 Admittedly, sometimes the distance between the two is small. In the case of the ZX Spectrum loading screen they are almost identical: the data loaded from the tape just has to be unpacked[^1] and streamed into the right place in memory in order to produce the image. 
 
-![Schematic of how a ZX Spectrum loading scheme works.]({{site.url}}/digipres-lessons-learned/images/access-layers-spectrum.png)
+![Schematic of how a ZX Spectrum loading scheme works.](/digipres-lessons-learned/images/access-layers-spectrum.png)
 
 But in general, the bitstream format (and it's data model) are quite different to the run-time representation. Broadly speaking it's more common to have some internal data model that is manipulated when you interact with the software, which is then used to compose a 'view' of that model that can be delivered to the user (via the host operating system).
 
-![Schematic of how a modern software application usually works.]({{site.url}}/digipres-lessons-learned/images/access-layers-modern.png)
+![Schematic of how a modern software application usually works.](/digipres-lessons-learned/images/access-layers-modern.png)
 
 This kind of software is often much richer than most of the formats it supports. For example, when I restored the image by saving it from the GIMP image editor, I didn't *have* to save it as a JPEG. I could re-save it in a wide range of formats, translating the in-memory representation of the image into any of the bitstream formats GIMP supports. Like most editor software, it has a 'native' format that closely matches the capabilities of the software, and then a wider range of 'export' formats that are useful but may lose some functionality.
 

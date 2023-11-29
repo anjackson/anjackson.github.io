@@ -10,11 +10,12 @@ title: otari-wilton's bush
 author: anj
 created: '2007-01-25'
 changed: '2010-07-23'
-redirect_from:
-- "/node/1767/"
-permalink: "/2007/01/25/otariwiltons_bush/"
-category: 
+category:
 tags: [Travels]
+url: "/2007/01/25/otariwiltons_bush/"
+aliases:
+  - "/node/1767/"
+date: '2007-01-25'
 ---
 While staying in Ngaio, we visited [Otari-Wilton's Bush](http://www.otariwiltonsbush.org.nz/)...
 

@@ -10,11 +10,12 @@ title: steady progress
 author: anj
 created: '2004-07-30'
 changed: '2010-07-23'
-redirect_from:
-- "/node/981/"
-permalink: "/2004/07/30/steady_progress/"
-category: 
+category:
 tags: []
+url: "/2004/07/30/steady_progress/"
+aliases:
+  - "/node/981/"
+date: '2004-07-30'
 ---
 Well, work's going fairly well, and I'm still managing to enjoy being back!  It probably helps that the weather is pretty decent at the moment - it looks like being a good weekend.  Apart from work and the occasional beer, I've also been spending my evenings trying to sort my ~7000 Big Trip photos.  There are now a few new [Highlights](http://anjackson.net/image/tid/28) and [quite a lot more photos mostly unclassified as yet](http://anjackson.net/image/tid/29).
 <!--break-->

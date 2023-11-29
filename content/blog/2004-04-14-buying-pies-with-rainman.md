@@ -10,11 +10,12 @@ title: buying pies with rainman
 author: anj
 created: '2004-04-14'
 changed: '2010-07-23'
-redirect_from:
-- "/node/533/"
-permalink: "/2004/04/14/buying_pies_rainman/"
 category:
 tags: [Travels]
+url: "/2004/04/14/buying_pies_rainman/"
+aliases:
+  - "/node/533/"
+date: '2004-04-14'
 ---
 Great quotes during this trip...
 * _"I'm hungry like the wolf."_

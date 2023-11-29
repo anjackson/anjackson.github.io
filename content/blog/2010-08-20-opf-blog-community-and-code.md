@@ -10,11 +10,12 @@ title: 'OPF Blog: Community and code'
 author: anj
 created: '2010-08-20'
 changed: '2010-12-09'
-redirect_from:
-- "/node/1882/"
-permalink: "/2010/08/20/opf_blog_community_and_code/"
 category:
 tags: ["Development", "Digital Preservation"]
+url: "/2010/08/20/opf_blog_community_and_code/"
+aliases:
+  - "/node/1882/"
+date: '2010-08-20'
 ---
 As well as blogging about digital preservation here, I've also got a blog on the Open Planets Foundation website where I'll post about OPF issues. I've just posted my first blog entry there: <a href="http://openpreservation.org/knowledge/blogs/2010/08/19/community-and-code/">Community and code</a>. Reproduced below the fold.
 <!--break-->

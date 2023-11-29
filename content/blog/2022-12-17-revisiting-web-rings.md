@@ -6,6 +6,9 @@ tags: ["Websites"]
 layout: post
 author: anj
 shown: true
+url: null
+aliases: null
+date: null
 ---
 
 Recently, for _no particular reason I'm sure_, there seems to have been a renewed interest in more distributed and community-oriented ways of finding good stuff on the web. In particular, the ancient[^1] idea of [web rings](https://en.wikipedia.org/wiki/Webring) seems to keep coming back (as illustrated by [the webring page on the IndieWeb wiki](https://indieweb.org/webring)). 

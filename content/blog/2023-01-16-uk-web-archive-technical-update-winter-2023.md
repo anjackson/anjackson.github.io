@@ -10,6 +10,8 @@ tags:
   - Web Archives
 author: anj
 shown: true
+url: null
+aliases: null
 ---
 This is a summary of what’s been going on since [the update at the start of the autumn](https://blogs.bl.uk/webarchive/2022/10/uk-web-archive-technical-update-autumn-2022.html).
 

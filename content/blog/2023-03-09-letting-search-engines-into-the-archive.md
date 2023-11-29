@@ -8,6 +8,8 @@ tags:
 layout: post
 author: anj
 shown: true
+url: null
+aliases: null
 ---
 Usually we don't let search engines index web archives.  When sites are still live, we don't want the archived version to intefere with the search results. And the ethical implications of making dead sites available via search engines are not clear. (In fact, unless I'm missing something, that seems like an area that needs more analysis and research.)
 

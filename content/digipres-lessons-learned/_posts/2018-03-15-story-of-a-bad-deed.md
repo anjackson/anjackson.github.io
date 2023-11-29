@@ -73,7 +73,7 @@ Most computers use a byte-ordering called 'little-endian', but the older Mac use
 
 Indeed, [searching for the reversed pattern finds 430 files](https://www.webarchive.org.uk/shine/search?query=content_ffb:%22eddead0b%22), and better still the [online version of TRiD](http://mark0.net/onlinetrid.aspx) determines these to be early PowerPoint files.
 
-![TRiD Result]({{site.url}}/digipres-lessons-learned/images/trid-result-for-nii-ppt.png)
+![TRiD Result](/digipres-lessons-learned/images/trid-result-for-nii-ppt.png)
 
 In fact, [it looks like TRiD is also able to distinguish between versions 2.0 and 3.0](http://file-extension.net/seeker/file_extension_ppt), but only for the more common byte-ordering.
 

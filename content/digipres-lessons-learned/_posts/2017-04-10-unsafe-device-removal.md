@@ -22,11 +22,11 @@ For this experiment, you will need:
 
 I'm going to use this drive:
 
-![Test Drive]({{site.url}}/digipres-lessons-learned/images/save-as/save-as-test-drive.jpg)
+![Test Drive](/digipres-lessons-learned/images/save-as/save-as-test-drive.jpg)
 
 ...and this JPEG:
 
-![My father and my son, alike.]({{site.baseurl}}/digipres-lessons-learned/images/save-as/best-test-image.jpg)
+![My father and my son, alike.](/digipres-lessons-learned/images/save-as/best-test-image.jpg)
 
 ## Method ##
 
@@ -41,11 +41,11 @@ I'm going to use this drive:
 
 In my experiment, the first thing that happened was...
 
-![Disk Not Ejected Properly]({{site.url}}/digipres-lessons-learned/images/save-as/save-as-oops.jpg)
+![Disk Not Ejected Properly](/digipres-lessons-learned/images/save-as/save-as-oops.jpg)
 
 ...but beside this admonishment, the image was still there...
 
-![But Still There]({{site.url}}/digipres-lessons-learned/images/save-as/save-as-still-there.jpg)
+![But Still There](/digipres-lessons-learned/images/save-as/save-as-still-there.jpg)
 
 The bitstream was gone (optionally blended into oblivion -- the Digital Object destroyed). But the image was still on the screen. I bet yours is still there too.
 
@@ -55,7 +55,7 @@ Can you press 'Save as...', and get a new bitstream back? It depends on the soft
 
 When I [tried this with Apple Preview](https://www.flickr.com/photos/anjacks0n/sets/72157655724233440), I couldn't save the image, even though I could see it. 
 
-![Apple Preview Says No]({{site.url}}/digipres-lessons-learned/images/save-as/save-as-preview-says-no.png)
+![Apple Preview Says No](/digipres-lessons-learned/images/save-as/save-as-preview-says-no.png)
 
 The only way to save it seemed to be as a desktop screenshot, which I would then need to crop to get back an acceptable image.
 
@@ -70,6 +70,6 @@ I'd be fascinated to know what happens on other platforms and with other softwar
 
 [^1]: Go on, admit it, you've always wanted to try this and see what happens. Well, now you get to do it. For Science.
 [^2]: And entropy will win. And we don't want *that*.
-[^3]: The two images were highly similar, with a [PSNR](https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio) of just over 56dB and with a distribution of differences that looks like [this]({{site.url}}/digipres-lessons-learned/images/save-as/difference.png). It is not clear if the variation is due to small differences in JPEG compression parameters, or if all the parameters are the same but the implementations have small difference in execution (e.g. rounding errors).
+[^3]: The two images were highly similar, with a [PSNR](https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio) of just over 56dB and with a distribution of differences that looks like [this](/digipres-lessons-learned/images/save-as/difference.png). It is not clear if the variation is due to small differences in JPEG compression parameters, or if all the parameters are the same but the implementations have small difference in execution (e.g. rounding errors).
 
 

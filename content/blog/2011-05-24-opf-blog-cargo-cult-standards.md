@@ -5,8 +5,11 @@ title: 'OPF Blog: Cargo Cult Standards'
 author: anj
 category: digital-dark-age
 tags:
-- Digital Preservation
-- Representation Information
+  - Digital Preservation
+  - Representation Information
+url: null
+aliases: null
+date: null
 ---
 <p>
 A new OPF blog entry: <a href="http://openpreservation.org/knowledge/blogs/2011/05/24/cargo-cult-standards/">Cargo Cult Standards</a>. Reproduced below...

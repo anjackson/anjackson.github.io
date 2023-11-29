@@ -5,10 +5,13 @@ title: 'OPF Blog: User-Driven Digital Preservation'
 author: anj
 category:
 tags:
-- Digital Preservation
-- Preservation Actions
-- SCAPE
-- Web Archives
+  - Digital Preservation
+  - Preservation Actions
+  - SCAPE
+  - Web Archives
+url: null
+aliases: null
+date: null
 ---
 <p>
 A new OPF blog entry: <a href="http://openpreservation.org/knowledge/blogs/2014/08/28/user-driven-digital-preservation/">User-Driven Digital Preservation</a>. Reproduced below...

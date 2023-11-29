@@ -10,11 +10,12 @@ title: This rocks.
 author: anj
 created: '2004-03-18'
 changed: '2010-07-23'
-redirect_from:
-- "/node/12/"
-permalink: "/2004/03/18/rocks/"
-category: 
+category:
 tags: []
+url: "/2004/03/18/rocks/"
+aliases:
+  - "/node/12/"
+date: '2004-03-18'
 ---
 I mean, this really is rather fine...
 

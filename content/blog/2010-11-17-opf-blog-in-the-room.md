@@ -5,6 +5,9 @@ title: 'OPF Blog: In the room'
 author: anj
 category:
 tags: ["Development", "Digital Preservation"]
+url: null
+aliases: null
+date: null
 ---
 <p>
 A new OPF blog entry: <a href="http://openpreservation.org/knowledge/blogs/2010/11/17/room/">In the room</a>. Reproduced below...

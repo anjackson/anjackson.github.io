@@ -10,13 +10,14 @@ title: Building A Collaborative Format Registry Editor
 author: anj
 created: '2011-01-13'
 changed: '2011-01-14'
-redirect_from:
-- "/node/1887/"
-permalink: "/2011/01/13/building_collaborative_format_registry_editor/"
 category: format-registries
 tags:
-- Digital Preservation
-- Websites
+  - Digital Preservation
+  - Websites
+url: "/2011/01/13/building_collaborative_format_registry_editor/"
+aliases:
+  - "/node/1887/"
+date: '2011-01-13'
 ---
 <p>
 New OPF Blog: <a href="http://openpreservation.org/knowledge/blogs/2011/01/14/building-collaborative-format-registry-editor/">Building A Collaborative Format Registry Editor</a>. Reproduced below...

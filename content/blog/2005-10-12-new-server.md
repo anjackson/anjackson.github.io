@@ -10,11 +10,12 @@ title: new server
 author: anj
 created: '2005-10-12'
 changed: '2010-07-23'
-redirect_from:
-- "/node/1607/"
-permalink: "/2005/10/12/new_server/"
-category: 
+category:
 tags: []
+url: "/2005/10/12/new_server/"
+aliases:
+  - "/node/1607/"
+date: '2005-10-12'
 ---
 Just to let you know that the website and my anjackson.net email may have been behaving strangely over the last few days.  I've been moving between servers, from a virtual server (where I was sharing a computer with others) to my own server.  It's just a cheap one, but it should be noticably quicker and has an awful lot more disc space.
 

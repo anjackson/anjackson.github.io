@@ -16,6 +16,7 @@ aliases:
   - "/node/4/"
 date: '2004-03-19'
 groupByYear: false
-cardView: true
+showCards: true
+constrainItemsWidth: true
 ---
 

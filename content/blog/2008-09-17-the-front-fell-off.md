@@ -10,11 +10,12 @@ title: the front fell off
 author: anj
 created: '2008-09-17'
 changed: '2010-07-23'
-redirect_from:
-- "/node/1830/"
-permalink: "/2008/09/17/front_fell/"
-category: 
+category:
 tags: [Procrastination]
+url: "/2008/09/17/front_fell/"
+aliases:
+  - "/node/1830/"
+date: '2008-09-17'
 ---
 <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/WcU4t6zRAKg&hl=en&fs=1&rel=0"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/WcU4t6zRAKg&hl=en&fs=1&rel=0" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
 

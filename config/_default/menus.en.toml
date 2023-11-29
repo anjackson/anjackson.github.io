@@ -21,14 +21,21 @@
   weight = 20
 
 [[main]]
-  name = "Work"
-  pageRef = "work"
+  name = "Projects"
+  pageRef = "projects"
   weight = 30
 
 [[main]]
-  name = "Projects"
-  pageRef = "projects"
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/anjackson"
   weight = 40
+
+[[main]]
+  identifier = "mastodon"
+  pre = "mastodon"
+  url = "https://digipres.club/@anj"
+  weight = 50
 
 #[[main]]
 #  name = "example sub-menu 1"
@@ -69,12 +76,12 @@
 # the copyright notice. Configure as per the main menu above.
 
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+[[footer]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 10
 
-# [[footer]]
-#   name = "Categories"
-#   pageRef = "categories"
-#   weight = 20
+[[footer]]
+  name = "Categories"
+  pageRef = "category"
+  weight = 20

@@ -10,11 +10,12 @@ title: back to reality, part one
 author: anj
 created: '2004-04-25'
 changed: '2010-07-23'
-redirect_from:
-- "/node/545/"
-permalink: "/2004/04/25/back_reality_part_one/"
 category:
 tags: [Travels]
+url: "/2004/04/25/back_reality_part_one/"
+aliases:
+  - "/node/545/"
+date: '2004-04-25'
 ---
 Well, I'm back in Wellington.  And after a fairly long day of travel I'm just _itching_ to get back to work tomorrow.  Actually, I'm feeling fairly refreshed so work should go down okay.  And I'd run out of money anyway!
 

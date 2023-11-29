@@ -18,11 +18,11 @@ Well, the *official* answer is clear enough:
 > Digital Object: An object composed of a set of bit sequences. 
 > <small>[Reference Model for an Open Archival Information System (OAIS) ][1]</small>
 
-![Ce ne sont pas un objet numérique.]({{site.url}}/digipres-lessons-learned/images/notado.png)
+![Ce ne sont pas un objet numérique.](/digipres-lessons-learned/images/notado.png)
 
 Other treatments have attempted to draw more attention to the layers of interpretation around bitstreams -- to the software. For example, [Kenneth Thibodeau's tripartite model][3] teases the digital object into physical, logical and conceptual layers.  The team behind [BitCurator][7] tease the notion of a digital object into even more layers:
 
-> ![BitCurator Levels of Representation]({{site.url}}/blog/images/ll/bitcurator-levels-of-representation.jpg)  
+> ![BitCurator Levels of Representation](/blog/images/ll/bitcurator-levels-of-representation.jpg)  
 > "The various levels of representation in what we consider to be digital objects @BitCurator @openpreserve"
 > <small>[@digitalfay][6]</small>
 

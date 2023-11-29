@@ -13,7 +13,8 @@ aliases: null
 date: '2014-01-01'
 showDate: false
 showSummary: true
-showHero: true
+showHero: false
+showAuthor: false
 ---
 
 My work in [digital preservation][1] has taught me that there are no purely technical solutions to the problem of preserving access to digital resources. The knowledge that is required to maintain access to the wide range of digital material we wish to preserve is too vast for individual organisations to collect alone.
@@ -21,6 +22,8 @@ My work in [digital preservation][1] has taught me that there are no purely tech
 However, working together, I believe it is possible for 'memory institutions' like national archives or libraries to help sustain and support the wider ecosystem of expertise that we need and will need in the future.
 
 An ongoing theme of my research as been concerned with trying to find ways of making it easier to collaborate, and of making it simpler to compare and combine different tools that help us to preserve digital content.  Currently, these efforts are being brought together under the [digipres.org][2] domain (kindly hosted by the [Open Preservation Foundation][3]).
+
+![](digipres-org.png)
 
 For example, I created the latest version of the [POWRR Tool Grid][4], based on the work of the well-received [POWRR project][5]. Crucially, this involved switching over to use the [COPTR][6] tools wiki as the data source, putting the future management and maintenance of the tool grid onto a more sustainable and collaborative footing.
 

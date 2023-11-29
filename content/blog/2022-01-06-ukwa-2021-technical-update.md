@@ -9,6 +9,8 @@ tags:
 layout: post
 author: anj
 shown: true
+url: null
+aliases: null
 ---
 During the last quarter of 2021, the technical services that make up the web archive underwent lot of changes behind the scenes. These changes should help us to improve our services, so it's worth explaining a little about what's been going on.
 

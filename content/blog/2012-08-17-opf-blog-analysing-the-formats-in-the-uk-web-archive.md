@@ -5,10 +5,13 @@ title: 'OPF Blog: Analysing the formats in the UK Web Archive'
 author: anj
 category: mining-web-archives
 tags:
-- Data Mining
-- Digital Preservation
-- Web Archives
-- webarchive-discovery
+  - Data Mining
+  - Digital Preservation
+  - Web Archives
+  - webarchive-discovery
+url: null
+aliases: null
+date: null
 ---
 <p>
 A new OPF blog entry: <a href="http://openpreservation.org/knowledge/blogs/2012/08/17/analysing-formats-uk-web-archive/">Analysing the formats in the UK Web Archive</a>. Reproduced below...

@@ -5,6 +5,5 @@ url: "/projects/"
 aliases: null
 date: null
 groupByYear: false
-cardView: true
 ---
-
+Projects I've created, led or been closely involved in.

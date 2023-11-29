@@ -10,11 +10,12 @@ title: 'OPF Blog: Breaking Down The Format Registry'
 author: anj
 created: '2010-12-09'
 changed: '2010-12-09'
-redirect_from:
-- "/node/1883/"
-permalink: "/2010/12/09/opf_blog_breaking_down_format_registry/"
 category: format-registries
 tags: ["Digital Preservation"]
+url: "/2010/12/09/opf_blog_breaking_down_format_registry/"
+aliases:
+  - "/node/1883/"
+date: '2010-12-09'
 ---
 A new OPF blog entry: <a href="http://openpreservation.org/knowledge/blogs/2010/12/08/breaking-down-format-registry/">Breaking Down The Format Registry</a>. Reproduced below the fold.
 <!--break-->

@@ -8,6 +8,8 @@ tags:
 layout: post
 author: anj
 shown: true
+url: null
+aliases: null
 ---
 *First published [on the UKWA blog](https://blogs.bl.uk/webarchive/2023/06/reflections-on-the-iipc-web-archiving-conference-2023.html)...*
 

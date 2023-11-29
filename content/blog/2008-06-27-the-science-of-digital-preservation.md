@@ -10,11 +10,12 @@ title: the science of digital preservation
 author: anj
 created: '2008-06-27'
 changed: '2009-08-11'
-redirect_from:
-- "/node/1813/"
-permalink: "/2008/06/27/science_digital_preservation/"
 category:
 tags: ["Digital Preservation"]
+url: "/2008/06/27/science_digital_preservation/"
+aliases:
+  - "/node/1813/"
+date: '2008-06-27'
 ---
 > 
 > *UPDATE*: I've reconsided my position on this, and I think I've underestimated the issues involved in keeping the bytes safe.  I'll write up some notes [here](/digital_preservation_notebook/bit_preservation).

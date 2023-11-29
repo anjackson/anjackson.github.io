@@ -6,6 +6,9 @@ tags: ["Data Mining", "Web Archives", "BUDDAH"]
 layout: post
 author: anj
 shown: true
+url: null
+aliases: null
+date: null
 ---
 
 Originally published [on the UK Web Archive blog](http://britishlibrary.typepad.co.uk/webarchive/2016/02/updating-our-historical-search-service.html) on the 15th of February 2016.
@@ -16,7 +19,7 @@ But we remained frustrated, for two reasons. Firstly, when we built that first s
 
 Thanks to their input, I'm happy to be able to announce that our [historical search prototype][15] now spans the whole period from 1996 to [the 6th April 2013][16], and contains 3,520,628,647 distinct records.
 
-![Total Resource By Crawl Year]({{ site.baseurl }}/blog/images/shine-release-two-total-resources-over-time.png)
+![Total Resource By Crawl Year](/blog/images/shine-release-two-total-resources-over-time.png)
 
 Broken down by year, you can see there's a lot of variation, depending on the timings of the global crawls from which this collection was drawn. This is why [our trends visualisation][15] plots query results as a percentage of all the resources crawled in each year rather than absolute figures. However, the overall variation and the fact that the 2013 chunk only covers the first three months should be kept in mind when interpreting the results.
 
@@ -24,17 +27,17 @@ You might also notice there seem to be a few data points from as early as 1938, 
 
 Furthermore, we've decided to change the way we handle web archiving records that have been '[de-duplicated][18]'. When the crawler visits a page and finds *precisely* the same item as before, instead of storing another copy, we can store a so-called "revisit record" and refer to the earlier copy rather than duplicating it. This crude form of data compression can save a lot of disk space for frequently crawled material, and it's use has grown over time. For example, looking at the historical dataset, you can see that 30% of the 2013 results were duplicates.
 
-[![Total Resource By Crawl Year]({{ site.baseurl }}/blog/images/shine-release-two-revisits.png)](https://www.webarchive.org.uk/shine/graph?query=record_type:%22revisit%22)
+[![Total Resource By Crawl Year](/blog/images/shine-release-two-revisits.png)](https://www.webarchive.org.uk/shine/graph?query=record_type:%22revisit%22)
 
 However, as these records don't hold the actual item, our indexing process was not able to index these items properly. Over the next few weeks, we shall scan through these 65 million revisit records and 'reduplicate' them. This does mean that, for now, the results from 2013 might be a bit misleading in some cases. We also failed to index the last 11,031 of the 515,031 WARC files that make up this dataset (about 2% of the total, likely affecting the 2010-2013 results only), simply because we ran out of disk space. The index is using up 18.7TB of SSD storage, and if we can find more space, we'll fill in the rest.
 
 In the meantime, please explore our historical archive and tell us what you find! It might be slow sometimes (maybe 10-20 seconds), so please be patient, but we're pretty confident that it will be stable from now on.
 
-[![Early social media]({{ site.baseurl }}/blog/images/shine-release-two-early-social-media.png)](https://www.webarchive.org.uk/shine/graph?query=%22geocities%22%2C%22friendster%22%2C%22orkut%22&year_start=1996&year_end=2013&action=update)
+[![Early social media](/blog/images/shine-release-two-early-social-media.png)](https://www.webarchive.org.uk/shine/graph?query=%22geocities%22%2C%22friendster%22%2C%22orkut%22&year_start=1996&year_end=2013&action=update)
 
-[![Later social media]({{ site.baseurl }}/blog/images/shine-release-two-later-social-media.png)](https://www.webarchive.org.uk/shine/graph?query=%22myspace%22%2C%22facebook%22%2C%22twitter%22&year_start=1996&year_end=2013&action=update)
+[![Later social media](/blog/images/shine-release-two-later-social-media.png)](https://www.webarchive.org.uk/shine/graph?query=%22myspace%22%2C%22facebook%22%2C%22twitter%22&year_start=1996&year_end=2013&action=update)
 
-[![Austerity]({{ site.baseurl }}/blog/images/shine-release-two-austerity.png)](https://www.webarchive.org.uk/shine/graph?query=%28%22sub-prime%22+OR+%22subprime%22%29+AND+mortgage%2C+austerity+NOT+domain%3Amotorbooks.co.uk%2C+%22financial+crisis%22&year_start=1996&year_end=2013&action=update)
+[![Austerity](/blog/images/shine-release-two-austerity.png)](https://www.webarchive.org.uk/shine/graph?query=%28%22sub-prime%22+OR+%22subprime%22%29+AND+mortgage%2C+austerity+NOT+domain%3Amotorbooks.co.uk%2C+%22financial+crisis%22&year_start=1996&year_end=2013&action=update)
 
 Anj
 

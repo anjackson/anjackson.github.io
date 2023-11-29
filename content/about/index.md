@@ -48,19 +48,19 @@ This is my personal website, where I [blog](/blog/) about geeky things and docum
 * [My LinkedIn Profile](http://uk.linkedin.com/in/andrewnjackson)
 * <a href="http://del.icio.us/beardedstoat" rel="me">Andy's del.icio.us links</a>.
 * <a href="http://www.flickr.com/photos/andy-and-eilidh/" rel="me">Our flickr photos</a>.
-* [Look at the site map]({{ site.baseurl }}/sitemap/).
-* <a href="{{ site.baseurl }}/work/">WORK</a>
-* <a href="{{ site.baseurl }}/img-n/">IMAGES</a>
-* <a href="{{ site.baseurl }}/geek/">GEEK</a>
+* [Look at the site map](/sitemap/).
+* <a href="/work/">WORK</a>
+* <a href="/img-n/">IMAGES</a>
+* <a href="/geek/">GEEK</a>
 
 <ul class="dropdown-menu">
-  <li><a href="{{ site.baseurl }}/projects/">PROJECTS</a></li>
-  <li><a href="{{ site.baseurl }}/projects/digipres.org/">DIGIPRES.ORG</a></li>
-  <li><a href="{{ site.baseurl }}/projects/keeping-codes/">KEEPING CODES</a></li>
+  <li><a href="/projects/">PROJECTS</a></li>
+  <li><a href="/projects/digipres.org/">DIGIPRES.ORG</a></li>
+  <li><a href="/projects/keeping-codes/">KEEPING CODES</a></li>
   <li class="divider"></li>
-  <li><a href="{{ site.baseurl }}/single-post.html">SINGLE POST</a></li>
-  <li><a href="{{ site.baseurl }}/portfolio.html">PORTFOLIO</a></li>
-  <li><a href="{{ site.baseurl }}/single-project.html">SINGLE PROJECT</a></li>
+  <li><a href="/single-post.html">SINGLE POST</a></li>
+  <li><a href="/portfolio.html">PORTFOLIO</a></li>
+  <li><a href="/single-project.html">SINGLE PROJECT</a></li>
 </ul>
 
 -->

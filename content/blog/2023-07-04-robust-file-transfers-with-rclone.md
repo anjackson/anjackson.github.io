@@ -9,6 +9,8 @@ tags:
 layout: post
 author: anj
 shown: true
+url: null
+aliases: null
 ---
 Carefully moving files between storage systems is a critical part of digital preservation. If the number and size of the files is fairly small it's usually a straightforward operation, perhaps using the operating system's file browser interface to cut and paste your files.
 

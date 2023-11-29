@@ -21,7 +21,7 @@ And no skipping to the end! Sit through the whole *damn* thing, just like I had 
 
 I particularly like the bit from [about 0:24s in](https://youtu.be/V0EfycbDhiw?t=24s), as the loading screen loads...
 
-![JETPAC: loading the loading screen]({{site.url}}/digipres-lessons-learned/images/jetpac-screen-loading-montage.png)
+![JETPAC: loading the loading screen](/digipres-lessons-learned/images/jetpac-screen-loading-montage.png)
 
 First, we can see a monochrome image being loaded, section-by-section, with individual pixels flowing in row-after-row. The ones and zeros you can see are the same one as the ones you can hear, but they are being copied from the tape, unpacked by the [CPU](https://en.wikipedia.org/wiki/Central_processing_unit), and being stored in a special part of the [machine's](https://en.wikipedia.org/wiki/ZX_Spectrum) memory, called the [screen memory](http://whatnotandgobbleaduke.blogspot.co.uk/2011/07/zx-spectrum-screen-memory-layout.html).
 

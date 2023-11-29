@@ -4,9 +4,12 @@ category: digital-dark-age
 tags: ["Digital Preservation"]
 layout: post
 author: anj
+url: null
+aliases: null
+date: null
 ---
 
-On the first day of the [IIPC GA 2015](http://netpreserve.org/general-assembly/ga2015-schedule), the morning keynote was [Digital Vellum: Interacting with Digital Objects Over Centuries](http://netpreserve.org/sites/default/files/attachments/2015-IIPC-GA_Abstract_01_Cerf-Satya.pdf), presented by [Vint Cerf](http://research.google.com/pubs/author32412.html) and [Mahadev Satyanarayanan](http://www.cs.cmu.edu/~satya/). This included some more details and demonstrations of the proposed preservation solution [I blogged about before]({{ site.baseurl }}/2015/03/09/vellum), so I thought it was worth returning to the subject now that I know a little more about it.
+On the first day of the [IIPC GA 2015](http://netpreserve.org/general-assembly/ga2015-schedule), the morning keynote was [Digital Vellum: Interacting with Digital Objects Over Centuries](http://netpreserve.org/sites/default/files/attachments/2015-IIPC-GA_Abstract_01_Cerf-Satya.pdf), presented by [Vint Cerf](http://research.google.com/pubs/author32412.html) and [Mahadev Satyanarayanan](http://www.cs.cmu.edu/~satya/). This included some more details and demonstrations of the proposed preservation solution [I blogged about before](/2015/03/09/vellum), so I thought it was worth returning to the subject now that I know a little more about it.
 
 <!--break-->
 
@@ -20,7 +23,7 @@ However, even accepting that, I found the presentation rather frustrating. In pa
 
 Well, on one slide, Vint presented a number of challenges to software preservation[^1]:
 
-![Challenges]({{ site.baseurl }}/blog/images/digital-vellum-challenges.png)
+![Challenges](/blog/images/digital-vellum-challenges.png)
 
 which manages to reproduce the challenges that the digital preservation community has been chewing over for the last decade (at least), while omitting the central challenge: the economics of preservation.
 

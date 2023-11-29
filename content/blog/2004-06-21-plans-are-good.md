@@ -10,11 +10,12 @@ title: plans are good
 author: anj
 created: '2004-06-21'
 changed: '2010-07-23'
-redirect_from:
-- "/node/722/"
-permalink: "/2004/06/21/plans_are_good/"
 category:
 tags: [Travels]
+url: "/2004/06/21/plans_are_good/"
+aliases:
+  - "/node/722/"
+date: '2004-06-21'
 ---
 Well, feeling a little better today, and generally had a more successful Bangkok experience.  Booked a train to Chang Mai and managed to wander round Chinatown and go to a few temples without getting much hassle.  Maybe it's the ethnic shirt I bought at the market!  
 <!--break-->

@@ -1,12 +1,15 @@
 ---
 title: Building a historical search engine is no easy thing
-subtitle: 
+subtitle:
 category: mining-web-archives
-tags: ["Web Archives","BUDDAH","webarchive-discovery","Data Mining"]
+tags: ["Web Archives", "BUDDAH", "webarchive-discovery", "Data Mining"]
 status: stub
 layout: post
 author: anj
 shown: true
+url: null
+aliases: null
+date: null
 ---
 
 As published <a href="http://britishlibrary.typepad.co.uk/webarchive/2015/02/building-a-historical-search-engine-is-no-easy-thing.html">on the UK Web Archive blog</a>.
@@ -39,7 +42,7 @@ To help understand these whole sets of results, we have endeavored to add approp
 
 With so many search options, perhaps the biggest challenge has been to present them to our users in a comprehensible way. For example, the problem where the RNIB advertisements for a talking watch were polluting the search results can be easily remedied if you combine the right search terms. The text of the advert is highly consistent, and therefore it is possible to precisely identify those advertisements by searching for the text ["in associate with the RNIB"](http://www.webarchive.org.uk/shine/graph?query=%22in+association+with+the+RNIB%22&year_start=1996&year_end=2010&action=update). This means it is possible to [refine a search for RNIB to make sure we exclude those results](http://www.webarchive.org.uk/shine/graph?query=RNIB%2CRNIB+NOT+%22in+association+with+the+RNIB%22&year_start=1996&year_end=2010&action=update) (as you can see below). But while this is possible, it's a rather clumsy user experience.
 
-![RNIB versus the talking watch]({{ site.baseurl }}/blog/images/shine-rnib-no-watch.png)
+![RNIB versus the talking watch](/blog/images/shine-rnib-no-watch.png)
 
 These problems are even more marked when it comes to trying to allow network analysis to be exploited. We do already extract links from the documents, and so it is [already possible to show how the number of sites linking to the RNIB has changed over time](http://www.webarchive.org.uk/shine/graph?query=links_domains%3Arnib.org.uk&year_start=1996&year_end=2010&action=update), but it is not yet clear how best to expose and utilize that information. At the moment, the best solution we have found is to present this network links as additional search facets. For example, [here is the results for the sites that linked to rnib.org.uk in 2000](http://www.webarchive.org.uk/shine/search?query=*:*&tab=results&action=search&facet.in.links_domains=%22rnib.org.uk%22&facet.in.crawl_years=%222000%22), which you can contrast with [those for 2010](http://www.webarchive.org.uk/shine/search?query=*:*&tab=results&action=search&facet.in.links_domains=%22rnib.org.uk%22&facet.in.crawl_years=%222010%22). Again, this makes basic network analysis possible, but it does not yet feel like we have worked out how to make network analysis feel natural and provide real insight.
 

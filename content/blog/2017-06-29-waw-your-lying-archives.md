@@ -6,6 +6,9 @@ tags: ["Data Mining"]
 layout: post
 author: anj
 shown: true
+url: null
+aliases: null
+date: null
 ---
 
 _This is the script for the introduction I gave as part of a 'Digital Conversations at the BL' panel event: [Web Archives: truth, lies and politics in the 21st century](https://www.bl.uk/events/web-archives-truth-lies-and-politics-in-the-21st-century#) on [Wednesday 14th of June](http://netpreserve.org/wac2017/wednesday-14-june/), as part of [Web Archiving Week 2017](https://archivedweb.blogs.sas.ac.uk/)._

@@ -10,11 +10,12 @@ title: close to the border
 author: anj
 created: '2004-07-02'
 changed: '2010-07-23'
-redirect_from:
-- "/node/729/"
-permalink: "/2004/07/02/close_border/"
 category:
 tags: [Travels]
+url: "/2004/07/02/close_border/"
+aliases:
+  - "/node/729/"
+date: '2004-07-02'
 ---
 Well, I had a pleasant enough time on Ko Chang.  The odd beer, a quiet little full-moon party, meeting the occasional local and the more frequent Brit.  But only 9 days remain, and I still have much to see...
 <!--break-->

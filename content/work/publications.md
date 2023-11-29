@@ -203,7 +203,7 @@ An application of Monte Carlo simulation methods.<br>
 </table>
 
 <p>
-<font color="#ff0000">*</font>This is undergraduate work, which has <b>not</b> been revised at any stage after its original submission for my degree.As such, these documents come with <b>no</b> guarentee of correctness.Mind you, neither does the post-graduate stuff, but at least some of <i>them</i> have been peer-reviewed.</p>
+<font color="#ff0000">*</font>This is undergraduate work, which has <b>not</b> been revised at any stage after its original submission for my degree.As such, these documents come with <b>no</b> guarantee of correctness.Mind you, neither does the post-graduate stuff, but at least some of <i>them</i> have been peer-reviewed.</p>
 
   </div>
 

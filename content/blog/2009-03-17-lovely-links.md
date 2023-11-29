@@ -10,10 +10,11 @@ title: lovely links
 author: anj
 created: '2009-03-17'
 changed: '2010-07-23'
-redirect_from:
-- "/node/1845/"
-permalink: "/2009/03/17/lovely_links/"
 tags: []
+url: "/2009/03/17/lovely_links/"
+aliases:
+  - "/node/1845/"
+date: '2009-03-17'
 ---
 Well, there's too many channels and too much noise.  
 

@@ -6,6 +6,9 @@ tags: ["Data Mining", "webarchive-discovery"]
 layout: post
 author: anj
 shown: true
+url: null
+aliases: null
+date: null
 ---
 
 
@@ -19,27 +22,27 @@ As an increasing number of government and other publications move towards online
 
 _These are the slides for the presentation I gave as part of [Web Archiving Week 2017](https://archivedweb.blogs.sas.ac.uk/), on [Thursday 15th of June](http://netpreserve.org/wac2017/thursday-15-june/)._
 
-![Journey of a (print) collection item]({{ site.baseurl }}/blog/images/2017-06-WAW-digging-out-documents/Slide02.png)
+![Journey of a (print) collection item](/blog/images/2017-06-WAW-digging-out-documents/Slide02.png)
 
-![Original Digital Processing Workflow]({{ site.baseurl }}/blog/images/2017-06-WAW-digging-out-documents/Slide03.png)
+![Original Digital Processing Workflow](/blog/images/2017-06-WAW-digging-out-documents/Slide03.png)
 
-![Document Harvester Workflow]({{ site.baseurl }}/blog/images/2017-06-WAW-digging-out-documents/Slide04.png)
+![Document Harvester Workflow](/blog/images/2017-06-WAW-digging-out-documents/Slide04.png)
 
-![What is a Publication?]({{ site.baseurl }}/blog/images/2017-06-WAW-digging-out-documents/Slide05.png)
+![What is a Publication?](/blog/images/2017-06-WAW-digging-out-documents/Slide05.png)
 
-![Example gov.uk publication]({{ site.baseurl }}/blog/images/2017-06-WAW-digging-out-documents/Slide06.png)
+![Example gov.uk publication](/blog/images/2017-06-WAW-digging-out-documents/Slide06.png)
 
-![MARC & Cataloguing Standards]({{ site.baseurl }}/blog/images/2017-06-WAW-digging-out-documents/Slide07.png)
+![MARC & Cataloguing Standards](/blog/images/2017-06-WAW-digging-out-documents/Slide07.png)
 
-![Metadata Extraction]({{ site.baseurl }}/blog/images/2017-06-WAW-digging-out-documents/Slide08.png)
+![Metadata Extraction](/blog/images/2017-06-WAW-digging-out-documents/Slide08.png)
 
-![Example gov.uk API Data]({{ site.baseurl }}/blog/images/2017-06-WAW-digging-out-documents/Slide09.png)
+![Example gov.uk API Data](/blog/images/2017-06-WAW-digging-out-documents/Slide09.png)
 
-![Resolving References]({{ site.baseurl }}/blog/images/2017-06-WAW-digging-out-documents/Slide10.png)
+![Resolving References](/blog/images/2017-06-WAW-digging-out-documents/Slide10.png)
 
-![Layers of Transformation]({{ site.baseurl }}/blog/images/2017-06-WAW-digging-out-documents/Slide11.png)
+![Layers of Transformation](/blog/images/2017-06-WAW-digging-out-documents/Slide11.png)
 
-![Oh No! I Made Another Chain]({{ site.baseurl }}/blog/images/2017-06-WAW-digging-out-documents/Slide12.png)
+![Oh No! I Made Another Chain](/blog/images/2017-06-WAW-digging-out-documents/Slide12.png)
 
-![Future Experimentation]({{ site.baseurl }}/blog/images/2017-06-WAW-digging-out-documents/Slide13.png)
+![Future Experimentation](/blog/images/2017-06-WAW-digging-out-documents/Slide13.png)
 

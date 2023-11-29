@@ -10,11 +10,12 @@ title: well played, sir
 author: anj
 created: '2008-11-05'
 changed: '2010-07-23'
-redirect_from:
-- "/node/1833/"
-permalink: "/2008/11/05/well_played_sir/"
-category: 
+category:
 tags: []
+url: "/2008/11/05/well_played_sir/"
+aliases:
+  - "/node/1833/"
+date: '2008-11-05'
 ---
 Well, we all got the American president that they deserve.  It's good to [hear about all the goodwill and hope in the air](http://www.boingboing.net/2008/11/05/the-us-presidential.html).  
 

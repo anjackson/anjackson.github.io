@@ -10,12 +10,13 @@ title: 'OPF Blog: Format Obsolescence and Sustainable Access'
 author: anj
 created: '2011-01-12'
 changed: '2011-01-13'
-redirect_from:
-- "/node/1886/"
-permalink: "/2011/01/12/opf_blog_format_obsolescence_and_sustainable_access/"
 category: digital-dark-age
 tags:
-- Digital Preservation
+  - Digital Preservation
+url: "/2011/01/12/opf_blog_format_obsolescence_and_sustainable_access/"
+aliases:
+  - "/node/1886/"
+date: '2011-01-12'
 ---
 A new OPF blog entry: <a href="http://openpreservation.org/knowledge/blogs/2011/01/12/format-obsolescence-and-sustainable-access/">Format Obsolescence and Sustainable Access</a>. Reproduced below...
 

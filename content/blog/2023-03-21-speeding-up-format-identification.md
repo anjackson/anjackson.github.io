@@ -8,6 +8,8 @@ tags:
 layout: post
 author: anj
 shown: true
+url: null
+aliases: null
 ---
 In the last few days, I've been going through the process of updating my [Nanite wrapper for DROID](https://github.com/openpreserve/nanite#readme), which I built to make it easier to re-use DROID's identification engine in other contexts -- especially in large-scale Hadoop jobs where we want to [process every record in our WARCs](https://github.com/ukwa/webarchive-discovery).
 

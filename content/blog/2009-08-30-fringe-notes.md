@@ -10,11 +10,12 @@ title: fringe notes
 author: anj
 created: '2009-08-30'
 changed: '2010-07-23'
-redirect_from:
-- "/node/1866/"
-permalink: "/2009/08/30/fringe_notes/"
-category: 
+category:
 tags: [Reviews]
+url: "/2009/08/30/fringe_notes/"
+aliases:
+  - "/node/1866/"
+date: '2009-08-30'
 ---
 Edinburgh. Used to live there, you know. Nice place. Been a while. Until last weekend. Visited the [Blythes](http://www.theblythes.org/). 
 

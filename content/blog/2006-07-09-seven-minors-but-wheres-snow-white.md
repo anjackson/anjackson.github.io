@@ -10,11 +10,12 @@ title: seven minors (but where's Snow White?)
 author: anj
 created: '2006-07-09'
 changed: '2010-07-23'
-redirect_from:
-- "/node/1631/"
-permalink: "/2006/07/09/seven_minors_wheres_snow_white/"
-category: 
+category:
 tags: []
+url: "/2006/07/09/seven_minors_wheres_snow_white/"
+aliases:
+  - "/node/1631/"
+date: '2006-07-09'
 ---
 On Friday, I had my second driving driving test and I passed with a mere seven minors.  It's a huge relief to have passed (it certainly makes things cheaper!), but driving without an instructor still feels a bit weird. I'll be going for my first solo drive today - you have been warned...
 <!--break-->

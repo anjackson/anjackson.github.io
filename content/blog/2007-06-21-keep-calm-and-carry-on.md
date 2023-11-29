@@ -10,10 +10,11 @@ title: Keep Calm and Carry On
 author: anj
 created: '2007-06-21'
 changed: '2007-07-19'
-redirect_from:
-- "/node/1800/"
-permalink: "/2007/06/21/keep_calm_and_carry_on/"
 tags: []
+url: "/2007/06/21/keep_calm_and_carry_on/"
+aliases:
+  - "/node/1800/"
+date: '2007-06-21'
 ---
 <a href="http://www.flickr.com/photos/ilike/90613276/" title="photo sharing"><img src="https://farm1.static.flickr.com/38/90613276_672465ce23_m.jpg" alt="" style="border: solid 2px #000000;" /></a>
 <br />

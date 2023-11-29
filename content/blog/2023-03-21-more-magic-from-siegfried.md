@@ -1,6 +1,6 @@
 ---
 title: More Magic From Siegfried
-subtitle: ...and Roy!
+subtitle: '...and Roy!'
 date: 2023-03-21T22:49:49.990Z
 category: format-identification
 tags:
@@ -8,6 +8,8 @@ tags:
 layout: post
 author: anj
 shown: true
+url: null
+aliases: null
 ---
 Following on from [the previous post](/2023/03/21/speeding-up-format-identification/), I was experimenting with [Siegfried](https://www.itforarchivists.com/siegfried) and found it to be even faster than I was expecting!
 

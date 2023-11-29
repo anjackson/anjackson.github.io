@@ -5,11 +5,14 @@ title: 'OPF Blog: A Format Registry for SCAPE'
 author: anj
 category: format-registries
 tags:
-- Digital Preservation
-- Websites
-- Format Registry
-- Representation Information
-- SCAPE
+  - Digital Preservation
+  - Websites
+  - Format Registry
+  - Representation Information
+  - SCAPE
+url: null
+aliases: null
+date: null
 ---
 <p>
 A new OPF blog entry: <a href="http://openpreservation.org/knowledge/blogs/2011/08/11/format-registry-scape/">A Format Registry for SCAPE</a>. Reproduced below...

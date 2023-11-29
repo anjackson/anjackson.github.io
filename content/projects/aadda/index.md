@@ -13,8 +13,9 @@ url: "/projects/aadda/"
 aliases: null
 date: '2012-01-01'
 showDate: false
-showHero: true
+showHero: false
 showSummary: true
+showAuthor: false
 ---
 
 In 2012, JISC funded two projects based on the idea of exploring the ways in which researchers might exploit the [JISC UK Web Domain Dataset (1996-2013)][2].
@@ -24,6 +25,8 @@ The [Analytical Access to the Dark Domain Archive][1] project built our first hi
 The [Big Data (Demonstrating the Value of the UK Web Domain Dataset for Social Science Research)][3] project took a different approach. Rather than building a user interface and providing a search service, the raw data was passed to the researchers in order to see how they might best exploit it using their own infrastructure and capabilities. This led to the publication of [a conference paper at the WebSci'14 conference][7]. For more information, you can refer to the [OII project page][6].
 
 I led the technical development of the [AADDA service][9]. I began learning how to scale [Apache Solr][10] from millions to hundreds of millions of resources, and started building up our [open source code base](/projects/webarchive-discovery/) for indexing web archives. I also developed our initial user interface based on [Drupal Sarnia][8] (as shown here).
+
+![](aadda.png)
 
 The work we began in AADDA was later continued under the [BUDDAH project](/projects/buddah/).
 

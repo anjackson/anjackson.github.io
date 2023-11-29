@@ -10,11 +10,12 @@ title: Getting there...
 author: anj
 created: '2004-03-19'
 changed: '2010-07-23'
-redirect_from:
-- "/node/3/"
-permalink: "/2004/03/19/getting_there/"
 tags: [Websites]
-category: 
+category:
+url: "/2004/03/19/getting_there/"
+aliases:
+  - "/node/3/"
+date: '2004-03-19'
 ---
 Well, this [Drupal] thing looks like it might just do the trick.  Currently trying to move my preferred web page style over to it - looking good so far but some tweaking required yet.
 

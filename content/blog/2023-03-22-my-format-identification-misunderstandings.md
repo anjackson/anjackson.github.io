@@ -8,6 +8,8 @@ tags:
 layout: post
 author: anj
 shown: true
+url: null
+aliases: null
 ---
 As the [ZIP scanning issue](https://github.com/digital-preservation/droid/issues/906) keeps getting updated, I realised I made some errors in my analysis of how DROID works.
 

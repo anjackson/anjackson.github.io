@@ -4,7 +4,10 @@ type: blog
 title: Collecting Data To Improve Tools
 author: anj
 category: mining-web-archives
-tags: ["Web Archives","webarchive-discovery","Data Mining"]
+tags: ["Web Archives", "webarchive-discovery", "Data Mining"]
+url: null
+aliases: null
+date: null
 ---
 
 First published [on the UK Web Archive blog](http://britishlibrary.typepad.co.uk/webarchive/2015/01/collecting-data-to-improve-tools.html).

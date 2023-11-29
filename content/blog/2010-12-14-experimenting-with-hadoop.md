@@ -10,11 +10,12 @@ title: Experimenting with Hadoop
 author: anj
 created: '2010-12-14'
 changed: '2010-12-17'
-redirect_from:
-- "/node/1884/"
-permalink: "/2010/12/14/experimenting_hadoop/"
 category: mining-web-archives
 tags: ["Data Mining", "Web Archives", "Digital Preservation"]
+url: "/2010/12/14/experimenting_hadoop/"
+aliases:
+  - "/node/1884/"
+date: '2010-12-14'
 ---
 Thanks to our [web archiving team](http://www.bl.uk/aboutus/stratpolprog/digi/webarch/) (who lead the [uk web archive project](http://www.webarchive.org.uk/ukwa/)), I was given a day of training on using [Hadoop](http://hadoop.apache.org/) today. I was already fairly familiar with the map-reduce and HDFS architecture, but I'd not had a chance to actually develop a map-reduce task or run one on a real cluster with some real data. Today's training gave me that chance, and I'm really pleased the results...
 <!--break-->

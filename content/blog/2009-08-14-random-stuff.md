@@ -10,11 +10,12 @@ title: random stuff
 author: anj
 created: '2009-08-14'
 changed: '2010-07-23'
-redirect_from:
-- "/node/1637/"
-permalink: "/2009/08/14/random_stuff/"
-category: 
+category:
 tags: [Top Links]
+url: "/2009/08/14/random_stuff/"
+aliases:
+  - "/node/1637/"
+date: '2009-08-14'
 ---
 Clearing my back-log of random things on the internet I wanted to share...
 <!--break-->

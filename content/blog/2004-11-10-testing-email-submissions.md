@@ -10,10 +10,11 @@ title: Testing Email Submissions
 author: anj
 created: '2004-11-10'
 changed: '2004-11-10'
-redirect_from: []
-permalink: "/node/1446/"
-category: 
+category:
 tags: []
+url: "/node/1446/"
+aliases: []
+date: '2004-11-10'
 ---
 
 I have enabled email submission of pages.  This is just a test to see if

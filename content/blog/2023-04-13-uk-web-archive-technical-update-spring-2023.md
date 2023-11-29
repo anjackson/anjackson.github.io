@@ -8,6 +8,8 @@ tags:
 layout: post
 author: anj
 shown: true
+url: null
+aliases: null
 ---
 *First publicised in [this UK Web Archive blog post](https://blogs.bl.uk/webarchive/2023/04/uk-web-archive-technical-update-spring-2023.html).*
 

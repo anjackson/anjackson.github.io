@@ -9,6 +9,8 @@ defaultContentLanguage = "en"
 [permalinks]
   [permalinks.page]
     blog = '/:year/:month/:day/:slug/'
+    digipres-lessons-learned = '/:year/:month/:day/:slug/'
+    building-web-archives = '/:year/:month/:day/:slug/'
     tutorials = '/training/:slug/'
   [permalinks.section]
     blog = '/blog/'

@@ -10,11 +10,12 @@ title: all templed out
 author: anj
 created: '2004-07-07'
 changed: '2010-07-23'
-redirect_from:
-- "/node/731/"
-permalink: "/2004/07/07/all_templed_out/"
 category:
 tags: [Travels]
+url: "/2004/07/07/all_templed_out/"
+aliases:
+  - "/node/731/"
+date: '2004-07-07'
 ---
 Well, after three solid days pottering about Siem Reap and Angkor, I think I've seen enough temples to last me a lifetime.  They are very impressive though, and you'll be shocked to hear that I've taken lots and lots of photos.  My favourites were the ones that still had massive trees growing out of them, with the roots pushing the bricks apart and slowly demolishing the temples with the slow, insistent force and the patience that only trees can muster.  
 

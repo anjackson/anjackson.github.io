@@ -10,11 +10,12 @@ title: Year of Firsts
 author: anj
 created: '2004-06-20'
 changed: '2010-07-23'
-redirect_from:
-- "/node/721/"
-permalink: "/2004/06/20/year_firsts/"
 category:
 tags: [Travels]
+url: "/2004/06/20/year_firsts/"
+aliases:
+  - "/node/721/"
+date: '2004-06-20'
 ---
 
 ___Note:  I've not finished editing and proofing this story yet, but feel free to have a read anyways.___

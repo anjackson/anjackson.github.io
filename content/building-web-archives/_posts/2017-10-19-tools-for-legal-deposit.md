@@ -25,7 +25,7 @@ But WCT makes these kind of things really hard.
 
 If you look at the overall architecture, the Web Curator Tool enforces what is essentially (despite the odd loop or dead-end) a linear workflow (figure taken from [here](http://webcurator.sourceforge.net/docs/1.6.1/Web%20Curator%20Tool%20Quick%20Start%20Guide%20%28WCT%201.6%29.pdf)). First you sort out the permissions, then you define your Target and it's metadata, then you crawl it (and maybe re-crawl it for QA), then you store it, then you make it available. In that order.
 
-[![WCT Overall Workflow]({{ site.baseurl }}/building-web-archives/images/WCT-workflow.png)]({{ site.baseurl }}/building-web-archives/images/WCT-workflow.svg)
+[![WCT Overall Workflow](/building-web-archives/images/WCT-workflow.png)](/building-web-archives/images/WCT-workflow.svg)
 
 But what if we've already crawled it? Or collected it some other way? What if we want to add metadata to existing Targets? What if we want to store something but not make it available. What if we want to make domain crawl material available even if we haven't QA'd it?
 

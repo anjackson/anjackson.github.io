@@ -10,12 +10,13 @@ title: beautiful visage
 author: anj
 created: '2004-09-09'
 changed: '2010-07-23'
-redirect_from:
-- "/node/1422/"
-permalink: "/2004/09/09/beautiful_visage/"
 category:
 tags:
-- Travels
+  - Travels
+url: "/2004/09/09/beautiful_visage/"
+aliases:
+  - "/node/1422/"
+date: '2004-09-09'
 ---
 Well, my work visa for New Zealand has come through, and I should be able to buy my ticket at the weekend.  It all looks like it might actually happen!  Rather excited about going back, although there's some folk I'll be very sad to leave behind...
 <!--break-->

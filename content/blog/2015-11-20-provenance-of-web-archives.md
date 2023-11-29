@@ -6,6 +6,9 @@ tags: ["Web Archives", "BUDDAH", "Data Mining", "Digital Preservation"]
 layout: post
 author: anj
 shown: true
+url: null
+aliases: null
+date: null
 ---
 
 Originally published [on the UK Web Archive blog](http://britishlibrary.typepad.co.uk/webarchive/2015/11/the-provenance-of-web-archives.html) on the 20th November 2015.
@@ -30,7 +33,7 @@ And this is all just at the level of individual URLs. When performing corpus ana
 
 For example, the Forbes article brings up the fact that crawl schedules vary, and so not every site has been crawled consistently, e.g. every day. Of course, we found exactly the same kind of thing when building the [Shine search interface](https://www.webarchive.org.uk/shine/graph), and this is precisely why our trend graphs currently summarize the trends by year. In other words, if you average the crawled pages by year, you can wash out the short-lived variations.  Of course, large crawls can last months, so really you want to be able to switch between different sampling parameters (quarterly, six-monthly, or annual, starting at any point in the year, etc.), so that you can check whether any perceptible trend may be a consequence of the sampling strategy (not that we got as far as implementing that, [yet](https://github.com/ukwa/shine/pulls)).
 
-[!["Global Financial Crisis"]({{ site.baseurl }}/blog/images/shine-global-financial-crisis.png)](https://www.webarchive.org.uk/shine/graph?query=%22Global+Financial+Crisis%22&year_start=1996&year_end=2013&action=update)
+[!["Global Financial Crisis"](/blog/images/shine-global-financial-crisis.png)](https://www.webarchive.org.uk/shine/graph?query=%22Global+Financial+Crisis%22&year_start=1996&year_end=2013&action=update)
 
 Similarly, notice that Shine show you the *percentage* of matching resources by year, rather than the absolute number of matching documents.  This is because showing the fraction of the crawled web that matches your query is generally more useful than just the number of matching resources because in the latter case the crawl scheduling tends to obscure what's going on (again, it would be even better to be able to switch between the two so you can better understand what any given trend means, although if you download the data for the graph you get the absolute figures as well as the relative ones). 
 

@@ -9,6 +9,8 @@ tags:
 layout: post
 author: anj
 shown: true
+url: null
+aliases: null
 ---
 This is a summary of what’s been going on since [the last update, at the start of the year](https://blogs.bl.uk/webarchive/2022/01/ukwa-2021-technical-update.html).
 

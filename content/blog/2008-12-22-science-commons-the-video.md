@@ -10,13 +10,14 @@ title: science commons, the video
 author: anj
 created: '2008-12-22'
 changed: '2010-07-24'
-redirect_from:
-- "/node/1835/"
-permalink: "/2008/12/22/science_commons_video/"
-category: 
+category:
 tags:
-- Science
-- Open Access
+  - Science
+  - Open Access
+url: "/2008/12/22/science_commons_video/"
+aliases:
+  - "/node/1835/"
+date: '2008-12-22'
 ---
 <a href="http://sciencecommons.org/about/science-commons-dylan-video/">Science commons, the video</a>, explaining all about how the <a href="http://sciencecommons.org/">science commons</a> works.
 

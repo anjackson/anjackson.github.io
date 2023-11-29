@@ -5,7 +5,10 @@ title: 'OPF Blog: What do we mean by format?'
 author: anj
 category: format-registries
 tags:
-- Digital Preservation
+  - Digital Preservation
+url: null
+aliases: null
+date: null
 ---
 <p>
 A new OPF blog entry: <a href="http://openpreservation.org/knowledge/blogs/2011/08/10/what-do-we-mean-format/">What do we mean by format?</a> Reproduced below...

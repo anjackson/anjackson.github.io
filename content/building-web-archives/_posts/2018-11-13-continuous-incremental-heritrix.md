@@ -39,7 +39,7 @@ Continuous Crawling
 
 One of the most significant changes under Legal Deposit is the need for continuous crawling, and the case of news sites is particularly crucial. Under selective archiving, we might choose one or two news articles a day to archive. Now, we are expected to get the latest news from all UK news sites at least once a day, and ideally more often than that.
 
-[![float crawl]({{ site.baseurl }}/building-web-archives/images/floatcrawl.gif)](http://sheepfilms.co.uk/2006/12/29/float-and-crawl/)
+[![float crawl](/building-web-archives/images/floatcrawl.gif)](http://sheepfilms.co.uk/2006/12/29/float-and-crawl/)
 
 But in terms of automation, we found having hundreds of different Heritrix crawl jobs has simply not been practical. The way Heritrix works means it's difficult to manage the available resources effectively if there are lots of small jobs, and the automation of the stopping and starting of crawl jobs becomes very challenging when there are so many.
 
@@ -48,7 +48,7 @@ Batch Crawling
 
 Therefore (and like many other institutions), we've handled all these little jobs are handled using a smaller set of batch crawls. Specifically, we've run six crawl streams with different frequencies, and each crawl gets stopped and restarted on that time-scale. For example, the daily crawl launches once a day, at midday, and runs for one day. This means we get the news sites once a day, but also means we never get more than one day's worth of crawl time on that site. If we want to get a deeper crawl, we need to duplicate the crawl activity in a separate stream (and risk putting too much pressure on the publishers web site), or rely on the domain crawl to pick up everything else (which, as indicated earlier, has not proven reliable).
 
-[![Batch crawl schedule]({{ site.baseurl }}/building-web-archives/images/batches.png)]({{ site.baseurl }}/building-web-archives/images/batches.odg)
+[![Batch crawl schedule](/building-web-archives/images/batches.png)](/building-web-archives/images/batches.odg)
 
 This has worked okay, but we wanted to improve things further. For example, being restricted to the batch time frames means we can't harvest sites when our curators would like us to do so. Similarly, the artificially high load created by launching all the daily crawl activity at once makes it difficult to ensure we manage to successfully pass our crawl seeds through the browser-based rendering engine we use.
 
@@ -69,7 +69,7 @@ Already Seen?
 
 Every crawler has some kind of record that remembers which URLs it's already seen. Without that, the crawler would constantly crawl and re-crawl common URLs over and over again. We'd have a million copies of the BBC News homepage and barely any of the articles!
 
-[![Unique URI Filtering]({{ site.baseurl }}/building-web-archives/images/uri-filter.jpg)]({{ site.baseurl }}/building-web-archives/images/uri-filter.jpg)
+[![Unique URI Filtering](/building-web-archives/images/uri-filter.jpg)](/building-web-archives/images/uri-filter.jpg)
 
 A standard Heritrix crawl uses a special and highly efficient data structure called a Bloom filter to do this. This works great for batch crawling: you put in the URLs you've dealt with, and if you see the same URI again it will tell you so. But it's not a database, and so it can't do anything else. You can't ask it to 'forget' a URL. You can't ask it _when_ you saw that URL, or what happened last time.
 
@@ -82,7 +82,7 @@ Wait...
 That seems familiar...
 ---------------------
 
-[![WABAC MACHINE]({{ site.baseurl }}/building-web-archives/images/wabac.jpg)]({{ site.baseurl }}/building-web-archives/images/wabac.jpg)
+[![WABAC MACHINE](/building-web-archives/images/wabac.jpg)](/building-web-archives/images/wabac.jpg)
 
 A capture index is precisely what any web archive playback system needs. We used to do this using big CDX files, but recently we've started using a dedicated database in the form of OutbackCDX.
 
@@ -91,7 +91,7 @@ OutbackCDX
 
 [OutbackCDX](https://github.com/nla/outbackcdx) is a dedicated CDX service built for web archives. It stores just what you need for playback, and is easy to integrate with playback tools. It's fast, efficient, and because it's a real database it can be updated and queried in real time, rather than relying on batch updates.  In short, it's awesome, and as there's likely a few NLA staff members here I'd like to take this opportunity to thank the National Library of Australia for making OutbackCDX openly available.
 
-[![That's a CDX index]({{ site.baseurl }}/building-web-archives/images/thats-not-a-cdx.jpg)]({{ site.baseurl }}/building-web-archives/images/thats-not-a-cdx.jpg)
+[![That's a CDX index](/building-web-archives/images/thats-not-a-cdx.jpg)](/building-web-archives/images/thats-not-a-cdx.jpg)
 
 So, we've found that as well as being great for playback, it's also handy for mid-crawl data, and we already know how to use it and how to manage large indexes. So what does a crawl look like with OutbackCDX in the loop?
 
@@ -99,7 +99,7 @@ So, we've found that as well as being great for playback, it's also handy for mi
 (Re)launching a Crawl
 ---------------------
 
-[![Crawl architecture]({{ site.baseurl }}/building-web-archives/images/launch.jpg)]({{ site.baseurl }}/building-web-archives/images/launch.jpg)
+[![Crawl architecture](/building-web-archives/images/launch.jpg)](/building-web-archives/images/launch.jpg)
 
 Well, to start the story, we need a new way of launching a crawl. We no longer have individual jobs, so instead we have a single, long-running crawl job that we've coupled to a message queue - in our case we're using Apache Kafka.  So, when the time comes, we drop a 'launch' message on this queue, which the crawl job picks up. It takes the seed URL, and sets up the crawl configuration for that URL using Heritrix's 'sheets' configuration system.  This defines the re-crawl frequency (i.e. whether that site should be crawled daily/weekly/etc.) and other parameters like resetting crawl quotas, whether to obey `robots.txt` and so on.
 
@@ -132,7 +132,7 @@ Finally, OutbackCDX also gives us a handy place to store references to the WARC 
 Crawler Screenshots
 -------------------
 
-[![Screenshots dashboard]({{ site.baseurl }}/building-web-archives/images/screenshots-dashboard.jpg)]({{ site.baseurl }}/building-web-archives/images/screenshots-dashboard.jpg)
+[![Screenshots dashboard](/building-web-archives/images/screenshots-dashboard.jpg)](/building-web-archives/images/screenshots-dashboard.jpg)
 
 For example, by monitoring activity via the Kafka queues and combining that with information in OutbackCDX, we've finally been able to put together a simple dashboard that shows what the browser saw when it rendered the original web sites during the crawl.  It's been great to finally see what the crawler is doing, and makes it easy to spot the kind of problems that lead to blank pages.
 
@@ -140,11 +140,11 @@ Better still, because we're also running Python Wayback which support HTTPS in p
 
 For example, here's a page from the main UK Government publications site, with a strange little difference in the ordering of the entries between the original and the archived version. 
 
-[![GOV.UK Comparison]({{ site.baseurl }}/building-web-archives/images/gov-comparison.png)]({{ site.baseurl }}/building-web-archives/images/gov-comparison.png)
+[![GOV.UK Comparison](/building-web-archives/images/gov-comparison.png)](/building-web-archives/images/gov-comparison.png)
 
 And here's a BBC News page, showing that we capture full-length screenshots. Here the archived version is extremely similar apart from a couple of minor dynamic changes.  It's not all roses though. If we look at the same page using the usual re-written mode rather than our embedded browser, we start to see some gaps arising from the difference in how the two browsers render the page. So, there's more work to be done, but nevertheless the quality is much better than it used to be, and we've got a way to evaluate the quality of the crawled version, and a better understanding of where the problems are coming from.
 
-[![BBC Comparison]({{ site.baseurl }}/building-web-archives/images/bbc-comparison.png)]({{ site.baseurl }}/building-web-archives/images/bbc-comparison.png)
+[![BBC Comparison](/building-web-archives/images/bbc-comparison.png)](/building-web-archives/images/bbc-comparison.png)
 
 Conclusion
 ----------

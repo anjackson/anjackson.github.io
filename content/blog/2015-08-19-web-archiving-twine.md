@@ -1,9 +1,12 @@
 ---
 title: Playing at Web Archiving
-category: 
+category:
 tags: ["Web Archives", "Digital Preservation", "Publications"]
 layout: post
 author: anj
+url: null
+aliases: null
+date: null
 ---
 
 A few months ago, a colleague suggested that we should come up with ways of helping people learn about the main stages of web archiving, and to help them understand some of the more common technical terminology.
@@ -16,7 +19,7 @@ I got a bit carried away...
 
 Well, because it'll suck up a tonne of time learning about Twine and [twinery.org](http://twinery.org/) and the [two different versions](http://twine2.neocities.org/) and fiddling about with the structure and with the prose...
 
-![Editing the Twine]({{ site.baseurl }}/keeping-codes/experiments/uwa/editing-the-twine.png)
+![Editing the Twine](/keeping-codes/experiments/uwa/editing-the-twine.png)
 
 After a few evenings I ran out of steam, and the experiment has been sitting in browser tab since then, unfinished.
 

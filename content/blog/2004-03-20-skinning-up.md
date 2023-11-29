@@ -10,11 +10,12 @@ title: Skinning up.
 author: anj
 created: '2004-03-20'
 changed: '2010-07-23'
-redirect_from:
-- "/node/7/"
-permalink: "/2004/03/20/skinning/"
-category: 
+category:
 tags: [Websites]
+url: "/2004/03/20/skinning/"
+aliases:
+  - "/node/7/"
+date: '2004-03-20'
 ---
 Well, I've more or less finished munging the old website style into a skin for [Drupal], and it's looking pretty good.  Still need to check its valid XHTML, but it should not be far off.
 

@@ -10,11 +10,12 @@ title: dancing, intercontinentally
 author: anj
 created: '2008-07-01'
 changed: '2010-07-23'
-redirect_from:
-- "/node/1816/"
-permalink: "/2008/07/01/dancing_intercontinentally/"
-category: 
+category:
 tags: [Procrastination]
+url: "/2008/07/01/dancing_intercontinentally/"
+aliases:
+  - "/node/1816/"
+date: '2008-07-01'
 ---
 <p>
 <a href="/2008/07/01/dancing_intercontinentally">Read on</a> for the most amusing video I've seen all year...

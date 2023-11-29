@@ -10,10 +10,11 @@ title: the wrong speed
 author: anj
 created: '2004-11-15'
 changed: '2010-07-23'
-redirect_from:
-- "/node/1510/"
-permalink: "/2004/11/15/wrong_speed/"
 tags: []
+url: "/2004/11/15/wrong_speed/"
+aliases:
+  - "/node/1510/"
+date: '2004-11-15'
 ---
 Jarvis says it better than me.
 

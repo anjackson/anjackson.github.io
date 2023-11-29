@@ -10,10 +10,11 @@ title: in a brown study
 author: anj
 created: '2004-06-05'
 changed: '2010-07-23'
-redirect_from:
-- "/node/714/"
-permalink: "/2004/06/05/brown_study/"
 tags: []
+url: "/2004/06/05/brown_study/"
+aliases:
+  - "/node/714/"
+date: '2004-06-05'
 ---
 {% include _image.html nid="713" align="left" hspace="10" vspace="5" width="" %}While hanging out with David, Jenny, Andy and Michelle, a heated argument broke out.  The subject was one of those close to all our hearts, the history of British chocolate.  To be precise, the history of the Rowntree Aero bar.
 

@@ -5,7 +5,10 @@ title: 'OPF Blog: Economical Access via Normalisation'
 author: anj
 category: digital-dark-age
 tags:
-- Digital Preservation
+  - Digital Preservation
+url: null
+aliases: null
+date: null
 ---
 <p>
 A new OPF blog entry: <a href="http://openpreservation.org/knowledge/blogs/2011/05/10/economical-access-normalisation/">Economical Access via Normalisation</a>. Reproduced below...
