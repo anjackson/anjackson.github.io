@@ -1,0 +1,4 @@
+{{ $imagePath := printf "image/images/*-%s.jpg" .Params.nid }}
+{{ with resources.GetMatch $imagePath }}
+  <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+{{ end }}

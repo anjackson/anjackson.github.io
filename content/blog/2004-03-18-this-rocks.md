@@ -19,7 +19,7 @@ date: '2004-03-18'
 ---
 I mean, this really is rather fine...
 
-{% include _image.html nid="11" %}
+{{< include-image nid="11" >}}
 
 <i>No tax on custard.</i>
 
