@@ -25,7 +25,7 @@ As well as recreating the old style, I've made a number of new editions - perhap
 
 and get your browser to translate it into MathML like this:
 
-`sum_(i=1)^n i=(n(n+1))/2`
+\`sum_(i=1)^n i=(n(n+1))/2\`
 
 If it didn't work, read on to find out how to fix it.
 <!--break-->

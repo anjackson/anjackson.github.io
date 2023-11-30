@@ -17,7 +17,8 @@ aliases:
   - "/node/549/"
 date: '2004-05-04'
 ---
-{% include _image.html nid="547" align="left" hspace="10" vspace="5" width="" %}I rather like this image, taken from [Google News](http://news.google.com/).  Their news pages are generated automagically, which is bound to cause mismatches between images and text sometimes...  I guess I'm just not difficult to amuse.
+{{< include-image nid="547" align="left" hspace="10" vspace="5" width="" >}}
+I rather like this image, taken from [Google News](http://news.google.com/).  Their news pages are generated automagically, which is bound to cause mismatches between images and text sometimes...  I guess I'm just not difficult to amuse.
 
 I've failed to update my weblog for a while as I've been working and grumping a bit.  {% include _image.html nid="548" align="left" hspace="10" vspace="5" width="" %}Work is going better now, and I've settled back down into it after my lovely holiday.  Sadly, Kim (who went to Taupo with Stewart &amp; me) has just left to return to California (but via Australia so that's alright).   We were also working together on some fluid simulation stuff (see image for an example), which seems to have worked out rather well and will hopefully become a continuing collaboration.
 

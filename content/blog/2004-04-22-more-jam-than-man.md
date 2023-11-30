@@ -17,6 +17,7 @@ aliases:
   - "/node/544/"
 date: '2004-04-22'
 ---
-{% include _image.html nid="543" align="right" hspace="10" vspace="5" width="" %}Milford Sound, with clear blue skies.  I am clearly too lucky by half.  It was just _so beautiful_ - awe inspiring.  Long day, but very very very much worth it.
+{{< include-image nid="543" align="right" hspace="10" vspace="5" width="" >}}
+Milford Sound, with clear blue skies.  I am clearly too lucky by half.  It was just _so beautiful_ - awe inspiring.  Long day, but very very very much worth it.
 
 Dunedin tommorrow - allegedly the Edinburgh of the southern hemisphere.  As long as there are no _{explicit hyperbole}_ bagpipers there, I'll be happy.  ;)
