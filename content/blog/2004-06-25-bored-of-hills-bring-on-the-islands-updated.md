@@ -17,7 +17,8 @@ aliases:
   - "/node/724/"
 date: '2004-06-25'
 ---
-{% include _image.html nid="725" align="left" hspace="10" vspace="5" width="" %}I've enjoyed relaxing in Chiang Mai, and some of the temples are really very fine indeed.  Doi Suthep lived up to most of my expectations, even though it was not quite as isolated as I'd hoped.  Anyways, I've got just over two weeks left, and I'm still in the wrong country.  Here's the plan...
+{{< include-image nid="725" align="left" hspace="10" vspace="5" width="" >}}
+I've enjoyed relaxing in Chiang Mai, and some of the temples are really very fine indeed.  Doi Suthep lived up to most of my expectations, even though it was not quite as isolated as I'd hoped.  Anyways, I've got just over two weeks left, and I'm still in the wrong country.  Here's the plan...
 <!--break-->
 I'm leaving Chiang Mai (in the north-east, see [this map](http://www.asiatravel.com/thaimap.html)) on Sunday night, on an overnight train to Bangkok (in the middle of that map).  It looks like I'll have to spend one more night there, in order to get a visa for Cambodia and book my onward bus journey to the island of Ko Chang (eastern coast, near the border with Cambodia).  Hoping to stay there for a couple of days (on a beach!), then head over to [Cambodia](http://www.asiatravel.com/cambmap.html) using the southern border crossing, via Trat.
 
