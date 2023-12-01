@@ -22,38 +22,39 @@ StrongARM, but I can't test this.  Not tested on an Iyonix either.
 <!--break-->
 ## software
 <div class="node">
-<img src="/themes/anjackson.net/sw/xmlutils.png" align="left" border="0" alt="xmlutils logo" style="margin: 5px"/>
+<img src="/assets/images/software/xmlutils.png" align="left" border="0" alt="xmlutils logo" style="margin: 5px"/>
 # <a href="/poot/riscos/xmlutils">XML Utils</a>
 RISC OS ports of some Unix XML &amp; XSLT utilities.
 </div>
+<br/>
 
 <div class="node">
-<img src="/themes/anjackson.net/sw/xmlsite.gif" align="left" border="0" alt="xmlsite logo" style="margin: 5px"/>
+<img src="/assets/images/software/xmlsite.gif" align="left" border="0" alt="xmlsite logo" style="margin: 5px"/>
 # <a href="/poot/riscos/xmlsite">XMLSite</a>
 A set of Perl scripts for generating your HTML website from XML sources using XSLT stylesheets.
 </div>
 
 <div class="node">
-<img src="/themes/anjackson.net/sw/!AccuMouse.gif" align="left" border="0" alt="extractor logo" style="margin: 5px"/>!<a href="/poot/riscos/accumouse">AccuMouse</a>
-Very tiny almost useful application which allows the mouse speed to be altered from an icon on the iconbar.You can switch between two mouse speeds, eitherdirectly or by holding the pointer still for a given amount of time.The highspeed allows you to traverse the screen with ease, and the slow speed allows themouse pointer pixel-fine accuracy.I wrote this to make precise positioning of icons easier when using something like <b>FormEd</b>.
+<img src="/assets/images/software/AccuMouse.gif" align="left" border="0" alt="accumouse logo" style="margin: 5px"/>!<a href="/poot/riscos/accumouse">AccuMouse</a>
+Very tiny almost useful application which allows the mouse speed to be altered from an icon on the iconbar.You can switch between two mouse speeds, either directly or by holding the pointer still for a given amount of time. The high speed allows you to traverse the screen with ease, and the slow speed allows the mouse pointer pixel-fine accuracy.I wrote this to make precise positioning of icons easier when using something like <b>FormEd</b>.
 </div>
 
 <div class="node">
-<img src="/themes/anjackson.net/sw/Extractor.gif" align="left" border="0" alt="extractor logo" style="margin: 5px"/>
+<img src="/assets/images/software/Extractor.gif" align="left" border="0" alt="extractor logo" style="margin: 5px"/>
 # <a href="/poot/riscos/extractor">Extractor</a>
-A nearly un-small application to allow Acorn sprites to be converted toscreen-memory format.In other words, it converts images into a simple format so that they can be easily plotted by either your own or the supplied <b>ARM</b> assembly language routines.Basically, people who are creating games or demos <i>may</i> find it useful.Quite flexible conversion and output formats.I'll try to add a list of features to this page at some point.
+A nearly un-small application to allow Acorn sprites to be converted to screen-memory format.In other words, it converts images into a simple format so that they can be easily plotted by either your own or the supplied <b>ARM</b> assembly language routines. Basically, people who are creating games or demos <i>may</i> find it useful.Quite flexible conversion and output formats.I'll try to add a list of features to this page at some point.
 
-The output format is not compatable with <b>GameSuite</b> yet, and I may not get round to making it so.
+The output format is not compatible with <b>GameSuite</b> yet, and I may not get round to making it so.
 </div>
 
 <div class="node">
-<img src="/themes/anjackson.net/sw/Gloop.gif" align="left" border="0" alt="gloop logo" style="margin: 5px"/>
+<img src="/assets/images/software/Gloop.gif" align="left" border="0" alt="gloop logo" style="margin: 5px"/>
 # <a href="/poot/riscos/gloop">Gloop</a>
 Small BASIC+Assembler cellular automata that simulates gloopy green liquid flowing down your screen.Use the mouse to set up something for it to flow over, and then let it flow.
 </div>
 
 <div class="node">
-<img src="/themes/anjackson.net/sw/!BabelFish.gif" align="left" border="0" alt="babel fish logo" style="margin: 5px"/>
+<img src="/assets/images/software/BabelFish.gif" align="left" border="0" alt="babel fish logo" style="margin: 5px"/>
 !<!-- a href="poot/riscos/babelfish" -->Babel Fish<!-- /a -->
 <b>Only a small amount of progress has been made, but...</b>
 <br/>The idea of the Babel Fish is to unify file conversion in RISC OS.
@@ -90,7 +91,7 @@ My poor ageing RiscPC.  Still in use, largely because of [ArtWorks](http://www.m
 <hr/>
 
 <div class="node">
-<img src="/themes/anjackson.net/sw/sparkfs.gif" alt="sparkplug logo" align="left" border="0" style="margin: 5px"/>
+<img src="/assets/images/software/sparkfs.gif" alt="sparkplug logo" align="left" border="0" style="margin: 5px"/>
 <p>
 Zip and Spark archives can be decompressed in the RiscOS desktop
 environment using !SparkPlug, available <a href="/poot/riscos/splug">here</a> as a self-expanding archive.Just set the filetype to BASIC and run.

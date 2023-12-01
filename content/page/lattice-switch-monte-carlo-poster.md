@@ -19,7 +19,7 @@ attachments:
     name: poster.pdf
 date: '2004-05-10'
 ---
-{% include _image.html nid="563" align="left" hspace="10" vspace="5" width="" %}
+{{< include-image nid="563" align="left" hspace="10" vspace="5" width="" >}}
 _Structural Phase Behaviour via Monte Carlo Techniques_
 
 A poster based on my Ph.D. work.  Created on [RISC OS](http://www.riscos.com/) using [!TechWriter](http://www.iconsupport.demon.co.uk/) & [!DrawWorks](http://www.apdl.co.uk/isv/dworks.htm).

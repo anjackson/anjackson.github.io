@@ -90,4 +90,14 @@
 </div>
 {{ end }}
 
+<!-- ANJ Adding this section to make attachments accessible -->
+{{ if .Params.attachments }}
+<div class="float-right">
+  {{ range .Params.attachments }}
+  <a class="!rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700" href="/{{ .src }}">{{ .name }}</a>
+  {{ end }}
+</div>
 {{ end }}
+
+{{ end }}
+

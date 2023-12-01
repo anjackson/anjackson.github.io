@@ -19,17 +19,19 @@ I got a bit carried away...
 
 Well, because it'll suck up a tonne of time learning about Twine and [twinery.org](http://twinery.org/) and the [two different versions](http://twine2.neocities.org/) and fiddling about with the structure and with the prose...
 
-![Editing the Twine](/keeping-codes/experiments/uwa/editing-the-twine.png)
+![Editing the Twine](/blog/uwa/editing-the-twine.png)
 
 After a few evenings I ran out of steam, and the experiment has been sitting in browser tab since then, unfinished.
 
 I enjoyed building it,  but it's really not going to get finished any time soon. I'm not even sure what 'finished' would look like any more. So I may as well publish it as it is. If you want to play the game of web archiving, click the link below...
 
-<div style="text-align:center; font-size: large;">
-<a href="http://anjackson.net/keeping-codes/experiments/uwa/">Understanding Web Archiving</a>
+<div style="text-align:center;">
+{{< button href="/blog/uwa" target="_self" >}}
+Play <i>'Understanding Web Archiving'</i>...
+{{< /button >}}
 </div>
 
-I've also made the [source export](http://anjackson.net/keeping-codes/experiments/uwa/8.19.2015, 8.47.54 PM Twine Archive.html) available, which you should be able to upload at [twinery.org](http://twinery.org/2/) if you want to extend it or just see how it works.
+I've also made the [source export](/blog/uwa/8.19.2015,%208.47.54%20PM%20Twine%20Archive.html) available, which you should be able to upload at [twinery.org](http://twinery.org/2/) if you want to extend it or just see how it works.
 
 Let me know what you think!
 
