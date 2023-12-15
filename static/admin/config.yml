@@ -20,7 +20,7 @@ collections:
   fields:
   - {label: 'Title', name: 'title', widget: 'string'}
   - {label: 'Sub-title', name: 'subtitle', widget: 'string'}
-  - {label: 'Date', name: 'date', widget: 'date'}
+  - {label: Date, name: date, widget: datetime, date_format: "YYYY-MM-DD", time_format: false}
   - {label: 'Blog series', name: 'category', widget: 'select', options: ["building-web-archives","mining-web-archives", "defunct-formats", "format-identification", "digital-footprint"], required: false}
   - {label: 'Tags', name: 'tags', widget: 'select', options: ["Websites", "Reports", "Web Archives", "Digital Preservation", "Data Mining", "Climate Change"], multiple: true, required: false}
   - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
@@ -35,6 +35,7 @@ collections:
       file: "content/about/index.md"
       fields:
         - {label: Title, name: title, widget: string}
+        - {label: Date, name: date, widget: datetime, date_format: "YYYY-MM-DD", time_format: false}
         - {label: Body, name: body, widget: markdown}
     - label: "Now Page"
       name: "now"

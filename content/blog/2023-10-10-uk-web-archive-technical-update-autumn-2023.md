@@ -11,7 +11,7 @@ shown: false
 url: null
 aliases: null
 ---
-*First published as \[this UK Web Archive blog post]( TBA .*
+*First published as [this UK Web Archive blog post](https://blogs.bl.uk/webarchive/2023/10/uk-web-archive-technical-update-autumn-2023.html).*
 
 - - -
 
