@@ -6,7 +6,7 @@ layout: post
 author: anj
 url: null
 aliases: null
-date: null
+date: 2015-08-19
 ---
 
 A few months ago, a colleague suggested that we should come up with ways of helping people learn about the main stages of web archiving, and to help them understand some of the more common technical terminology.
