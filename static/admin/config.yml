@@ -35,12 +35,11 @@ collections:
       file: "content/about/index.md"
       fields:
         - {label: Title, name: title, widget: string}
-        - {label: Date, name: date, widget: date}
         - {label: Body, name: body, widget: markdown}
     - label: "Now Page"
       name: "now"
       file: "content/now/index.md"
       fields:
         - {label: Title, name: title, widget: string}
-        - {label: Date, name: date, widget: date}
+        - {label: Date, name: date, widget: datetime, date_format: "YYYY-MM-DD", time_format: false}
         - {label: Body, name: body, widget: markdown}
