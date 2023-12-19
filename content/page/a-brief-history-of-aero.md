@@ -17,7 +17,7 @@ aliases:
   - "/node/735/"
 date: '2004-07-16'
 ---
-{% include _image.html nid="713" align="left" hspace="10" vspace="5" width="" %}
+{{< include-image nid="713" >}}
 
 To settle [an argument I was embroiled in](/node/714), I wrote to Nestle to ask them about the history of Aero chocolate.  They decided to send me a letter rather than an email (how quaint!), so while I was home and scanned and OCR'd it (so there may be a few character recognition errors).  Here's what they said....
 <!--break-->
