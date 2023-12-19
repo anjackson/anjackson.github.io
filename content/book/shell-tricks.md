@@ -15,7 +15,7 @@ redirect_from:
 permalink: "/2004/08/10/shell_tricks/"
 tags: []
 ---
-A repository for useful bits and bobs I've found good at the shell prompt.  Mostly in bash (Giffle:bash-shell).
+A repository for useful bits and bobs I've found good at the shell prompt.  Mostly in bash (Giffle:bash-shell).
 <!--break-->
 ## Unpacking an RPM without installing it
 As I don't have admin privileges at work, it's handy to be able to unpack a binary RPM so I can use recent software without properly installing it.  I was wanting to use wxPython, so I downloaded the RPMs and unpacked them in my home space:

@@ -13,13 +13,14 @@ redirect_from:
 - "/node/1/"
 permalink: "/about/"
 tags: []
+showPagination: false
 ---
 
 I find working in digital preservation fascinating.
 
 It's not where I expected to end up. I started off interested in computing and science, and happened to find out about what was then a fairly young [MPhys degree in Computation Physics offered by the University of York](http://web.archive.org/web/19970730073841/http://www.york.ac.uk/depts/phys/ugrad/courses/cphy_ss.htm)[^1]. I then did a Ph.D. in Computational Physics at Edinburgh University, working in statistical physics. After that, I spent my time oscillating between being a post-graduate researcher who used large-scale computational methods, and being a computational specialist who helped other scientists make use of those kinds of techniques.
 
-I'd decided to move away from research and get a 'normal' industry programmer job, so when we moved to Leeds I applied for a few different positions. One of them turned out to be for the [PLANETS Project](http://www.planets-project.eu/), based at the British Library. I liked the place and the people, and the work sounded interesting, allowing me to expand my previous experience (not just in computation, but also the information theory that underlies statistical physics) to a new field. And *Industry* was spared my woolly ways.
+I'd decided to move away from research and get a 'normal' industry programmer job, so when we moved to Leeds I applied for a few different positions. One of them turned out to be for the [PLANETS Project](https://web.archive.org/web/20200310051410/https://www.planets-project.eu/), based at the British Library. I liked the place and the people, and the work sounded interesting, allowing me to expand my previous experience (not just in computation, but also the information theory that underlies statistical physics) to a new field. And *Industry* was spared my woolly ways.
 
 I spent a happy few years working on the PLANETS Project and helping kick-off the follow-on [SCAPE Project](http://scape-project.eu/). I saw 'Significant Properties' [peak](http://www.dpconline.org/events/past-events/significant-properties), only to be [fatally wounded shortly afterwards](http://www.planets-project.eu/docs/papers/Dappert_Significant_Characteristics_ECDL2009.pdf), learned that [DSHR](http://blog.dshr.org/) is usually right, found that it's [fun](https://blogs.bodleian.ox.ac.uk/archivesandmanuscripts/2009/02/24/shoot-those-files/) to [mash bits](http://web.archive.org/web/20090323121026/http://www.hki.uni-koeln.de/material/shotGun/), and that keeping the bits [safe](http://blog.dshr.org/2017/03/threats-to-stored-data.html) ain't as easy as I thought (even with [these folks](https://www.youtube.com/watch?v=pbBa6Oam7-w) around).
 
@@ -29,9 +30,7 @@ I felt like I'd spent too much time on the 'grand solutions' side of things, and
 
 So now the journey back to digital preservation _in general_ begins. I am taking on the role of _Preservation Registries Technical Architect_ at the [_Digital Preservation Coalition (DPC)_](https://dpconline.org), working on a project called _"Building registries of digital preservation good practice"_. Through this project and the DPC, I'm hoping I can generalise what I've learned and use it to help the wider digital preservation community.
 
-My career trajectory might be unusual, but because the field of digital preservation is *all* interface, there's a wide range of people from a lot of different backgrounds working in this nexus between the cultural and the technical. This range is powerful, but also ripe for miscommunication, and I worry we fail to learn from our own history. Sometimes it feels like the same mistakes are being made over and over again, and I can't tell if we are failing to pool our knowledge, or if each of us needs to fall many times before we can learn to walk, and then to run(.exe)[^2].
-
-I feel like I've learned a lot, and I want to know if what I've learned might help others. I'd also like to know whether or not my own theories and opinions are worth the bytes and/or neurons they are encoded in. To this end, I'm going to try to use this site as a way of communicating the things I *think* I've learned over the years, in the hope that others find it useful. Or at least interestingly wrong.
+To this end, I'm going to try to use this site as a way of communicating the things I *think* I've learned over the years, in the hope that others find it useful. Or at least interestingly wrong.
 
 <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/66710600@N06" title=""><img src="https://live.staticflickr.com/268/19861049332_60f0ed3348.jpg" width="640" height="480" alt=""/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

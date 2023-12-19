@@ -19,7 +19,6 @@ aliases:
   - "/node/1836/"
   - "/work/digitalpreservation/"
 date: '2008-12-22'
-weight: 1
 ---
 
 Since joining the [PLANETS Project][1] in 2007, I have been researching digital preservation practices. More recently, I have started to apply my research experience in order to understand how best to make ensure large and complex digital collections remains discoverable, accessible and useful over time.

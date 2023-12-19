@@ -21,6 +21,14 @@ defaultContentLanguage = "en"
     [markup.goldmark.renderer]
       unsafe= true
 
+[outputFormats]
+    [outputFormats.RSS]
+        baseName = "feed" # Support feed.xml instead of index.xml to maintain Jekyll links
+
+[services]
+  [services.rss]
+    limit = 500 # Limit the depth of RSS feeds so they're not _infinite_.
+
 [frontmatter]
   date = [':filename', ':default']
   lastmod = ['lastmod', ':git', ':default']
