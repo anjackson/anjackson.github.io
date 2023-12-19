@@ -1,0 +1,14 @@
+- title: About
+  url: /about/
+- title: Blog
+  url: /blog/
+- title: Categories
+  url: /blog/categories/
+- title: Tags
+  url: /blog/tags/
+- title: Work
+  url: /work/
+- title: Projects
+  url: /projects/
+- title: Search
+  url: /search/

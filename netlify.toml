@@ -1,3 +1,10 @@
+[build]
+  command = "hugo"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.120.4"
+
 [[headers]]
   for = "/*"
   [headers.values]

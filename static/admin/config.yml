@@ -1,0 +1,46 @@
+backend:
+  name: git-gateway
+  repo: anjackson/anjackson.github.io
+  branch: hugo
+  
+# Use the editorial workflow, for working on long posts:
+#publish_mode: editorial_workflow
+
+media_folder: assets/images/uploads
+public_folder: /assets/images/uploads
+
+collections:
+- name: "main-blog"
+  label: "General Blog Posts"
+  folder: content/blog
+  create: true
+  slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+  preview_path: "{{year}}/{{month}}/{{day}}/{{title}}"
+  preview_path_date_field: "date"
+  fields:
+  - {label: 'Title', name: 'title', widget: 'string'}
+  - {label: 'Sub-title', name: 'subtitle', widget: 'string'}
+  - {label: Date, name: date, widget: datetime, date_format: "YYYY-MM-DD", time_format: false}
+  - {label: 'Blog series', name: 'category', widget: 'select', options: ["building-web-archives","mining-web-archives", "defunct-formats", "format-identification", "digital-footprint"], required: false}
+  - {label: 'Tags', name: 'tags', widget: 'select', options: ["Websites", "Reports", "Web Archives", "Digital Preservation", "Data Mining", "Climate Change"], multiple: true, required: false}
+  - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+  - {label: "Author", name: "author", widget: "hidden", default: "anj"}
+  - {label: "Draft", name: "draft", widget: "boolean", default: false}
+  - {label: 'Body', name: 'body', widget: 'markdown'}
+- label: "Pages"
+  name: "pages"
+  files:
+    - label: "About Page"
+      name: "about"
+      file: "content/about/index.md"
+      fields:
+        - {label: Title, name: title, widget: string}
+        - {label: Date, name: date, widget: datetime, date_format: "YYYY-MM-DD", time_format: false}
+        - {label: Body, name: body, widget: markdown}
+    - label: "Now Page"
+      name: "now"
+      file: "content/now/index.md"
+      fields:
+        - {label: Title, name: title, widget: string}
+        - {label: Date, name: date, widget: datetime, date_format: "YYYY-MM-DD", time_format: false}
+        - {label: Body, name: body, widget: markdown}

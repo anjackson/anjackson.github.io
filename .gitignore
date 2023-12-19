@@ -1,2 +1,6 @@
 _site/
 *~
+.DS_Store
+.jekyll-cache
+/public
+/.hugo_build.lock
