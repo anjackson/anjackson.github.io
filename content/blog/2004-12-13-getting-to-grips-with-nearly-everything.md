@@ -51,7 +51,7 @@ On an entirely different point again, this page on [Cockney rhyming slang](http:
 
 Finally, some computer geekery.  I've started piping all my anjackson.net mail through my  anjackson-at-gmail.com [GMail](http://gmail.google.com/) account, which then forwards it to my own server.  This means that all the email I recieve will now have a backup copy on GMail.  Also, their spam filtering is better than mine.
 
-The last thing, I promise, is that one of my sites, [Nutshells](http://nutshells.anjackson.net/) (dedicated to the RISC OS computing platform) has been nominated for a [Drobe Best Of 2004 Award](http://www.drobe.co.uk/riscos/artifact1234.html) in the _Best general contribution to the platform_ category.  I wrote up my reaction [here](http://nutshells.anjackson.net/node/view/906).  In short, I'm flattered but probably undeserving. :)
+The last thing, I promise, is that one of my sites, [Nutshells](http://nutshells.anjackson.net/) (dedicated to the RISC OS computing platform) has been nominated for a [Drobe Best Of 2004 Award](https://web.archive.org/web/20050207151042/http://www.drobe.co.uk/riscos/artifact1234.html) in the _Best general contribution to the platform_ category.  I wrote up my reaction [here](http://nutshells.anjackson.net/node/view/906).  In short, I'm flattered but probably undeserving. :)
 
 Blimey, have you really read this far?  I would have given up _ages_ ago. 
 

@@ -15,5 +15,8 @@ tags:
 url: "/node/11/"
 aliases: []
 date: '2004-03-18'
+images:
+  - src: image/images/tinkybudget-11.jpg
+    name: tinkybudget-11.jpg
 ---
 No tax on custard.

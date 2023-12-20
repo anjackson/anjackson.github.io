@@ -33,6 +33,11 @@ defaultContentLanguage = "en"
   date = [':filename', ':default']
   lastmod = ['lastmod', ':git', ':default']
 
+# Allow access to the CONTEXT Netlify environment variable:
+# https://docs.netlify.com/configure-builds/environment-variables/#build-metadata
+[security.funcs]
+getenv = ['^HUGO_', '^CONTEXT$' ]
+
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true

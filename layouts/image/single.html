@@ -17,6 +17,19 @@
         {{ end }}
       {{ end }}
       {{ .Content | emojify }}
+      <div class="flex flex-row flex-wrap items-center">
+  {{ range $taxonomy, $terms := .Site.Taxonomies }}
+  {{ if and (not (eq $taxonomy "authors")) (not (eq $taxonomy "series"))}}
+  {{ if (gt (len ($.GetTerms $taxonomy)) 0) }}
+  {{ range $.GetTerms $taxonomy }}
+  <span style="margin-top:0rem" class="mr-2" onclick="window.open({{ .RelPermalink }},'_self');">
+    {{ partial "badge.html" .LinkTitle }}
+  </span>
+  {{ end }}
+  {{ end }}
+  {{ end }}
+  {{ end }}
+</div>
     </section>
     <footer class="pt-8">
       {{ partial "sharing-links.html" . }}
