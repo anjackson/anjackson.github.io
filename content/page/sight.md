@@ -56,9 +56,9 @@ screenshots
 Here are some screenshots of it running on the Acorn Java VM.
 </p>
 <p align="center">
-{% include _image.html nid="1294" %}
-{% include _image.html nid="1295" %}
-{% include _image.html nid="1296" %}
+{{< include-image nid="1294" >}}
+{{< include-image nid="1295" >}}
+{{< include-image nid="1296" >}}
 </p>
 <table width="100%" border="0" cellpadding="5" cellspacing="5"></table>
 </td>

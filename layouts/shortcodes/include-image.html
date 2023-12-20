@@ -1,9 +1,19 @@
-{{ $imagePath := printf "image/images/*-%s.jpg" .Params.nid }}
+{{ $imagePath := (index .Site.Data.images .Params.nid) }}
 {{ with resources.GetMatch $imagePath }}
   <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
 {{ else }}
-  {{ $imagePath := printf "image/images/*-%s.png" .Params.nid }}
+  {{ $imagePath := printf "image/images/*-%s.jpg" .Params.nid }}
   {{ with resources.GetMatch $imagePath }}
     <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+  {{ else }}
+    {{ $imagePath := printf "image/images/*-%s.png" .Params.nid }}
+    {{ with resources.GetMatch $imagePath }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ else }}
+      {{ $imagePath := printf "image/images/*-%s.gif" .Params.nid }}
+      {{ with resources.GetMatch $imagePath }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+      {{ end }}
+    {{ end }}
   {{ end }}
 {{ end }}

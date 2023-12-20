@@ -17,7 +17,7 @@ aliases:
   - "/node/1435/"
 date: '2004-10-16'
 ---
-{% include _image.html nid="1434" align="right" hspace="" vspace="" width="" %}__Monster__ track has to be _Wow_ from _Final Straw_ by _[Snow Patrol](http://www.snowpatrol.net/)_.  It really rather hits the mark.  In fact the [whole album](http://www.amazon.co.uk/exec/obidos/ASIN/B0001BH15K/202-6537669-9498213) is pretty darned good.  Go get it.  _Spitting Games_ is also a favourite, if only for the lines:
+{{< include-image nid="1434" align="right" hspace="" vspace="" width="" >}}__Monster__ track has to be _Wow_ from _Final Straw_ by _[Snow Patrol](http://www.snowpatrol.net/)_.  It really rather hits the mark.  In fact the [whole album](http://www.amazon.co.uk/exec/obidos/ASIN/B0001BH15K/202-6537669-9498213) is pretty darned good.  Go get it.  _Spitting Games_ is also a favourite, if only for the lines:
 :_My heart is bursting in your perfect eyes_
 :_As blue as oceans and as pure as skies_
 And _Grazed Knees_ is a bit of a stand-out track too.

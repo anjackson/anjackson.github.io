@@ -18,4 +18,4 @@ date: '2004-08-11'
 ---
 ### Jackson through the ages
 
-{% include _image.html nid="663" %}{% include _image.html nid="664" %}{% include _image.html nid="665" %}
+{{< include-image nid="663" >}}{{< include-image nid="664" >}}{{< include-image nid="665" >}}
