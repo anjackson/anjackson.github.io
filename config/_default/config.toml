@@ -6,6 +6,17 @@ theme = "blowfish"
 baseURL = "/"
 defaultContentLanguage = "en"
 
+# pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
+
+enableRobotsTXT = true
+paginate = 10
+summaryLength = 0
+
+buildDrafts = false
+buildFuture = false
+
+# googleAnalytics = "G-XXXXXXXXX"
+
 [permalinks]
   [permalinks.page]
     blog = '/:year/:month/:day/:slug/'
@@ -37,17 +48,6 @@ defaultContentLanguage = "en"
 # https://docs.netlify.com/configure-builds/environment-variables/#build-metadata
 [security.funcs]
 getenv = ['^HUGO_', '^CONTEXT$' ]
-
-# pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
-
-enableRobotsTXT = true
-paginate = 10
-summaryLength = 0
-
-buildDrafts = false
-buildFuture = false
-
-# googleAnalytics = "G-XXXXXXXXX"
 
 [imaging]
   anchor = 'Center'
