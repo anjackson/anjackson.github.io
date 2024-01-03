@@ -37,6 +37,12 @@
   weight = 40
 
 [[main]]
+  identifier = "rss"
+  pre = "rss"
+  url = "https://anjackson.net/feed.xml"
+  weight = 35
+
+[[main]]
   identifier = "mastodon"
   pre = "mastodon"
   url = "https://digipres.club/@anj"
