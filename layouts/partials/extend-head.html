@@ -1,6 +1,10 @@
 {{ if eq (getenv "CONTEXT") "production" }}
 <script async src="https://analytics.eu.umami.is/script.js" data-website-id="c3f2b96c-b65a-42fa-84df-6af4106f4201"></script>
 <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "801ea8a55e384fcebbf657deefd01ce3"}'></script><!-- End Cloudflare Web Analytics -->
+<!-- webmention support -->
+<link rel="webmention" href="https://webmention.io/anjackson.net/webmention" />
+<script src="/webmention/webmention.min.js" async></script>
+<link rel="stylesheet" href="/webmention/webmention.css">
 {{ else }}
 <!-- 
     CONTEXT != production 
