@@ -11,7 +11,7 @@ draft: false
 ---
 After a small delay, we were finally able to formally launch the _Registries of Good Practice_ project! You can find the formal announcement here: [Registries of Good Practice: New project launched to help practitioners discover digital preservation resources](https://www.dpconline.org/news/registries-of-good-practice)
 
-We'll be following up shortly to try and clarify some of the aim of the project, and how the proposed Preservation Registries Special Interest Group (PR-SIG) might work. But I just wanted to say a quick word about how I'm approaching this.
+We'll be following up shortly to try and clarify some of the aims of the project, and how the proposed Preservation Registries Special Interest Group (PR-SIG) might work. But I just wanted to say a quick word about how I'm approaching this.
 
 I've become a bit of a fan of [Wardley mapping](https://learnwardleymapping.com/introduction/) in recent years. I'm not saying it's perfect, but I think a lot of the ideas in it are genuinely useful. The model of how technologies evolve is well-grounded and helpful. The notion of being driven by user needs and understanding the technological dependencies beneath them is valuable.
 
