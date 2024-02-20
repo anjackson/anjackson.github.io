@@ -71,7 +71,7 @@ My final observation at this point would be to take the promise of 99%+ precisio
 
 Based on what I've read, it seems the 1 million file benchmark set was restricted to the ~100 formats targeted for training -- i.e. none of the unidentified 3% was used for benchmarking. So, while Magika performed far better on this test set than any of the other tools they tested[^1], this does not tell us anything about the false positive rate on a more realistic corpus.
 
-I've only had time to fire a few examples through the [web demo version](https://google.github.io/magika/), but it was very sure about the mostly wrong answers it gave me when I passed it files it shouldn't understand. Like MOVs identified as MP4, and an MPEG identified as ICO.
+I've only had time to fire a few examples through the [web demo version](https://google.github.io/magika/), but when I passed it files it _shouldn't_ understand, it seemed very sure about the mostly wrong answers it gave me. Like MOVs identified as MP4, and an MPEG identified as ICO.
 
 However, this is hardly a systematic analysis, so you should also take my anecdata with a pinch of salt! Magika clearly works for them, so these false positives are presumably either avoidable or inconsequential. It's just something to bear in mind if you are trying to reapply the tool or approach in a different context.
 
