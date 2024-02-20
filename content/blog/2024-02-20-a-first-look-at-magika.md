@@ -43,7 +43,7 @@ As well as coverage, it's also interesting to look at tools like Magika to see w
 
 Firstly, it assumes that file formats have clearly defined versions, and tends to imply they are drawn from formal specifications. Not all formats are like that.
 
-Secondly, and relatedly, this model doesn't map very well only how format identification tends to be used in practice in the wider technology sector. Google isn't asking 'what format is this' to record it as a fact for future use.  They are doing it to work out which bits of software will understand which files. Therefore, the granularity of the identification is driven by the expectations of what processes are going to be applied downstream.
+Secondly, and relatedly, this model doesn't map very well onto how format identification tends to be used in practice in the wider technology sector. Google isn't asking 'what format is this' to record it as a fact for future use.  They are doing it to work out which bits of software will understand which files. Therefore, the granularity of the identification is driven by the expectations of what processes are going to be applied downstream.
 
  I'm guessing that's why they don't care which version of a format they have. Similarly, they have a single category for source code in the C family, a single category for Outlook formats, a single category for Windows Executables.
 
