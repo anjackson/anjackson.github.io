@@ -65,7 +65,7 @@ To the best of my knowledge, previous work using machine learning for format ide
 
 That said, if the approach actually _requires_ 25M files for every 100 formats, it's probably not going to be worth pursuing. There are many thousands of formats of interest, which implies billions of training files. It seems unlikely that any organisation in the cultural heritage sector has both a suitably varied collection of that size, and the ability to experiment on it in this way. 
 
-Having said that, given the final model is only 1MB in size, 25M files in total means there were over 3 files for _every single bit_ of the model.  I'm not very experience in machine learning, but that seems like a lot. Perhaps it is possible to get comparable results from significantly smaller datasets? 
+Having said that, given the final model is only 1MB in size, 25M files in total means there were over 3 files for _every single bit_ of the model.  I'm not very experienced in machine learning, but that seems like a lot. Perhaps it is possible to get comparable results from significantly smaller datasets? 
 
 My final observation at this point would be to take the promise of 99%+ precision and recall with a pinch of salt, because I think this will depend on lot on the distribution of formats in a given corpus.
 
