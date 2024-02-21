@@ -47,6 +47,11 @@
     margin-right: 1ex;
 }
 
+#webmentions ul.reacts a.reaction {
+    letter-spacing: normal;
+    float: left;
+}
+
 #webmentions a.reaction img {
     max-height: 1.3em;
     width: auto;
