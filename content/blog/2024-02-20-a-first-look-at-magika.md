@@ -21,7 +21,7 @@ But it rapidly becomes clear that the authors understand that optimal coverage, 
 
 So, while this is an interesting example of working towards high precision at large scale, it is not necessarily going to be useful to other communities interested in format identification.  As one of the authors was quick to make clear:
 
-<iframe src="https://mastodon.social/@Ange/111943077577813361/embed" width="450" height="255" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
+<iframe src="https://mastodon.social/@Ange/111943077577813361/embed" width="450" height="255" style="max-width: 100%" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
 
 Nevertheless, it's interesting to study this work, to help us understand what it might take to build the All-Singing All-Format _Ident-o-matic_ machine of our dreams.
 
