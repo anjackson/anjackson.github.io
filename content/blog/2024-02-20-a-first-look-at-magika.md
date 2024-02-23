@@ -85,4 +85,7 @@ But judging new identification tools remains a big challenge, and one that dates
 
 I think before that, we a more realistic idea of the size of the problem we're trying to solve. How many formats are there in our collections? How does this vary between collections? And how does this relate to the contents of our various format registries?  These are some of the threads I want to pull on as part of the Registries of Practice project. 
 
+_EDIT 2024-02-23:_ You should also read [Ed Summers great post about Magika](https://inkdroid.org/2024/02/21/magic/)!
+
 [^1]: Notably, the list of tools used in the comparison did not include [GitHub Linguist](https://github.com/github-linguist/linguist?tab=readme-ov-file#linguist), which is better suited to identifying text-based formats than the other competitors.
+
