@@ -20,3 +20,5 @@ I'm not sure where the project will end up, but we can start by clarifying the [
 Hopefully, that should help get things going, and start to articulate the value of joining in.
 
 Watch this space...
+
+_EDIT 2024-02-23:_ The [Goals & Principles blog post](https://www.dpconline.org/blog/registries-of-practice-goals-principles) is now live!
