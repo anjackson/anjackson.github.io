@@ -1,19 +1,19 @@
 ---
-type: page
 promote: 0
+created: 2004-03-18
+changed_ts: 1279916062
+author: anj
+permalink: /about/
+redirect_from:
+  - /node/1/
+date: 2010-07-23
 status: 1
 created_ts: 1079652915
-changed_ts: 1279916062
+showPagination: false
 node_id: 1
 title: about
-author: anj
-created: '2004-03-18'
-date: '2010-07-23'
-redirect_from:
-- "/node/1/"
-permalink: "/about/"
 tags: []
-showPagination: false
+type: page
 ---
 
 I find working in digital preservation fascinating.
@@ -28,7 +28,7 @@ But I also grew frustrated with working on digital preservation in the abstract.
 
 I felt like I'd spent too much time on the 'grand solutions' side of things, and so when the role of technical lead for the [UK Web Archive](https://www.webarchive.org.uk/) came up I, leapt at the chance. Being *responsible* for the actual digital preservation of a large, complex collection of national importance would surely help focus the mind? Indeed it did.
 
-So now the journey back to digital preservation _in general_ begins. I am taking on the role of _Preservation Registries Technical Architect_ at the [_Digital Preservation Coalition (DPC)_](https://dpconline.org), working on a project called _"Building registries of digital preservation good practice"_. Through this project and the DPC, I'm hoping I can generalise what I've learned and use it to help the wider digital preservation community.
+So now the journey back to digital preservation _in general_ begins. I am now the _Preservation Registries Technical Architect_ at the [_Digital Preservation Coalition (DPC)_](https://dpconline.org), working on a project called [_"Building registries of digital preservation good practice"_](https://github.com/digipres/registries-of-practice-project). Through this project and the DPC, I'm hoping I can generalise what I've learned and use it to help the wider digital preservation community.
 
 To this end, I'm going to try to use this site as a way of communicating the things I *think* I've learned over the years, in the hope that others find it useful. Or at least interestingly wrong.
 
