@@ -1,13 +1,15 @@
 ---
 title: My /now page
-date: 2023-12-15T09:20:25.280Z
+date: 2024-03-01T13:57:23.512Z
 showPagination: false
 ---
 This is my [/now page](https://nownownow.com/about).
 
 As of January 2024, I am...
 
-- ... the Preservation Registries Technical Architect at the Digital Preservation Coalition.  I'm working on a two-year project called "Building registries of digital preservation good practice".
+- ...the Preservation Registries Technical Architect at the [Digital Preservation Coalition](https://www.dpconline.org/).
+- ...working on a two-year project called ["Building registries of digital preservation good practice"](https://github.com/digipres/registries-of-practice-project).
+- ...spending some of my time maintaining our shared digital preservation resources, like the [digipres.org community portal](https://digipres.org/) and the community-managed [Awesome List for digital preservation](https://github.com/digipres/awesome-digital-preservation?tab=readme-ov-file#readme).
 
 Outside of work, I am...
 
