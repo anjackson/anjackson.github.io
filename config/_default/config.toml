@@ -41,8 +41,8 @@ buildFuture = false
     limit = 500 # Limit the depth of RSS feeds so they're not _infinite_.
 
 [frontmatter]
-  date = [':filename', ':default']
-  lastmod = ['lastmod', ':git', ':default']
+  date = [':filename', ':default', 'created']
+  lastmod = ['lastmod', ':git', ':default', 'changed']
 
 # Allow access to the CONTEXT Netlify environment variable:
 # https://docs.netlify.com/configure-builds/environment-variables/#build-metadata
