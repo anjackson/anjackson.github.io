@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Older
 images:
-  - src: image/images/hpcx-logo-sml-670.png
-    name: hpcx-logo-sml-670.png
+  - image/images/hpcx-logo-sml-670.png
 url: "/node/670/"
 aliases: []
 date: '2004-05-13'

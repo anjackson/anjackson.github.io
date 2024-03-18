@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Otari-Wilton's Bush
 images:
-  - src: image/images/IMG_3047.JPG
-    name: IMG_3047.JPG
+  - image/images/IMG_3047.JPG
 url: "/2007/01/19/leading_macdougall/"
 aliases:
   - "/node/1750/"

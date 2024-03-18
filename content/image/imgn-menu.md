@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Older
 images:
-  - src: image/images/imgn-menu-623.jpg
-    name: imgn-menu-623.jpg
+  - image/images/imgn-menu-623.jpg
 url: "/node/623/"
 aliases: []
 date: '2004-05-13'

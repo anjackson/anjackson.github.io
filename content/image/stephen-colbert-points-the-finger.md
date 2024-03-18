@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - From the internet
 images:
-  - src: image/images/Colbert.png
-    name: Colbert.png
+  - image/images/Colbert.png
 url: "/2006/05/30/stephen_colbert_points_the_finger/"
 aliases:
   - "/node/1625/"

@@ -15,8 +15,7 @@ tags:
   - 2003/11 - November 2003
   - Waitomo
 images:
-  - src: image/images/127_2765-935.jpg
-    name: 127_2765-935.jpg
+  - image/images/127_2765-935.jpg
 url: "/node/935/"
 aliases: []
 date: '2004-07-26'

@@ -15,8 +15,7 @@ tags:
   - 2003/10 - October 2003
   - Blue Mountains
 images:
-  - src: image/images/img_1389-367.jpg
-    name: img_1389-367.jpg
+  - image/images/img_1389-367.jpg
 url: "/node/367/"
 aliases: []
 date: '2004-03-26'

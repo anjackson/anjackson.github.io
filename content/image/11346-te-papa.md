@@ -14,8 +14,7 @@ tags:
   - Wellington
   - 2004/11 November 2004
 images:
-  - src: image/images/11346_te_papa-1506.jpg
-    name: 11346_te_papa-1506.jpg
+  - image/images/11346_te_papa-1506.jpg
 url: "/node/1506/"
 aliases: []
 date: '2004-11-13'

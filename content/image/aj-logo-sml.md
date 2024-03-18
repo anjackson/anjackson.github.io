@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Older
 images:
-  - src: image/images/aj-logo-sml-667.png
-    name: aj-logo-sml-667.png
+  - image/images/aj-logo-sml-667.png
 url: "/node/667/"
 aliases: []
 date: '2004-05-13'

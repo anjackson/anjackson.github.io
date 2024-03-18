@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - imgn
 images:
-  - src: image/images/summer2002-cd-face-1542.png
-    name: summer2002-cd-face-1542.png
+  - image/images/summer2002-cd-face-1542.png
 url: "/node/1542/"
 aliases: []
 date: '2004-11-30'

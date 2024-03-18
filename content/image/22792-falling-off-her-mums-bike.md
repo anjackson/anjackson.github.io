@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Eilidh
 images:
-  - src: image/images/imgp2792.jpg
-    name: imgp2792.jpg
+  - image/images/imgp2792.jpg
 url: "/2006/07/29/22792_falling_off_her_mums_bike/"
 aliases:
   - "/node/1640/"

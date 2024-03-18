@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Christmas in Los Angeles
 images:
-  - src: image/images/IMG_2593_0.JPG
-    name: IMG_2593_0.JPG
+  - image/images/IMG_2593_0.JPG
 url: "/2007/01/19/hummingbird_0/"
 aliases:
   - "/node/1708/"

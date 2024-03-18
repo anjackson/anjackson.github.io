@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Older
 images:
-  - src: image/images/url-logo-sml-684.jpg
-    name: url-logo-sml-684.jpg
+  - image/images/url-logo-sml-684.jpg
 url: "/node/684/"
 aliases: []
 date: '2004-05-13'

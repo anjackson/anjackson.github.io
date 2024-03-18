@@ -14,8 +14,7 @@ tags:
   - 2004/01 - January 2004
   - Abel Tasman
 images:
-  - src: image/images/04087_our_shadows-1415.jpg
-    name: 04087_our_shadows-1415.jpg
+  - image/images/04087_our_shadows-1415.jpg
 url: "/node/1415/"
 aliases: []
 date: '2004-08-20'

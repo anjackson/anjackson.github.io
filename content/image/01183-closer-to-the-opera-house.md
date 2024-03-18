@@ -14,8 +14,7 @@ tags:
   - Sydney
   - 2003/10 - October 2003
 images:
-  - src: image/images/img_1183-353.jpg
-    name: img_1183-353.jpg
+  - image/images/img_1183-353.jpg
 url: "/node/353/"
 aliases: []
 date: '2004-03-26'

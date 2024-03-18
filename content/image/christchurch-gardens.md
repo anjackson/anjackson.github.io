@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Christchurch
 images:
-  - src: image/images/134_3440-1194.jpg
-    name: 134_3440-1194.jpg
+  - image/images/134_3440-1194.jpg
 url: "/2004/08/10/christchurch_gardens/"
 aliases:
   - "/node/1194/"

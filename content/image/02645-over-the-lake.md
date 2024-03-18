@@ -14,8 +14,7 @@ tags:
   - 2003/11 - November 2003
   - Taupo
 images:
-  - src: image/images/126_2645-891.jpg
-    name: 126_2645-891.jpg
+  - image/images/126_2645-891.jpg
 url: "/node/891/"
 aliases: []
 date: '2004-07-26'

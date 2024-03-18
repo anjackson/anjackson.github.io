@@ -16,5 +16,6 @@ url: "/2005/01/12/mac-mini/"
 aliases:
   - "/node/1590/"
 date: '2005-01-12'
+images: []
 ---
 The Mac mini - image taken from apple.com.

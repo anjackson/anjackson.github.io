@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Wellington
 images:
-  - src: image/images/130_3090-1101.jpg
-    name: 130_3090-1101.jpg
+  - image/images/130_3090-1101.jpg
 url: "/2004/08/10/leaving_wellington/"
 aliases:
   - "/node/1101/"

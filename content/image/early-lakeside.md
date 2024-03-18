@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Rotorua
 images:
-  - src: image/images/img_2448-822.jpg
-    name: img_2448-822.jpg
+  - image/images/img_2448-822.jpg
 url: "/2004/07/26/early_lakeside/"
 aliases:
   - "/node/822/"

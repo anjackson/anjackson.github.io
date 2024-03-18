@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Bay of Islands
 images:
-  - src: image/images/img_2095-992.jpg
-    name: img_2095-992.jpg
+  - image/images/img_2095-992.jpg
 url: "/2004/08/10/mangrove_walkway/"
 aliases:
   - "/node/992/"

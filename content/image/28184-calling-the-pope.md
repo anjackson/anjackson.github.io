@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Eilidh
 images:
-  - src: image/images/IMG_8184.JPG
-    name: IMG_8184.JPG
+  - image/images/IMG_8184.JPG
 url: "/2006/07/29/28184_calling_the_pope/"
 aliases:
   - "/node/1651/"

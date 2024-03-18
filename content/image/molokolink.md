@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - imgn
 images:
-  - src: image/images/molokolink-606.jpg
-    name: molokolink-606.jpg
+  - image/images/molokolink-606.jpg
 url: "/node/606/"
 aliases: []
 date: '2004-05-12'

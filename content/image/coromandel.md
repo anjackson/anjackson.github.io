@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Coromandel
 images:
-  - src: image/images/img_2338-784.jpg
-    name: img_2338-784.jpg
+  - image/images/img_2338-784.jpg
 url: "/2004/07/26/coromandel/"
 aliases:
   - "/node/784/"

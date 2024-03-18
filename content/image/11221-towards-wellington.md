@@ -14,8 +14,7 @@ tags:
   - Wellington
   - 2004/11 November 2004
 images:
-  - src: image/images/11221_towards_wellington-1492.jpg
-    name: 11221_towards_wellington-1492.jpg
+  - image/images/11221_towards_wellington-1492.jpg
 url: "/node/1492/"
 aliases: []
 date: '2004-11-13'

@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - The first few days
 images:
-  - src: image/images/IMG_2669.JPG
-    name: IMG_2669.JPG
+  - image/images/IMG_2669.JPG
 url: "/2007/01/19/mark_jillians_pad_in_ngaio/"
 aliases:
   - "/node/1720/"

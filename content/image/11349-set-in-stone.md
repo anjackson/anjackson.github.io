@@ -14,8 +14,7 @@ tags:
   - Wellington
   - 2004/11 November 2004
 images:
-  - src: image/images/11349_set_in_stone-1507.jpg
-    name: 11349_set_in_stone-1507.jpg
+  - image/images/11349_set_in_stone-1507.jpg
 url: "/node/1507/"
 aliases: []
 date: '2004-11-13'

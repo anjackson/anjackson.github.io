@@ -16,8 +16,7 @@ tags:
   - Graham D
   - Catherine M
 images:
-  - src: image/images/106_0696-325.jpg
-    name: 106_0696-325.jpg
+  - image/images/106_0696-325.jpg
 url: "/node/325/"
 aliases: []
 date: '2004-03-26'

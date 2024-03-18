@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - The first few days
 images:
-  - src: image/images/IMG_2814.JPG
-    name: IMG_2814.JPG
+  - image/images/IMG_2814.JPG
 url: "/2007/01/19/chaffers_marina/"
 aliases:
   - "/node/1733/"

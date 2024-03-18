@@ -14,8 +14,7 @@ tags:
   - 2003/09 - September 2003
   - London
 images:
-  - src: image/images/106_0663-321.jpg
-    name: 106_0663-321.jpg
+  - image/images/106_0663-321.jpg
 url: "/node/321/"
 aliases: []
 date: '2004-03-26'

@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - imgn
 images:
-  - src: image/images/substance-607.jpg
-    name: substance-607.jpg
+  - image/images/substance-607.jpg
 url: "/node/607/"
 aliases: []
 date: '2004-05-12'

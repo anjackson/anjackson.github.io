@@ -14,8 +14,7 @@ tags:
   - Wellington
   - 2004/12 December 2004
 images:
-  - src: image/images/11517_nz_christmas_tree-1582.jpg
-    name: 11517_nz_christmas_tree-1582.jpg
+  - image/images/11517_nz_christmas_tree-1582.jpg
 url: "/2005/01/02/11517-nz-christmas-tree/"
 aliases:
   - "/node/1582/"

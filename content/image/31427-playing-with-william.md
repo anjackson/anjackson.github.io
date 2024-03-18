@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Eilidh
 images:
-  - src: image/images/IMG_1427.JPG
-    name: IMG_1427.JPG
+  - image/images/IMG_1427.JPG
 url: "/2006/07/29/31427_playing_with_william/"
 aliases:
   - "/node/1665/"

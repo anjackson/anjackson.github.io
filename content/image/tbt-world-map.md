@@ -14,8 +14,7 @@ tags:
   - The Big Trip
   - From the internet
 images:
-  - src: image/images/worldmap_s-1300.png
-    name: worldmap_s-1300.png
+  - image/images/worldmap_s-1300.png
 url: "/node/1300/"
 aliases: []
 date: '2004-08-16'

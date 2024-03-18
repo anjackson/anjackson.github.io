@@ -14,8 +14,7 @@ tags:
   - Edinburgh
   - Older
 images:
-  - src: image/images/ed-bh-mast.sml-653.jpg
-    name: ed-bh-mast.sml-653.jpg
+  - image/images/ed-bh-mast.sml-653.jpg
 url: "/node/653/"
 aliases: []
 date: '2004-05-13'

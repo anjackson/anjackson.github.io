@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - imgn
 images:
-  - src: image/images/ma.iwas-605.jpg
-    name: ma.iwas-605.jpg
+  - image/images/ma.iwas-605.jpg
 url: "/node/605/"
 aliases: []
 date: '2004-05-12'

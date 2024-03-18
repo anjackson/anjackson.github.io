@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - From the internet
 images:
-  - src: image/images/teeth-547.jpg
-    name: teeth-547.jpg
+  - image/images/teeth-547.jpg
 url: "/node/547/"
 aliases: []
 date: '2004-05-04'

@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Andy
 images:
-  - src: image/images/IMG_0407_2.JPG
-    name: IMG_0407_2.JPG
+  - image/images/IMG_0407_2.JPG
 url: "/2006/07/31/andy_swing/"
 aliases:
   - "/node/1669/"

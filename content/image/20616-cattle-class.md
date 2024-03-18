@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Eilidh
 images:
-  - src: image/images/IMG_0616.JPG
-    name: IMG_0616.JPG
+  - image/images/IMG_0616.JPG
 url: "/2006/07/29/20616_cattle_class/"
 aliases:
   - "/node/1652/"

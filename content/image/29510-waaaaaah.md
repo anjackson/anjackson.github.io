@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Eilidh
 images:
-  - src: image/images/IMG_9510.JPG
-    name: IMG_9510.JPG
+  - image/images/IMG_9510.JPG
 url: "/2006/07/29/29510_waaaaaah/"
 aliases:
   - "/node/1660/"

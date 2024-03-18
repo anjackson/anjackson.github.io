@@ -14,8 +14,7 @@ tags:
   - Wellington
   - 2004/11 November 2004
 images:
-  - src: image/images/11312_bottle_sculpture-1501.jpg
-    name: 11312_bottle_sculpture-1501.jpg
+  - image/images/11312_bottle_sculpture-1501.jpg
 url: "/node/1501/"
 aliases: []
 date: '2004-11-13'

@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Wellington
 images:
-  - src: image/images/129_2998-1070.jpg
-    name: 129_2998-1070.jpg
+  - image/images/129_2998-1070.jpg
 url: "/2004/08/10/sunset/"
 aliases:
   - "/node/1070/"

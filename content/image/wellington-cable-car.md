@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Wellington
 images:
-  - src: image/images/130_3089-1100.jpg
-    name: 130_3089-1100.jpg
+  - image/images/130_3089-1100.jpg
 url: "/2004/08/10/wellington_cable_car/"
 aliases:
   - "/node/1100/"

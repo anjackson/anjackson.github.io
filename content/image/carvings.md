@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Auckland
 images:
-  - src: image/images/img_2177-1011.jpg
-    name: img_2177-1011.jpg
+  - image/images/img_2177-1011.jpg
 url: "/2004/08/10/carvings/"
 aliases:
   - "/node/1011/"

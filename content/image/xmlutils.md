@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Older
 images:
-  - src: image/images/xmlutils-673.png
-    name: xmlutils-673.png
+  - image/images/xmlutils-673.png
 url: "/node/673/"
 aliases: []
 date: '2004-05-13'

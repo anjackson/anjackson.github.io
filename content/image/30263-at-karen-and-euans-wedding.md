@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Andy
 images:
-  - src: image/images/IMG_0263_0.JPG
-    name: IMG_0263_0.JPG
+  - image/images/IMG_0263_0.JPG
 url: "/2006/08/01/30263_at_karen_euans_wedding/"
 aliases:
   - "/node/1673/"

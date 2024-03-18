@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Older
 images:
-  - src: image/images/imgn-logo-sml-621.jpg
-    name: imgn-logo-sml-621.jpg
+  - image/images/imgn-logo-sml-621.jpg
 url: "/node/621/"
 aliases: []
 date: '2004-05-13'

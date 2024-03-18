@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Eilidh
 images:
-  - src: image/images/IMG_9151.JPG
-    name: IMG_9151.JPG
+  - image/images/IMG_9151.JPG
 url: "/2006/07/29/29151_eilidh_dad/"
 aliases:
   - "/node/1655/"

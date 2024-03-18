@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Older
 images:
-  - src: image/images/mexitable2-620.jpg
-    name: mexitable2-620.jpg
+  - image/images/mexitable2-620.jpg
 url: "/node/620/"
 aliases: []
 date: '2004-05-13'

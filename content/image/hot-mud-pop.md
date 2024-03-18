@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Rotorua
 images:
-  - src: image/images/img_2517-843.jpg
-    name: img_2517-843.jpg
+  - image/images/img_2517-843.jpg
 url: "/2004/07/26/hot_mud_pop/"
 aliases:
   - "/node/843/"

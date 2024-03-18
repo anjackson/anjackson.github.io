@@ -14,8 +14,7 @@ tags:
   - 2004/01 - January 2004
   - Abel Tasman
 images:
-  - src: image/images/04103_tasman_taxi-1460.jpg
-    name: 04103_tasman_taxi-1460.jpg
+  - image/images/04103_tasman_taxi-1460.jpg
 url: "/node/1460/"
 aliases: []
 date: '2004-11-13'

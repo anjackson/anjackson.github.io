@@ -15,8 +15,7 @@ tags:
   - Taupo
   - Aaron P
 images:
-  - src: image/images/126_2624-885.jpg
-    name: 126_2624-885.jpg
+  - image/images/126_2624-885.jpg
 url: "/node/885/"
 aliases: []
 date: '2004-07-26'

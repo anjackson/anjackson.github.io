@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - imgn
 images:
-  - src: image/images/andalsolink-595.jpg
-    name: andalsolink-595.jpg
+  - image/images/andalsolink-595.jpg
 url: "/node/595/"
 aliases: []
 date: '2004-05-12'

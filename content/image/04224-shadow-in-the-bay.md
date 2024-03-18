@@ -14,8 +14,7 @@ tags:
   - 2004/01 - January 2004
   - Abel Tasman
 images:
-  - src: image/images/04224_shadow_in_the_bay-1477.jpg
-    name: 04224_shadow_in_the_bay-1477.jpg
+  - image/images/04224_shadow_in_the_bay-1477.jpg
 url: "/node/1477/"
 aliases: []
 date: '2004-11-13'

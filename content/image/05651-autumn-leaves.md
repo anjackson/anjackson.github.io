@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Christchurch
 images:
-  - src: image/images/img_5651b-541.jpg
-    name: img_5651b-541.jpg
+  - image/images/img_5651b-541.jpg
 url: "/2004/04/20/05651_autumn_leaves/"
 aliases:
   - "/node/541/"

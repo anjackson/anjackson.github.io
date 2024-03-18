@@ -14,8 +14,7 @@ tags:
   - 2003/11 - November 2003
   - Tongariro Crossing
 images:
-  - src: image/images/126_2670-901.jpg
-    name: 126_2670-901.jpg
+  - image/images/126_2670-901.jpg
 url: "/node/901/"
 aliases: []
 date: '2004-07-26'

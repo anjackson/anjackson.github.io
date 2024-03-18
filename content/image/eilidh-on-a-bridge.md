@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Otari-Wilton's Bush
 images:
-  - src: image/images/IMG_3093.JPG
-    name: IMG_3093.JPG
+  - image/images/IMG_3093.JPG
 url: "/2007/01/19/eilidh_on_a_bridge/"
 aliases:
   - "/node/1753/"

@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Rotorua
 images:
-  - src: image/images/img_2508-840.jpg
-    name: img_2508-840.jpg
+  - image/images/img_2508-840.jpg
 url: "/2004/07/26/disturbing_green_lake/"
 aliases:
   - "/node/840/"

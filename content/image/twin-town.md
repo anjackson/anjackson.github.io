@@ -14,8 +14,7 @@ tags:
   - Wirksworth
   - Older
 images:
-  - src: image/images/w-die-657.jpg
-    name: w-die-657.jpg
+  - image/images/w-die-657.jpg
 url: "/node/657/"
 aliases: []
 date: '2004-05-13'

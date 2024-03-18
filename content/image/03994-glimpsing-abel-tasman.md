@@ -14,8 +14,7 @@ tags:
   - 2004/01 - January 2004
   - Abel Tasman
 images:
-  - src: image/images/03994_glimpsing_abel_tasman-1393.jpg
-    name: 03994_glimpsing_abel_tasman-1393.jpg
+  - image/images/03994_glimpsing_abel_tasman-1393.jpg
 url: "/node/1393/"
 aliases: []
 date: '2004-08-20'

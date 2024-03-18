@@ -14,8 +14,7 @@ tags:
   - 2004/01 - January 2004
   - Abel Tasman
 images:
-  - src: image/images/04130_tonga_bay-1462.jpg
-    name: 04130_tonga_bay-1462.jpg
+  - image/images/04130_tonga_bay-1462.jpg
 url: "/node/1462/"
 aliases: []
 date: '2004-11-13'

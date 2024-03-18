@@ -14,8 +14,7 @@ tags:
   - York
   - Older
 images:
-  - src: image/images/york-fount.sml-658.jpg
-    name: york-fount.sml-658.jpg
+  - image/images/york-fount.sml-658.jpg
 url: "/node/658/"
 aliases: []
 date: '2004-05-13'

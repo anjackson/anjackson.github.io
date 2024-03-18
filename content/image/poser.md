@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Andy
 images:
-  - src: image/images/me-rose.sml-665.jpg
-    name: me-rose.sml-665.jpg
+  - image/images/me-rose.sml-665.jpg
 url: "/2004/05/13/poser/"
 aliases:
   - "/node/665/"

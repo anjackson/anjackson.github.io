@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Auckland
 images:
-  - src: image/images/img_2163-1007.jpg
-    name: img_2163-1007.jpg
+  - image/images/img_2163-1007.jpg
 url: "/2004/08/10/museum_entrance/"
 aliases:
   - "/node/1007/"

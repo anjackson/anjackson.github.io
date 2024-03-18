@@ -14,8 +14,7 @@ tags:
   - Wellington
   - 2004/11 November 2004
 images:
-  - src: image/images/11308_corrugated_car-1500.jpg
-    name: 11308_corrugated_car-1500.jpg
+  - image/images/11308_corrugated_car-1500.jpg
 url: "/node/1500/"
 aliases: []
 date: '2004-11-13'

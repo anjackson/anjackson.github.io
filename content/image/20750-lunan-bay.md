@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Eilidh
 images:
-  - src: image/images/IMG_0939.JPG
-    name: IMG_0939.JPG
+  - image/images/IMG_0939.JPG
 url: "/2006/07/29/20750_lunan_bay/"
 aliases:
   - "/node/1654/"

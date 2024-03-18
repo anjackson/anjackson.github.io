@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Eilidh
 images:
-  - src: image/images/IMG_7597.JPG
-    name: IMG_7597.JPG
+  - image/images/IMG_7597.JPG
 url: "/2006/07/29/27597_hard_at_work/"
 aliases:
   - "/node/1646/"

@@ -15,8 +15,7 @@ tags:
   - Aaron P
   - Claire G
 images:
-  - src: image/images/img_2237-1036.jpg
-    name: img_2237-1036.jpg
+  - image/images/img_2237-1036.jpg
 url: "/2004/08/10/camping_with_beer/"
 aliases:
   - "/node/1036/"

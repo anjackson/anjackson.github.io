@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - imgn
 images:
-  - src: image/images/malink-613.png
-    name: malink-613.png
+  - image/images/malink-613.png
 url: "/node/613/"
 aliases: []
 date: '2004-05-12'

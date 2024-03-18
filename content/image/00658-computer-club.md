@@ -14,8 +14,7 @@ tags:
   - Wirksworth
   - 2003/09 - September 2003
 images:
-  - src: image/images/106_0658-320.jpg
-    name: 106_0658-320.jpg
+  - image/images/106_0658-320.jpg
 url: "/node/320/"
 aliases: []
 date: '2004-03-26'

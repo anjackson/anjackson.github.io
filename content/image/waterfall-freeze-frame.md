@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Bay of Islands
 images:
-  - src: image/images/img_2133-1003.jpg
-    name: img_2133-1003.jpg
+  - image/images/img_2133-1003.jpg
 url: "/2004/08/10/waterfall_freeze_frame/"
 aliases:
   - "/node/1003/"

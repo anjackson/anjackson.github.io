@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - imgn
 images:
-  - src: image/images/lamblink-603.jpg
-    name: lamblink-603.jpg
+  - image/images/lamblink-603.jpg
 url: "/node/603/"
 aliases: []
 date: '2004-05-12'

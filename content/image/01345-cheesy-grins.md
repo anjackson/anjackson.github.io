@@ -17,8 +17,7 @@ tags:
   - Christine L
   - Michelle K
 images:
-  - src: image/images/img_1345-361.jpg
-    name: img_1345-361.jpg
+  - image/images/img_1345-361.jpg
 url: "/2004/03/26/01345_cheesy_grins/"
 aliases:
   - "/node/361/"

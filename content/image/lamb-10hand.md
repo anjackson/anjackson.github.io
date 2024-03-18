@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - imgn
 images:
-  - src: image/images/lamb.10hand-601.jpg
-    name: lamb.10hand-601.jpg
+  - image/images/lamb.10hand-601.jpg
 url: "/node/601/"
 aliases: []
 date: '2004-05-12'

@@ -14,8 +14,7 @@ tags:
   - 2004/01 - January 2004
   - Abel Tasman
 images:
-  - src: image/images/04155_walk_this_way-1468.jpg
-    name: 04155_walk_this_way-1468.jpg
+  - image/images/04155_walk_this_way-1468.jpg
 url: "/node/1468/"
 aliases: []
 date: '2004-11-13'

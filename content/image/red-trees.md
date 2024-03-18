@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Bay of Islands
 images:
-  - src: image/images/img_2092-991.jpg
-    name: img_2092-991.jpg
+  - image/images/img_2092-991.jpg
 url: "/2004/08/10/red_trees/"
 aliases:
   - "/node/991/"

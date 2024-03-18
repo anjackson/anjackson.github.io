@@ -14,8 +14,7 @@ tags:
   - York
   - Older
 images:
-  - src: image/images/york-hes-hall.sml-659.jpg
-    name: york-hes-hall.sml-659.jpg
+  - image/images/york-hes-hall.sml-659.jpg
 url: "/img-n/places/images/york-hes-hall.sml.jpg/"
 aliases:
   - "/node/659/"

@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Engagement
 images:
-  - src: image/images/ring-closeup_0120-sml.jpg
-    name: ring-closeup_0120-sml.jpg
+  - image/images/ring-closeup_0120-sml.jpg
 url: "/2006/05/05/the_ring_itself/"
 aliases:
   - "/node/1616/"

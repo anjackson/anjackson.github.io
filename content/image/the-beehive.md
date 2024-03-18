@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Wellington
 images:
-  - src: image/images/129_2948-1042.jpg
-    name: 129_2948-1042.jpg
+  - image/images/129_2948-1042.jpg
 url: "/2004/08/10/the_beehive/"
 aliases:
   - "/node/1042/"

@@ -14,8 +14,7 @@ tags:
   - Fiji
   - 2003/09 - September 2003
 images:
-  - src: image/images/img_1081-b-437.jpg
-    name: img_1081-b-437.jpg
+  - image/images/img_1081-b-437.jpg
 url: "/node/437/"
 aliases: []
 date: '2004-03-26'

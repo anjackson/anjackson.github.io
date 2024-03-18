@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - The first few days
 images:
-  - src: image/images/IMG_2864.JPG
-    name: IMG_2864.JPG
+  - image/images/IMG_2864.JPG
 url: "/2007/01/19/inside_te_papa_museum/"
 aliases:
   - "/node/1739/"

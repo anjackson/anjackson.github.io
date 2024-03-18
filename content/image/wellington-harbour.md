@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Comet McNaught
 images:
-  - src: image/images/IMG_3222.JPG
-    name: IMG_3222.JPG
+  - image/images/IMG_3222.JPG
 url: "/2007/01/19/wellington_harbour/"
 aliases:
   - "/node/1762/"

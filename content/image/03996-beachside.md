@@ -14,8 +14,7 @@ tags:
   - 2004/01 - January 2004
   - Abel Tasman
 images:
-  - src: image/images/03996_beachside-1394.jpg
-    name: 03996_beachside-1394.jpg
+  - image/images/03996_beachside-1394.jpg
 url: "/node/1394/"
 aliases: []
 date: '2004-08-20'

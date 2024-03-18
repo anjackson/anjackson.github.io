@@ -14,8 +14,7 @@ tags:
   - Edinburgh
   - Older
 images:
-  - src: image/images/ed-bh-shadow.sml-654.jpg
-    name: ed-bh-shadow.sml-654.jpg
+  - image/images/ed-bh-shadow.sml-654.jpg
 url: "/node/654/"
 aliases: []
 date: '2004-05-13'

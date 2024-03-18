@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Highlights
 images:
-  - src: image/images/img_5426b-539.jpg
-    name: img_5426b-539.jpg
+  - image/images/img_5426b-539.jpg
 url: "/node/539/"
 aliases: []
 date: '2004-04-18'

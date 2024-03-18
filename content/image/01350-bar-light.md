@@ -15,8 +15,7 @@ tags:
   - 2003/10 - October 2003
   - Christine L
 images:
-  - src: image/images/img_1350-b-444.jpg
-    name: img_1350-b-444.jpg
+  - image/images/img_1350-b-444.jpg
 url: "/node/444/"
 aliases: []
 date: '2004-03-26'

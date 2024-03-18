@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - The Red Centre
 images:
-  - src: image/images/img_1524-380.jpg
-    name: img_1524-380.jpg
+  - image/images/img_1524-380.jpg
 url: "/2004/03/26/01524_uluru_base_walk/"
 aliases:
   - "/node/380/"

@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Older
 images:
-  - src: image/images/mexisnh-619.jpg
-    name: mexisnh-619.jpg
+  - image/images/mexisnh-619.jpg
 url: "/node/619/"
 aliases: []
 date: '2004-05-13'

@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Older
 images:
-  - src: image/images/weinach1.thumb-631.jpg
-    name: weinach1.thumb-631.jpg
+  - image/images/weinach1.thumb-631.jpg
 url: "/node/631/"
 aliases: []
 date: '2004-05-13'

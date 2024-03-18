@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Wellington
 images:
-  - src: image/images/129_2982-1063.jpg
-    name: 129_2982-1063.jpg
+  - image/images/129_2982-1063.jpg
 url: "/2004/08/10/somethings_missing/"
 aliases:
   - "/node/1063/"

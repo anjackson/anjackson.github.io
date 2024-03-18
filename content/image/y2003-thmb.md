@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Older
 images:
-  - src: image/images/y2003-thmb-651.jpg
-    name: y2003-thmb-651.jpg
+  - image/images/y2003-thmb-651.jpg
 url: "/node/651/"
 aliases: []
 date: '2004-05-13'

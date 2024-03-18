@@ -14,8 +14,7 @@ tags:
   - 2004/01 - January 2004
   - Abel Tasman
 images:
-  - src: image/images/04089_low_streaming_sun-1389.jpg
-    name: 04089_low_streaming_sun-1389.jpg
+  - image/images/04089_low_streaming_sun-1389.jpg
 url: "/node/1389/"
 aliases: []
 date: '2004-08-20'

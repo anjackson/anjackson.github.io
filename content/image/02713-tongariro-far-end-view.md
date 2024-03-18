@@ -15,8 +15,7 @@ tags:
   - Tongariro Crossing
   - Aaron P
 images:
-  - src: image/images/127_2713-923.jpg
-    name: 127_2713-923.jpg
+  - image/images/127_2713-923.jpg
 url: "/node/923/"
 aliases: []
 date: '2004-07-26'

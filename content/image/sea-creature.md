@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - The first few days
 images:
-  - src: image/images/IMG_1524.jpg
-    name: IMG_1524.jpg
+  - image/images/IMG_1524.jpg
 url: "/2007/01/19/sea_creature/"
 aliases:
   - "/node/1729/"

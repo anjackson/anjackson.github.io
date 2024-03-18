@@ -14,8 +14,7 @@ tags:
   - 2004/01 - January 2004
   - Abel Tasman
 images:
-  - src: image/images/04239-4_abel_tasman_panorama-1481.jpg
-    name: 04239-4_abel_tasman_panorama-1481.jpg
+  - image/images/04239-4_abel_tasman_panorama-1481.jpg
 url: "/node/1481/"
 aliases: []
 date: '2004-11-13'

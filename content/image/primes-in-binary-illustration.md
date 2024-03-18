@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - ix2v
 images:
-  - src: image/images/PrimePlotIllustration.png
-    name: PrimePlotIllustration.png
+  - image/images/PrimePlotIllustration.png
 url: "/2007/07/19/primes_in_binary_illustration/"
 aliases:
   - "/node/1803/"

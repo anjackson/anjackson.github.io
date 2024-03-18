@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Otari-Wilton's Bush
 images:
-  - src: image/images/IMG_2985.JPG
-    name: IMG_2985.JPG
+  - image/images/IMG_2985.JPG
 url: "/2007/01/19/rimu_tree/"
 aliases:
   - "/node/1748/"

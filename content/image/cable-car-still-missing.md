@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Wellington
 images:
-  - src: image/images/130_3054-1093.jpg
-    name: 130_3054-1093.jpg
+  - image/images/130_3054-1093.jpg
 url: "/2004/08/10/cable_car_still_missing/"
 aliases:
   - "/node/1093/"

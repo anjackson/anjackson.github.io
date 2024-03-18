@@ -14,8 +14,7 @@ tags:
   - 2004/01 - January 2004
   - Abel Tasman
 images:
-  - src: image/images/04132_clear_tasman_waters-1463.jpg
-    name: 04132_clear_tasman_waters-1463.jpg
+  - image/images/04132_clear_tasman_waters-1463.jpg
 url: "/node/1463/"
 aliases: []
 date: '2004-11-13'

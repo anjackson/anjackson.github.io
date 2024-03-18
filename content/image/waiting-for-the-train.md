@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - The first few days
 images:
-  - src: image/images/IMG_2727.JPG
-    name: IMG_2727.JPG
+  - image/images/IMG_2727.JPG
 url: "/2007/01/19/waiting_for_the_train/"
 aliases:
   - "/node/1724/"

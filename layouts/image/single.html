@@ -12,7 +12,7 @@
     </header>
     <section class="max-w-full mt-6 prose dark:prose-invert">
       {{ range .Params.images }}
-        {{ with resources.GetMatch .src }}
+        {{ with resources.GetMatch . }}
           <img style="margin: 0 auto;" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
         {{ end }}
       {{ end }}

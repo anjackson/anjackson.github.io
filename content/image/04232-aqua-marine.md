@@ -14,8 +14,7 @@ tags:
   - 2004/01 - January 2004
   - Abel Tasman
 images:
-  - src: image/images/04232_aqua_marine-1479.jpg
-    name: 04232_aqua_marine-1479.jpg
+  - image/images/04232_aqua_marine-1479.jpg
 url: "/node/1479/"
 aliases: []
 date: '2004-11-13'

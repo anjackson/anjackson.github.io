@@ -14,8 +14,7 @@ tags:
   - 2004/01 - January 2004
   - Abel Tasman
 images:
-  - src: image/images/04006_ferns_and_black_trees-1399.jpg
-    name: 04006_ferns_and_black_trees-1399.jpg
+  - image/images/04006_ferns_and_black_trees-1399.jpg
 url: "/node/1399/"
 aliases: []
 date: '2004-08-20'

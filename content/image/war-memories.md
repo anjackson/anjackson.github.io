@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Auckland
 images:
-  - src: image/images/img_2166-1008.jpg
-    name: img_2166-1008.jpg
+  - image/images/img_2166-1008.jpg
 url: "/2004/08/10/war_memories/"
 aliases:
   - "/node/1008/"

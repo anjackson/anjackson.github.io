@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Older
 images:
-  - src: image/images/chris1-616.jpg
-    name: chris1-616.jpg
+  - image/images/chris1-616.jpg
 url: "/node/616/"
 aliases: []
 date: '2004-05-13'

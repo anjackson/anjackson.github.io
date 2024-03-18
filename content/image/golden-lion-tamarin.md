@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Wellington Zoo
 images:
-  - src: image/images/IMG_3393.JPG
-    name: IMG_3393.JPG
+  - image/images/IMG_3393.JPG
 url: "/2007/01/31/golden_lion_tamarin/"
 aliases:
   - "/node/1785/"

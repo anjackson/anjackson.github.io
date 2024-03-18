@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - imgn
 images:
-  - src: image/images/andalsotitle-596.jpg
-    name: andalsotitle-596.jpg
+  - image/images/andalsotitle-596.jpg
 url: "/node/596/"
 aliases: []
 date: '2004-05-12'

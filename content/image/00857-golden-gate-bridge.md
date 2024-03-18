@@ -14,8 +14,7 @@ tags:
   - California
   - 2003/09 - September 2003
 images:
-  - src: image/images/108_0857-b-429.jpg
-    name: 108_0857-b-429.jpg
+  - image/images/108_0857-b-429.jpg
 url: "/node/429/"
 aliases: []
 date: '2004-03-26'

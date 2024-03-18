@@ -16,8 +16,7 @@ tags:
   - Graham D
   - Catherine M
 images:
-  - src: image/images/1008-10-pan-422.jpg
-    name: 1008-10-pan-422.jpg
+  - image/images/1008-10-pan-422.jpg
 url: "/node/422/"
 aliases: []
 date: '2004-03-26'

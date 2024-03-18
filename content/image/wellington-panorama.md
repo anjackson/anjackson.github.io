@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Wellington
 images:
-  - src: image/images/130_3084-87-pan-1099.jpg
-    name: 130_3084-87-pan-1099.jpg
+  - image/images/130_3084-87-pan-1099.jpg
 url: "/2004/08/10/wellington_panorama/"
 aliases:
   - "/node/1099/"

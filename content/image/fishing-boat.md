@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Coromandel
 images:
-  - src: image/images/img_2226-1032.jpg
-    name: img_2226-1032.jpg
+  - image/images/img_2226-1032.jpg
 url: "/2004/08/10/fishing_boat/"
 aliases:
   - "/node/1032/"

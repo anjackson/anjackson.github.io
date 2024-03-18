@@ -17,8 +17,7 @@ tags:
   - Claire G
   - Waitomo
 images:
-  - src: image/images/127_2761-934.jpg
-    name: 127_2761-934.jpg
+  - image/images/127_2761-934.jpg
 url: "/node/934/"
 aliases: []
 date: '2004-07-26'

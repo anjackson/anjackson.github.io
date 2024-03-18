@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - imgn
 images:
-  - src: image/images/torifinery-609.jpg
-    name: torifinery-609.jpg
+  - image/images/torifinery-609.jpg
 url: "/node/609/"
 aliases: []
 date: '2004-05-12'

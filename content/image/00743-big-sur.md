@@ -15,8 +15,7 @@ tags:
   - Highlights
   - 2003/09 - September 2003
 images:
-  - src: image/images/107_0743-c-424.jpg
-    name: 107_0743-c-424.jpg
+  - image/images/107_0743-c-424.jpg
 url: "/node/424/"
 aliases: []
 date: '2003-09-18'

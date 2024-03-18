@@ -14,8 +14,7 @@ tags:
   - 2004/01 - January 2004
   - Abel Tasman
 images:
-  - src: image/images/04041_suzanne_speedboat__send-1408.jpg
-    name: 04041_suzanne_speedboat__send-1408.jpg
+  - image/images/04041_suzanne_speedboat__send-1408.jpg
 url: "/node/1408/"
 aliases: []
 date: '2004-08-20'

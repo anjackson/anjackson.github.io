@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Eilidh
 images:
-  - src: image/images/IMG_0341.JPG
-    name: IMG_0341.JPG
+  - image/images/IMG_0341.JPG
 url: "/2006/07/29/30341_arran_with_william/"
 aliases:
   - "/node/1661/"

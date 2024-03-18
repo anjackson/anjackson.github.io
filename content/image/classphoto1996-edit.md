@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - University of York
 images:
-  - src: image/images/classphoto1996-edit-637.jpg
-    name: classphoto1996-edit-637.jpg
+  - image/images/classphoto1996-edit-637.jpg
 url: "/2004/05/13/classphoto1996_edit/"
 aliases:
   - "/node/637/"

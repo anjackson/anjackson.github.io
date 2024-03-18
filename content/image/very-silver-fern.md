@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Bay of Islands
 images:
-  - src: image/images/img_2113-997.jpg
-    name: img_2113-997.jpg
+  - image/images/img_2113-997.jpg
 url: "/2004/08/10/very_silver_fern/"
 aliases:
   - "/node/997/"

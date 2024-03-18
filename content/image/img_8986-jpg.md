@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Taupo
 images:
-  - src: image/images/img_8986.jpg-895.jpg
-    name: img_8986.jpg-895.jpg
+  - image/images/img_8986.jpg-895.jpg
 url: "/2004/07/26/img_8986_jpg/"
 aliases:
   - "/node/895/"

@@ -14,8 +14,7 @@ tags:
   - Wellington
   - 2004/11 November 2004
 images:
-  - src: image/images/11342_te_papa_bush-1505.jpg
-    name: 11342_te_papa_bush-1505.jpg
+  - image/images/11342_te_papa_bush-1505.jpg
 url: "/node/1505/"
 aliases: []
 date: '2004-11-13'

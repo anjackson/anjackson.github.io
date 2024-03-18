@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - From the internet
 images:
-  - src: image/images/onedropeast5924712-689.jpg
-    name: onedropeast5924712-689.jpg
+  - image/images/onedropeast5924712-689.jpg
 url: "/node/689/"
 aliases: []
 date: '2004-05-13'

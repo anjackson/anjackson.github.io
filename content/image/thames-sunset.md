@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Coromandel
 images:
-  - src: image/images/img_2213-1025.jpg
-    name: img_2213-1025.jpg
+  - image/images/img_2213-1025.jpg
 url: "/2004/08/10/thames_sunset_1/"
 aliases:
   - "/node/1025/"

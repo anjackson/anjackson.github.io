@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Edinburgh
 images:
-  - src: image/images/IMG_1586_s.jpg
-    name: IMG_1586_s.jpg
+  - image/images/IMG_1586_s.jpg
 url: "/2006/07/10/gwynneth/"
 aliases:
   - "/node/1633/"

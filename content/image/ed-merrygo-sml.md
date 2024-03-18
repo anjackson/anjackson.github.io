@@ -14,8 +14,7 @@ tags:
   - Edinburgh
   - Older
 images:
-  - src: image/images/ed-merrygo.sml-655.jpg
-    name: ed-merrygo.sml-655.jpg
+  - image/images/ed-merrygo.sml-655.jpg
 url: "/node/655/"
 aliases: []
 date: '2004-05-13'

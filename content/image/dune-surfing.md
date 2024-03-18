@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Northland
 images:
-  - src: image/images/img_2053-b-495.jpg
-    name: img_2053-b-495.jpg
+  - image/images/img_2053-b-495.jpg
 url: "/2004/03/31/dune_surfing/"
 aliases:
   - "/node/495/"

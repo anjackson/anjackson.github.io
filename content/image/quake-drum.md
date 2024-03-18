@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - From the internet
 images:
-  - src: image/images/mrz-drum-2005-03-14-2015-1599.gif
-    name: mrz-drum-2005-03-14-2015-1599.gif
+  - image/images/mrz-drum-2005-03-14-2015-1599.gif
 url: "/2005/03/19/quake-drum/"
 aliases:
   - "/node/1599/"

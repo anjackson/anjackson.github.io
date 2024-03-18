@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Edinburgh
 images:
-  - src: image/images/IMG_1601_s.jpg
-    name: IMG_1601_s.jpg
+  - image/images/IMG_1601_s.jpg
 url: "/2006/07/10/trinny/"
 aliases:
   - "/node/1635/"

@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Eilidh
 images:
-  - src: image/images/IMG_9256.JPG
-    name: IMG_9256.JPG
+  - image/images/IMG_9256.JPG
 url: "/2006/07/29/29256_cheeky_chops/"
 aliases:
   - "/node/1658/"

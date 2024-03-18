@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Older
 images:
-  - src: image/images/becensored-632.jpg
-    name: becensored-632.jpg
+  - image/images/becensored-632.jpg
 url: "/node/632/"
 aliases: []
 date: '2004-05-13'

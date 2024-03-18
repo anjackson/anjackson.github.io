@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Coromandel
 images:
-  - src: image/images/img_2205-1022.jpg
-    name: img_2205-1022.jpg
+  - image/images/img_2205-1022.jpg
 url: "/2004/08/10/thames_police_station/"
 aliases:
   - "/node/1022/"

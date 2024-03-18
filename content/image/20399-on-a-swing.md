@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Eilidh
 images:
-  - src: image/images/IMG_0399.JPG
-    name: IMG_0399.JPG
+  - image/images/IMG_0399.JPG
 url: "/2006/07/29/20399_on_a_swing/"
 aliases:
   - "/node/1645/"

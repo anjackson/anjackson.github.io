@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Bay of Islands
 images:
-  - src: image/images/img_2105-995.jpg
-    name: img_2105-995.jpg
+  - image/images/img_2105-995.jpg
 url: "/2004/08/10/one_tree_hill/"
 aliases:
   - "/node/995/"

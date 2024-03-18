@@ -15,8 +15,7 @@ tags:
   - 2003/09 - September 2003
   - Slick Jeff
 images:
-  - src: image/images/106_0665-322.jpg
-    name: 106_0665-322.jpg
+  - image/images/106_0665-322.jpg
 url: "/node/322/"
 aliases: []
 date: '2004-03-26'

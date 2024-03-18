@@ -15,8 +15,7 @@ tags:
   - Eilidh
   - Andy & Eilidh
 images:
-  - src: image/images/IMG_0390.JPG
-    name: IMG_0390.JPG
+  - image/images/IMG_0390.JPG
 url: "/2006/07/29/20390_eilidh_andy/"
 aliases:
   - "/node/1644/"

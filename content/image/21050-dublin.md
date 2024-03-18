@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Eilidh
 images:
-  - src: image/images/IMG_1050.JPG
-    name: IMG_1050.JPG
+  - image/images/IMG_1050.JPG
 url: "/2006/07/29/21050_dublin/"
 aliases:
   - "/node/1656/"

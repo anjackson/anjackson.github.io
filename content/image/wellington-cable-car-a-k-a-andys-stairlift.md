@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - The first few days
 images:
-  - src: image/images/IMG_1510.jpg
-    name: IMG_1510.jpg
+  - image/images/IMG_1510.jpg
 url: "/2007/01/19/wellington_cable_car_a_k_a_andys_stairlift/"
 aliases:
   - "/node/1738/"

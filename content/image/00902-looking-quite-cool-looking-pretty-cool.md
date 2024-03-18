@@ -15,8 +15,7 @@ tags:
   - 2003/09 - September 2003
   - Graham D
 images:
-  - src: image/images/109_0902-b-430.jpg
-    name: 109_0902-b-430.jpg
+  - image/images/109_0902-b-430.jpg
 url: "/node/430/"
 aliases: []
 date: '2004-03-26'

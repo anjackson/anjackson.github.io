@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Christmas in Los Angeles
 images:
-  - src: image/images/IMG_2493_0.JPG
-    name: IMG_2493_0.JPG
+  - image/images/IMG_2493_0.JPG
 url: "/2007/01/19/christmas_tree_in_the_sun_0/"
 aliases:
   - "/node/1707/"

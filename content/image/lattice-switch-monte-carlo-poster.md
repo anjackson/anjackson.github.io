@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - ix2v
 images:
-  - src: image/images/poster-563.png
-    name: poster-563.png
+  - image/images/poster-563.png
 url: "/ix2v/comphys/docs/phd/poster-gif/"
 aliases:
   - "/node/563/"

@@ -15,8 +15,7 @@ tags:
   - The Red Centre
   - 2003/10 - October 2003
 images:
-  - src: image/images/img_1647-389.jpg
-    name: img_1647-389.jpg
+  - image/images/img_1647-389.jpg
 url: "/node/389/"
 aliases: []
 date: '2004-03-26'

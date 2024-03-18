@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - imgn
 images:
-  - src: image/images/torieyes2-608.jpg
-    name: torieyes2-608.jpg
+  - image/images/torieyes2-608.jpg
 url: "/node/608/"
 aliases: []
 date: '2004-05-12'

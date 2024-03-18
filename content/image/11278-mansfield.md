@@ -14,8 +14,7 @@ tags:
   - Wellington
   - 2004/11 November 2004
 images:
-  - src: image/images/11278_mansfield-1495.jpg
-    name: 11278_mansfield-1495.jpg
+  - image/images/11278_mansfield-1495.jpg
 url: "/node/1495/"
 aliases: []
 date: '2004-11-13'

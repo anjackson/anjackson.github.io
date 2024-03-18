@@ -14,8 +14,7 @@ tags:
   - Edinburgh
   - Older
 images:
-  - src: image/images/ed-porto.sml-656.jpg
-    name: ed-porto.sml-656.jpg
+  - image/images/ed-porto.sml-656.jpg
 url: "/node/656/"
 aliases: []
 date: '2004-05-13'

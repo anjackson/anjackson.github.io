@@ -14,8 +14,7 @@ tags:
   - Wellington
   - 2004/11 November 2004
 images:
-  - src: image/images/11231_wellington_waterfront-1493.jpg
-    name: 11231_wellington_waterfront-1493.jpg
+  - image/images/11231_wellington_waterfront-1493.jpg
 url: "/node/1493/"
 aliases: []
 date: '2004-11-13'

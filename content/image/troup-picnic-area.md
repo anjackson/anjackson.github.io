@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Otari-Wilton's Bush
 images:
-  - src: image/images/IMG_3107.JPG
-    name: IMG_3107.JPG
+  - image/images/IMG_3107.JPG
 url: "/2007/01/19/troup_picnic_area/"
 aliases:
   - "/node/1746/"

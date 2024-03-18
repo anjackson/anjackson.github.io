@@ -14,8 +14,7 @@ tags:
   - Wellington
   - 2004/11 November 2004
 images:
-  - src: image/images/11075_wellington_from_mt_victoria-1485.jpg
-    name: 11075_wellington_from_mt_victoria-1485.jpg
+  - image/images/11075_wellington_from_mt_victoria-1485.jpg
 url: "/node/1485/"
 aliases: []
 date: '2004-11-13'

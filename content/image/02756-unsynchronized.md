@@ -16,8 +16,7 @@ tags:
   - Aaron P
   - Waitomo
 images:
-  - src: image/images/127_2756-932.jpg
-    name: 127_2756-932.jpg
+  - image/images/127_2756-932.jpg
 url: "/node/932/"
 aliases: []
 date: '2004-07-26'

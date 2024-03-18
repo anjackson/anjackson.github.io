@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Wellington Zoo
 images:
-  - src: image/images/IMG_3286.JPG
-    name: IMG_3286.JPG
+  - image/images/IMG_3286.JPG
 url: "/2007/01/31/chimpanzees_pan_troglodytes/"
 aliases:
   - "/node/1773/"

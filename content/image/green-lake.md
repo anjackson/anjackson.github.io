@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Rotorua
 images:
-  - src: image/images/img_2489-834.jpg
-    name: img_2489-834.jpg
+  - image/images/img_2489-834.jpg
 url: "/2004/07/26/green_lake/"
 aliases:
   - "/node/834/"

@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Wellington
 images:
-  - src: image/images/129_2943-1038.jpg
-    name: 129_2943-1038.jpg
+  - image/images/129_2943-1038.jpg
 url: "/2004/08/10/te_papa_marae/"
 aliases:
   - "/node/1038/"

@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Bay of Islands
 images:
-  - src: image/images/img_2141-1004.jpg
-    name: img_2141-1004.jpg
+  - image/images/img_2141-1004.jpg
 url: "/2004/08/10/long_road_home/"
 aliases:
   - "/node/1004/"

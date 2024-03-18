@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Auckland
 images:
-  - src: image/images/img_2182-1014.jpg
-    name: img_2182-1014.jpg
+  - image/images/img_2182-1014.jpg
 url: "/2004/08/10/museum_foyer_roof/"
 aliases:
   - "/node/1014/"

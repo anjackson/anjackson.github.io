@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - The first few days
 images:
-  - src: image/images/IMG_1483.jpg
-    name: IMG_1483.jpg
+  - image/images/IMG_1483.jpg
 url: "/2007/01/19/hell_pizza/"
 aliases:
   - "/node/1722/"

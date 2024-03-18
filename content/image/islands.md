@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Coromandel
 images:
-  - src: image/images/img_2218-1029.jpg
-    name: img_2218-1029.jpg
+  - image/images/img_2218-1029.jpg
 url: "/2004/08/10/islands_3/"
 aliases:
   - "/node/1029/"

@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Wellington Zoo
 images:
-  - src: image/images/IMG_3302.JPG
-    name: IMG_3302.JPG
+  - image/images/IMG_3302.JPG
 url: "/2007/01/31/eastern_grey_kangaroo/"
 aliases:
   - "/node/1775/"

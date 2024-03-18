@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - The first few days
 images:
-  - src: image/images/IMG_2680.JPG
-    name: IMG_2680.JPG
+  - image/images/IMG_2680.JPG
 url: "/2007/01/19/waterfront/"
 aliases:
   - "/node/1726/"

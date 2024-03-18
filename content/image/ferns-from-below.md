@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Otari-Wilton's Bush
 images:
-  - src: image/images/IMG_3066.JPG
-    name: IMG_3066.JPG
+  - image/images/IMG_3066.JPG
 url: "/2007/01/19/ferns_from_below/"
 aliases:
   - "/node/1754/"

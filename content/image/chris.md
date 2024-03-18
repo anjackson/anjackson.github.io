@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Edinburgh
 images:
-  - src: image/images/IMG_1577_s.jpg
-    name: IMG_1577_s.jpg
+  - image/images/IMG_1577_s.jpg
 url: "/2006/07/09/chris/"
 aliases:
   - "/node/1632/"

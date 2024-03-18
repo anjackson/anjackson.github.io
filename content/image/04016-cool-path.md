@@ -14,8 +14,7 @@ tags:
   - 2004/01 - January 2004
   - Abel Tasman
 images:
-  - src: image/images/04016_cool_path-1401.jpg
-    name: 04016_cool_path-1401.jpg
+  - image/images/04016_cool_path-1401.jpg
 url: "/node/1401/"
 aliases: []
 date: '2004-08-20'

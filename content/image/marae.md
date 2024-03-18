@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Auckland
 images:
-  - src: image/images/img_2176-1010.jpg
-    name: img_2176-1010.jpg
+  - image/images/img_2176-1010.jpg
 url: "/2004/08/10/marae_0/"
 aliases:
   - "/node/1010/"

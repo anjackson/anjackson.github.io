@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Engagement
 images:
-  - src: image/images/ring-drawings_1104_2-sml.jpg
-    name: ring-drawings_1104_2-sml.jpg
+  - image/images/ring-drawings_1104_2-sml.jpg
 url: "/2006/05/05/final_ring_design_and_stones/"
 aliases:
   - "/node/1615/"

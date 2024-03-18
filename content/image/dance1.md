@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Older
 images:
-  - src: image/images/dance1-617.jpg
-    name: dance1-617.jpg
+  - image/images/dance1-617.jpg
 url: "/node/617/"
 aliases: []
 date: '2004-05-13'

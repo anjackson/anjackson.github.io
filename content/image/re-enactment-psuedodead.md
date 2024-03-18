@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Wellington
 images:
-  - src: image/images/129_2970-1056.jpg
-    name: 129_2970-1056.jpg
+  - image/images/129_2970-1056.jpg
 url: "/2004/08/10/re_enactment_psuedodead/"
 aliases:
   - "/node/1056/"

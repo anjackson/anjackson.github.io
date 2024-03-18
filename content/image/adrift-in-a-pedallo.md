@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - The first few days
 images:
-  - src: image/images/IMG_3132.JPG
-    name: IMG_3132.JPG
+  - image/images/IMG_3132.JPG
 url: "/2007/01/19/adrift_in_a_pedallo/"
 aliases:
   - "/node/1727/"

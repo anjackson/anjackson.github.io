@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Coromandel
 images:
-  - src: image/images/img_2215-1026.jpg
-    name: img_2215-1026.jpg
+  - image/images/img_2215-1026.jpg
 url: "/2004/08/10/thames_greenpeace_hut/"
 aliases:
   - "/node/1026/"

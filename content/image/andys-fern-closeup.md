@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Otari-Wilton's Bush
 images:
-  - src: image/images/IMG_3070.JPG
-    name: IMG_3070.JPG
+  - image/images/IMG_3070.JPG
 url: "/2007/01/19/andys_fern_closeup/"
 aliases:
   - "/node/1755/"

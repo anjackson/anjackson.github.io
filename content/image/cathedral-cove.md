@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Coromandel
 images:
-  - src: image/images/img_2387-802.jpg
-    name: img_2387-802.jpg
+  - image/images/img_2387-802.jpg
 url: "/2004/07/26/cathedral_cove/"
 aliases:
   - "/node/802/"

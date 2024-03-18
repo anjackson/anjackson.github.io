@@ -14,8 +14,7 @@ tags:
   - 2004/01 - January 2004
   - Abel Tasman
 images:
-  - src: image/images/04059_blue_moon-1411.jpg
-    name: 04059_blue_moon-1411.jpg
+  - image/images/04059_blue_moon-1411.jpg
 url: "/node/1411/"
 aliases: []
 date: '2004-08-20'

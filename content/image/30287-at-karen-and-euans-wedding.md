@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Andy & Eilidh
 images:
-  - src: image/images/IMG_0287_0.JPG
-    name: IMG_0287_0.JPG
+  - image/images/IMG_0287_0.JPG
 url: "/2006/08/01/30287_at_karen_euans_wedding/"
 aliases:
   - "/node/1674/"

@@ -14,8 +14,7 @@ tags:
   - 2003/12 - December 2003
   - Abel Tasman
 images:
-  - src: image/images/03084-87_wellington_panorama-1456.jpg
-    name: 03084-87_wellington_panorama-1456.jpg
+  - image/images/03084-87_wellington_panorama-1456.jpg
 url: "/node/1456/"
 aliases: []
 date: '2004-11-13'

@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Taranaki
 images:
-  - src: image/images/128_2823-956.jpg
-    name: 128_2823-956.jpg
+  - image/images/128_2823-956.jpg
 url: "/2004/07/26/coromandel_walkway/"
 aliases:
   - "/node/956/"

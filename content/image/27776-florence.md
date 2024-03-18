@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Eilidh
 images:
-  - src: image/images/IMG_7776.JPG
-    name: IMG_7776.JPG
+  - image/images/IMG_7776.JPG
 url: "/2006/07/29/27776_florence/"
 aliases:
   - "/node/1649/"

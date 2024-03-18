@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - From the internet
 images:
-  - src: image/images/bravia_gallery_06.jpg
-    name: bravia_gallery_06.jpg
+  - image/images/bravia_gallery_06.jpg
 url: "/2006/06/05/bravia_glow/"
 aliases:
   - "/node/1628/"

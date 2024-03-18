@@ -13,10 +13,8 @@ changed: '2013-06-25'
 tags:
   - ix2v
 images:
-  - src: image/Hunterand Jackson6.png
-    name: Hunterand Jackson6.png
-  - src: image/images/hunterand_jackson6-1593.png
-    name: hunterand_jackson6-1593.png
+  - image/Hunterand Jackson6.png
+  - image/images/hunterand_jackson6-1593.png
 url: "/2005/02/04/amn-2-poster/"
 aliases:
   - "/node/1593/"

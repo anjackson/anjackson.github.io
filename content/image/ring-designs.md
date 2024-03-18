@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Engagement
 images:
-  - src: image/images/rings_0.png
-    name: rings_0.png
+  - image/images/rings_0.png
 url: "/2006/05/05/ring_designs/"
 aliases:
   - "/node/1614/"

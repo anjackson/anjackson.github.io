@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Comet McNaught
 images:
-  - src: image/images/IMG_3223.JPG
-    name: IMG_3223.JPG
+  - image/images/IMG_3223.JPG
 url: "/2007/01/19/mcnaught_closeup/"
 aliases:
   - "/node/1763/"

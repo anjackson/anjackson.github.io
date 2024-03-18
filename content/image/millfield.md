@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Older
 images:
-  - src: image/images/millfield-635.jpg
-    name: millfield-635.jpg
+  - image/images/millfield-635.jpg
 url: "/node/635/"
 aliases: []
 date: '2004-05-13'

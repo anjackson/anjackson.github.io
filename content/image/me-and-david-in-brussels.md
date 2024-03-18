@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - David P
 images:
-  - src: image/images/me.n.dave-634.jpg
-    name: me.n.dave-634.jpg
+  - image/images/me.n.dave-634.jpg
 url: "/2004/05/13/me_david_in_brussels/"
 aliases:
   - "/node/634/"

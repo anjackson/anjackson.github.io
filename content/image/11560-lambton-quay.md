@@ -14,8 +14,7 @@ tags:
   - Wellington
   - 2004/12 December 2004
 images:
-  - src: image/images/11560_lambton_quay-1584.jpg
-    name: 11560_lambton_quay-1584.jpg
+  - image/images/11560_lambton_quay-1584.jpg
 url: "/node/1584/"
 aliases: []
 date: '2005-01-02'

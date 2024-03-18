@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - imgn
 images:
-  - src: image/images/torititle-612.jpg
-    name: torititle-612.jpg
+  - image/images/torititle-612.jpg
 url: "/node/612/"
 aliases: []
 date: '2004-05-12'

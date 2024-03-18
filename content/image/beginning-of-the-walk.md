@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Otari-Wilton's Bush
 images:
-  - src: image/images/IMG_3114.JPG
-    name: IMG_3114.JPG
+  - image/images/IMG_3114.JPG
 url: "/2007/01/19/beginning_of_the_walk/"
 aliases:
   - "/node/1747/"

@@ -15,8 +15,7 @@ tags:
   - 2003/09 - September 2003
   - Catherine M
 images:
-  - src: image/images/107_0714-328.jpg
-    name: 107_0714-328.jpg
+  - image/images/107_0714-328.jpg
 url: "/node/328/"
 aliases: []
 date: '2004-03-26'

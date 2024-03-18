@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Andy
 images:
-  - src: image/images/me-1-sml-664.jpg
-    name: me-1-sml-664.jpg
+  - image/images/me-1-sml-664.jpg
 url: "/2004/05/13/keen/"
 aliases:
   - "/node/664/"

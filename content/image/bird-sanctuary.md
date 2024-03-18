@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - The first few days
 images:
-  - src: image/images/IMG_2877.JPG
-    name: IMG_2877.JPG
+  - image/images/IMG_2877.JPG
 url: "/2007/01/19/bird_sanctuary/"
 aliases:
   - "/node/1737/"

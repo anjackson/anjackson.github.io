@@ -15,5 +15,6 @@ tags:
 url: "/node/1434/"
 aliases: []
 date: '2004-10-16'
+images: []
 ---
 Album cover for Final Straw by Snow Patrol.  Grabbed from Amazon.

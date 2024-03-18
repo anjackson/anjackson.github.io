@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - imgn
 images:
-  - src: image/images/torisea4i2b-611.jpg
-    name: torisea4i2b-611.jpg
+  - image/images/torisea4i2b-611.jpg
 url: "/node/611/"
 aliases: []
 date: '2004-05-12'

@@ -14,8 +14,7 @@ tags:
   - York
   - Older
 images:
-  - src: image/images/york-trees.sml-661.jpg
-    name: york-trees.sml-661.jpg
+  - image/images/york-trees.sml-661.jpg
 url: "/node/661/"
 aliases: []
 date: '2004-05-13'

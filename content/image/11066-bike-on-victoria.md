@@ -14,8 +14,7 @@ tags:
   - Wellington
   - 2004/11 November 2004
 images:
-  - src: image/images/11066_bike_on_victoria-1484.jpg
-    name: 11066_bike_on_victoria-1484.jpg
+  - image/images/11066_bike_on_victoria-1484.jpg
 url: "/node/1484/"
 aliases: []
 date: '2004-11-13'

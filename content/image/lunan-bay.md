@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Scotland
 images:
-  - src: image/images/IMG_2026_1.JPG
-    name: IMG_2026_1.JPG
+  - image/images/IMG_2026_1.JPG
 url: "/2006/10/03/lunan_bay_1/"
 aliases:
   - "/node/1690/"

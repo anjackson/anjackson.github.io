@@ -15,5 +15,6 @@ tags:
 url: "/node/602/"
 aliases: []
 date: '2004-05-12'
+images: []
 ---
 

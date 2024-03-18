@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - The first few days
 images:
-  - src: image/images/IMG_2867.JPG
-    name: IMG_2867.JPG
+  - image/images/IMG_2867.JPG
 url: "/2007/01/19/view_from_andys_work/"
 aliases:
   - "/node/1742/"

@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Otari-Wilton's Bush
 images:
-  - src: image/images/IMG_3096.JPG
-    name: IMG_3096.JPG
+  - image/images/IMG_3096.JPG
 url: "/2007/01/19/a_tui_on_a_fern/"
 aliases:
   - "/node/1758/"

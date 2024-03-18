@@ -15,8 +15,7 @@ tags:
   - 2004/01 - January 2004
   - Abel Tasman
 images:
-  - src: image/images/03985_misty_beach_i-1390.jpg
-    name: 03985_misty_beach_i-1390.jpg
+  - image/images/03985_misty_beach_i-1390.jpg
 url: "/node/1390/"
 aliases: []
 date: '2004-08-20'

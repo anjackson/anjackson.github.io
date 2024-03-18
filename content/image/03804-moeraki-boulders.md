@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Moeraki
 images:
-  - src: image/images/03804-c-1313.jpg
-    name: 03804-c-1313.jpg
+  - image/images/03804-c-1313.jpg
 url: "/2004/08/20/03804_c/"
 aliases:
   - "/node/1313/"

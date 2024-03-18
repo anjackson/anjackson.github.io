@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Auckland
 images:
-  - src: image/images/img_2179-1012.jpg
-    name: img_2179-1012.jpg
+  - image/images/img_2179-1012.jpg
 url: "/2004/08/10/tiki_and_other_pendants/"
 aliases:
   - "/node/1012/"

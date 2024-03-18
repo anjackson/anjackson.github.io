@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Wellington Zoo
 images:
-  - src: image/images/IMG_3328.JPG
-    name: IMG_3328.JPG
+  - image/images/IMG_3328.JPG
 url: "/2007/01/31/looking_over_wellington/"
 aliases:
   - "/node/1776/"

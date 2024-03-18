@@ -16,8 +16,7 @@ tags:
   - Aaron P
   - Claire G
 images:
-  - src: image/images/127_2717-924.jpg
-    name: 127_2717-924.jpg
+  - image/images/127_2717-924.jpg
 url: "/node/924/"
 aliases: []
 date: '2004-07-26'

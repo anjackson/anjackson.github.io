@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Older
 images:
-  - src: image/images/echums-logo-sml-668.png
-    name: echums-logo-sml-668.png
+  - image/images/echums-logo-sml-668.png
 url: "/node/668/"
 aliases: []
 date: '2004-05-13'

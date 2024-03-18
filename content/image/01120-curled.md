@@ -15,8 +15,7 @@ tags:
   - Highlights
   - 2003/09 - September 2003
 images:
-  - src: image/images/img_1120-b-438.jpg
-    name: img_1120-b-438.jpg
+  - image/images/img_1120-b-438.jpg
 url: "/node/438/"
 aliases: []
 date: '2004-03-26'

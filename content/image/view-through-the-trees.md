@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Otari-Wilton's Bush
 images:
-  - src: image/images/IMG_1539.jpg
-    name: IMG_1539.jpg
+  - image/images/IMG_1539.jpg
 url: "/2007/01/19/view_through_the_trees/"
 aliases:
   - "/node/1751/"

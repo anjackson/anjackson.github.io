@@ -16,7 +16,6 @@ url: "/node/719/"
 aliases: []
 date: '2004-06-17'
 images:
-  - src: image/images/tuktuk-719.jpg
-    name: tuktuk-719.jpg
+  - image/images/tuktuk-719.jpg
 ---
 Stolen image of a Tuk-Tuk.

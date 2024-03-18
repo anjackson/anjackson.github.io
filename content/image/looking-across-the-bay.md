@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Wellington
 images:
-  - src: image/images/130_3082-1097.jpg
-    name: 130_3082-1097.jpg
+  - image/images/130_3082-1097.jpg
 url: "/2004/08/10/looking_across_the_bay/"
 aliases:
   - "/node/1097/"

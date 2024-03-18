@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Highlights
 images:
-  - src: image/images/img_7098-725.jpg
-    name: img_7098-725.jpg
+  - image/images/img_7098-725.jpg
 url: "/node/725/"
 aliases: []
 date: '2004-06-27'

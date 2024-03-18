@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Older
 images:
-  - src: image/images/dali-ed-628.jpg
-    name: dali-ed-628.jpg
+  - image/images/dali-ed-628.jpg
 url: "/2004/05/13-a-couple-with-their-heads-full-of-clouds/"
 aliases:
   - "/node/628/"

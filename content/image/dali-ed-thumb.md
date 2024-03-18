@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Older
 images:
-  - src: image/images/dali-ed.thumb-629.jpg
-    name: dali-ed.thumb-629.jpg
+  - image/images/dali-ed.thumb-629.jpg
 url: "/node/629/"
 aliases: []
 date: '2004-05-13'

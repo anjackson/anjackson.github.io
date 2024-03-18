@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Eilidh
 images:
-  - src: image/images/IMG_0245.JPG
-    name: IMG_0245.JPG
+  - image/images/IMG_0245.JPG
 url: "/2006/07/29/20245_dancing/"
 aliases:
   - "/node/1642/"

@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Auckland
 images:
-  - src: image/images/121_2183-990.jpg
-    name: 121_2183-990.jpg
+  - image/images/121_2183-990.jpg
 url: "/2004/08/10/auckland_museum/"
 aliases:
   - "/node/990/"

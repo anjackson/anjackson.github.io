@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Otari-Wilton's Bush
 images:
-  - src: image/images/IMG_1559.JPG
-    name: IMG_1559.JPG
+  - image/images/IMG_1559.JPG
 url: "/2007/01/19/a_whole_new_frond/"
 aliases:
   - "/node/1757/"

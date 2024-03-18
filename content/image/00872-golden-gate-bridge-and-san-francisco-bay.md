@@ -15,8 +15,7 @@ tags:
   - Highlights
   - 2003/09 - September 2003
 images:
-  - src: image/images/2372-77-pan-b-434.jpg
-    name: 2372-77-pan-b-434.jpg
+  - image/images/2372-77-pan-b-434.jpg
 url: "/node/434/"
 aliases: []
 date: '2004-03-26'

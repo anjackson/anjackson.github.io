@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Coromandel
 images:
-  - src: image/images/img_2324-780.jpg
-    name: img_2324-780.jpg
+  - image/images/img_2324-780.jpg
 url: "/2004/07/26/stony_beach_camping/"
 aliases:
   - "/node/780/"

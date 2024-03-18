@@ -16,8 +16,7 @@ tags:
   - Slick Jeff
   - The Monkey
 images:
-  - src: image/images/109_0912-338.jpg
-    name: 109_0912-338.jpg
+  - image/images/109_0912-338.jpg
 url: "/node/338/"
 aliases: []
 date: '2004-03-26'

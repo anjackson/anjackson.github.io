@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Eilidh
 images:
-  - src: image/images/20-05-06_2303_0.jpg
-    name: 20-05-06_2303_0.jpg
+  - image/images/20-05-06_2303_0.jpg
 url: "/2006/05/29/eilidh_terry/"
 aliases:
   - "/node/1623/"

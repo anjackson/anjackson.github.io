@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - ix2v
 images:
-  - src: image/images/primes.png
-    name: primes.png
+  - image/images/primes.png
 url: "/2007/07/19/9593_primes_in_binary/"
 aliases:
   - "/node/1804/"

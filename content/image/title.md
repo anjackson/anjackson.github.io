@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Older
 images:
-  - src: image/images/title-687.jpg
-    name: title-687.jpg
+  - image/images/title-687.jpg
 url: "/node/687/"
 aliases: []
 date: '2004-05-13'

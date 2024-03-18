@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - imgn
 images:
-  - src: image/images/curve.3-626.jpg
-    name: curve.3-626.jpg
+  - image/images/curve.3-626.jpg
 url: "/node/626/"
 aliases: []
 date: '2004-05-13'

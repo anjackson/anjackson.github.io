@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - ix2v
 images:
-  - src: image/images/sphere-w-midy-inxz-edit-548.jpg
-    name: sphere-w-midy-inxz-edit-548.jpg
+  - image/images/sphere-w-midy-inxz-edit-548.jpg
 url: "/node/548/"
 aliases: []
 date: '2004-05-04'

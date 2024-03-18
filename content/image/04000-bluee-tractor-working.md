@@ -14,8 +14,7 @@ tags:
   - 2004/01 - January 2004
   - Abel Tasman
 images:
-  - src: image/images/04000_bluee_tractor_working-1397.jpg
-    name: 04000_bluee_tractor_working-1397.jpg
+  - image/images/04000_bluee_tractor_working-1397.jpg
 url: "/node/1397/"
 aliases: []
 date: '2004-08-20'

@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Older
 images:
-  - src: image/images/jeffc1sml-682.jpg
-    name: jeffc1sml-682.jpg
+  - image/images/jeffc1sml-682.jpg
 url: "/node/682/"
 aliases: []
 date: '2004-05-13'

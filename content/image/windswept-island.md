@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Bay of Islands
 images:
-  - src: image/images/img_2122-998.jpg
-    name: img_2122-998.jpg
+  - image/images/img_2122-998.jpg
 url: "/2004/08/10/windswept_island/"
 aliases:
   - "/node/998/"

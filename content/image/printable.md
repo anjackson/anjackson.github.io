@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Older
 images:
-  - src: image/images/printable-666.png
-    name: printable-666.png
+  - image/images/printable-666.png
 url: "/node/666/"
 aliases: []
 date: '2004-05-13'

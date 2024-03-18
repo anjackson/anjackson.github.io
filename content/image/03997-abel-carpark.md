@@ -14,8 +14,7 @@ tags:
   - 2004/01 - January 2004
   - Abel Tasman
 images:
-  - src: image/images/03997_abel_carpark-1395.jpg
-    name: 03997_abel_carpark-1395.jpg
+  - image/images/03997_abel_carpark-1395.jpg
 url: "/node/1395/"
 aliases: []
 date: '2004-08-20'

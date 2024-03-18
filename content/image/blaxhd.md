@@ -14,8 +14,7 @@ tags:
   - Wirksworth
   - Older
 images:
-  - src: image/images/blaxhd-652.jpg
-    name: blaxhd-652.jpg
+  - image/images/blaxhd-652.jpg
 url: "/node/652/"
 aliases: []
 date: '2004-05-13'

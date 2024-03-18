@@ -15,8 +15,7 @@ tags:
   - Aaron P
   - Claire G
 images:
-  - src: image/images/img_2225-1031.jpg
-    name: img_2225-1031.jpg
+  - image/images/img_2225-1031.jpg
 url: "/2004/08/10/lunch_stop/"
 aliases:
   - "/node/1031/"

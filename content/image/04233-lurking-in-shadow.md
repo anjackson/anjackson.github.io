@@ -14,8 +14,7 @@ tags:
   - 2004/01 - January 2004
   - Abel Tasman
 images:
-  - src: image/images/04233_lurking_in_shadow-1480.jpg
-    name: 04233_lurking_in_shadow-1480.jpg
+  - image/images/04233_lurking_in_shadow-1480.jpg
 url: "/node/1480/"
 aliases: []
 date: '2004-11-13'

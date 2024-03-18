@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Wellington
 images:
-  - src: image/images/129_2965-1053.jpg
-    name: 129_2965-1053.jpg
+  - image/images/129_2965-1053.jpg
 url: "/2004/08/10/re_enacted_cooking/"
 aliases:
   - "/node/1053/"

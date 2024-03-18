@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - From the internet
 images:
-  - src: image/images/minuit99682-688.jpg
-    name: minuit99682-688.jpg
+  - image/images/minuit99682-688.jpg
 url: "/node/688/"
 aliases: []
 date: '2004-05-13'

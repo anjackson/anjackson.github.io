@@ -14,8 +14,7 @@ tags:
   - Wellington
   - 2004/12 December 2004
 images:
-  - src: image/images/11540_new_year_on_the_wellington_waterfront-1583.jpg
-    name: 11540_new_year_on_the_wellington_waterfront-1583.jpg
+  - image/images/11540_new_year_on_the_wellington_waterfront-1583.jpg
 url: "/node/1583/"
 aliases: []
 date: '2005-01-02'

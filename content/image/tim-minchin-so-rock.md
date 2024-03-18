@@ -13,10 +13,8 @@ changed: '2013-06-25'
 tags:
   - From the internet
 images:
-  - src: image/images/GB046COMtimm.jpg
-    name: GB046COMtimm.jpg
-  - src: image/images/GB046COMtimm.thumbnail.jpg
-    name: GB046COMtimm.thumbnail.jpg
+  - image/images/GB046COMtimm.jpg
+  - image/images/GB046COMtimm.thumbnail.jpg
 url: "/2006/08/08/tim_minchin_so_rock/"
 aliases:
   - "/node/1678/"

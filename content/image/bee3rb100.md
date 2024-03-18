@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Older
 images:
-  - src: image/images/bee3rb100-680.jpg
-    name: bee3rb100-680.jpg
+  - image/images/bee3rb100-680.jpg
 url: "/node/680/"
 aliases: []
 date: '2004-05-13'

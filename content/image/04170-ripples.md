@@ -14,8 +14,7 @@ tags:
   - 2004/01 - January 2004
   - Abel Tasman
 images:
-  - src: image/images/04170_ripples-1472.jpg
-    name: 04170_ripples-1472.jpg
+  - image/images/04170_ripples-1472.jpg
 url: "/node/1472/"
 aliases: []
 date: '2004-11-13'

@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - b3ta
 images:
-  - src: image/images/b3ta_logo-sml-674.png
-    name: b3ta_logo-sml-674.png
+  - image/images/b3ta_logo-sml-674.png
 url: "/node/674/"
 aliases: []
 date: '2004-05-13'

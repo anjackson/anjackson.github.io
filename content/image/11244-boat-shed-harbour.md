@@ -14,8 +14,7 @@ tags:
   - Wellington
   - 2004/11 November 2004
 images:
-  - src: image/images/11244_boat_shed_harbour-1494.jpg
-    name: 11244_boat_shed_harbour-1494.jpg
+  - image/images/11244_boat_shed_harbour-1494.jpg
 url: "/node/1494/"
 aliases: []
 date: '2004-11-13'

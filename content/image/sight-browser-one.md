@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - screenshots
 images:
-  - src: image/images/browser-one-1294.png
-    name: browser-one-1294.png
+  - image/images/browser-one-1294.png
 url: "/node/1294/"
 aliases: []
 date: '2004-08-13'

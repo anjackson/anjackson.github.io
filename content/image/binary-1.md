@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - imgn
 images:
-  - src: image/images/binary.1-624.jpg
-    name: binary.1-624.jpg
+  - image/images/binary.1-624.jpg
 url: "/node/624/"
 aliases: []
 date: '2004-05-13'

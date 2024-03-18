@@ -14,8 +14,7 @@ tags:
   - Wellington
   - 2004/11 November 2004
 images:
-  - src: image/images/11171_fireworks_finale-1487.jpg
-    name: 11171_fireworks_finale-1487.jpg
+  - image/images/11171_fireworks_finale-1487.jpg
 url: "/node/1487/"
 aliases: []
 date: '2004-11-13'

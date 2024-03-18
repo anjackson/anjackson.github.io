@@ -15,8 +15,7 @@ tags:
   - Highlights
   - 2004/11 November 2004
 images:
-  - src: image/images/11184_wind_sculpture-1488.jpg
-    name: 11184_wind_sculpture-1488.jpg
+  - image/images/11184_wind_sculpture-1488.jpg
 url: "/node/1488/"
 aliases: []
 date: '2004-11-13'

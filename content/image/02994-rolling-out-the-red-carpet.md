@@ -14,8 +14,7 @@ tags:
   - The Return Of The King
   - 2003/11 - November 2003
 images:
-  - src: image/images/129_2994-1068.jpg
-    name: 129_2994-1068.jpg
+  - image/images/129_2994-1068.jpg
 url: "/node/1068/"
 aliases: []
 date: '2004-08-10'

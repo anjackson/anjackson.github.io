@@ -15,5 +15,6 @@ tags:
 url: "/node/1308/"
 aliases: []
 date: '2004-08-16'
+images: []
 ---
 Rather fine. From a hubblesite.org press release.

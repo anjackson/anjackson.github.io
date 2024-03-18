@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Otari-Wilton's Bush
 images:
-  - src: image/images/IMG_1533.JPG
-    name: IMG_1533.JPG
+  - image/images/IMG_1533.JPG
 url: "/2007/01/19/lagging_jackson/"
 aliases:
   - "/node/1749/"

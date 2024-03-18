@@ -14,8 +14,7 @@ tags:
   - 2004/01 - January 2004
   - Abel Tasman
 images:
-  - src: image/images/04052_vibrating-1410.jpg
-    name: 04052_vibrating-1410.jpg
+  - image/images/04052_vibrating-1410.jpg
 url: "/node/1410/"
 aliases: []
 date: '2004-08-20'

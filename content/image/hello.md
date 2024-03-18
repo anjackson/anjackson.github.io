@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Wellington
 images:
-  - src: image/images/130_3078-1095.jpg
-    name: 130_3078-1095.jpg
+  - image/images/130_3078-1095.jpg
 url: "/2004/08/10/hello/"
 aliases:
   - "/node/1095/"

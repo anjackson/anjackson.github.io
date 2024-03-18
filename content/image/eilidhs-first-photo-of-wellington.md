@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - The first few days
 images:
-  - src: image/images/IMG_1479.jpg
-    name: IMG_1479.jpg
+  - image/images/IMG_1479.jpg
 url: "/2007/01/19/eilidhs_first_photo_of_wellington/"
 aliases:
   - "/node/1725/"

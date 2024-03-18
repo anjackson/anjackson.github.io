@@ -14,8 +14,7 @@ tags:
   - 2004/01 - January 2004
   - Abel Tasman
 images:
-  - src: image/images/04098_funky_flower-1458.jpg
-    name: 04098_funky_flower-1458.jpg
+  - image/images/04098_funky_flower-1458.jpg
 url: "/node/1458/"
 aliases: []
 date: '2004-11-13'

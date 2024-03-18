@@ -14,8 +14,7 @@ tags:
   - California
   - 2003/09 - September 2003
 images:
-  - src: image/images/0721-28-pan-b-421.jpg
-    name: 0721-28-pan-b-421.jpg
+  - image/images/0721-28-pan-b-421.jpg
 url: "/node/421/"
 aliases: []
 date: '2004-03-26'

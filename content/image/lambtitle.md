@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - imgn
 images:
-  - src: image/images/lambtitle-604.jpg
-    name: lambtitle-604.jpg
+  - image/images/lambtitle-604.jpg
 url: "/node/604/"
 aliases: []
 date: '2004-05-12'

@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - ix2v
 images:
-  - src: image/images/not-primes.png
-    name: not-primes.png
+  - image/images/not-primes.png
 url: "/2007/07/19/9593_not_primes_in_binary/"
 aliases:
   - "/node/1805/"

@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - From the internet
 images:
-  - src: image/images/TheBushes.png
-    name: TheBushes.png
+  - image/images/TheBushes.png
 url: "/2006/05/30/the_bushes/"
 aliases:
   - "/node/1624/"

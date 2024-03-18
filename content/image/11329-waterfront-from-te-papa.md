@@ -14,8 +14,7 @@ tags:
   - Wellington
   - 2004/11 November 2004
 images:
-  - src: image/images/11329_waterfront_from_te_papa-1502.jpg
-    name: 11329_waterfront_from_te_papa-1502.jpg
+  - image/images/11329_waterfront_from_te_papa-1502.jpg
 url: "/node/1502/"
 aliases: []
 date: '2004-11-13'

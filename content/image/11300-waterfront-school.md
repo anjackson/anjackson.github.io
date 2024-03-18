@@ -14,8 +14,7 @@ tags:
   - Wellington
   - 2004/11 November 2004
 images:
-  - src: image/images/11300_waterfront_school-1498.jpg
-    name: 11300_waterfront_school-1498.jpg
+  - image/images/11300_waterfront_school-1498.jpg
 url: "/node/1498/"
 aliases: []
 date: '2004-11-13'

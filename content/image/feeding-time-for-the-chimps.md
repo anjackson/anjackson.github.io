@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Wellington Zoo
 images:
-  - src: image/images/IMG_3276.JPG
-    name: IMG_3276.JPG
+  - image/images/IMG_3276.JPG
 url: "/2007/01/31/feeding_time_for_the_chimps/"
 aliases:
   - "/node/1772/"

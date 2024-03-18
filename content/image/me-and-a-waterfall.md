@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Bay of Islands
 images:
-  - src: image/images/img_2131-1002.jpg
-    name: img_2131-1002.jpg
+  - image/images/img_2131-1002.jpg
 url: "/2004/08/10/me_and_a_waterfall/"
 aliases:
   - "/node/1002/"

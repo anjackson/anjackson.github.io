@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Older
 images:
-  - src: image/images/cnanh-615.jpg
-    name: cnanh-615.jpg
+  - image/images/cnanh-615.jpg
 url: "/node/615/"
 aliases: []
 date: '2004-05-13'

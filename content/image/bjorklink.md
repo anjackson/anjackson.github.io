@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - imgn
 images:
-  - src: image/images/bjorklink-598.jpg
-    name: bjorklink-598.jpg
+  - image/images/bjorklink-598.jpg
 url: "/node/598/"
 aliases: []
 date: '2004-05-12'

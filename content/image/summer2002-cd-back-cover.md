@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - imgn
 images:
-  - src: image/images/summer2002-cd-wallet-back-1544.png
-    name: summer2002-cd-wallet-back-1544.png
+  - image/images/summer2002-cd-wallet-back-1544.png
 url: "/node/1544/"
 aliases: []
 date: '2004-11-30'

@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Coromandel
 images:
-  - src: image/images/img_2202-1021.jpg
-    name: img_2202-1021.jpg
+  - image/images/img_2202-1021.jpg
 url: "/2004/08/10/on_the_way_to_thames/"
 aliases:
   - "/node/1021/"

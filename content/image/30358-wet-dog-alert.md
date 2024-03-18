@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Eilidh
 images:
-  - src: image/images/IMG_0358.JPG
-    name: IMG_0358.JPG
+  - image/images/IMG_0358.JPG
 url: "/2006/07/29/30358_wet_dog_alert/"
 aliases:
   - "/node/1662/"

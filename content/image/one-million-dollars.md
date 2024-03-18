@@ -13,8 +13,7 @@ changed: '2013-06-25'
 tags:
   - Melbourne
 images:
-  - src: image/images/img_1904-b-452.jpg
-    name: img_1904-b-452.jpg
+  - image/images/img_1904-b-452.jpg
 url: "/2004/03/26/img_1904_b/"
 aliases:
   - "/node/452/"

@@ -14,8 +14,7 @@ tags:
   - 2004/01 - January 2004
   - Abel Tasman
 images:
-  - src: image/images/04208_waterline-1476.jpg
-    name: 04208_waterline-1476.jpg
+  - image/images/04208_waterline-1476.jpg
 url: "/node/1476/"
 aliases: []
 date: '2004-11-13'

@@ -14,8 +14,7 @@ tags:
   - Wellington
   - 2004/11 November 2004
 images:
-  - src: image/images/11215_boat_in_scorching_bay-1491.jpg
-    name: 11215_boat_in_scorching_bay-1491.jpg
+  - image/images/11215_boat_in_scorching_bay-1491.jpg
 url: "/node/1491/"
 aliases: []
 date: '2004-11-13'
