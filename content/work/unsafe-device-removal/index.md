@@ -3,6 +3,7 @@ title: "Unsafe Device Removal"
 subtitle: "An experiment in digital destruction."
 tags: ["Digital Preservation", "Keeping Codes", "Lessons Learned"]
 weight: 1
+date: 2020-08-27
 draft: true
 ---
 
@@ -22,19 +23,11 @@ For this experiment, you will need:
 
 I'm going to use this drive:
 
-```image {src="./images/save-as-test-drive.jpg"}
-:alt: Test Drive
-:height: 200px
-:align: center
-```
+![Test Drive](./images/save-as-test-drive.jpg)
 
 ...and this JPEG:
 
-```image {src="./images/best-test-image.jpg"}
-:alt: My father and my son, alike.
-:height: 200px
-:align: center
-```
+![My father and my son, alike.](./images/best-test-image.jpg)
 
 ## Method ##
 
