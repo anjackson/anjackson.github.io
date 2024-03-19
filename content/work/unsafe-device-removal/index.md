@@ -22,7 +22,7 @@ For this experiment, you will need:
 
 I'm going to use this drive:
 
-```{image} ./images/save-as-test-drive.jpg
+```image {src="./images/save-as-test-drive.jpg"}
 :alt: Test Drive
 :height: 200px
 :align: center
@@ -30,7 +30,7 @@ I'm going to use this drive:
 
 ...and this JPEG:
 
-```{image} ./images/best-test-image.jpg
+```image {src="./images/best-test-image.jpg"}
 :alt: My father and my son, alike.
 :height: 200px
 :align: center
