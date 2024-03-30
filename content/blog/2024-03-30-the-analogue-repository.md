@@ -1,6 +1,6 @@
 ---
 title: The Analogue Repository
-subtitle: Stories from the Digital Preservation Multiverse
+subtitle: A story from the Digital Preservation Multiverse
 date: 2024-03-30
 tags:
   - Digital Preservation
