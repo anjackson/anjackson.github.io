@@ -161,6 +161,6 @@ Anyone interested in booking a brief chat with me about anything related to my w
 
 I'd especially like to hear if you think I'm going about this is the wrong way. For example, as well as being surprised how difficult this was, I was also surprised that I couldn't find an existing citation or publication data model that fits this kind of data. I suspect I'm missing something, and would much rather use a standard or widely-adopted model if possible!
 
-If you've read this far, I only thank you for your perseverance. 
+If you've read this far, I can only thank you for your perseverance. 
 
 Share and enjoy.
