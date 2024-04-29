@@ -15,7 +15,8 @@ And based on our [principles](https://github.com/digipres/registries-of-practice
 
 For me, part of digital preservation is being on the look out for tools and technologies that are in the process of becoming widely-used standards.  The kind of things that become so ubiquitous that they start getting baked into the infrastructure of our digital lives. Like formats that become so widespread, [network effects can stave off obsolescence](https://arxiv.org/abs/1210.1714). 
 
-Of course, [even ubiquitous formats die sometimes](https://isflashdeadyet.com/). But it is relatively easy to spot new formats and technologies that are likely to have a shelf-life much longer than, say, [five years](https://www.clir.org/pubs/reports/rothenberg/introduction/). If only by looking at the ones that have already been around for a decade or two.
+Of course, [even ubiquitous formats die sometimes](https://isflashdeadyet.com/). But it is relatively easy to spot new formats and technologies that are likely to have a shelf-life much longer than, say, [five years](https://hyp.is/lPIqXAYoEe-tST_q5jirIw/www.clir.org/pubs/reports/rothenberg/introduction/). If only by looking at the ones that have already been around for a decade or two.
+
 ## iPRES as a Database
 The simplest possible thing I could think of was publishing the iPRES data set as a literal database, and no database format is more widely-used than [SQLite](https://www.sqlite.org/mostdeployed.html) (born c. 2000). By allowing complex data structures and rich query support in a single file, SQLite has become one of the most popular software applications in the world. Not only is it supported by almost every programming language out there, there are also a huge range of tools that can work with it.
 
