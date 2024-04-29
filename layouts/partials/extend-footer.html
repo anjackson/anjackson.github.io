@@ -1,14 +1,14 @@
 {{- if .Page.Store.Get "hasMermaid" }}
-  <script type="module">
-    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.esm.min.mjs';
-    mermaid.initialize({ startOnLoad: true });
-  </script>
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: true });
+</script>
 {{ end -}}
 <script>
   MathJax = {
     loader: {load: ['input/asciimath', 'output/chtml', 'ui/menu']},
   };
-  </script>
-  <script type="text/javascript" id="MathJax-script" async
+</script>
+<script type="text/javascript" id="MathJax-script" async
     src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/startup.js">
-  </script>
+</script>
