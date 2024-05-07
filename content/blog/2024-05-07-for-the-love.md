@@ -18,11 +18,11 @@ Douglas Adams said that [books are like sharks](https://www.theguardian.com/book
 
 Yes, but also, our tools shape us back. I think part of the reason books are good at surviving is because our society has co-evolved with them. We've learned to keep them safe, to love them.
 
-Yes, print is more robust than digital bits. But it is *also* true that we have adapted our behaviour to mitigate its weaknesses. We keep books dry. We keep those digestible pages away from insects and animals. We are taught not to damage the spines. Frowned upon for tears and marks. Most of us revere reading, and teach eachother to care for the read.
+Yes, print is more robust than digital bits. But it is *also* true that we have adapted our behaviour to mitigate its weaknesses. We keep books dry. We keep those digestible pages away from insects and animals. We are taught not to damage the spines. Frowned upon for tears and marks. Most of us revere reading, and teach each other to care for the read.
 
 This love is so deep, it can reach beyond reason. People, or at least *People On The Internet*, are *enraged* by the sight of pages being turned *without gloves*. Become *incandescent* when books are *discarded* while being weeded out of a library's collection. Despite the fact that libraries and archives are well aware of what they are doing, even they end up fighting the love of books sometimes.
 
-In some ways, books are worse than digital storage. They are difficult and expensive to copy. They are only visible over short distances. The are susceptible to fire, pests, children, and other acts of moisture. So they have *become* precious, maintained by infrastructure so familiar it fades from view. 
+In some ways, books are worse than digital storage. They are difficult and expensive to copy. They are only visible over short distances. The are susceptible to fire, pests, children, and other acts of moisture. So they have become precious, maintained by infrastructure so familiar it fades from view. 
 
 The frailties of print are obscured by our cupped hands.
 
@@ -36,7 +36,7 @@ I'd walk slowly, taking a moment to imagine what this would look and sound like,
 
 When those cuts were first made, only those within a few miles could see the results. In time, the sight could be shared, and spread. Now we can all [see it](https://kottke.org/19/09/the-care-and-feeding-of-the-uffington-white-horse-through-more-than-100-generations) in the palms of our hands.  [Learn its history](https://www.hows.org.uk/personal/hillfigs/). Imagine being there. And wonder how maintaining these shapes has shaped us.
 
-![](/assets/images/uploads/pasted-image-20240504143938.png)
+![The Uffington Horse, from above.](/assets/images/uploads/pasted-image-20240504143938.png "The Uffington Horse, from above.")
 
 <center>❦❦</center>
 
@@ -64,7 +64,7 @@ It's not that our institutions don't care for the digital at all, but they have 
 
 Even if there's little *passion* left in the building, these calcified structures form a kind of love. The roles and routines that provide a stable environment, day to day, week to week, because that's what we do. Leaning on learned behaviours built from lessons at risk of fading into hazy memory.
 
-This rigid foundation strains. Digital catalogue records are born, online catalogues grow in sophistication, empowering the familiar systems and services. Then digitisation promises wider access, while the born-digital turns from a fringe concern to a looming wave. And now, the first oscillations of the storm surge from *Generative AI*. 
+This rigid foundation strains. Digital catalogue records are born, online catalogues grow in sophistication, empowering the familiar systems and services. Then digitisation promises wider access, while the born-digital turns from a fringe concern to a looming wave. And now, the first oscillations of the storm surge from generative AI. 
 
 At every stage, more pressure to do more, while funding only falls. 
 
@@ -100,7 +100,7 @@ Just before the reception, for a short period of time, we were given exclusive a
 
 I don't know if it was the long journey to Paris, or perhaps my inertia while adapting from the relative isolation of remote working to the intensity of the conference environment. But I wasn't feeling it.
 
-I did *like* being there, seeing the artefacts and juxtapositions. The space. The ceiling, restored so vividly that it seemed both old and new at once. My mind was engaged. But I wasn't feeling it.
+I did like it, seeing the artefacts and juxtapositions. The space. The ceiling, restored so vividly that it seemed both old and new at once. My mind was engaged. But I wasn't feeling it.
 
 Then I noticed the light in others' eyes. The hushed exclamations. The slow, lingering steps. Those renewed colours glowing on upturned faces. Glimpses of undiscovered threads in the social fabric.
 
