@@ -6,7 +6,7 @@ tags:
   - Digital Preservation
 layout: post
 author: anj
-draft: true
+draft: false
 ---
 I have a theory about books: *people love them*.  
 
