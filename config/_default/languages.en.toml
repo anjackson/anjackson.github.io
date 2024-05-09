@@ -62,5 +62,5 @@ title = "anjackson.net"
 #     { whatsapp = "https://wa.me/phone-number" },
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
-     { rss = "https://anjackson.net/feed.xml" },
+#     { rss = "https://anjackson.net/feed.xml" },
    ]
