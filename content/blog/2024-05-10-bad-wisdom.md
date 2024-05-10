@@ -6,7 +6,9 @@ layout: post
 author: anj
 draft: false
 ---
-I'm not sure publishing [For The Love](/2024/05/07/for-the-love/) was really a good idea. There's been enough positive feedback that I'm going to leave it up, but I suspect it split the room. If I'm going to write things like that, I have to be willing to put with the fact that some people might think it's pure cringe. As I'm clearly a poor judge of when that approach is acceptable, there's a risk that I'm encouraging people to do something that may backfire badly. 
+I'm not sure publishing [For The Love](/2024/05/07/for-the-love/) was really a good idea. There's been enough positive feedback that I'm going to leave it up, but I suspect it split the room. If I'm going to write things like that, I have to be willing to put with the fact that some people might think it's pure cringe. 
+
+As I'm clearly a poor judge of when that approach is acceptable, there's a risk that I'm encouraging people to do something that may backfire badly. 
 
 Elsewhere, I've managed to break one connection by fundamentally misunderstanding/mishandling it, and I'm not even sure which direction I got it wrong in. While that situation is unique, it does not reflect well on me or my judgement. And I fear there's not much I can do about it without making it worse.
 
