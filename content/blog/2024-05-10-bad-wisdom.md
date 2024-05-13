@@ -10,6 +10,4 @@ I'm not sure publishing [For The Love](/2024/05/07/for-the-love/) was really a g
 
 As I'm clearly a poor judge of when that approach is acceptable, there's a risk that I'm encouraging people to do something that may backfire badly. 
 
-Elsewhere, I've managed to break one connection by fundamentally misunderstanding/mishandling it, and I'm not even sure which direction I got it wrong in. While that situation is unique, it does not reflect well on me or my judgement. And I fear there's not much I can do about it without making it worse.
-
-As for the writing, perhaps there's mode to aim for that's somewhere closer to [this lighter tone](/2024/05/09/rummaging-in-the-ipres-pantry-with-rclone/). That might be wiser, for now at least.
+Perhaps there's mode to aim for that's somewhere closer to [this lighter tone](/2024/05/09/rummaging-in-the-ipres-pantry-with-rclone/). That might be wiser, for now at least.
