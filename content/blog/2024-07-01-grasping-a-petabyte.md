@@ -9,9 +9,7 @@ layout: post
 author: anj
 draft: false
 ---
-I was the Technical Lead for the UK Web Archive at the British Library for twelve years. 
-
-Now that I've left, I can't help but wonder which of the things I started will stick around? And which will fall away?
+I was the Technical Lead for the UK Web Archive at the British Library for twelve years. Now that I've left, I can't help but wonder which of the things I started will stick around? And which will fall away?
 
 Just a few days after I submitted my resignation, we discovered that [the British Library had been hacked](https://en.wikipedia.org/wiki/British_Library_cyberattack). All the British Library systems were shut down, including those holding copies of the UK Web Archive. It was a very stressful period of time, and the remainder of my three-month notice period was spent trying to guess the future and plan for it.
 
@@ -27,7 +25,7 @@ But being closely involved in this work had another unexpected benefit...
 
 I got to *see* a petabyte. *In the flesh.*
 
-## Lifting a Petabyte
+## Lift
 
 Before I tell this story, I want you to guess how big you think a petabyte has to be... How many servers? How much does it weigh? What would it look like, sitting on pallets in the back of a truck?
 
@@ -57,7 +55,7 @@ This petabyte would probably fit under your desk[^0].
 
 To put this in context, think about all the PC, laptops and tablets sitting *on* all the desks. According to their 2022-23 annual report, the British Library has over 3,000 devices[^1]. These five servers represent less that 0.2% of that total. Perhaps a few percent of the total physical hardware estate in terms of mass or volume.
 
-## Energy Usage
+## Energy
 
 But what about all the power those things need, and the cooling? Well, according to the on-server metrics, each one uses at most 0.5kW of power (usually less). But to be honest, I never got fully to the bottom of how power draw metrics worked on those servers. So let's be conservative and say each server draws 1kW of power constantly. Like running a camping kettle all the time.
 
