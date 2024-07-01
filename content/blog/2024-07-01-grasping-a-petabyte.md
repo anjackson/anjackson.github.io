@@ -51,7 +51,7 @@ Here they are, packed onto three pallets, in the back of the truck, about to hea
 
 If you stacked them directly on top of each other, they'd be just under three feet high. 
 
-This petabyte would probably fit under your desk[^0].
+This petabyte would almost fit under your desk[^0].
 
 To put this in context, think about all the PC, laptops and tablets sitting *on* all the desks. According to their 2022-23 annual report, the British Library has over 3,000 devices[^1]. These five servers represent less that 0.2% of that total. Perhaps a few percent of the total physical hardware estate in terms of mass or volume.
 
