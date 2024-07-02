@@ -45,11 +45,11 @@ So what do you think? How many of these do we need to safely store a three-fold 
 
 It's five. Five servers.
 
-Here they are, packed onto three pallets, in the back of the truck, about to head north...
+Here they are, packed onto three boxes on three pallets, in the back of the truck, about to head north...
 
 ![Pallets in the truck](/assets/images/uploads/img_3394.jpeg)
 
-If you stacked them directly on top of each other, they'd be just under three feet high. 
+If you stacked them _directly_ on top of each other (without all the padding and packaging), they'd be just under three feet high. 
 
 This petabyte would almost fit under your desk[^0].
 
