@@ -85,7 +85,22 @@ We had to fight for that replicated petabyte. After all, every ounce of redundan
 
 Until you need it.
 
-[temp](/blog/images/2024-arran/index.html)
+<img src="/blog/2024-arran/IMG_1204.jpeg">
+<img src="/blog/2024-arran/IMG_1285.jpeg">
+<img src="/blog/2024-arran/IMG_1297.jpeg">
+<img src="/blog/2024-arran/IMG_1431.jpeg">
+<img src="/blog/2024-arran/IMG_3559.jpeg">
+<img src="/blog/2024-arran/IMG_3591.jpeg">
+<img src="/blog/2024-arran/IMG_3629.jpeg">
+<img src="/blog/2024-arran/IMG_3660.jpeg">
+<img src="/blog/2024-arran/IMG_3662.jpeg">
+<img src="/blog/2024-arran/IMG_3718.jpeg">
+<img src="/blog/2024-arran/IMG_3761.jpeg">
+<img src="/blog/2024-arran/IMG_3796.jpeg">
+<img src="/blog/2024-arran/IMG_5136.jpeg">
+<img src="/blog/2024-arran/IMG_6670.jpeg">
+<img src="/blog/2024-arran/IMG_8284.jpeg">
+
 
 
 [^0]: But it would cease to be a usable desk, as there would be no room for your legs. Please note this is not a recommended operating environment for this kind of server and you may void your warranty by attempting to store a petabyte under your desk.
