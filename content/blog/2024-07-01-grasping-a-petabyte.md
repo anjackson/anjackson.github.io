@@ -85,21 +85,6 @@ We had to fight for that replicated petabyte. After all, every ounce of redundan
 
 Until you need it.
 
-<img src="/blog/2024-arran/IMG_1204.jpeg">
-<img src="/blog/2024-arran/IMG_1285.jpeg">
-<img src="/blog/2024-arran/IMG_1297.jpeg">
-<img src="/blog/2024-arran/IMG_1431.jpeg">
-<img src="/blog/2024-arran/IMG_3559.jpeg">
-<img src="/blog/2024-arran/IMG_3591.jpeg">
-<img src="/blog/2024-arran/IMG_3629.jpeg">
-<img src="/blog/2024-arran/IMG_3660.jpeg">
-<img src="/blog/2024-arran/IMG_3662.jpeg">
-<img src="/blog/2024-arran/IMG_3718.jpeg">
-<img src="/blog/2024-arran/IMG_3761.jpeg">
-<img src="/blog/2024-arran/IMG_3796.jpeg">
-<img src="/blog/2024-arran/IMG_5136.jpeg">
-<img src="/blog/2024-arran/IMG_6670.jpeg">
-<img src="/blog/2024-arran/IMG_8284.jpeg">
 
 
 
