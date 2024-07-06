@@ -85,6 +85,7 @@ We had to fight for that replicated petabyte. After all, every ounce of redundan
 
 Until you need it.
 
+[temp](/blog/images/2024-arran/index.html)
 
 
 [^0]: But it would cease to be a usable desk, as there would be no room for your legs. Please note this is not a recommended operating environment for this kind of server and you may void your warranty by attempting to store a petabyte under your desk.
