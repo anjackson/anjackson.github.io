@@ -187,4 +187,3 @@ At this point, I think it's time to stop and ask for help. I have a lot of quest
 - Should I try to set something up that will find and flag 'broken' `File Format` records?
 - Are there other ways I can help?
 
-Fortunately, through the partnership with Yale University Libraries, I have a contact who knows WikiData very well. Hopefully, they'll be able to help me work out what to do next.
