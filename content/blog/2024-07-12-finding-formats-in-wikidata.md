@@ -2,12 +2,12 @@
 title: Finding Formats in WikiData
 subtitle: Where oh where are my PSDs?
 date: 2024-07-10
-category: digital-footprint
+category: registries-of-practice
 tags:
   - Digital Preservation
 layout: post
 author: anj
-draft: true
+draft: false
 ---
 
 As part of the [Registries of Good Practice project](https://github.com/digipres/registries-of-practice-project#readme), I'm looking at various sources of information about digital formats.  This builds on work from my existing [format registry aggregator](http://www.digipres.org/formats/), which will be improved and extended to include more information over the next weeks and months.
