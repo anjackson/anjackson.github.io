@@ -1,0 +1,14 @@
+<div style="float:right"><a target="_blank" href="https://query.wikidata.org/#{{- .Inner | safeURL -}}" title="Open in the WikiData Query Editor" class="p-2">{{ partial "icon.html" "edit" }}</a></div>
+
+<ul data-tabs>
+	<li><a data-tabby-default href="#wdq-query-{{ $.Ordinal }}">Query</a></li>
+	<li><a href="#wdq-results-{{ $.Ordinal }}">Results</a></li>
+</ul>
+
+<div id="wdq-query-{{ $.Ordinal }}">
+  {{ highlight .Inner "sparql" }}
+</div>
+<div id="wdq-results-{{ $.Ordinal }}">
+  <iframe style="width: 100%; height: 40vh; border: 1px solid lightgray;" 
+    src="https://query.wikidata.org/embed.html#{{- .Inner | safeURL -}}"></iframe>
+</div>
