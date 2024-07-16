@@ -10,6 +10,8 @@ author: anj
 draft: false
 ---
 
+_ADDENDUM: Please note that this was a bit rushed, so there's [a follow up post that provides some more context](https://anjackson.net/2024/07/16/putting-the-wikidata-work-in-context/), but you should probably still read this one first._
+
 As part of the [Registries of Good Practice project](https://github.com/digipres/registries-of-practice-project#readme), I'm looking at various sources of information about digital formats.  This builds on work from my existing [format registry aggregator](http://www.digipres.org/formats/), which will be improved and extended to include more information over the next weeks and months.
 
 The aggregator already includes [some information from WikiData](http://www.digipres.org/formats/sources/wikidata/), but I hadn't done any deeper analysis or comparison with other sources. In recent weeks, I've started comparing the coverage of different registries, during which I noticed something a bit odd. A really well-known file extension that was in [PRONOM](https://www.nationalarchives.gov.uk/PRONOM/x-fmt/92) and [LC-FDD](https://www.loc.gov/preservation/digital/formats/fdd/fdd000523.shtml), but not in WikiData: PhotoShop Documents a.k.a. PSD! According to the aggregator, anyway.
