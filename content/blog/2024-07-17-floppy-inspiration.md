@@ -9,6 +9,8 @@ layout: post
 author: anj
 draft: false
 ---
+Billie Eilish clearly has concerns about migrating content off of old media.
+
 | ![](/assets/images/uploads/billie_eilish_-_hit_me_hard_and_soft.png) | ![](/assets/images/uploads/blue-floppy-300.jpg) |
 | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | --- | ----------------------------------------------- |
 | A [3.5' floppy disk](https://en.wikipedia.org/wiki/Floppy_disk#3%C2%BD-inch_floppy_disk). | *[Hit me hard and soft](https://en.wikipedia.org/wiki/Hit_Me_Hard_and_Soft)* by [Billie Eilish](https://en.wikipedia.org/wiki/Billie_Eilish). |
