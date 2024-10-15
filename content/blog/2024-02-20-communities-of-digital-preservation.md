@@ -234,7 +234,7 @@
 title: Communities of Digital Preservation
 subtitle: IIPC Blog Post on Preserving the Web with Open Source
 date: 2024-02-20T22:44:19.202Z
-category: building-web-archives
+category: communities-of-practice
 tags:
   - Digital Preservation
   - Web Archives
