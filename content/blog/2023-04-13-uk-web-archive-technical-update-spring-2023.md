@@ -1,14 +1,16 @@
 ---
+date: 2023-04-12T12:16:49.475Z
+layout: post
+author: anj
+draft: false
+url: null
+shown: true
 title: UK Web Archive Technical Update - Spring 2023
 subtitle: 2023 Q1 Summary Report
-date: 2023-04-12T12:16:49.475Z
 category: building-web-archives
 tags:
   - Web Archives
-layout: post
-author: anj
-shown: true
-url: null
+  - Reports
 aliases: null
 ---
 *First publicised in [this UK Web Archive blog post](https://blogs.bl.uk/webarchive/2023/04/uk-web-archive-technical-update-spring-2023.html).*
