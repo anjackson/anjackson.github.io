@@ -3,8 +3,10 @@ title: Safe, Brave. Open, Seen.
 subtitle: A second entry in the series that should surely be known as "You Call
   That A Trip Report?"
 date: 2024-10-15
+category: communities-of-practice
 tags:
   - Digital Preservation
+  - Reports
 layout: post
 author: anj
 draft: false
