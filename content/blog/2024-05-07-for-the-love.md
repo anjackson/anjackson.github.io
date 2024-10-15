@@ -2,8 +2,11 @@
 title: For The Love
 subtitle: After IIPC 2024
 date: 2024-05-07
+category: communities-of-practice
 tags:
   - Digital Preservation
+  - Reports
+  - Web Archives
 layout: post
 author: anj
 draft: false
