@@ -1,14 +1,16 @@
 ---
+date: 2023-10-10T15:48:35.964Z
+layout: page
+author: anj
+draft: false
+url: null
+shown: false
 title: UK Web Archive Technical Update - Autumn 2023
 subtitle: 2023 Q3 Summary Report
-date: 2023-10-10T15:48:35.964Z
 category: building-web-archives
 tags:
   - Web Archives
-layout: page
-author: anj
-shown: false
-url: null
+  - Reports
 aliases: null
 ---
 *First published as [this UK Web Archive blog post](https://blogs.bl.uk/webarchive/2023/10/uk-web-archive-technical-update-autumn-2023.html).*
