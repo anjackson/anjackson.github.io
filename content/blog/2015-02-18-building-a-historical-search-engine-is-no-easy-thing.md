@@ -9,7 +9,7 @@ author: anj
 shown: true
 url: null
 aliases: null
-date: null
+date: 2015-02-18
 ---
 
 As published <a href="http://britishlibrary.typepad.co.uk/webarchive/2015/02/building-a-historical-search-engine-is-no-easy-thing.html">on the UK Web Archive blog</a>.

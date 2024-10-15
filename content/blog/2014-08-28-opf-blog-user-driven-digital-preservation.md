@@ -11,7 +11,7 @@ tags:
   - Web Archives
 url: null
 aliases: null
-date: null
+date: 2014-08-28
 ---
 <p>
 A new OPF blog entry: <a href="http://openpreservation.org/knowledge/blogs/2014/08/28/user-driven-digital-preservation/">User-Driven Digital Preservation</a>. Reproduced below...

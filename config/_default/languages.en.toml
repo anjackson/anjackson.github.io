@@ -13,7 +13,7 @@ title = "anjackson.net"
   description = "anjackson.net"
   copyright = "© Dr Andrew N. Jackson — <b><a title='Share &amp; Enjoy — CC-BY' href='https://creativecommons.org/licenses/by/3.0/'>CC-BY</a></b>."
 
-[author]
+[params.author]
   name = "Andy Jackson"
   image = "anj-bw.jpg"
   headline = "Digital Preservation & Web Archiving"

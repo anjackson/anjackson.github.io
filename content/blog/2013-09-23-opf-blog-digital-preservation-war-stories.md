@@ -9,7 +9,7 @@ tags:
   - War Stories
 url: null
 aliases: null
-date: null
+date: 2013-09-23
 ---
 <p>
 A new OPF blog entry: <a href="http://openpreservation.org/knowledge/blogs/2013/09/23/digital-preservation-war-stories/">Digital Preservation War Stories</a>. Reproduced below...

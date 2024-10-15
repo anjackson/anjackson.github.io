@@ -8,7 +8,7 @@ author: anj
 shown: true
 url: null
 aliases: null
-date: null
+date: 2015-11-20
 ---
 
 Originally published [on the UK Web Archive blog](http://britishlibrary.typepad.co.uk/webarchive/2015/11/the-provenance-of-web-archives.html) on the 20th November 2015.

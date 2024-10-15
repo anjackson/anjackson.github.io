@@ -10,7 +10,7 @@ tags:
   - Format Registry
 url: null
 aliases: null
-date: null
+date: 2012-07-06
 ---
 <p>
 A new OPF blog entry: <a href="http://openpreservation.org/knowledge/blogs/2012/07/06/biodiversity-and-registry-ecosystem/">Biodiversity and the registry ecosystem</a>. Reproduced below...

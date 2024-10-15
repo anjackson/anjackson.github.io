@@ -7,7 +7,7 @@ category: mining-web-archives
 tags: ["Web Archives", "Digital Preservation"]
 url: null
 aliases: null
-date: null
+date: 2014-10-13
 ---
 
 First published [on the UK Web Archive blog](http://britishlibrary.typepad.co.uk/webarchive/2014/10/what-is-still-on-the-web-after-10-years-of-archiving-.html).

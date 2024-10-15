@@ -7,7 +7,7 @@ category:
 tags: ["Development", "Digital Preservation"]
 url: null
 aliases: null
-date: null
+date: 2010-11-17
 ---
 <p>
 A new OPF blog entry: <a href="http://openpreservation.org/knowledge/blogs/2010/11/17/room/">In the room</a>. Reproduced below...

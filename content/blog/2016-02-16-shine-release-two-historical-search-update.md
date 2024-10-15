@@ -8,7 +8,7 @@ author: anj
 shown: true
 url: null
 aliases: null
-date: null
+date: 2016-02-16
 ---
 
 Originally published [on the UK Web Archive blog](http://britishlibrary.typepad.co.uk/webarchive/2016/02/updating-our-historical-search-service.html) on the 15th of February 2016.

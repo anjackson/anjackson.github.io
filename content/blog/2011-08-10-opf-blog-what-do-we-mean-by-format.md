@@ -8,7 +8,7 @@ tags:
   - Digital Preservation
 url: null
 aliases: null
-date: null
+date: 2011-08-10
 ---
 <p>
 A new OPF blog entry: <a href="http://openpreservation.org/knowledge/blogs/2011/08/10/what-do-we-mean-format/">What do we mean by format?</a> Reproduced below...

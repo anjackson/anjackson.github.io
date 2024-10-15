@@ -7,7 +7,7 @@ category:
 tags: [Development]
 url: null
 aliases: null
-date: null
+date: 2011-06-24
 ---
 <p>
 A new OPF blog entry: <a href="http://openpreservation.org/knowledge/blogs/2011/06/24/opf-year-1-visualisation-development-activity/">OPF Year 1: Visualisation of development activity</a>. Reproduced below...

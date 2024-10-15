@@ -6,7 +6,7 @@ layout: post
 author: anj
 url: null
 aliases: null
-date: null
+date: 2015-05-08
 ---
 
 On the first day of the [IIPC GA 2015](http://netpreserve.org/general-assembly/ga2015-schedule), the morning keynote was [Digital Vellum: Interacting with Digital Objects Over Centuries](http://netpreserve.org/sites/default/files/attachments/2015-IIPC-GA_Abstract_01_Cerf-Satya.pdf), presented by [Vint Cerf](http://research.google.com/pubs/author32412.html) and [Mahadev Satyanarayanan](http://www.cs.cmu.edu/~satya/). This included some more details and demonstrations of the proposed preservation solution [I blogged about before](/2015/03/09/vellum), so I thought it was worth returning to the subject now that I know a little more about it.

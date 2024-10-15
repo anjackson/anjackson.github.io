@@ -11,7 +11,7 @@ tags:
   - webarchive-discovery
 url: null
 aliases: null
-date: null
+date: 2012-08-17
 ---
 <p>
 A new OPF blog entry: <a href="http://openpreservation.org/knowledge/blogs/2012/08/17/analysing-formats-uk-web-archive/">Analysing the formats in the UK Web Archive</a>. Reproduced below...

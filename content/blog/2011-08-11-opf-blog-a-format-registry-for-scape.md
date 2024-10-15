@@ -12,7 +12,7 @@ tags:
   - SCAPE
 url: null
 aliases: null
-date: null
+date: 2011-08-11
 ---
 <p>
 A new OPF blog entry: <a href="http://openpreservation.org/knowledge/blogs/2011/08/11/format-registry-scape/">A Format Registry for SCAPE</a>. Reproduced below...

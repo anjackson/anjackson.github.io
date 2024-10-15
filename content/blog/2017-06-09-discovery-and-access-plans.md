@@ -8,7 +8,7 @@ author: anj
 shown: true
 url: null
 aliases: null
-date: null
+date: 2017-06-09
 ---
 
 *Originally published [on the UK Web Archive blog](http://blogs.bl.uk/webarchive/2017/06/revitalising-the-uk-web-archive.html) on the 8th of June 2017.*

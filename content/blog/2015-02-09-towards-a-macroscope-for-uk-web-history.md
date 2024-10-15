@@ -9,7 +9,7 @@ tags: ["Web Archives", "BUDDAH", "webarchive-discovery", "Data Mining", "Publica
 shown: true
 url: null
 aliases: null
-date: null
+date: 2015-02-09
 ---
 
 As published <a href="http://britishlibrary.typepad.co.uk/webarchive/2015/06/towards-a-macroscope-for-uk-web-history.html">on the UK Web Archive blog</a>.

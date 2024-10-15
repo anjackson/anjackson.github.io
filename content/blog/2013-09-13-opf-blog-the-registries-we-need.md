@@ -9,7 +9,7 @@ tags:
   - Format Registry
 url: null
 aliases: null
-date: null
+date: 2013-09-13
 ---
 <p>
 A new OPF blog entry: <a href="http://openpreservation.org/knowledge/blogs/2013/09/13/registries-we-need/">The Registries We Need</a>. Reproduced below...

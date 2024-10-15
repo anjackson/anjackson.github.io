@@ -8,7 +8,7 @@ tags:
   - Digital Preservation
 url: null
 aliases: null
-date: null
+date: 2011-05-10
 ---
 <p>
 A new OPF blog entry: <a href="http://openpreservation.org/knowledge/blogs/2011/05/10/economical-access-normalisation/">Economical Access via Normalisation</a>. Reproduced below...

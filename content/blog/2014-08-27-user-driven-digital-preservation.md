@@ -11,7 +11,7 @@ tags:
   - Web Archives
 url: null
 aliases: null
-date: null
+date: 2014-08-27
 ---
 
 First published [on the UK Web Archive blog](http://britishlibrary.typepad.co.uk/webarchive/2014/08/user-driven-digital-preservation-with-interject.html).
