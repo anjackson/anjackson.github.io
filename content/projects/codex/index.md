@@ -17,6 +17,11 @@ showHero: false
 showAuthor: false
 ---
 
-The [Codex](https://anjackson.net/codex/) is a sub-site for my notes and experiments relating to digital preservation. It uses [Jupyter Book](https://jupyterbook.org), and supersedes the older _Keeping Codes_ sub-site.
+[Codex](https://anjackson.net/codex/) is a sub-site for my notes and experiments relating to digital preservation. It uses [Jupyter Book](https://jupyterbook.org), and supersedes the older _Keeping Codes_ sub-site.
 
-![](./codex.jpeg)
+![Codex homepage screenshot](./codex.jpeg)
+
+{{< button href="/codex/" target="_self" >}}
+Click here to go to the Codex subsite
+{{< /button >}}
+
