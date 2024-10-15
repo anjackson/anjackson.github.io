@@ -31,22 +31,28 @@
   weight = 30
 
 [[main]]
-  identifier = "github"
-  pre = "github"
-  url = "https://github.com/anjackson"
-  weight = 40
-
-[[main]]
   identifier = "rss"
   pre = "rss"
   url = "https://anjackson.net/feed.xml"
   weight = 35
 
 [[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/anjackson"
+  weight = 40
+
+[[main]]
   identifier = "mastodon"
   pre = "mastodon"
   url = "https://digipres.club/@anj"
   weight = 50
+
+[[main]]
+  identifier = "phone"
+  pre = "phone"
+  url = "https://calendly.com/andrew-n-jackson/dpoh"
+  weight = 60
 
 #[[main]]
 #  name = "example sub-menu 1"
