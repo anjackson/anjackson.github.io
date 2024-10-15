@@ -140,7 +140,7 @@ And people seem to take me seriously! I'm rarely undermined by superficial judgm
 >
 > [Kirstie Whitaker](https://fosstodon.org/@KirstieJane), from [Code for Thought: Happy Birthday - The Turing Way Part 1, 4 Jun 2024](https://codeforthought.buzzsprout.com/1326658/15156473-en-happy-birthday-the-turing-way-part-1)
 
-I can afford to make mistakes in public, and I get to decide the stakes.[^1]
+I can afford to make mistakes in public. I can deliberately take risks in public to illustrate how unfamiliar spaces operate. Because I get to choose the stakes.[^1]
 
 But I can't expect that of others. 
 
@@ -213,8 +213,8 @@ Recognition.
 
 You need to be open, in order to be *seen*.
 
-[^0]: Back in 2017, a the British Museum fired a well-known and widely recognised leader in digital methods for cultural heritage collections for ['running shadow IT and dangerous technology'](https://youtu.be/Go1ykNqP-eI?si=7-IyeKmr4R9V7y2-&t=269) (see also [this related Twitter thread](https://x.com/mia_out/status/1061927019582242816)). 
+[^0]: Back in 2017, the British Museum fired a well-known and widely recognised leader in digital methods for cultural heritage collections for ['running shadow IT and dangerous technology'](https://youtu.be/Go1ykNqP-eI?si=7-IyeKmr4R9V7y2-&t=269) (see also [this related Twitter thread](https://x.com/mia_out/status/1061927019582242816)). 
 
-[^1]: And [not have that choice made for me](https://en.wikipedia.org/wiki/British_Library_cyberattack). Instead, perhaps I can try to use my privilege to clear the path.  Take risks in public to illustrate how unfamiliar spaces operate. Say what others cannot.
+[^1]: [Usually](https://en.wikipedia.org/wiki/British_Library_cyberattack).
 
 [^2]: I have a theory that this is the real reason why so many projects use [Discord](https://en.wikipedia.org/wiki/Discord) rather than an open forum. It might [annoy](https://blog.mattcen.com/2023/07/04/stop-using-discord-for-your-open-source-communities/) [some](https://drewdevault.com/2021/12/28/Dont-use-Discord-for-FOSS.html) [people](https://sneak.berlin/20200220/discord-is-not-an-acceptable-choice-for-free-software-projects/) and be [a terrible way of doing documentation](https://shkspr.mobi/blog/2023/07/discord-is-not-documentation/) where [no search engine can find it](https://discuss.px4.io/t/how-to-utilize-forum-more-and-less-discord/31483). But at least you can keep the bad actors under control and keep the AI scrapers out.
