@@ -1,14 +1,16 @@
 ---
+date: 2023-07-05T12:59:23.278Z
+layout: post
+author: anj
+draft: false
+url: null
+shown: true
 title: UK Web Archive Technical Update - Summer 2023
 subtitle: 2023 Q2 Summary Report
-date: 2023-07-05T12:59:23.278Z
 category: building-web-archives
 tags:
   - Web Archives
-layout: post
-author: anj
-shown: true
-url: null
+  - Reports
 aliases: null
 ---
 *First published as [this UK Web Archive blog post](https://blogs.bl.uk/webarchive/2023/07/ukwebarchivetechnicalupdate-summer2023.html)*
