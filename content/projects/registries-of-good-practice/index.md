@@ -24,6 +24,11 @@ The ["Registries of Good Practice"](https://github.com/digipres/registries-of-pr
 - The [formal project announcement can be found here](https://www.dpconline.org/news/registries-of-good-practice). 
 - The high-level project plan is managed through [this GitHub project](https://github.com/orgs/digipres/projects/2/views/1).
 
+## Project Outputs
+
+- [The Digital Preservation Publications Index](https://www.digipres.org/publications/)
+- [The Digital Preservation Workbench](https://www.digipres.org/workbench/)
+
 ## Gallery
 
 ### Overview of the Digital Preservation Workbench
