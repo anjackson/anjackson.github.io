@@ -33,6 +33,7 @@ collections:
     media_library:
       config:
         multiple: true
+  - {label: 'Description (for metadata/previews)', name: 'description', widget: 'string'}
   - {label: 'Body', name: 'body', widget: 'markdown'}
 - label: "Pages"
   name: "pages"
