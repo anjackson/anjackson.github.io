@@ -26,6 +26,13 @@ collections:
   - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
   - {label: "Author", name: "author", widget: "hidden", default: "anj"}
   - {label: "Draft", name: "draft", widget: "boolean", default: false}
+  - label: "Featured Image"
+    name: "images"
+    widget: "image"
+    choose_url: true
+    media_library:
+      config:
+        multiple: true
   - {label: 'Body', name: 'body', widget: 'markdown'}
 - label: "Pages"
   name: "pages"
