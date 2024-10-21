@@ -10,6 +10,7 @@ author: anj
 draft: false
 images:
   - /assets/images/uploads/ipres2d-featured.png
+description: Visualising the iPRES author network
 ---
 One of the parts of the [Digital Preservation Workbench](https://www.digipres.org/workbench/) I'm most pleased with is the [iPRES author network visualisation](https://www.digipres.org/workbench/publications/#ipres-author-network).  This visualisation builds a network out of all the 2004-2023 iPRES metadata, where each node is a unique author's name, and the size of that node reflects the number of things they have published. The nodes are connected when the two names appear as co-authors on the same publication, with the 'strength' of that connection based on the number of times they've published together.
 
