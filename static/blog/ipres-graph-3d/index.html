@@ -85,5 +85,15 @@
       Graph
         .nodeColor(Graph.nodeColor());
     }
+
+    // Web XR setup:
+    // https://threejs.org/docs/#manual/en/introduction/How-to-create-VR-content
+    import { VRButton } from '//unpkg.com/three/examples/jsm/webxr/VRButton.js';
+    const renderer = Graph.renderer;
+    document.body.appendChild( VRButton.createButton( renderer ) );
+    if( renderer.xr ) {
+      renderer.xr.enabled = true;
+      renderer.setAnimationLoop( function () { renderer.render( Graph.scene, Graph.camera ); } );
+    }
   </script>
 </body>
