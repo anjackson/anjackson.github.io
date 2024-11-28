@@ -55,3 +55,7 @@ The bump in 2021 is welcome, but reading the [corresponding annual report](https
 Sadly by 2023 the lift is lost, and the real-terms income of the British Library is down to 76% of what it was in 2000. Despite a massive increase in regulatory remit and digital responsibilities.
 
 Digital preservation: it's still not a technical problem.
+
+## Updates
+
+* 2024-11-28: I added[ a comment to link to this post from the original 2017 analysis](https://blog.dshr.org/2017/08/preservation-is-not-technical-problem.html?showComment=1732749829332#c3303344560660499971), and DSHR responded to say that he has a fresh take in the works. I'm looking forward to seeing what he says.
