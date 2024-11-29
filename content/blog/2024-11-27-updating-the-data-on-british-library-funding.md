@@ -59,3 +59,4 @@ Digital preservation: it's still not a technical problem.
 ## Updates
 
 * 2024-11-28: I added[ a comment to link to this post from the original 2017 analysis](https://blog.dshr.org/2017/08/preservation-is-not-technical-problem.html?showComment=1732749829332#c3303344560660499971), and DSHR responded to say that he has a fresh take in the works. I'm looking forward to seeing what he says.
+* 2024-11-29: Based on DSHR's comments, I decided to go back and [separate out the different sources of income, so the trends are a bit clearer](/2024/11/29/british-library-funding-breakdown-trends/).
