@@ -135,11 +135,11 @@ Crucially, almost everything runs in your web browser. There is no traditional b
 
 ## Evolving Options
 
-Relying on reasonably mature data standards has other advantages. We could experiment with multiple different editing tool that work in a similar ways (like [Sveltia](https://github.com/sveltia/sveltia-cms), [Tina](https://tina.io/) or [Siteleaf](https://www.siteleaf.com/)), or edit the content directly either on GitHub or just using Git along with whatever local editing tools we like ([Front Matter](https://frontmatter.codes/) seems popular!). 
+Relying on reasonably mature data standards has other advantages. We could experiment with multiple different editing tools at the same time, as long as theyh work in similar ways (like [Sveltia](https://github.com/sveltia/sveltia-cms) or [Tina](https://tina.io/))[](https://www.siteleaf.com/). Or edit the content directly on GitHub. Or just using Git along with whatever local editing tools we like ([Front Matter](https://frontmatter.codes/) seems popular!). 
 
-Or switch from GitHub to [one of the other back ends that DecapCMS supports](https://decapcms.org/docs/backends-overview/). You could run run Jekyll elsewhere, or host the static pages as a part of your own site, or on your AWS account. You could switch to a different static site generator, like Hugo or MystMD. It's likely that most of your content will be understood, but if you need to, you can use tools like [yq](https://kislyuk.github.io/yq/) to make any necessary changes to the metadata in your files.
+Or switch from GitHub to [one of the other back ends that DecapCMS supports](https://decapcms.org/docs/backends-overview/). Or you could run run Jekyll elsewhere. Or host the static pages as a part of your own site. Or on your AWS account. You could even switch to a different static site generator, like Hugo or MystMD. It's likely that most of your content will be understood, but if you need to, you can use tools like [yq](https://kislyuk.github.io/yq/) to make any necessary changes to the metadata in your files.
 
-In other words, the initial complexity of having three separate components (rather than a monolithic product) pays off over the long term. Instead of having to move your content from monolith to monolith every few years, the content stays in a form that only needs to evolve slowly, while the tools evolve around it. It usually also makes it easier to maintain the same set of URLs over time which is, as we all know, [cool](https://www.w3.org/Provider/Style/URI).
+In other words, the initial complexity of having three separate components (rather than a monolithic product) pays off over the long term. Instead of having to move your content from monolith to monolith every few years, the content stays in a form that only needs to evolve slowly, while the tools evolve and change more rapildly around it. It also makes it easier to maintain the same set of URLs over time which is, as we all know, [cool](https://www.w3.org/Provider/Style/URI).
 
 ## Limitations
 
@@ -147,7 +147,7 @@ Perhaps the most jarring limitation of this approach is that changes to the live
 
 The reliance on two static site deployments, rather than just being able to run everything on GitHub Pages, ends up being a bit awkward and confusing. I'll revisit this in the future to see if things can be simplified.
 
-And, of course, it's not suited to highly dynamic or interactive sites unless that can be reduced to some kind of set of static files. There are ways to integrate with other APIs, e.g. to support comments on static sites via things like [utterances](https://utteranc.es/) or [Disqus](https://disqus.com/). But website generators are best suited to sets of documents and other slow-changing content. It often makes more sense to mix different tools together, like using Wordpress where you absolutely need to, but switching to static content wherever you can.
+And, of course, this approach is not suited to highly dynamic or interactive sites unless that can be reduced to some set of static resources. There are ways to integrate with APIs to e.g. support comments on static sites via things like [utterances](https://utteranc.es/) or [Disqus](https://disqus.com/). But website generators are best suited to sets of documents and other slow-moving content. If you need more, it may make more sense to mix different tools together, like using Wordpress where you absolutely need to, but switching to static content wherever you can.
 
 ## Feedback & Futures
 
@@ -155,6 +155,6 @@ The iPRES workshop seemed to be a success, and the choice of tools and slightly 
 
 So, from a technical perspective, I consider this to be a successful outcome, showing that this approach is generally useful and usable, despite the clunky parts and reliance on GitHub. It could use some finesse, but it works pretty well given it only took a few days to set up. Based on my experience with other sites that work in much the same way, it should keep running for years with very little maintenance.
 
-As ever, the real challenge is in building and maintaining the community around the technical system. I'll be working with the rest of the DPC team to see how that might work in the future. In the mean time, it's pleasing to have built something that might help a new community of practice to come together, and grow.
+As ever, the real challenge is in building and maintaining the community around the system, rather than the system itself. I'll be working with the rest of the DPC team to see how that might work in the future. In the mean time, it's pleasing to have built something that might help a new community of practice to come together, and grow.
 
 [^1]: I was playing around with [Drupal Fields](https://www.drupal.org/docs/8/core/modules/field/overview) [long before they became a core part of Drupal](https://www.drupal.org/documentation/modules/cck). Which explains why the first version of *W3ACT* was built using Drupal, and this whole story is like a big circle! I only ported it to Java because I thought it would mean we got better institutional support.  In retrospect, I shouldn't have bothered, and pushed for the modest amount of third-party Drupal support it would have needed instead. These days, there are better options, as this blog post hopes to prove!
