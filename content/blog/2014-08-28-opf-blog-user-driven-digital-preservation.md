@@ -1,20 +1,21 @@
 ---
+date: 2014-08-28
 layout: post
-type: blog
-title: 'OPF Blog: User-Driven Digital Preservation'
 author: anj
-category:
+draft: false
+url: null
+title: "OPF Blog: User-Driven Digital Preservation"
 tags:
   - Digital Preservation
   - Preservation Actions
   - SCAPE
   - Web Archives
-url: null
+type: blog
+category: null
 aliases: null
-date: 2014-08-28
 ---
 <p>
-A new OPF blog entry: <a href="http://openpreservation.org/knowledge/blogs/2014/08/28/user-driven-digital-preservation/">User-Driven Digital Preservation</a>. Reproduced below...
+A new OPF blog entry: <a href="https://openpreservation.org/blogs/user-driven-digital-preservation/">User-Driven Digital Preservation</a>. Reproduced below...
 </p>
 <!--break-->
 
