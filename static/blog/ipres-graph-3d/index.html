@@ -28,7 +28,9 @@
   <script type="importmap">{ "imports": { "three": "//unpkg.com/three/build/three.module.js" }}</script>
   <script type="module">
     import { UnrealBloomPass } from '//unpkg.com/three/examples/jsm/postprocessing/UnrealBloomPass.js';
+    import { VRButton } from '//unpkg.com/three/examples/jsm/webxr/VRButton.js';
 
+    
     var highlight = null;
 
     const TRON_BLUE = 0x7DFDFE;
@@ -86,14 +88,25 @@
         .nodeColor(Graph.nodeColor());
     }
 
+
     // Web XR setup:
     // https://threejs.org/docs/#manual/en/introduction/How-to-create-VR-content
-    import { VRButton } from '//unpkg.com/three/examples/jsm/webxr/VRButton.js';
-    const renderer = Graph.renderer;
+    /* 
+    // Unfortunately, post-processing like the UnrealBloomPass doesn't work in WebXR and trying to use WebXR stops the post-processing from happening at all.
+    // https://github.com/pmndrs/xr/issues/205#issuecomment-2232802889
+    
+    const renderer = Graph.renderer();
+    const scene = Graph.scene();
+    const camera = Graph.camera();
+
     document.body.appendChild( VRButton.createButton( renderer ) );
     if( renderer.xr ) {
       renderer.xr.enabled = true;
-      renderer.setAnimationLoop( function () { renderer.render( Graph.scene, Graph.camera ); } );
+      renderer.setAnimationLoop( function () { 
+        renderer.render(scene, camera);
+      } );
     }
+      */
+
   </script>
 </body>
