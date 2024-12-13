@@ -1,20 +1,23 @@
 ---
+date: 2014-08-27
 layout: post
-type: blog
-title: User-Driven Digital Preservation
 author: anj
-category: digital-dark-age
+draft: false
+url: null
+title: User-Driven Digital Preservation
 tags:
   - Digital Preservation
   - Preservation Actions
   - SCAPE
   - Web Archives
-url: null
+type: blog
+category: digital-dark-age
 aliases: null
-date: 2014-08-27
 ---
 
 First published [on the UK Web Archive blog](http://britishlibrary.typepad.co.uk/webarchive/2014/08/user-driven-digital-preservation-with-interject.html).
+
+_2024-12-13: Note that the links on this page refer to the live service, which is no longer live. The blog post link provided above shows the results as images in the page._
 <!--break-->
 
 ---
