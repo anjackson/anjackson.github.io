@@ -10,6 +10,9 @@ tags:
 layout: post
 author: anj
 draft: false
+images:
+  - /assets/images/uploads/pasted-image-20240504143938.png
+description: Print, digital, and the shared work of care.
 ---
 I have a theory about books: *people love them*.  
 
