@@ -7,12 +7,12 @@ tags:
   - Reports
 layout: post
 author: anj
-draft: true
+draft: false
 description: An iPRES 2024 Trip Report.
 ---
 # Tightrope: An iPRES 2024 Trip Report
 
-Back in September, I got to go [iPRES 2024](https://ipres2024.pubpub.org/), my first iPRES since taking on my current, more research-oriented role. [iPRES](https://ipres-conference.org/)is the biggest conference dedicated to digital preservation, so it was a great opportunity to run a workshop to get feedback on the [Registries of Good Practice project](https://github.com/digipres/registries-of-practice-project/?tab=readme-ov-file#registries-of-good-practice-project) and [launch the Digital Preservation Workbench](https://www.digipres.org/workbench/). I was also down to demonstrate some specific aspects of the workbench as part of the [Great Preservation Bake-off](https://ipres2024.pubpub.org/bake-off), and to chair one of the sessions. Neither of which I'd done before.
+Back in September, I got to go [iPRES 2024](https://ipres2024.pubpub.org/), my first iPRES since taking on my current, more research-oriented role. [iPRES](https://ipres-conference.org/) is the biggest conference dedicated to digital preservation, so it was a great opportunity to run a workshop to get feedback on the [Registries of Good Practice project](https://github.com/digipres/registries-of-practice-project/?tab=readme-ov-file#registries-of-good-practice-project) and [launch the Digital Preservation Workbench](https://www.digipres.org/workbench/). I was also down to demonstrate some specific aspects of the workbench as part of the [Great Preservation Bake-off](https://ipres2024.pubpub.org/bake-off), and to chair one of the sessions. Neither of which I'd done before.
 
 I was also nervous about some of the social aspects of attending the conference. Making the most of the time with people here, building up new relationships and re-connecting to this community, while now also representing the Digital Preservation Coalition. This all requires a level of switched-on sociability that does not come easily to me. While there are occasional exceptions, I generally find building such connections to be hard work. I mean, it's lovely, and I enjoy it, but it's exhausting!
 
@@ -24,9 +24,9 @@ All I had to do was get to the other side, without falling or failing too hard.
 ## Monday (16th)
 One of the advantages of arriving the Sunday, beside being fresh-faced for formal functions, was the chance to take advantage of the time and place and go for a dawn run along the river.
 
-![View southwards from Vleeshuisbrug][images/IMG_20240916_070051_s.jpg]
+![View southwards from Vleeshuisbrug](/blog/images/IMG_20240916_070051_s.jpg)
 
-![View southwards from Grasbrug, the end of the run][images/IMG_20240916_073957_s.jpg]
+![View southwards from Grasbrug, the end of the run](/blog/images/IMG_20240916_073957_s.jpg)
 
 One of the disadvantages of arriving the day before was the irresistible temptation of an evening descent into the basement of the excellent [Trollekelder](https://visit.gent.be/en/eat-drink/trollekelder). The draw of the draft was strong and the night ended late, which was fine apart from a residual queasy feeling at the end of the  morning run. Fortunately, those queasy feelings did not linger, whereas attending the Trollekelder would become a repeating motif of the week.
 
@@ -34,11 +34,11 @@ One of the disadvantages of arriving the day before was the irresistible temptat
 
 I had deliberately aimed my run along the river, to the conference venue and back, so I'd know what to expect later in the day (and because it's hard to get lost when you're following a river!). But I hadn't actually managed to approach the venue itself. I wasn't disappointed.
 
-![Approaching the Bijlokesite][images/IMG_20240918_145059_s.jpg]
+![Approaching the Bijlokesite](/blog/images/IMG_20240918_145059_s.jpg)
 
-![The park][images/IMG_20240918_145411_s.jpg]
+![The park](/blog/images/IMG_20240918_145411_s.jpg)
 
-![The conference venue][images/IMG_20240918_145713_s.jpg]
+![The conference venue](/blog/images/IMG_20240918_145713_s.jpg)
 
 I particularly appreciated the large, quiet park in front of the venue. A calm green space, bound beneath a week of brilliant blue skies. A peaceful place to gather, to eat, or to retreat from the clamour of the conference.
 
@@ -48,7 +48,7 @@ My biggest official commitment was on the first day of iPRES, in the form of our
 
 The event seemed to go well, and we got some useful feedback. This included a story about how one attendee had used the current [format registry aggregator](https://www.digipres.org/formats/) to determine the fate of some pesky [.par](https://www.digipres.org/formats/extensions/#*.par) files, which is helpful input for the next part of the project. The back-and-forth between my co-presenter Paul Wheatley and I also seemed to work well, using an extended analogy between format identification resources and bird-watching books to explore why so many different approaches are needed. We re-ran that part of the workshop for a DPC event: [#DPClinic September – Registries of Good Practice](https://www.dpconline.org/events/eventdetail/373/144/dpclinic-september-registries-of-good-practice). The recording is available to DPC members via that link, if you'd like to see it.
 
-![Our principles are THIS big.][images/IMG_0152_s.jpg]
+![Our principles are THIS big.](/blog/images/IMG_0152_s.jpg)
 
 I also used this conference to experiment with a new approach to public speaking. At the end of the session, I wanted to speak about some of the challenges I'd experienced when it comes to valuing and supporting born-digital history, leading up to a call for people to [share the hidden gems of their digital collections](https://www.digipres.org/workbench/workshops/hidden-gems). No slides, no script, just a handful of beats I wanted to hit, and a vague desire to try to speak from the heart and the head at once. Before the event, I softly practiced my path from beat to beat, letting it take a different shape on each iteration. Then I let some version of it out on the day. I can't remember exactly what I said (I rarely can!), and I don't know if the feeling came through to the room, but it felt good. It felt like me.
 
@@ -56,24 +56,23 @@ Actually gathering the hidden gems turned out to be more challenging! Quite a lo
 
 <center>❦❦❦</center>
 
-Of course, one of the problems with a big conference like iPRES is the FOMO. There's always so much good stuff going on, and you can't be everywhere. Choices must be made, and so reports like this one can only ever be partial slivers of the conference experience. 
+Of course, one of the problems with a big conference like iPRES is the FOMO. There's always so much good stuff going on, and you can't be everywhere. Choices must be made, and so reports like this one can only ever be partial slivers of the conference experience. Even having gone back and revisited the papers and recorded streams in the time since then, I can't get to everything.
 
-Even on this first day, with no parallel streams, the lumpen reality of space meant I could not make it to the _other_ conference site and take part in the workshop on [Working on a Budget with WANG disks and other obscure formats](https://www.digipres.org/publications/ipres/ipres-2024/papers/working-on-a-budget-with-wang-disks-and-other-obscure-formats/), led by three of my favourite people in the whole world of digital preservation: [@makethecatwise](https://digipres.club/@makethecatwise), [@Thorsted](https://digipres.club/@Thorsted) and [@archivist_Liz](https://digipres.club/@archivist_Liz).
+Even on this first day, with no parallel streams, the lumpen reality of space meant I couldn't make it to the _other_ conference site and take part in the workshop on [Working on a Budget with WANG disks and other obscure formats](https://www.digipres.org/publications/ipres/ipres-2024/papers/working-on-a-budget-with-wang-disks-and-other-obscure-formats/), led by three of my favourite people in the whole world of digital preservation: [@makethecatwise](https://digipres.club/@makethecatwise), [@Thorsted](https://digipres.club/@Thorsted) and [@archivist_Liz](https://digipres.club/@archivist_Liz).
 
-![Also the best dressed people in digital preservation... Seriously, check the threads!][images/iPRES2024_VAC.jpg]
+![Also the best dressed people in digital preservation... Seriously, check the threads!](/blog/images/iPRES2024_VAC.jpg)
 
 I know I wasn't the only one frustrated by the constraints of time and geography. I'm glad [Tyler wrote up how it went](https://preservation.tylerthorsted.com/2024/09/27/hfe/), so we don't miss out entirely.
 
 <iframe src="https://digipres.club/@mickylindlar/113146272055659785/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
-
-
+&nbsp;
 <center>❦❦❦</center>
 
 After a bit of a break, I dropped in on the [Start 2 Preserve: Creating a Skills Development Resource](https://www.digipres.org/publications/ipres/ipres-2024/papers/start-2-preserve-creating-a-skills-development-resource/) workshop. As well as catching up with the folks there, this was also a chance to see how the [low-maintenance website system I'd created for it](https://anjackson.net/2024/12/06/building-low-maintenance-community-websites/) was working. You can read how that went at [the end of that blog post](https://anjackson.net/2024/12/06/building-low-maintenance-community-websites/#feedback--futures).
 
 I then switched into slightly more formal attire and executed some mild ushing, encouraging folks to attend the ceremony to [celebrate the winners](https://www.dpconline.org/events/digital-preservation-awards/digital-preservation-awards-2024) of the [2024 DPC Awards](https://www.dpconline.org/events/digital-preservation-awards). That all seemed to go very smoothly. In particular, the tech team at the venue did an great job during the awards, and indeed were excellent throughout the conference.
 
-![A summary of the DPC Awards categories][images/IMG_20240916_170831_s.jpg]
+![A summary of the DPC Awards categories](/blog/images/IMG_20240916_170831_s.jpg)
 
 Duties over, I was very happy to walk up to the social dinner hosted by the Open Preservation Foundation. It was nice to catch up with them, the food was good ([stew and fries, naturally!](https://visit.gent.be/en/ghent-style-stoverij)), and the company was excellent.
 
@@ -81,14 +80,13 @@ One day down. The nervous first few steps over. The tightrope taught, but stable
 ## Tuesday (17th)
 A more leisurely morning, kicking off with a pre-conference catch-up to talk about the [Future Nostalgia project](https://www.lib.cam.ac.uk/stories/floppy-disk-funding), where the DPC is playing a supporting role. We then headed into the keynote presentation: "Atlas of Lost Finds" by Claire Warnier ([Info](https://ipres2024.pubpub.org/pub/4qa4nkxz), [Stream](https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/5d78ddf7724a4437944b9e4416e61703e910ddbc16dc4e47aa6250934270c497), [Teaser](https://www.youtube.com/watch?v=qGFCS0gqu6s)).
 
-```tip
+{{< alert >}}
 A quick note about the archived videos from iPRES 2024. Firstly, the streams cover whole sessions, so each one usually contains multiple presentations.
 
 Secondly, the conference committee have taken care to ensure the videos are hosted on an institutional platform committed to long-term care, the [Flanders Archives](https://www.archief.vlaanderen.be/archief/dashboard), hosted by the Flemish Goverment. This is a good thing, but it does mean that it doens't behave quite how you might expect when you are used to things like YouTube. 
 
-After you hit the view (_Document raadplegen_) or download (_  
-Document downloaden_) buttons, you then need to click a statement to accept the terms. Then, crucially, be patient! It seems to take a while for the videos to appear, but they do come eventually. (The view mode doesn't seem reliable in Firefox, but that might just be me.)
-```
+After you hit the view (_Document raadplegen_) or download (_Document downloaden_) buttons, you then need to click a statement to accept the terms. Then, crucially, __be patient!__ It seems to take a while for the videos to appear, but they do come eventually. (The view mode doesn't seem reliable in Firefox, but that might just be me.)
+{{< /alert >}}
 
 To be honest, my feelings about this keynote are mixed. The [Atlas of Lost Finds Project](https://www.lostfinds.org/) is undoubtedly brilliant. An inspirational story of using 3D scanning technology to preserve and even help recreate important objects. The keynote touched on many issues that are important to digital preservation, but it was fundamentally a story about the immediate value and uses of digitisation. The final leap, connecting this compelling story to the conference's defining essence, never came.
 
@@ -120,7 +118,7 @@ But at the time there was no time. No time to properly parse what it said they s
 
 Wobble is a graceless word, but maybe that's what makes it the best one for what this was. A wobble. 
 
-The trembling line slippinh sideways. No time to give in to the falling feeling. Pack the worries away for later. Let the adrenaline take over. Take control.
+The trembling line slips sideways. No time to give in to the falling feeling. Pack the worries away for later. Let the adrenaline take over. Let it take control.
 
 On with the show.
 
@@ -162,23 +160,23 @@ Before long, the fine company had washed the worries away.
 
 However, man cannot live on canapes alone. So before calling it a night, I made time to amuse the bouche with another famous Belgian delicacy.
 
-![Waffle. Chocolate. Strawberries. Icing sugar. Cream. And a flag. That'll do it.][images/IMG_20240917_205433_s.jpg]
+![Waffle. Chocolate. Strawberries. Icing sugar. Cream. And a flag. That'll do it.](/blog/images/IMG_20240917_205433_s.jpg)
 ## Wednesday (18th)
 No morning run, so no need to rush about. I could take my time on the walk down to the conference venue. Take in some of the sights Ghent had to offer.
 
-![Ghent river graffiti, "U LOOK FINE!"][images/IMG_20240918_083939_s.jpg]
+![Ghent river graffiti, "U LOOK FINE!"](/blog/images/IMG_20240918_083939_s.jpg)
 
-![Ghent river graffiti. Eyes.][images/IMG_20240919_074222_s.jpg]
+![Ghent river graffiti. Eyes.](/blog/images/IMG_20240919_074222_s.jpg)
 
 Suitably inspired, I made my way to the second iPRES 2024 keynote, "Former Farmer Chases Traces" by Herbert Van de Sompel ([Info](https://ipres2024.pubpub.org/pub/hn3hd9c1/release/1?readingCollection=131c4c32), [Slides](https://zenodo.org/records/13828511), [Stream](https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/b69c4a5718ea4bb0bad955e127e45959d308483943a040578d5716d9b9fa6006), [Teaser](https://www.youtube.com/watch?v=6bTz4r5kyGU)).
 
-![Anyone else getting early-web-meme-shock-site vibes off this slide? No? Just Me? Good.][images/IMG_20240918_100243_s.jpg]
+![Anyone else getting early-web-meme-shock-site vibes off this slide? No? Just Me? Good.](/blog/images/IMG_20240918_100243_s.jpg)
 
 I really enjoyed this presentation. A retrospective of a lifetime leaving digital traces behind, and then trying to gather them together again. Personal, professional and political facets of digital preservation carefully laid out and interlinked. I also appreciated the exploration of how we might be able to empower individuals to gather their own archival slivers, working with them to co-design the tools, practices and protocols we all need. It reminded me of the work I'd tried to do at the UK Web Archive, sharing practices across institutions, individuals and vendors by investing in open source tools and openly available documentation.
 
-Of course, I was also very happy to be thanked for developing the approach the [Hiberlink]([Hiberlink project data ﻿ - University of Edinburgh Research Explorer](https://www.research.ed.ac.uk/en/datasets/hiberlink-project-data)) team used to depict link rot and content drift over time.
+Of course, I was also very happy to be thanked for developing the approach the [Hiberlink](https://www.research.ed.ac.uk/en/datasets/hiberlink-project-data) team used to depict link rot and content drift over time.
 
-![Slide image showing the link rot and content drift analysis.][images/hiberlink-visualisation-slide.png]
+![Slide image showing the link rot and content drift analysis.](/blog/images/hiberlink-visualisation-slide.png)
 
 If anyone wants to dig deeper, my original analysis is available at [Ten years of the UK web archive: what have we saved? - UK Web Archive blog](https://blogs.bl.uk/webarchive/2015/09/ten-years-of-the-uk-web-archive-what-have-we-saved.html) and the source code for the analysis still online at [ukwa/halflife](https://github.com/ukwa/halflife). Whether it still runs is another matter.
 
@@ -194,7 +192,7 @@ At last, my final formal conference commitment.
 
 Laptop hooked up. Apron donned. Wooden spoon in hand. I was ready for the [Great Preservation Bake-Off: Dessert (File Format and Other Identification, Characterization, Validation)](https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/4d45be085fff4ea5afe21bd5121530e941e01b90f3204f9cb130fb3682839751). I've not done a live demonstration before, and the nine minutes allocated to [Understanding your collections with the DigiPres Workbench](https://www.digipres.org/publications/ipres/ipres-2024/papers/understanding-your-collections-with-the-digipres-workbench/) rushed by. I think I spoke too quickly, but I think it went... _fine_. I wasn't even totally 100% completely thrown by having to refuse a phone call while flailing in the middle of the partially practiced patter. 
 
-I enjoyed all the other demonstrations, but I particularly linked the [DROID Bake-off](https://www.digipres.org/publications/ipres/ipres-2024/papers/droid-bake-off/) demo by Steve Daly. Not only did I learn a few things about DROID's latest features, I also picked up some handy tricks for working on Windows!
+I enjoyed all the other demonstrations, but I particularly liked the [DROID Bake-off](https://www.digipres.org/publications/ipres/ipres-2024/papers/droid-bake-off/) demo by Steve Daly. Not only did I learn a few things about DROID's latest features, I also picked up some handy tricks for working on Windows!
 
 From the parallel world of [_Evolving Preservation Strategies by Continuous Learning and Adaptation_](https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/b27936ff02184e1fbce3a6cbad4e50932f2972e78ce34bdf91e5c1f936647db4) I also loved [The BnF data-driven policy for legal deposit of born-digital sound](https://www.digipres.org/publications/ipres/ipres-2024/papers/the-bnf-data-driven-policy-for-legal-deposit-of-born-digital-sou/) and [Utilizing workflows as roadmaps in new digital preservation programs](https://www.digipres.org/publications/ipres/ipres-2024/papers/utilizing-workflows-as-roadmaps-in-new-digital-preservation-prog/). The former echoed my own experiences from indexing the UK Web Archive and how we need to iterate and experiment in order to understand the collection, so that policy and possibility can reflect and influence each other. The latter presentation complimented this nicely, by showing how clever forms of documentation can act as a precise communication medium that supports teams as they refine their requirements in the light of reality.
 
@@ -202,7 +200,7 @@ Another parallel world revolved around some of my Yale project partners, in the 
 
 The only downside was that attending this meet-up introduced a concurrent collision in the social calendar, meaning that I skipped the boat trip to the conference dinner. But in a pleasing coincidence, I happened to cross the right bridge at the right time to give the tour boats a wave before joining them as as they stepped off the boat and into [the Vooruit Arts Center](https://visit.gent.be/en/gentcongres/kunstencentrum-vooruit).
 
-![View from Kortedagsteeg as the iPRES boat tour approached the Vooruit Arts Centre][images/IMG_20240918_182930_s.jpg]
+![View from Kortedagsteeg as the iPRES boat tour approached the Vooruit Arts Centre](/blog/images/IMG_20240918_182930_s.jpg)
 
 The Vooruit concert hall was a lovely space to mingle in, with two levels to wander between and a massive illuminated __\#iPRES 2024__ sign at the back (which Bertrand Caron has used to great effect in the banner for the current version of his [website](https://digipres.fr/)). 
 
@@ -210,9 +208,9 @@ Also, the bar was free. And the queues were short.
 
 The entertainment, [_Die Verdammte Spielerei_](https://www.dieverdammtespielerei.be/), was strangely delightful and delightfully strange. So much so that that any further attempt to describe the experience would seem to diminish it. So I won't. 
 
-![An artistically blurred photograph to emphasis the motion of the band through the mass of startled attendees, and definitely not a badly-taken picture that I'm trying to make the most of.][images/IMG_20240918_190953_s.jpg]
+![An artistically blurred photograph to emphasis the motion of the band through the mass of startled attendees, and definitely not a badly-taken picture that I'm trying to make the most of.](/blog/images/IMG_20240918_190953_s.jpg)
 
-There was no sit-down meal, but food eventually appeared. Waiting staff rotated the room, laden with loaded platters. More Hors d'oeuvre to be intercepted. Dainty plates of lone Cannelloni sought and kindly purloined. There are no strangers in sight now, just like-minded souls revelling in the opportunity to form stronger bonds. The tide of self-doubt recedes a little. The familiar tinnitus of second thoughts falls silent as I merge with the mesh of lives interlinked, interlinked.
+There was no sit-down meal, but food eventually appeared. Waiting staff rotated the room, laden with loaded platters. More Hors d'oeuvre to be intercepted. Dainty plates of lone Cannelloni sought and kindly purloined. There are no strangers in sight now, just like-minded souls revelling in the opportunity to form stronger bonds. The self-doubt recedes a little. The tinnitus of second thoughts quietens as I merge with the mesh of lives interlinked, interlinked.
 
 <center>❦❦❦</center>
 
@@ -230,9 +228,10 @@ Cut to me standing outside, alone, lost in a strange city. My phone is dead, my 
 
 Mislead by memory and confused by the crossings and curves of the river, I head off in the wrong direction. My mistaken route keeps on failing to become more familiar. 
 
-After a while some calm sense kicks in; even when the waterways have confounded me, it should not be possible to get lost in a city when [so many majestic buildings](https://visit.gent.be/en/churches-ghent) signpost its heart! I redirect myself towards the lights of [Saint Bavo’s cathedral](https://www.sintbaafskathedraal.be/), and almost instantly find myself falling into step with a handful of DPC folks who'd left earlier in the evening to find more substantial sustenance. 
+After a while some calm sense kicks in; even when the waterways have confounded me, it should not be possible to get lost in a city where [so many majestic buildings](https://visit.gent.be/en/churches-ghent) signpost its heart! I redirect myself towards the lights of [Saint Bavo’s cathedral](https://www.sintbaafskathedraal.be/), and almost instantly find myself falling into step with a handful of DPC folks who'd left earlier in the evening to find more substantial sustenance. 
 
 Hotel found. Safe and sound. Well, safe, at least.
+
 ## Stillness (3am)
 Digital preservation is all about the effort it takes to keep things the same. The energy it takes to keep entropy at bay. Fixity. Stillness.
 
@@ -247,13 +246,14 @@ Anticipate. Fall. Feel. Adapt.
 
 Not one by one. Not some kind of looping line. But running concurrently, working together, constantly teaching and tuning each other. And it's not just 'simple' things like posture and balance. Even [consciousness itself appears to work in much the same way](https://en.wikipedia.org/wiki/Predictive_coding). Just another shimmering equilibrium too easily taken for granted. Yet another unstable layer held up by shrouded models and imperceptible motions.
 
-Perhaps that's the physics of it. The only way anything ever gets done. Perhaps the only thing that changes is whether we're aware of the process. Or whether the practice of practice has pushed the process into the system of systems around us.
+Perhaps that's the physics of it. The only way anything ever gets done. Perhaps the only thing that changes is whether we're aware of the process. Or whether the practice of practice has pushed the process into the system of systems around and inside us.
+
 ## Thursday (19th)
 After two days off, it's time for another early run. Much the same route as before, but magically renewed in the still air and dawn light.
 
-![Ketelbrug in the early light][images/IMG_20240919_074050_s.jpg]
+![Ketelbrug in the early light](/blog/images/IMG_20240919_074050_s.jpg)
 
-![By Sint-Michielsbrug][images/IMG_20240919_075206_s.jpg]
+![By Sint-Michielsbrug](/blog/images/IMG_20240919_075206_s.jpg)
 
 <center>❦❦❦</center>
 
@@ -265,7 +265,7 @@ It was also good to be there to talk about how the social media landscape has ch
 
 Later, I was able to catch up with the sister stream, [_Working with Legacy Systems or Data_](https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/37e24c918bf84b0fad25a0836ae00456572f987242854f37936d92e33fe9f149). I loved [When Software was Sound: Exploring the forensic materiality and evidence of manufacture of microcomputer software recorded on cassette.](https://www.digipres.org/publications/ipres/ipres-2024/papers/when-software-was-sound-exploring-the-forensic-materiality-and-e/) I was aware of audio-level archiving of data tapes, and that it analogous to the flux-level digitisation of floppy disks. What I didn't realise is that, as well as allowing easy experimentation with different analogue-to-digital conversions, these sound files can also reveal traces of the manufacturing process that can deepen the links between the tapes and the social context they came from. The default position of migrating to digital formats like TAP and TXZ will lose this information.
 
-Given the the harsh forces of standardisation and industrialisation will always erode that kind of individuality, it seems unlikely that mass-produced media will display as many interesting details. But in smaller communities, or when individuals are developing the protocols that will one day evolve into those industrial standards, this attention to fine detail could be very revealing.
+Given the harsh forces of standardisation and industrialisation will always erode that kind of individuality, it seems unlikely that mass-produced media will display as many interesting details. But in smaller communities, or when individuals are developing the protocols that will one day evolve into those industrial standards, this attention to fine detail could be very revealing.
 
 Sitting slightly askew in this session was [The flux and rhythm of community: A case study on building and maintaining a community of practice](https://www.digipres.org/publications/ipres/ipres-2024/papers/the-flux-and-rhythm-of-community-a-case-study-on-building-and-ma/), a thoughtful reflection on the ebb and flow of the [Australasia Preserves](https://australasiapreserves.blogspot.com/) community group. As my project work proceeds, it becomes ever clearer that the most important thing I can work on is finding ways to understand, support and grow the communities of practice digital preservation requires. To avoid repeating the chequered history of top-down "build it and they will come" projects, we need to encourage growth from the ground up.
 
@@ -273,7 +273,7 @@ For me, the strongest message from Jaye's presentation was that these small grou
 
 It made me wonder if there were other ways to get some community support activities made into a part of practitioners' regular roles. With so much to be done by so few, getting staff time explicitly dedicated to the broad notion of community support is always going to be challenging. But are there other ways in? For example, the [The DPC Competency Framework](https://www.dpconline.org/digipres/prof-development/dp-competency) has been very popular, and this is in part because almost every employer supports some notion of professional development as part of their staff appraisal process, and those people are keen to find appropriate development activities. The Competency Framework can also influence the way new roles are defined and described. 
 
-We know that these communities of practice are absolutely critical to the work of digital preservation acting as they do, as knowledge pools and safety nets for when our shared problems are too large or too varied for individual institutions to attack, and too emergent and contextual for any single vendor to solve. Can we stamp this more clearly into the competency framework, move professional development beyond traditional training, and capture community work more explicitly? Perhaps even binding this kind of thing into the [Rapid Assessment Model](https://www.dpconline.org/digipres/implement-digipres/dpc-ram) as well?
+We know that our communities of practice are absolutely critical to the work of digital preservation acting as they do, as knowledge pools and safety nets for when our shared problems are too large or too varied for individual institutions to attack, and too emergent and contextual for any single vendor to solve. Can we stamp this more clearly into the competency framework, move professional development beyond traditional training, and capture community work more explicitly? Perhaps even binding this kind of thing into the [Rapid Assessment Model](https://www.dpconline.org/digipres/implement-digipres/dpc-ram) as well?
 
 It possible to break the work of community maintenance down into helpful, meaningful, concrete byte-sized strands that are easier to integrate into a performance review? Can the DPC support not just it's members, but the wider communities of practice of digital preservation by helping us all weave these needs and actions into the fabric of our professional lives?
 
@@ -283,17 +283,17 @@ For the second session of the morning, the most relevant match to my current rol
 
 That said, I would have loved to have been there for excellent panel and discussion  [“You oughta be in pictures”: Insights to Digital Moving Image Preservation from the BFI, EYE, and LOC](https://www.digipres.org/publications/ipres/ipres-2024/papers/you-oughta-be-in-pictures-insights-to-digital-moving-image-prese/) in the parallel [_Strategies for Preserving Moving Image Content_](https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/1f33356a23554e1891cf8e733c80ae8569a014e0d7e44c19ac387bd441a78d09) session.  The whole thing is fascinating, but I was particularly struck by the discussions about the adoption of [Apple ProRes](https://www.loc.gov/preservation/digital/formats/fdd/fdd000389.shtml) format as a preservation standard.
 
-The acceptance of ProRes was raised deliberately. A 'guilty' secret being carefully shared. Some of the panellists had found that it hard to convince people that this was an acceptable decision. The formats proprietary status rendered it controversial, despite the fact that open source tools and available documentation mean there were no real barriers to future access.
+The acceptance of ProRes was raised deliberately. A 'guilty' secret being carefully shared. Some of the panellists had found that it hard to convince people that this was an acceptable decision. The proprietary nature of the format rendered it controversial, despite the fact that open source tools and available documentation mean there were no real barriers to future access.
 
-From the stream it seems the room was on the panels side. M'colleague Paul Wheatley commented: "where is the risk?" Another attendee argued that that Apple wants out of the codec maintenance business now that it is opening up it's specifications through [SMTPE](https://www.smpte.org/).
+From the stream it seems the room was on the same side as the panel. M'colleague Paul Wheatley commented: "where is the risk?" Another attendee argued that that Apple wants out of the codec maintenance business now that it is opening up it's specifications through [SMTPE](https://www.smpte.org/).
 
-I would go further. I think we've quickly forgotten how natural this state of affairs is.  One player comes to dominate a field and their formats and software become the _de facto_ standards for that domain. This level of control is actually beneficial to the business of digital preservation, as it helps prevent the creation of conflicting implementations of the same format. In time, as their market position is secured, it becomes beneficial to open up just enough that the ecosystem they profit from can continue to grow.
+I would go further. I think we've forgotten how natural this state of affairs is.  One player comes to dominate a field and their formats and software become the _de facto_ standards for that domain. This level of control is actually beneficial to the business of digital preservation, as it helps prevent the creation of conflicting implementations of the same format. In time, as their market position is secured, it becomes beneficial to open up just enough that the ecosystem they profit from can continue to grow.
 
-After all, that's what happened to our fields beloved Portable Document Format. Adobe PDF went from 1.0 to 1.6 and came to role the roost while remaining wholly proprietary. Eventually, in 2008, PDF 1.7 became an ISO standard, but Adobe still adds proprietary extensions. If anything, involving ISO might make the format more complicated by allowing edge-case extensions to leak in from niche application domains.
+After all, that's what happened to our 'beloved' Portable Document Format. Adobe PDF went from 1.0 to 1.6 and came to role the roost while remaining wholly proprietary. Eventually, in 2008, PDF 1.7 became an ISO standard, but Adobe still adds proprietary extensions. If anything, involving ISO might make the format more complicated by allowing edge-case extensions to leak in from niche application domains.
 
 Most amusingly of all (to me at least) is the fact that our most holy format artefact, the venerable and sacrosanct [TIFF 6.0](https://www.loc.gov/preservation/digital/formats/content/tiff_tags.shtml), remains proprietary to this day. Since 1992, owned by Aldus and then Adobe, with ISO variants only appearing in 2001. Variants which remain, as far as I know, largely irrelevant to our collections.
 
-ProRes isn't problematic, it's simply unfamiliar. 
+ProRes isn't problematic, it's simply unfamiliar.
 
 <center>❦❦❦</center>
 
@@ -302,13 +302,15 @@ ProRes isn't problematic, it's simply unfamiliar.
 
 <center>❦❦❦</center>
 
-Next I headed to the [Flickr Foundation](https://flickr.org/) birds-of-a-feather event, because how can I resist a title like [How do you preserve 50 billion photos?](https://www.digipres.org/publications/ipres/ipres-2024/papers/how-do-you-preserve-50-billion-photos/)! The Flickr Foundation team is very impressive and I enjoyed the interesting and thoughtful discussion on the challenges of mitigating against the failure of a large social media platform. Their notion of a [Data Lifeboat](https://www.flickr.org/programs/content-mobility/data-lifeboat/) and the core idea of empowering individuals to identify and extract their own archival slivers for safe-keeping reminded me of Herbert's trace-chasing keynote. At first, the Lifeboat looks simpler, because it only looks at Flickr. But then you realise there is a much more delicate network of social and ethical relationships and expectations to navigate.
+Next I headed to the [Flickr Foundation](https://flickr.org/) birds-of-a-feather event, because how can I resist a title like [How do you preserve 50 billion photos?](https://www.digipres.org/publications/ipres/ipres-2024/papers/how-do-you-preserve-50-billion-photos/)! The Flickr Foundation team is very impressive and I enjoyed the interesting and thoughtful discussion on the challenges of mitigating against the failure of a large social media platform. Their notion of a [Data Lifeboat](https://www.flickr.org/programs/content-mobility/data-lifeboat/) and the core idea of empowering individuals to identify and extract their own archival slivers for safe-keeping reminded me of Herbert's trace-chasing keynote. At first, the Lifeboat looks simpler, because it only looks at Flickr. But then you realise there is a much more delicate network of social and ethical relationships and expectations to navigate, and which the prototypes Herbert demonstrated largely elide.
 
 But attending this did mean I missed the handheld media migration tutorial [From Floppy to Future: Converting Legacy Media into Digital Archives](https://www.digipres.org/publications/ipres/ipres-2024/papers/from-floppy-to-future-converting-legacy-media-into-digital-archi/). Judging by the excellent documentation they've made available about the [Digital Repair Cafe](https://meemoo.be/en/projects/digital-repair-cafe) and their [migration workflows](https://automatic-ingest-digital-archives.github.io/Digital-Repair-Cafe/), this will be something we'll return to in future projects like _Future Nostalgia_.
 
-I also missed out on the [_The Constraints When Scaling Up Preservation Efforts_](https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/fac102093df84a8c93031824fad34cd95d7f83fd04574b0884545e07bee9e47f) session. Og the lightning talks, I particularly liked the [Migrating data without original checksums](https://www.digipres.org/publications/ipres/ipres-2024/papers/migrating-data-without-original-checksums/) (The National Library of Norway DP team again, who also later published this [this fantastic digital preservation explanation poster](https://digitalpreservation-blog.nb.no/blog/2024-09-30-poster/) that didn't make it into iPRES) and [Reach for the (cloudy) Sky! Exploring cloud-to-cloud archiving of digital records](https://www.digipres.org/publications/ipres/ipres-2024/papers/reach-for-the-cloudy-sky-exploring-cloud-to-cloud-archiving-of-d/) .
+<center>❦❦❦</center>
 
-The first paper, [Energy, Digital Preservation, and the Climate: Proactively Planning for an Uncertain Future](https://www.digipres.org/publications/ipres/ipres-2024/papers/energy-digital-preservation-and-the-climate-proactively-planning/), firmly placed digital preservation issues in the wider context of the climate crisis. A distressing topic, somewhat offset by the introduction of potential coping mechanisms like [Decision Making Under Deep Uncertainty](https://ipres2024.pubpub.org/pub/1sm257xx/release/2#decision-making-under-deep-uncertainty) and other strategy tools that go beyond the more familiar 'enterprise' risk management models.
+I also missed out on the [_The Constraints When Scaling Up Preservation Efforts_](https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/fac102093df84a8c93031824fad34cd95d7f83fd04574b0884545e07bee9e47f) session. Of the lightning talks, I particularly liked the [Migrating data without original checksums](https://www.digipres.org/publications/ipres/ipres-2024/papers/migrating-data-without-original-checksums/) (The National Library of Norway DP team again, who also later published this [this fantastic digital preservation explanation poster](https://digitalpreservation-blog.nb.no/blog/2024-09-30-poster/) that didn't make it into iPRES) and [Reach for the (cloudy) Sky! Exploring cloud-to-cloud archiving of digital records](https://www.digipres.org/publications/ipres/ipres-2024/papers/reach-for-the-cloudy-sky-exploring-cloud-to-cloud-archiving-of-d/) .
+
+The first paper, [Energy, Digital Preservation, and the Climate: Proactively Planning for an Uncertain Future](https://www.digipres.org/publications/ipres/ipres-2024/papers/energy-digital-preservation-and-the-climate-proactively-planning/), firmly placed digital preservation issues in the wider context of the climate crisis. A distressing topic, somewhat offset by the introduction of potential coping mechanisms like [Decision Making Under Deep Uncertainty](https://ipres2024.pubpub.org/pub/1sm257xx/release/2#decision-making-under-deep-uncertainty) and other strategy tools that go beyond the more familiar risk management models.
 
 As [I've implied in the past](https://anjackson.net/2024/07/01/grasping-a-petabyte/), I remain sceptical that the environment footprint of actual long-term digital preservation work matters much in a world where, for example, billions of dollars are being poured into data centres to prop up a future vision of artificial intelligence that only a tiny minority seem to actually want. So I'm not convinced winnowing our collections down in size will be enough of a benefit to justify the processing power and development effort needed to make it possible to do that confidently, quickly and efficiently.
 
@@ -332,7 +334,7 @@ I can only hope the [lessons from the National Library of Norway's product team 
 
 And then, the end. The [closing ceremony](https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/fa8b1a356e09475bb9d22e768dea33ed45685d568836491e90d8921ee2d0aa77). The [prizes](https://ipres2024.pubpub.org/#conference-prizes:~:text=a%20great%20%23iPRES2024-,Conference%20Prizes,-iPRES%20Best%20Reviewer) and the thanks and the handover to [New Zealand](https://www.newzealand.com/) for [iPRES 2025](https://www.ipres2025.nz/).
 
-![The iPRES 2025 logo][images/IMG_20240919_171940_s.jpg]
+![The iPRES 2025 logo](/blog/images/IMG_20240919_171940_s.jpg)
 
 | Tuia Karakia in te reo Māori                                                                                                                                                                                                                            | English translation                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -346,7 +348,7 @@ A fragment of the flock regroups for a final meal, and kindly accommodates me. T
 ## Friday (20th)
 The conference had ended, but my iPRES was not quite over. I had a [professional visit](https://ipres2024.pubpub.org/professional-visits) in Brussels to get to.
 
-Bit first, when travelling, I like to bring a few nice treats home. Ideally, rather than going for the 'obscene Toblerone from the airport' approach, I like to go to the kind of place that the people who actually live there might go if they wanted to treat themselves. Like a 'gourmet market' or a fancy deli. The more bourgeois the better!
+But first, when travelling, I like to bring a few nice treats home. Ideally, rather than going for the 'obscene Toblerone from the airport' approach, I like to go to the kind of place that the people who actually live there might go if they wanted to treat themselves. Like a 'gourmet market' or a fancy deli. The more bourgeois the better!
 
 On the iPRES 2024 Slack, one of the conference committee had recommended [CRU](https://visit.gent.be/en/see-do/cru-cuit) as a 'premium supermarket', which sounded like just the kind of thing I wanted. I went there on my way to the train station, expecting a kind of Flemish M&S. But while the range was comparatively modest, the quality was far beyond what that comparison would imply. I loaded up with waffles and chocolates and a sponge cake I only partially understood and headed to [the Flemish Parliament](https://ipres2024.pubpub.org/pub/lqzmea7l/release/4#brussels-vlaams-parlementflemish-parliament).
 
@@ -354,17 +356,17 @@ On the iPRES 2024 Slack, one of the conference committee had recommended [CRU](h
 
 Some mild public transit system difficulties, and a bit of entrance confusion, but with the help of another professional visitor we manage to get into the right place at the right time. A nice lunch and an nice tour, chatting with a nice group of folks who I hadn't managed to spend much time with in the preceding week.
 
-![The main debating chamber][images/IMG_20240920_140312_s.jpg]
+![The main debating chamber](/blog/images/IMG_20240920_140312_s.jpg)
 
-![The funky floor, which explains my current profile image.][images/IMG_20240920_135714_s.jpg]
+![The funky floor, which explains my current profile image.](/blog/images/IMG_20240920_135714_s.jpg)
 
-![Some kind of 'analogue' archive. BORING!!!!][images/IMG_20240920_142854_s.jpg]
+![Some kind of 'analogue' archive. BORING!!!!](/blog/images/IMG_20240920_142854_s.jpg)
 
 <center>❦❦❦</center>
 
 A misread map means another transit mishap on the way back. No big deal, but it does mean I'm tired from dragging my wheeled suitcase behind me on the overlong walk required to correct the error.
 
-The erratic baggage and I grumble our way to the Eurostar station and grind through the formalities of international travel. Departure boards relay changeless data at 60Hz as we await further announcements. We all lose ourselves in thought and screens. When the time comes, a synthetic voice softly barks the masked commands of the only connections left to make.
+My erratic baggage and grumble our way to the Eurostar station and grind through the formalities of international travel. Departure boards relay changeless data at 60Hz as we await further announcements. We all lose ourselves in thought and screens. When the time comes, a synthetic voice softly barks the masked commands of the only connections left to make.
 
 I step off the tightrope and onto the train. 
 
