@@ -2,12 +2,15 @@
 title: Tightrope
 subtitle: An iPRES 2024 Trip Report
 date: 2025-01-05T15:53:00.000Z
-category: null
+category: registries-of-practice
 tags:
   - Reports
+  - Digital Preservation
 layout: post
 author: anj
 draft: false
+images:
+  - /assets/images/uploads/img_20240918_145411_s.jpg
 description: An iPRES 2024 Trip Report.
 ---
 
