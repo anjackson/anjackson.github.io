@@ -1,6 +1,6 @@
 ---
 title: "Registries of Good Practice: Midpoint Review"
-subtitle: Public release of the internal project status report dated 2025-10-08
+subtitle: Public release of the 2025-10-08 internal project report
 date: 2025-04-28T15:40:00.000Z
 category: registries-of-practice
 tags:
