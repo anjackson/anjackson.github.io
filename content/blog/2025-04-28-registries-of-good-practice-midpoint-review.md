@@ -59,7 +59,7 @@ However, the associated mailing list has many more members than this (105), so i
 
 ### Digital Preservation Publications Index 1.0[](https://digipres.org/publications/)
 
-![Homepage of DigiPres Publications Index showing the basic UI.](/assets/images/uploads/screenshot-1745851700960-workbench.png "DigiPres Publications Index Homepage")
+![Homepage of DigiPres Publications Index showing the basic UI.](/assets/images/uploads/digipres-publications-index-v1.png "DigiPres Publications Index Homepage")
 
 The first project output was the Digital Preservation Publications Index, available at [https://digipres.org/publications/](<>)
 
@@ -85,7 +85,7 @@ See <https://digipres.org/publications/>
 
 ### Digital Preservation Workbench
 
-![DigiPres Workbench Homepage featuring overview diagram.](/assets/images/uploads/screenshot-1745851700960.png "DigiPres Workbench Homepage")
+![DigiPres Workbench Homepage featuring overview diagram.](/assets/images/uploads/screenshot-1745851700960-workbench.png "DigiPres Workbench Homepage")
 
 The second major project output is really a set of related prototypes:
 
