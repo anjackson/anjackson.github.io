@@ -154,7 +154,7 @@ Part of the workshop material was also presented in [\#DPClinic September – Re
 
 The recording of the presentation part of the clinic has been made publicly available via the DPC’s YouTube channel: [\#DPClinic September – Registries of Good Practice](https://youtu.be/wOv6usTbPhc).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wOv6usTbPhc?si=UWnXxAs92N5b0qUu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="overflow-x: scroll;"><iframe width="560" height="315" src="https://www.youtube.com/embed/wOv6usTbPhc?si=UWnXxAs92N5b0qUu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 Looking ahead, papers have been submitted to both IDCC 2025 and the inaugural Born Digital 2025 conferences. Both were successful, with excellent reviews. Unfortunately, due to other priorities, the IDCC paper has been withdrawn. However, the work in that paper will be re-used and reshaped into a proposal for iPRES 2025.
 
