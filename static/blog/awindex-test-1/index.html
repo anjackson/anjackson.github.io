@@ -1,13 +1,29 @@
-<link href="./output/pagefind-ui.css" rel="stylesheet">
-<script src="./output/pagefind-ui.js"></script>
-<div id="search"></div>
-<script>
-    window.addEventListener('DOMContentLoaded', (event) => {
-        new PagefindUI({ 
-            element: "#search",
-            showSubResults: true,
-            showEmptyFilters: false,
-            openFilters: ['Source']
+<!DOCTYPE html>
+<html>
+<head>
+<title>Awesome Indexer Example</title>
+<link href="./styles.css" rel="stylesheet">
+<link href="./pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="./pagefind/pagefind-ui.js"></script>
+</head>
+<body>
+
+    <h1>Awesome Indexer Example</h1>
+
+    <div id="search"></div>
+
+    <script>
+        window.addEventListener('DOMContentLoaded', (event) => {
+            new PagefindUI({ 
+                element: "#search",
+                showSubResults: true,
+                showEmptyFilters: false,
+                openFilters: ['Source']
+            });
         });
-    });
-</script>
+    </script>
+
+    <h2>Sources</h2>
+
+</body>
+</html>
