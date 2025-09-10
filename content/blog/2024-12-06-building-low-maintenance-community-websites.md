@@ -5,6 +5,7 @@ date: 2024-12-06T22:29:00.000Z
 category: registries-of-practice
 tags:
   - Websites
+  - Digital Preservation
 layout: post
 author: anj
 draft: false
