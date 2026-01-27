@@ -31,7 +31,7 @@ with the Open Preservation Foundation
 
 ## Slide 2
 
-![](./ppt/media/image3.jpg "Google Shape;106;p2")
+![](./ppt/media/image3.jpg "DPC, OPF & COPTR")
 
 ## What is COPTR? {#slide-3}
 
@@ -97,13 +97,13 @@ What was COPTR like at this time?
 
 ## Slide 10
 
-![](./ppt/media/image14.png "Google Shape;154;p5")
+![](./ppt/media/image14.png "COPTR Main Page c. 2023")
 
 https://web.archive.org/web/20230321034318/https://coptr.digipres.org/index.php/Main_Page  
 
 ## Slide 11
 
-![](./ppt/media/image11.png "Google Shape;161;g3be0af6edbc_0_5")
+![](./ppt/media/image11.png "COPTR Tool Grid c. 2023")
 
 ## 2025 User Survey Part 1: Using COPTR {#slide-12}
 
@@ -111,21 +111,21 @@ https://web.archive.org/web/20230321034318/https://coptr.digipres.org/index.php/
 
 ## Finding Tools {#slide-13}
 
-![](./ppt/media/image13.png "Google Shape;173;p3")
+![](./ppt/media/image13.png)
 
 ## Finding Workflows {#slide-14}
 
-![](./ppt/media/image4.png "Google Shape;179;p4")
+![](./ppt/media/image4.png)
 
 ## Routes to Tools {#slide-15}
 
-![](./ppt/media/image5.png "Google Shape;185;g3be0af6edbc_0_0")
+![](./ppt/media/image5.png)
 
 ## Programmatic Access? {#slide-16}
 
 \*tumbleweed\*
 
-(except me  😅)
+(except me 😅)
 
 ## 2025 User Survey Part 2: Contributing to COPTR {#slide-17}
 
@@ -133,24 +133,21 @@ https://web.archive.org/web/20230321034318/https://coptr.digipres.org/index.php/
 
 ## Adding Entries {#slide-18}
 
-![](./ppt/media/image10.png "Google Shape;203;p8")
+![](./ppt/media/image10.png)
 
 ## Ease of Use {#slide-19}
 
-![](./ppt/media/image8.png "Google Shape;209;p9")
+![](./ppt/media/image8.png)
 
 ## Barriers to Contribution {#slide-20}
 
 - Lack of clarity on:
-
-<!-- -->
-
-- Status!?
-- Purpose!?
-- Scope!?
-- Requirements!?
-- Process!?
-- Support!?
+  - Status!?
+  - Purpose!?
+  - Scope!?
+  - Requirements!?
+  - Process!?
+  - Support!?
 
 ## 2025 User Survey Part 3: COPTR & Beyond {#slide-21}
 
@@ -158,40 +155,34 @@ https://web.archive.org/web/20230321034318/https://coptr.digipres.org/index.php/
 
 ## Finding & Sharing Expertise {#slide-22}
 
-![](./ppt/media/image12.png "Google Shape;227;p12")
+![](./ppt/media/image12.png)
 
 ## Forums & Channels {#slide-23}
 
-![](./ppt/media/image6.png "Google Shape;232;p13")
+![](./ppt/media/image6.png)
 
 ## Mailing Lists & Forums {#slide-24}
 
 - e.g. "JiscMail DPC-Discussion & Digital-Preservation, HEA NET Digital-Collections CoP, Code4Lib, ARSCLIST, DLF Announce, dlf-bdaccess-working-group, bitcurator-users, AMIA-L, CAA (Chicago Area Archivists), various SAA lists, digipres, AIC and FAIC, dannng-announce, ARLISNA, DPOE-N, pasig, SPN, and VRA."
 
-See  digipres.org/communities  for the whole list.
+See  <https://digipres.org/communities/>  for the whole list.
 
 ## Focus on Tools or Workflows {#slide-25}
 
-![](./ppt/media/image7.png "Google Shape;245;p15")
+![](./ppt/media/image7.png)
 
 ## Moderation? {#slide-26}
 
-![](./ppt/media/image9.png "Google Shape;251;p16")
+![](./ppt/media/image9.png)
 
 ## How Might Moderation Work? {#slide-27}
 
 - Wide range of opinions:
-
-<!-- -->
-
-- Just get rid of the spam!
-- Needs clearer editorial guidelines
-- Needs an open process for review
-- Needs an  editorial  committee for guidelines and review
-- Needs full peer review of all entries
-
-<!-- -->
-
+  - Just get rid of the spam!
+  - Needs clearer editorial guidelines
+  - Needs an open process for review
+  - Needs an  editorial  committee for guidelines and review
+  - Needs full peer review of all entries
 - Revealed divergent views on purpose
 - Recognition that this requires a lot of labour
 
@@ -223,7 +214,7 @@ The basics (status, scope, etc.) are unclear!
 
 Opinions on what COPTR should be are diverse!
 
-AND/ BUT
+**AND/BUT**
 
 DPC & OPF can't do this alone! 
 
@@ -251,19 +242,19 @@ DPC + OPF will attempt to provide space for the COPTR community to come together
 
 ## Slide 34
 
-![](./ppt/media/image18.png "Google Shape;301;g3be0af6edbc_0_23")
+![](./ppt/media/image18.png "COPTR Main Page c. 2026")
 
 ## Aside: Dodgy Analytics  1/3 {#slide-35}
 
-![](./ppt/media/image17.jpg "Google Shape;307;g3b808135f6d_0_216")
+![](./ppt/media/image17.jpg "Analytics Overview - Hitting Quotas")
 
 ## Aside: Dodgy Analytics 2/3 {#slide-36}
 
-![](./ppt/media/image15.jpg "Google Shape;314;g3b808135f6d_0_227")
+![](./ppt/media/image15.jpg "Hits and Referrers")
 
 ## Aside: Dodgy Analytics 3/3 {#slide-37}
 
-![](./ppt/media/image16.jpg "Google Shape;321;g3b808135f6d_0_237")
+![](./ppt/media/image16.jpg "Environments and Locations (and likely AI bot overload)")
 
 ## Purpose {#slide-38}
 
