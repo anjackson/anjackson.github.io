@@ -11,7 +11,7 @@ draft: false
 description: "Text version of the slides for the COPTR Re-launch #DPClinic event."
 ---
 
-This is a text version of the presentation I gave along with Carl and Neil from the Open Preservation Foundation, at the [#DPClinic January 2026 COPTR Re-launch event](https://www.dpconline.org/events/eventdetail/579/-/dpclinic-january-relaunching-coptr). DPC members can access a recording via tha link, and you can also find the PowerPoint version of the slides which contain all the important information from the presentation.
+This is a text version of the presentation I gave along with Carl and Neil from the Open Preservation Foundation, at the [#DPClinic January 2026 COPTR Re-launch event](https://www.dpconline.org/events/eventdetail/579/-/dpclinic-january-relaunching-coptr). DPC members can access a recording via that link, but you don't need to be a member to access the PowerPoint version of the slides which contain all the important information from the presentation.
 
 This text version was generated from that [PPTX](http://fileformats.archiveteam.org/wiki/PPTX) file using [Pandoc](https://pandoc.org/), like this:
 
