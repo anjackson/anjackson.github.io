@@ -31,16 +31,18 @@ I then switched the Python Interpreter configuration to look for a device runnin
 
 ![](/assets/images/uploads/screenshot-2026-01-28-201815.png)
 
-and **BOOM** it connected!
+and 💥 it connected!
 
-What *didn't* work was writing the python files directly to the device. I've had that work on other bits of kit, but that just crashed here.  However, if you story the Python file on the host computer, you can still make it run on the Tufty!
+What *didn't* work was writing the Python files directly to the device. I've had that work on other bits of kit, but that just crashed here.  However, if you store the Python file on the host computer, you can still make it run on the Tufty over the USB connection! Here's an example, where I'm modifying a copy of the supplied 'mini apps' where it acts like a conference badge:
 
 ![](/assets/images/uploads/screenshot-2026-01-28-201447.png)
 
-This is slightly cumbersome, in that if you want to load additional files (e.g. image files) from your script, you have to transfer them over yourself using USB mode beforehand. But it's very easy to reset and run your code! Here's an example where I'm modifying the supplied 'mini apps' where it acts like a conference badge:
+This is slightly cumbersome, in that if you want to load additional files (e.g. image files) from your script, you have to transfer them over yourself using USB mode beforehand. But it's very easy to reset the device and run your code! 
 
 ![](/assets/images/uploads/img_20260128_201308.jpg)
 
-I also managed to hack around enough to find out that the [Image class](https://github.com/badger/home/blob/main/badgerware/Image.md) used for the screen has secret `put(x,y)` and` get(x,y)` methods that let you directly poke pixels, which is the kind of thing I like to be able to do.
+I also managed to hack around enough to find out that the [Image class](https://github.com/badger/home/blob/main/badgerware/Image.md) used for the screen has secret `put(x,y)` and`get(x,y)` methods that let you directly poke pixels, which is the kind of thing I like to be able to do. 
+
+You can find out more at <https://badgewa.re/>
 
 Share & Enjoy.
