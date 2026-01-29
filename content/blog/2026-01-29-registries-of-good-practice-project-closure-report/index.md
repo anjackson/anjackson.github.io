@@ -11,10 +11,12 @@ draft: false
 description: "A report covering the work of the Registries of Good Practice project, documenting the outputs of the project and outlining how we plan to manage them in the future."
 ---
 **Date:** 2026-01-29\
-**Revised for public release:** 2026-01-29
+**Revised for public release:** 2026-01-29\
 **Author:** Dr Andrew N. Jackson\
 **Project Start Date:** 2024-01-24\
 **Project End Date:** 2026-01-23
+
+_Note that some deliverables mentioned here are not yet complete. While the official funded period of the project has ended, I am still continuing to work on these items and expect them to be delivered over the coming weeks and months._  
 
 ## Introduction
 
@@ -29,7 +31,6 @@ Following on from the [[Midpoint Review]](https://anjackson.net/2025/04/28/regis
 The [[publications index]](https://digipres.org/publications/) was the first output of the project, and has been very well received. During this process, it became clear that this prototype was really two distinct things:
 
 - A web version of iPRES Publications, bringing the proceedings of different years together and e.g. making sure they show up in Google Scholar.
-
 - An index and database of publications and resources for digital preservation.
 
 We have decided to split these into two separate components. The system for building an index has been refactored into a more generic tool we have created called the [[Awesome Indexer]](https://github.com/digipres/awesome-indexer). This can be used to generate indexes and databases from standard bibliographic sources (Zenodo collections, Zotero libraries, among others). As such, the hope is that other communities can adopt the same approach, either by adding to the Digital Preservation Index directly, or by setting up their own indexes using the same tool. Hopefully this flexibility will make it easier to grow the community around the tool, thus aiding its long-term sustainability.
@@ -61,7 +62,6 @@ The [[DigiPres Workbench]](https://www.digipres.org/workbench/) is the main coll
 The largest pieces of work still to be completed lie in this area. They are:
 
 - Updating the Format Index based on feedback from Yale and others.
-
 - Updating the comparison tools based on Yale's feedback and needs.
 
 For the future, we commit to supporting the basic maintenance of this system, but any significant new features would require contributions or additional funding. Based on the decade of experience running the precursor to the Format Index, this should not require a lot of effort. Perhaps one or two days per year, on average.
@@ -93,9 +93,7 @@ During the first year of the project, we worked with Yale to explore using WikiD
 The project also explored ways of making it safer and easier to run tools. This included:
 
 - [[The DigiPres Toolbox]](https://github.com/digipres/toolbox) - which is similar to [[OPF's ViPER]](https://openpreservation.org/tools/viper/) but easier to use and adapt.
-
 - [[The DigiPres Sandbox]](https://github.com/digipres/sandbox) - which is a way of running the *Toolbox* on the free cloud services like [[Binder]](https://mybinder.org/) (developed for the purposes of supporting sustainable research by organisations like the Turing Institute) and [[GitHub Codespaces]](https://github.com/features/codespaces).
-
 - [[Tool Recipes]](https://github.com/digipres/tool-recipes) - which illustrate how, even when we can't share and distribute the tools themselves (e.g. due to copyright concerns), we can still share explicit, executable, reproducible recipes that makes running these tools easier.
 
 The remaining work on these items is in publicising them as outputs of the project, and illustrating how they could be used to support practitioners. They are particularly useful in allowing individuals to use tools without installing them locally, for experimentation or training purposes. As long as it's clear that *private data should not be uploaded to these services*, these tools provide a safe way for practitioners to explore what specific digital preservation tools are of use in their context. This should help them define and articulate their needs when discussing the use of specialist tools with IT departments and other stakeholders.
@@ -115,19 +113,12 @@ By building long-term preservation into the design from the start, we make it ea
 This work includes the DPPI, Awesome Indexer and DigiPres Workbench, but also:
 
 - The [[Start 2 Preserve Skills Resource Site]](https://digital-preservation-coalition.github.io/learning/).
-
 - The [[Future Nostalgia Floppy Disk Guide]](https://www.digipres.org/the-floppy-guide/).
-
 - The [[digipres.org]](http://digipres.org) homepage/portal, including:
-
   - A refreshed homepage.
-
   - Clearer "about" page. Saying what it is and that DPC & OPF help support it.
-
   - [[Support for a 'local groups' page.]](https://www.digipres.org/communities/)
-
   - [[Experimental support for hosting workflow webinars as structured data.]](https://www.digipres.org/workflows/)
-
 - The new version of the Bit List ([[here]](https://bit-list.dpconline.org/)).
 
 Only the Bit List will be actively maintained by the DPC on an ongoing basis. The others will be maintained on a best effort basis, and major changes will require additional funding.
@@ -143,17 +134,11 @@ We have been working with the Open Preservation Foundation (OPF) to understand t
 In terms of commitments, the proposal is:
 
 - OPF continues to host COPTR, accepting that it runs obsolete software and mitigating the risks of doing so by keeping it isolated and ensuring there are independent backups of the data.
-
 - DPC helps refine the homepage and documentation.
-
 - OPF & DPC respond to user queries and work together to support user outreach.
-
 - OPF & DPC run at least one 'hackathon' event:
-
   - [[An online 'relaunch' event in later January 2026 as a DPC #DPClinic]](https://www.dpconline.org/events/eventdetail/579/-/dpclinic-january-relaunching-coptr).
-
   - If possible, an in-person event at iPRES 2026.
-
   - If there is community interest, future annual online events and/or a regular iPRES session (perhaps coordinated with the Bake Off).
 
 If possible, before the end of the project, the Format Index will also be extended to pull in tool data from COPTR so that people can more easily find tools based on the formats they support.
@@ -174,31 +159,22 @@ Another issue is timing. The initial 9am+9pm UTC every month didn't really work 
 
 The following table summarises the proposed post-project commitment. In each case, the public-facing homepage(s) of each resource will be updated to make their status clear to the users of that resource as part of the Project Closure Comms Plan (see below)
 
-+----------------------------------------------------------------------+----------------------------------------------------------------------------------+
-| **Actively Supported & Developed**                                   | The Bit List                                                                     |
-|                                                                      |                                                                                  |
-|                                                                      | Digital Preservation Publications Index (adding new iPRES proceedings each year) |
-|                                                                      |                                                                                  |
-|                                                                      | PR-SIG (to be reviewed every six months)                                         |
-+----------------------------------------------------------------------+----------------------------------------------------------------------------------+
-| **Basic Maintenance**                                                | Awesome Indexer                                                                  |
-|                                                                      |                                                                                  |
-| **(large changes require additional contributions or funding)**      | The Format Index                                                                 |
-|                                                                      |                                                                                  |
-|                                                                      | [[digipres.org]](http://digipres.org) portal                         |
-|                                                                      |                                                                                  |
-|                                                                      | Start 2 Preserve                                                                 |
-|                                                                      |                                                                                  |
-|                                                                      | The Floppy Guide (with LT/CUL)                                                   |
-|                                                                      |                                                                                  |
-|                                                                      | COPTR (with OPF)                                                                 |
-+----------------------------------------------------------------------+----------------------------------------------------------------------------------+
-| **Leave Up**                                                         | The DigiPres Workbench                                                           |
-|                                                                      |                                                                                  |
-| **(mark as not actively maintained, but open to follow-on funding)** | Toolbox, Sandbox & Recipes                                                       |
-+----------------------------------------------------------------------+----------------------------------------------------------------------------------+
-| **TBC**                                                              | iPRES Proceedings                                                                |
-+======================================================================+==================================================================================+
+- **Actively Supported & Developed**
+  - The Bit List
+  - Digital Preservation Publications Index (adding new iPRES proceedings each year)
+  - PR-SIG (to be reviewed every six months)
+- **Basic Maintenance** **(large changes require additional contributions or funding)**  
+  - Awesome Indexer
+  - The Format Index
+  - [[digipres.org]](http://digipres.org) portal
+  - Start 2 Preserve
+  - The Floppy Guide (with LT/CUL)
+  - COPTR (with OPF)
+- **Leave Up** **(mark as not actively maintained, but open to follow-on funding)**
+  - The DigiPres Workbench
+  - Toolbox, Sandbox & Recipes
+- **TBC**
+  - iPRES Proceedings
 
 ## Project Closure Comms Plan
 
@@ -207,9 +183,7 @@ Once the plan for ongoing work is finalised, we will produce an appropriate comm
 Format and nature of these outputs and/or events are yet to be defined in detail, but include:
 
 - Publishing this Project Closure & Legacy Plan.
-
 - Re-launching COPTR at the January #DPClinic.
-
 - Ensuring the legacy plan for each project output is clearly communicated to its users.
 
 ## Future Project Ideas
