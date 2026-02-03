@@ -32,3 +32,12 @@ A new OPF blog entry: <a href="http://openpreservation.org/knowledge/blogs/2012/
 <p>As you can see, each version rises to dominance and then fades away, but the fade slows down each time. Across the 2010 timeslice, all the old versions of HTML are still turing up in the crawl. You can find some more <a class="external" href="http://www.webarchive.org.uk/ukwa/visualisation/ukwa.ds.2/fmt">information and results on the UK Web Archive site</a>.</p>
 <p>Finally, as well as exporting the format identifiers, I also used Apache Tika to extract any information it found about the software or hardware platform the resource was created on. &nbsp;All of this information was combined with the MIME type declared by the server and then aggregated by year to produce a <a class="external" href="http://www.webarchive.org.uk/ukwa/visualisation/ukwa.ds.2/fmt">rich and complex longtitudinal multi-tool format profile for this collection</a>.</p>
 <p>If this is of interest to you, please go and <a class="external" href="http://dx.doi.org/10.5259/ukwa.ds.2/fmt/1">download the dataset</a> and start exploring it. I’ve only got so much time to spend analysing the results, and while I’ll share whatever I can, there’s only so much I can do without your help. Please let me know if you find this dataset useful, and please share any interesting results you dig out of the dataset.</p>
+
+---
+
+It's now 2026 and I'm just patching in some links to related things...
+
+- [British Library tracks rise and fall of file formats • The Register](https://www.theregister.com/2012/10/10/software_obsolescence_slowing_says_british_library_study/)
+- [Formats over Time: Exploring UK Web History | DigiPresPubs](https://www.digipres.org/publications/ipres/ipres-2012/papers/formats-over-time-exploring-uk-web-history/)
+- [[1210.1714] Formats over Time: Exploring UK Web History](https://arxiv.org/abs/1210.1714)
+- [Formats over time: exploring UK web history | Preservica](https://preservica.com/resources/blogs-and-news/formats-over-time-exploring-uk-web-history)
