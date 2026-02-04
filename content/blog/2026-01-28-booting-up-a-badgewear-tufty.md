@@ -41,8 +41,10 @@ This is slightly cumbersome, in that if you want to load additional files (e.g. 
 
 ![](/assets/images/uploads/img_20260128_201308.jpg)
 
-I also managed to hack around enough to find out that the [Image class](https://github.com/badger/home/blob/main/badgerware/Image.md) used for the screen has secret `put(x,y)` and`get(x,y)` methods that let you directly poke pixels, which is the kind of thing I like to be able to do. 
+I also managed to hack around enough to find out that the [Image class](https://github.com/badger/home/blob/main/badgerware/Image.md) used for the screen has ~~secret~~ `put(x,y)` and`get(x,y)` methods that let you directly poke pixels, which is the kind of thing I like to be able to do. 
 
 You can find out more at <https://badgewa.re/>
+
+**EDIT:** Just noting that since I wrote this, I've noticed that there's loads of great documentation available here: <https://badgewa.re/docs> 
 
 Share & Enjoy.
