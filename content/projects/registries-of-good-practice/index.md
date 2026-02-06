@@ -39,6 +39,19 @@ The ["Registries of Good Practice"](https://github.com/digipres/registries-of-pr
 
 ## Publications
 
+- iPRES 2024:
+  - [Understanding your collections with the DigiPres Workbench](https://www.digipres.org/publications/ipres/ipres-2024/papers/understanding-your-collections-with-the-digipres-workbench/) (workshop)
+  - [Was it all worth it?](https://www.digipres.org/publications/ipres/ipres-2024/papers/was-it-all-worth-it/) (a poster based on data from the project)
+- BDCAM 2025 - Preserving the born-digital world: How many formats are out there? (details TBA)
+- NTTW9 - How many formats are there in the digital world? (details TBA) 
+- iPRES 2025 (details TBA):
+  - Understanding the Digital Format Ecosystem (short paper)
+  - Format Identification in Context: Patterns & Hazards in Digital Preservation Workflows (long paper written with the PR-SIG group)
+  - Don't Disk-Ard The Past: Preserving Floppy Disk Knowledge for the Future (short paper co-authored with the Future Nostalgia project)
+  - Preservation.exe: Working with ICT in Digital Preservation (panel)
+  - From Silos to Strategy: Aligning Web Archiving and Digital Preservation (panel with IIPC)
+  - Jupyter Notebooks for Providing Access to Digitized and Born-Digital Collections (workshop with IIPC)
+  - Stories of Failure and Resilience (birds-of-a-feather with IIPC)
 - Blog posts from the project, some [hosted here](https://anjackson.net/category/registries-of-practice/) and others [hosted by the Digital Preservation Coalition](https://www.dpconline.org/digipres/tags/registries-of-good-practice)
 - [Registries of Good Practice: Midpoint Review (2025)](https://anjackson.net/2025/04/28/registries-of-good-practice-midpoint-review/)
 - [Registries of Good Practice: Project Closure & Legacy Plan (2026)](https://anjackson.net/2026/01/29/registries-of-good-practice-project-closure-report/)
@@ -52,5 +65,4 @@ The ["Registries of Good Practice"](https://github.com/digipres/registries-of-pr
 ### Visualisation of the iPRES author network
 
 ![iPRES author network graph](./registries-of-good-practice-featured.png)
-
 
