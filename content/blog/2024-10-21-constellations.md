@@ -2,7 +2,7 @@
 title: Constellations
 subtitle: Visualising the iPRES author network
 date: 2024-10-21
-category: communities-of-practice
+category: registries-of-practice
 tags:
   - Digital Preservation
 layout: post
