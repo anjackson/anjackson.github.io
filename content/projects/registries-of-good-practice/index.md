@@ -62,7 +62,10 @@ The ["Registries of Good Practice"](https://github.com/digipres/registries-of-pr
 
 ![Digital Presevation Workbench Overview](./dpw-overview.svg)
 
+See [Welcome to the DigiPres Workbench](https://www.digipres.org/workbench/) for more information.
+
 ### Visualisation of the iPRES author network
 
 ![iPRES author network graph](./registries-of-good-practice-featured.png)
 
+See [Constellations](https://anjackson.net/2024/10/21/constellations/) for more information.
